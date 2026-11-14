@@ -129,27 +129,49 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [],
       "sourceIds": [],
       "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [],
       "sourceIds": [],
       "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 90,
-      "confidence": "medium",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "The steering, V8 and six-speed make the large sedan unusually involving. Mass remains apparent on narrow roads.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "U.S. LS3 six-speed sedan and firsthand handling.",
@@ -161,14 +183,25 @@
       "sourceIds": [
         "che-ss-test"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 75,
-      "confidence": "medium",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "Discreet sedan proportions make it an appealing sleeper, with limited visual differentiation from the ordinary silhouette.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "U.S. LS3 six-speed sedan and firsthand handling.",
@@ -180,8 +213,19 @@
       "sourceIds": [
         "che-ss-test"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -220,12 +264,15 @@
   "research": {
     "specifications": "partial",
     "ownership": "pending",
-    "scores": "partial",
+    "scores": "unrated",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
       "Review durability evidence for this configuration.",
       "Review mechanical cost evidence for this configuration.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
     ]
-  }
+  },
+  "evidenceLedger": [],
+  "assessmentReview": null
 }

@@ -2,6 +2,7 @@ import { readFileSync, readdirSync, existsSync } from 'node:fs'
 import { basename, join } from 'node:path'
 import { dimensions, epaRowSchema, manifestSchema, sourceSchema, specFields, vehicleSchema } from '../src/schema'
 import type { Vehicle } from '../src/schema'
+import { validateCalibration } from './calibration'
 
 export const readJson = (path: string): unknown => JSON.parse(readFileSync(path, 'utf8'))
 
@@ -17,6 +18,8 @@ export function getSourceIds(car: Vehicle) {
   const ownership = car.ownership
   return [...new Set([
     ...car.identity.sourceIds,
+    ...car.evidenceLedger.flatMap(item => item.sourceIds),
+    ...(car.assessmentReview?.costScenarios.flatMap(item => item.inputs.flatMap(input => input.sourceIds)) ?? []),
     ...Object.values(car.specEvidence).flatMap(claim => claim.sourceIds),
     ...dimensions.flatMap(dimension => car.scores[dimension].sourceIds),
     ...[...ownership.strengths, ...ownership.weaknesses, ...ownership.knownIssues,
@@ -111,13 +114,15 @@ export function loadCatalog() {
       const score = car.scores[dimension]
       expect(score.methodologyVersion === rubric.version, car.id + ' has a mismatched rubric version')
       if (score.value === null) continue
-      const categories = score.sourceIds.map(id => sourceById.get(id)?.category)
+      const usedEvidence = [...(score.derivation?.evidenceIds ?? []), ...(score.derivation?.adjustments.flatMap(a => a.evidenceIds) ?? [])]
+      const categories = car.evidenceLedger.filter(item => usedEvidence.includes(item.id)).flatMap(item => item.sourceIds.map(id => sourceById.get(id)?.category))
       expect(categories.some(category => category !== 'government dataset'), car.id + ' ' + dimension + ' relies on identity data alone')
       if (dimension === 'drivingEnjoyment') expect(categories.includes('road test'), car.id + ' lacks firsthand driving evidence')
       if (dimension === 'aesthetics') expect(car.aestheticsTags.length > 0, car.id + ' lacks descriptive design tags')
     }
   }
   if (errors.length) throw new Error(errors.join('\n'))
+  validateCalibration(vehicles, readJson('data/calibration-decisions.json'))
   return { vehicles, sources, manifest, epa }
 }
 
@@ -143,11 +148,15 @@ export function summarizeCatalog(catalog: ReturnType<typeof loadCatalog>) {
     scores: Object.fromEntries(dimensions.map(dimension => [dimension, Object.fromEntries(
       ['high', 'medium', 'low', 'unrated'].map(level => [level, vehicles.filter(car => car.scores[dimension].confidence === level).length])
     )])),
-    chartReady: vehicles.filter(car => dimensions.every(dimension => car.scores[dimension].value !== null)).length,
+    allFourRated: vehicles.filter(car => dimensions.every(dimension => car.scores[dimension].value !== null)).length,
+    chartReady: vehicles.filter(car => car.scores.longevity.value !== null && car.scores.drivingEnjoyment.value !== null).length,
+    axisPairs: Object.fromEntries(dimensions.flatMap((x, i) => dimensions.slice(i + 1).map(y => [x + '/' + y, vehicles.filter(car => car.scores[x].value !== null && car.scores[y].value !== null).length]))),
+    reviewStatus: countBy(vehicles, car => car.assessmentReview?.status ?? 'not-reviewed'),
+    assessedDimensions: Object.fromEntries(dimensions.map(d => [d, countBy(vehicles, car => car.scores[d].reviewStatus)])),
     sources: sources.length,
     sourcesByType: countBy(sources, source => source.category),
     sourceRows: epa.length,
-    fullyCurated: vehicles.filter(car => car.identity.status === 'confirmed' && car.research.specifications === 'researched' && car.research.ownership === 'documented' && car.research.scores === 'assessed' && !car.research.followUp.length).length,
+    fullyCurated: vehicles.filter(car => car.identity.status === 'confirmed' && car.research.specifications === 'researched' && car.research.ownership === 'documented' && car.research.scores === 'assessed' && car.assessmentReview?.status === 'human-reviewed' && !car.research.followUp.length).length,
     followUp: followUp.map(car => ({ id: car.id, tasks: car.research.followUp }))
   }
 }

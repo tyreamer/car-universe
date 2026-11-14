@@ -354,3 +354,47 @@ details p, details li { font-size: .9rem; font-weight: 400; }
 .score-grid article:nth-child(3) .score-track span { animation-delay: 120ms; }
 .score-grid article:nth-child(4) .score-track span { animation-delay: 180ms; }
 @keyframes score-in { from { transform: scaleX(0); } to { transform: none; } }
+/* The plotting region itself is square. SVG scales uniformly at every viewport. */
+.axis-controls { display: flex; flex-wrap: wrap; gap: 14px 24px; align-items: end; margin: 18px 0; }
+.axis-controls .field { flex: 1 1 220px; }
+.provisional-notice { max-width: 90ch; border-block: 1px solid var(--line); padding: 12px 0; }
+.chart-convention { padding: 14px 18px; margin: 0; max-width: none; border-bottom: 1px solid var(--ink); }
+.quadrant-body { display: grid; grid-template-columns: minmax(0, 1fr) 280px; }
+.quadrant-stage { min-width: 0; }
+.quadrant-svg { width: 100%; height: auto; aspect-ratio: 1; display: block; overflow: visible; }
+.quadrant-svg text { font-family: inherit; fill: var(--ink); font-size: 15px; }
+.quadrant-svg .quadrant-name { font-size: 17px; fill: #68665f; pointer-events: none; }
+.quadrant-svg .quadrant-axis { font-size: 18px; font-weight: 700; }
+.quadrant-grid { stroke: #dedbd2; stroke-width: 1; }
+.quadrant-crosshair { stroke: #35332e; stroke-width: 2.5; }
+.quadrant-marker { cursor: pointer; outline: none; }
+.quadrant-marker > circle:not(:first-of-type), .quadrant-marker > path { stroke: var(--ink); stroke-width: 1.5; }
+.quadrant-marker[aria-pressed=true] > circle:first-of-type, .quadrant-marker:focus > circle:first-of-type { stroke: var(--red); stroke-width: 3; }
+.quadrant-marker .group-count { font-weight: 700; pointer-events: none; }
+.quadrant-marker .comparison-ring { stroke-dasharray: 4 3; }
+.quadrant-inspect { padding: 18px; border-left: 1px solid var(--ink); font-size: .95rem; }
+.quadrant-inspect h3 { margin-bottom: 10px; }
+.car-readout > a { font-weight: 700; font-size: 1.2rem; text-decoration: underline; }
+.car-readout dl > div { padding: 9px 0; border-bottom: 1px solid var(--line); }
+.car-readout dd { margin: 2px 0; }
+.car-readout dd strong { font-size: 1.3rem; }
+.car-readout small { display: block; margin-top: 2px; color: var(--muted); line-height: 1.35; }
+.overlap-list { padding-left: 18px; max-height: 220px; overflow-y: auto; }
+.overlap-list button { text-align: left; }
+.overlap-list button[aria-pressed=true] { font-weight: 700; }
+.map-legend { margin-top: 24px; padding-top: 15px; border-top: 1px solid var(--line); }
+.map-legend p { margin-top: 10px; }
+.color-key { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; margin-top: 5px; font-size: .8rem; }
+.color-key i { display: inline-block; width: 12px; height: 12px; border: 1px solid var(--ink); }
+.empty-map { margin: 0 18px 18px; }
+.taste-control { margin: 18px 0; padding: 14px 0; border-block: 1px solid var(--line); }
+.taste-control input { width: 100px; margin: 0 12px; }
+.evidence-ledger li { margin-bottom: 22px; }
+.evidence-ledger p { margin-top: 6px; }
+@media (max-width: 800px) {
+  .quadrant-body { grid-template-columns: 1fr; }
+  .quadrant-inspect { border-left: 0; border-top: 1px solid var(--ink); }
+  .quadrant-svg .quadrant-name { font-size: 24px; }
+  .quadrant-svg text { font-size: 22px; }
+  .quadrant-svg .quadrant-axis { font-size: 25px; }
+}

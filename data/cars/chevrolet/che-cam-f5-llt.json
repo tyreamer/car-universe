@@ -135,10 +135,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 60,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "GM identifies a stretched-chain service procedure for this LLT generation. It is a meaningful inspection point with unknown incidence.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Fifth-generation 2010 V6 road test and tested configuration.",
@@ -157,14 +157,25 @@
         "cam-v6-10",
         "cam-v6-chain"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 60,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The V6 uses less specialized wear items than the SS. The factory chain repair guidance documents labor substantial enough to reserve for it.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Fifth-generation 2010 V6 road test and tested configuration.",
@@ -183,14 +194,25 @@
         "cam-v6-10",
         "cam-v6-chain"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 75,
-      "confidence": "medium",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "The manual and direct-injected V6 offer useful involvement. Size, sightlines and wheel-dependent steering feel hold it back.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Fifth-generation 2010 V6 road test and tested configuration.",
@@ -202,14 +224,25 @@
       "sourceIds": [
         "cam-v6-10"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 80,
-      "confidence": "medium",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "The long nose and narrow glasshouse give it the fifth generation's muscle-car identity, with tall sides and a large footprint.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Fifth-generation 2010 V6 road test and tested configuration.",
@@ -221,8 +254,19 @@
       "sourceIds": [
         "cam-v6-10"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -250,7 +294,7 @@
     "partsAvailability": null,
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "Moderate",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -278,9 +322,12 @@
   "research": {
     "specifications": "researched",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "unrated",
     "followUp": [
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
     ]
-  }
+  },
+  "evidenceLedger": [],
+  "assessmentReview": null
 }

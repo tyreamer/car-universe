@@ -130,10 +130,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 65,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The reported pre-catalyst concern merits inspection because engine damage would be consequential. Its incidence and causal sequence remain uncertain.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [
         {
           "text": "U.S. launch configuration, handling and packaging.",
@@ -160,13 +160,24 @@
         "mr2-spyder-manual"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 60,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Light, unboosted hardware limits routine consumables. A possible engine-scale repair and mid-engine access keep the cost assessment moderate.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "U.S. launch configuration, handling and packaging.",
@@ -193,24 +204,29 @@
         "mr2-spyder-manual"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 90,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "Low mass and quick direction changes are rewarding at everyday speeds. The modest engine and nearly absent luggage space narrow its appeal.",
+      "rationale": "Balance and responsiveness fit 80; limited steering feedback prevents a benchmark claim. No engine-power bonus is applied.",
       "evidence": [
         {
-          "text": "U.S. launch configuration, handling and packaging.",
+          "text": "Launch drive reports progressive handling but limited steering feedback.",
           "sourceIds": [
             "mr2-spyder-test"
-          ]
-        },
-        {
-          "text": "The U.S. owner manual describes oil-level checks.",
-          "sourceIds": [
-            "mr2-spyder-manual"
           ]
         }
       ],
@@ -219,24 +235,47 @@
         "mr2-spyder-manual"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Balance and responsiveness fit 80; limited steering feedback prevents a benchmark claim. No engine-power bonus is applied.",
+        "evidenceIds": [
+          "w30-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "toy-mr2-w30-late"
+          ],
+          "decisionIds": [
+            "spyder"
+          ],
+          "rationale": "Unknown: no late U.S. five-speed evaluation; early and SMT are not interchangeable."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "2000 car only; no late manual or SMT transfer."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 75,
-      "confidence": "medium",
+      "value": 65,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "Short ends and a small cabin work well. The big lamp shapes are less resolved than the proportions.",
+      "rationale": "The compact open body is appealing, but tall lamps and short overhangs make the proportions less settled to this assessor. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "U.S. launch configuration, handling and packaging.",
+          "text": "Launch drive reports progressive handling but limited steering feedback.",
           "sourceIds": [
             "mr2-spyder-test"
-          ]
-        },
-        {
-          "text": "The U.S. owner manual describes oil-level checks.",
-          "sourceIds": [
-            "mr2-spyder-manual"
           ]
         }
       ],
@@ -245,7 +284,36 @@
         "mr2-spyder-manual"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 65,
+        "anchorReason": "The compact open body is appealing, but tall lamps and short overhangs make the proportions less settled to this assessor. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "w30-road"
+        ],
+        "adjustments": [],
+        "finalValue": 65,
+        "comparison": {
+          "referenceIds": [
+            "toy-mr2-w30-late"
+          ],
+          "decisionIds": [
+            "spyder"
+          ],
+          "rationale": "Tie: both fit the mixed-detail taste tier."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "2000 car only; no late manual or SMT transfer."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -279,7 +347,7 @@
         "mr2-spyder-test"
       ]
     },
-    "costTier": "Moderate",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -309,10 +377,159 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "partial",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "w30-road",
+      "claim": "Launch drive reports progressive handling but limited steering feedback.",
+      "sourceIds": [
+        "mr2-spyder-test"
+      ],
+      "location": "Midship Runabout; handling paragraphs",
+      "establishes": "Firsthand early U.S. five-speed impressions.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "toy-mr2-w30-early",
+        "generation": "ZZW30",
+        "engineCode": "1ZZ-FE",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2000,
+          "to": 2000
+        },
+        "status": "partial",
+        "limitations": "2000 car only; no late manual or SMT transfer."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Accurate but limited feedback.",
+        "evidenceIds": [
+          "w30-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Progressive understeer, controlled ride.",
+        "evidenceIds": [
+          "w30-road"
+        ]
+      },
+      "shift": {
+        "status": "unknown",
+        "note": "Applicable first-hand shift evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "Modest output in a light car.",
+        "evidenceIds": [
+          "w30-road"
+        ]
+      },
+      "braking": {
+        "status": "limited",
+        "note": "Stopping impression; published distance is a manufacturer estimate.",
+        "evidenceIds": [
+          "w30-road"
+        ]
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Road ride evaluated; cabin compromises remain.",
+        "evidenceIds": [
+          "w30-road"
+        ]
+      }
+    },
+    "risks": [],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
   }
 }

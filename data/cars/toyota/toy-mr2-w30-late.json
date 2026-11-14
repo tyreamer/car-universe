@@ -130,10 +130,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 65,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The reviewed facelift material does not establish that engine or catalyst concerns were resolved. It shares the early car's provisional assessment.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [
         {
           "text": "Facelift U.S. specs and distinction between five-speed manual and six-speed SMT.",
@@ -174,13 +174,24 @@
         "mr2-spyder-manual"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 60,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The U.S. facelift keeps the basic naturally aspirated package. Evidence of a meaningful change in repair exposure is insufficient.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "Facelift U.S. specs and distinction between five-speed manual and six-speed SMT.",
@@ -221,13 +232,24 @@
         "mr2-spyder-manual"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 90,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "The light chassis and U.S. five-speed retain the original appeal. The facelift tire and chassis changes need direct U.S. manual testing to justify a separate rating.",
+      "rationale": "The U.S. five-speed identity is supported, but the early drive and late SMT tests do not establish the facelift manual’s tier.",
       "evidence": [
         {
           "text": "Facelift U.S. specs and distinction between five-speed manual and six-speed SMT.",
@@ -261,36 +283,29 @@
         "mr2-spyder-manual"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Configuration-specific support remains incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 80,
-      "confidence": "medium",
+      "value": 65,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "Revised lamps and openings give the compact body more definition, though the tall lamp clusters still dominate the nose.",
+      "rationale": "Compact open-body proportions remain mixed; revised lamps do not justify a tier above the early Spyder. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "Facelift U.S. specs and distinction between five-speed manual and six-speed SMT.",
+          "text": "Toyota distinguishes the U.S. five-speed manual from clutchless six-speed SMT and shows facelift equipment.",
           "sourceIds": [
             "mr2-spyder-brochure"
-          ]
-        },
-        {
-          "text": "Facelift suspension and tire changes, UK gearbox change.",
-          "sourceIds": [
-            "mr2-spyder-uk"
-          ]
-        },
-        {
-          "text": "U.S. launch configuration, handling and packaging.",
-          "sourceIds": [
-            "mr2-spyder-test"
-          ]
-        },
-        {
-          "text": "The U.S. owner manual describes oil-level checks.",
-          "sourceIds": [
-            "mr2-spyder-manual"
           ]
         }
       ],
@@ -301,7 +316,36 @@
         "mr2-spyder-manual"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 65,
+        "anchorReason": "Compact open-body proportions remain mixed; revised lamps do not justify a tier above the early Spyder. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "w30-facelift"
+        ],
+        "adjustments": [],
+        "finalValue": 65,
+        "comparison": {
+          "referenceIds": [
+            "toy-mr2-w30-early"
+          ],
+          "decisionIds": [
+            "spyder"
+          ],
+          "rationale": "Tie: both fit the mixed-detail taste tier."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "A brochure is not firsthand driving or durability evaluation."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -343,7 +387,7 @@
         "mr2-spyder-test"
       ]
     },
-    "costTier": "Moderate",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -377,10 +421,153 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "partial",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Find firsthand U.S. 2003–2005 five-speed evaluation; do not substitute UK six-speed or SMT.",
+      "Recheck catalyst/oil-consumption mechanisms and any production cutoff using original technical evidence."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "w30-facelift",
+      "claim": "Toyota distinguishes the U.S. five-speed manual from clutchless six-speed SMT and shows facelift equipment.",
+      "sourceIds": [
+        "mr2-spyder-brochure"
+      ],
+      "location": "Brochure pages 1–3, standard features and drivetrain",
+      "establishes": "Configuration and design reference.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "toy-mr2-w30-late",
+        "generation": "ZZW30",
+        "engineCode": "1ZZ-FE",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2003,
+          "to": 2003
+        },
+        "status": "partial",
+        "limitations": "A brochure is not firsthand driving or durability evaluation."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "unknown",
+        "note": "Applicable first-hand steering evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "chassis": {
+        "status": "unknown",
+        "note": "Applicable first-hand chassis evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "shift": {
+        "status": "unknown",
+        "note": "Applicable first-hand shift evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "powertrain": {
+        "status": "unknown",
+        "note": "Applicable first-hand powertrain evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "braking": {
+        "status": "unknown",
+        "note": "Applicable first-hand braking evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "roadSpeeds": {
+        "status": "unknown",
+        "note": "Applicable first-hand roadSpeeds evaluation unresolved.",
+        "evidenceIds": []
+      }
+    },
+    "risks": [],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Find firsthand U.S. 2003–2005 five-speed evaluation; do not substitute UK six-speed or SMT.",
+      "Recheck catalyst/oil-consumption mechanisms and any production cutoff using original technical evidence."
+    ],
+    "conflicts": []
   }
 }

@@ -32,7 +32,7 @@
   },
   "specs": {
     "engineCode": "AJ133",
-    "displacementL": 5.0,
+    "displacementL": 5,
     "cylinders": 8,
     "cylinderLayout": "V",
     "aspiration": "Supercharged",
@@ -131,41 +131,85 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [],
       "sourceIds": [],
       "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [],
       "sourceIds": [],
       "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
       "value": null,
       "confidence": "unrated",
-      "methodology": "provisional",
-      "rationale": "An applicable firsthand driving assessment has not been documented for this configuration.",
+      "methodology": "editorial",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [],
       "sourceIds": [],
       "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
       "value": null,
       "confidence": "unrated",
-      "methodology": "provisional",
-      "rationale": "A configuration-appropriate design reference and editorial assessment still need review.",
+      "methodology": "editorial",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [],
       "sourceIds": [],
       "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -199,7 +243,10 @@
       "Review mechanical cost evidence for this configuration.",
       "Review driving evidence for this configuration.",
       "Review design evidence for this configuration.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
     ]
-  }
+  },
+  "evidenceLedger": [],
+  "assessmentReview": null
 }

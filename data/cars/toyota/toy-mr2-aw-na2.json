@@ -111,10 +111,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 70,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The documented 1988 output revision provides little reason to move from the early unboosted car's provisional durability anchor.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
@@ -140,14 +140,25 @@
         "mr2-sc-test",
         "mr2-history"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 65,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The revised 1.6 keeps the original mid-engine service access and avoids the supercharged car's extra hardware.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
@@ -173,14 +184,25 @@
         "mr2-sc-test",
         "mr2-history"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 90,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "The power increase is small. The original car's light, responsive character carries more weight than the small output change.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
@@ -206,14 +228,25 @@
         "mr2-sc-test",
         "mr2-history"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 85,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "The revised trim preserves the upright cabin and angular pop-up-lamp body.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
@@ -232,8 +265,19 @@
         "mr2-na-test",
         "mr2-sc-test"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -257,7 +301,7 @@
     },
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "Moderate",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -289,10 +333,13 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "unrated",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
     ]
-  }
+  },
+  "evidenceLedger": [],
+  "assessmentReview": null
 }

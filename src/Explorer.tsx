@@ -2,6 +2,9 @@ import { useId, useMemo, useState } from 'react'
 import { catalog, confidence, dimensions, labels, name, years, carPath } from './data'
 import type { Summary } from './data'
 import { Scatter } from './Scatter'
+import type { Dimension } from './schema'
+import { missingAxes } from './chart'
+import { reviewLabels } from './scoring'
 
 const initial = {
   query: '', make: '', model: '', from: '', to: '', transmission: '', pedal: '', engineLocation: '',
@@ -25,6 +28,8 @@ export function Explorer({ mainId, selected, toggle, navigate }: {
 }) {
   const [filters, setFilters] = useState<Filters>(initial)
   const [view, setView] = useState<'map' | 'list'>('map')
+  const [xAxis, setXAxis] = useState<Dimension>('longevity')
+  const [yAxis, setYAxis] = useState<Dimension>('drivingEnjoyment')
   const [expanded, setExpanded] = useState(false)
   const [page, setPage] = useState(0)
   const advancedId = useId()
@@ -48,7 +53,7 @@ export function Explorer({ mainId, selected, toggle, navigate }: {
       if (score.value === null) return filters.unknown || (!filters[key] && !filters.confidence)
       if (filters.confidence && confidence.indexOf(score.confidence) < confidence.indexOf(filters.confidence as typeof confidence[number])) return false
       if (!filters[key]) return true
-      return key === 'ownershipCost' ? 100 - score.value <= Number(filters[key]) : score.value >= Number(filters[key])
+      return score.value >= Number(filters[key])
     })
   }).sort((a, b) => {
     if (sort === 'year') return b.years.from - a.years.from || name(a).localeCompare(name(b))
@@ -58,7 +63,7 @@ export function Explorer({ mainId, selected, toggle, navigate }: {
     }
     return name(a).localeCompare(name(b), 'en', { numeric: true }) || a.years.from - b.years.from
   }), [filters, sort])
-  const plotted = matches.filter(car => dimensions.every(key => car.scores[key].value !== null))
+  const plotted = matches.filter(car => !missingAxes(car, xAxis, yAxis).length)
   const compactCount = Number(Boolean(filters.model)) + Number(Boolean(filters.category))
   const moreCount = Object.entries(filters).filter(([key, value]) => !['query', 'make', 'model', 'transmission', 'category', 'unknown'].includes(key) && value).length + Number(!filters.unknown)
   const select = (key: keyof Omit<Filters, 'unknown'>, label: string, values: string[], empty = 'Any', className = '') => <label className={'field ' + className} key={key}>
@@ -112,8 +117,8 @@ export function Explorer({ mainId, selected, toggle, navigate }: {
         {select('cylinderLayout', 'Cylinder layout', [...choices.cylinderLayout, 'Unknown'])}
         {select('drivetrain', 'Drivetrain', [...choices.drivetrain, 'Unknown'])}
         {select('tag', 'Aesthetic tag', choices.tag)}
-        {number('longevity', 'Minimum longevity')}{number('ownershipCost', 'Maximum mechanical burden')}
-        {number('drivingEnjoyment', 'Minimum driving enjoyment')}{number('aesthetics', 'Minimum aesthetics')}
+        {number('longevity', 'Minimum longevity')}{number('ownershipCost', 'Minimum low upkeep')}
+        {number('drivingEnjoyment', 'Minimum driving enjoyment')}{number('aesthetics', 'Minimum editorial aesthetics')}
         {select('confidence', 'Minimum score confidence', ['low', 'medium', 'high'])}
         <label className="check"><input type="checkbox" checked={filters.unknown} onChange={event => set('unknown', event.target.checked)} /> Keep unrated scores when using score filters</label>
         </div></div>
@@ -121,15 +126,21 @@ export function Explorer({ mainId, selected, toggle, navigate }: {
     </section>
     <section aria-label="Vehicle results">
       <div className="result-heading">
-        <div><h2>{view === 'map' ? 'Vehicle map' : 'Vehicle catalog'}</h2><p role="status">{matches.length} {matches.length === 1 ? 'configuration' : 'configurations'} · {plotted.length} on the map</p></div>
+        <div><h2>{view === 'map' ? 'Vehicle map' : 'Vehicle catalog'}</h2><p role="status"><strong>{plotted.length} plotted / {matches.length} listed</strong> · {labels[xAxis]} × {labels[yAxis]}</p></div>
         <div className="segmented" aria-label="Result view">
           <button aria-pressed={view === 'map'} onClick={() => setView('map')}>Map</button>
           <button aria-pressed={view === 'list'} onClick={() => setView('list')}>List</button>
         </div>
       </div>
+      <p className="provisional-notice"><strong>Provisional research.</strong> Ratings are editorial assessments, not measured population statistics. Unrated means evidence is insufficient or reassessment is pending. AI review is identified separately from human review. Low upkeep excludes fuel, insurance, purchase, financing, depreciation and taxes.</p>
       {view === 'map' && <>
-        <Scatter cars={plotted} selected={selected} onOpen={id => navigate(carPath(id))} />
-        {matches.length > plotted.length && <p className="chart-note">{matches.length - plotted.length} matching vehicles have an unrated dimension. <a href="#catalog-results">See all matches in the list.</a></p>}
+        <div className="axis-controls">
+          <label className="field"><span>Horizontal axis · higher to the right</span><select aria-label="Horizontal axis" value={xAxis} onChange={event => { const key = event.target.value as Dimension; if (key === yAxis) setYAxis(xAxis); setXAxis(key) }}>{dimensions.map(key => <option value={key} key={key}>{labels[key]}</option>)}</select></label>
+          <label className="field"><span>Vertical axis · higher upward</span><select aria-label="Vertical axis" value={yAxis} onChange={event => { const key = event.target.value as Dimension; if (key === xAxis) setXAxis(yAxis); setYAxis(key) }}>{dimensions.map(key => <option value={key} key={key}>{labels[key]}</option>)}</select></label>
+          {!plotted.length && <button className="text-button" onClick={() => { setXAxis('aesthetics'); setYAxis('drivingEnjoyment') }}>Explore assessed driving and design</button>}
+        </div>
+        <Scatter cars={plotted} selected={selected} xAxis={xAxis} yAxis={yAxis} onOpen={id => navigate(carPath(id))} />
+        {matches.length > plotted.length && <p className="chart-note">{matches.length - plotted.length} matching vehicles lack a selected axis assessment. <a href="#catalog-results">See reasons in the list.</a></p>}
       </>}
       <div className="table-heading" id="catalog-results">
         {view === 'map' && <h2>Matching vehicles</h2>}
@@ -144,9 +155,10 @@ export function Explorer({ mainId, selected, toggle, navigate }: {
           <th scope="row"><a href={carPath(car.id)} onClick={event => profile(event, car.id)}>{name(car)}</a>
             <span>{years(car)} · {car.generation} · {car.variant} · {car.market}</span>
             <span>{car.transmission}{car.identity === 'needs review' ? ' · Identity review pending' : ''}</span>
+            <span>{missingAxes(car, xAxis, yAxis).length ? 'Not plotted: ' + missingAxes(car, xAxis, yAxis).map(key => labels[key]).join(' and ') + ' unrated' : 'Plotted on selected axes'}</span>
           </th>
           {dimensions.map(key => <td key={key} data-label={labels[key]}>
-            <strong className={car.scores[key].value === null ? 'unrated' : undefined}>{car.scores[key].value ?? 'Unrated'}</strong>{car.scores[key].value !== null && <span>{car.scores[key].confidence}</span>}
+            <strong className={car.scores[key].value === null ? 'unrated' : undefined}>{car.scores[key].value ?? 'Unrated'}</strong><span>{reviewLabels[car.scores[key].reviewStatus]}</span>
           </td>)}
           <td data-label="Compare"><label className="check"><input type="checkbox" aria-label={'Compare ' + name(car) + ' ' + car.variant} checked={selected.includes(car.id)} disabled={selected.length >= 4 && !selected.includes(car.id)} onChange={() => toggle(car.id)} /></label></td>
         </tr>)}</tbody>

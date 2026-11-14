@@ -107,10 +107,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 60,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "It shares the timing-belt exposure and adds boost and heat-management hardware. Available evidence describes the risks without a frequency estimate.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [
         {
           "text": "Period driving assessment of 944 Turbo.",
@@ -144,13 +144,24 @@
         "por-transaxle"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 40,
-      "confidence": "medium",
-      "methodology": "evidence-based",
-      "rationale": "The naturally aspirated car's belt expense remains, with additional boost hardware and tighter packaging.",
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "Period driving assessment of 944 Turbo.",
@@ -184,24 +195,29 @@
         "por-transaxle"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 90,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "Strong in-gear performance adds to the balanced chassis. Boost response and higher speeds change how easily the car can be enjoyed on a tight road.",
+      "rationale": "The rewarding 80 tier captures the driving evidence; extra turbo speed does not support a higher road-enjoyment anchor.",
       "evidence": [
         {
-          "text": "Period driving assessment of 944 Turbo.",
+          "text": "The 1986 evaluation values base-car response despite the Turbo’s speed.",
           "sourceIds": [
             "por-944-t-road"
-          ]
-        },
-        {
-          "text": "924, 944, Turbo, S and 968 evolution and body identification.",
-          "sourceIds": [
-            "por-transaxle"
           ]
         }
       ],
@@ -210,30 +226,47 @@
         "por-transaxle"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "The rewarding 80 tier captures the driving evidence; extra turbo speed does not support a higher road-enjoyment anchor.",
+        "evidenceIds": [
+          "944-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "por-944-early"
+          ],
+          "decisionIds": [
+            "transaxle"
+          ],
+          "rationale": "Tie: response and turbo speed trade off; the direct comparison uses a later base car."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "Different equipment and test years; the direct Turbo comparison uses a 1986 base, not the early car."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 95,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The smooth Turbo nose and strong flares make the long transaxle silhouette especially coherent.",
+      "rationale": "Liftback and pronounced arches create a coherent identity, with period-detail reservations. A Turbo premium is taste-dependent and is not imposed. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "Period driving assessment of 944 Turbo.",
+          "text": "The 1986 evaluation values base-car response despite the Turbo’s speed.",
           "sourceIds": [
             "por-944-t-road"
-          ]
-        },
-        {
-          "text": "U.S. 944 series and ownership considerations, including service history.",
-          "sourceIds": [
-            "por-944-buy"
-          ]
-        },
-        {
-          "text": "924, 944, Turbo, S and 968 evolution and body identification.",
-          "sourceIds": [
-            "por-transaxle"
           ]
         }
       ],
@@ -243,7 +276,36 @@
         "por-transaxle"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Liftback and pronounced arches create a coherent identity, with period-detail reservations. A Turbo premium is taste-dependent and is not imposed. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "944-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "por-944-early"
+          ],
+          "decisionIds": [
+            "transaxle"
+          ],
+          "rationale": "Tie: Turbo nose preference does not justify a separate tier."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "Different equipment and test years; the direct Turbo comparison uses a 1986 base, not the early car."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -278,7 +340,7 @@
       ]
     },
     "maintenanceAccessibility": null,
-    "costTier": "High",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -310,10 +372,191 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "partial",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "944-road",
+      "claim": "The 1986 evaluation values base-car response despite the Turbo’s speed.",
+      "sourceIds": [
+        "por-944-t-road"
+      ],
+      "location": "1986 Porsche 944 section",
+      "establishes": "Firsthand driving context.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "por-944-t",
+        "generation": "951",
+        "engineCode": null,
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1986,
+          "to": 1986
+        },
+        "status": "partial",
+        "limitations": "Different equipment and test years; the direct Turbo comparison uses a 1986 base, not the early car."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    },
+    {
+      "id": "944-belts",
+      "claim": "Service guidance covers belt inspection, replacement and model-specific tensioner parts.",
+      "sourceIds": [
+        "por-944-belt"
+      ],
+      "location": "ENG-04 Maintenance Intervals and Parts",
+      "establishes": "Time-sensitive service and applicability distinctions.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "por-944-t",
+        "generation": "951",
+        "engineCode": null,
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1986,
+          "to": 1987
+        },
+        "status": "partial",
+        "limitations": "Specialist experience, not a current quotation or failure-incidence study."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "limited",
+        "note": "Timing-drive maintenance dependency; no whole-engine rate.",
+        "evidenceIds": [
+          "944-belts"
+        ]
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "limited",
+        "note": "Belt service documented; calendar use matters.",
+        "evidenceIds": [
+          "944-belts"
+        ]
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "limited",
+        "note": "Limited-service inspections are time-based.",
+        "evidenceIds": [
+          "944-belts"
+        ]
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Comparison favors base on-center response.",
+        "evidenceIds": [
+          "944-road"
+        ]
+      },
+      "chassis": {
+        "status": "unknown",
+        "note": "Applicable first-hand chassis evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "shift": {
+        "status": "unknown",
+        "note": "Applicable first-hand shift evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "Turbo speed does not establish greater enjoyment.",
+        "evidenceIds": [
+          "944-road"
+        ]
+      },
+      "braking": {
+        "status": "unknown",
+        "note": "Applicable first-hand braking evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Ordinary and high-speed use distinguished.",
+        "evidenceIds": [
+          "944-road"
+        ]
+      }
+    },
+    "risks": [],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
+    ],
+    "conflicts": []
   }
 }

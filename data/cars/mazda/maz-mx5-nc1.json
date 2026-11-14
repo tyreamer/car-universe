@@ -31,7 +31,7 @@
   },
   "specs": {
     "engineCode": "MZR 2.0",
-    "displacementL": 2.0,
+    "displacementL": 2,
     "cylinders": 4,
     "cylinderLayout": "Inline",
     "aspiration": "Naturally aspirated",
@@ -112,10 +112,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 75,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "A conventional 2.0 and six-speed provide a favorable starting point. The pressurized plastic coolant reservoir is a meaningful age-related inspection point with unknown frequency.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Launch-year NC six-speed steering, chassis and drivetrain.",
@@ -141,14 +141,25 @@
         "maz-miata-history",
         "maz-nc-tank"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 75,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Small consumables favor low routine burden. Check the reservoir and cooling history before treating a neglected example as cheap to run.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Launch-year NC six-speed steering, chassis and drivetrain.",
@@ -174,14 +185,25 @@
         "maz-miata-history",
         "maz-nc-tank"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 85,
-      "confidence": "medium",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "The six-speed and steering remain satisfying. The NC is more substantial and relaxed than the light early Miata.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Launch-year NC six-speed steering, chassis and drivetrain.",
@@ -200,14 +222,25 @@
         "maz-nc-test",
         "maz-miata-history"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 75,
-      "confidence": "medium",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "Broad arches give it a planted stance. The taller, rounder body looks less delicate than the NA.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Launch-year NC six-speed steering, chassis and drivetrain.",
@@ -226,8 +259,19 @@
         "maz-nc-test",
         "maz-miata-history"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -255,7 +299,7 @@
     "partsAvailability": null,
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "Low",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -284,10 +328,13 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "unrated",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
     ]
-  }
+  },
+  "evidenceLedger": [],
+  "assessmentReview": null
 }

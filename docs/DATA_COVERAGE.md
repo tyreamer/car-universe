@@ -1,6 +1,26 @@
 # Data coverage
 
-200 vehicle records. 25 have four numeric assessments. 0 meet all identity, specification, ownership and scoring completion criteria.
+200 vehicle records. 0 have four numeric assessments. 0 can be plotted on the default longevity/enjoyment axes. 0 meet all research and independent human-review completion criteria.
+
+Generated from the current catalog; counts are a snapshot, not acceptance quotas. Null is missing support, never a zero rating. The original snapshot is preserved in [BASELINE_COVERAGE.md](BASELINE_COVERAGE.md).
+
+## Substantive review status
+
+| Item | Records |
+| --- | ---: |
+| ai-reviewed | 20 |
+| not-reviewed | 180 |
+
+## Cars available by axis pair
+
+| Item | Records |
+| --- | ---: |
+| longevity/ownershipCost | 0 |
+| longevity/drivingEnjoyment | 0 |
+| longevity/aesthetics | 0 |
+| ownershipCost/drivingEnjoyment | 0 |
+| ownershipCost/aesthetics | 0 |
+| drivingEnjoyment/aesthetics | 17 |
 
 187 records have a selected EPA row for every model year in the stated range. 797 unique original EPA rows are retained as evidence. EPA labels can group trims.
 
@@ -90,18 +110,17 @@ Confirmed identifies records with additional archival evidence for the catalog i
 
 | Item | Records |
 | --- | ---: |
-| assessed | 25 |
-| partial | 63 |
-| unrated | 112 |
+| partial | 19 |
+| unrated | 181 |
 
 ## Confidence by dimension
 
 | Dimension | High | Medium | Low | Unrated |
 | --- | ---: | ---: | ---: | ---: |
-| longevity | 0 | 5 | 20 | 175 |
-| ownershipCost | 0 | 7 | 22 | 171 |
-| drivingEnjoyment | 0 | 82 | 5 | 113 |
-| aesthetics | 0 | 85 | 2 | 113 |
+| longevity | 0 | 0 | 0 | 200 |
+| ownershipCost | 0 | 0 | 0 | 200 |
+| drivingEnjoyment | 0 | 0 | 18 | 182 |
+| aesthetics | 0 | 0 | 18 | 182 |
 
 ## Sources by category
 
@@ -110,7 +129,7 @@ Confirmed identifies records with additional archival evidence for the catalog i
 | government dataset | 1 |
 | manufacturer | 87 |
 | photograph | 2 |
-| road test | 96 |
+| road test | 100 |
 | service bulletin | 6 |
 | specialist | 14 |
 

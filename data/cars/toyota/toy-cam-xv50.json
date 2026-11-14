@@ -126,41 +126,112 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": null,
-      "confidence": "unrated",
-      "methodology": "provisional",
-      "rationale": "An applicable firsthand driving assessment has not been documented for this configuration.",
-      "evidence": [],
-      "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "value": 50,
+      "confidence": "low",
+      "methodology": "editorial",
+      "rationale": "Competent, comfortable driving with modest feedback fits 50. Corolla tie avoids fine ranking of different comfort-focused sedans.",
+      "evidence": [
+        {
+          "text": "LE reviewers describe soft steering and suspension, capable brakes and sufficient response.",
+          "sourceIds": [
+            "camry-le-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "camry-le-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 50,
+        "anchorReason": "Competent, comfortable driving with modest feedback fits 50. Corolla tie avoids fine ranking of different comfort-focused sedans.",
+        "evidenceIds": [
+          "camry-road"
+        ],
+        "adjustments": [],
+        "finalValue": 50,
+        "comparison": {
+          "referenceIds": [
+            "toy-cor-e170"
+          ],
+          "decisionIds": [
+            "ordinary-comfort"
+          ],
+          "rationale": "Tie: comfort-focused evaluations fit modest involvement without fine ranking."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "SE tune and 2015 facelift untested; wide identity range limits confidence."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
       "value": null,
       "confidence": "unrated",
-      "methodology": "provisional",
-      "rationale": "A configuration-appropriate design reference and editorial assessment still need review.",
+      "methodology": "editorial",
+      "rationale": "This identity spans the 2015 restyle; the 2012 reference alone cannot support one shared editorial aesthetics tier.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Configuration-specific support remains incomplete."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -187,14 +258,167 @@
   "research": {
     "specifications": "partial",
     "ownership": "pending",
-    "scores": "unrated",
+    "scores": "partial",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
       "Review durability evidence for this configuration.",
       "Review mechanical cost evidence for this configuration.",
       "Review driving evidence for this configuration.",
       "Review design evidence for this configuration.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Review 2015–2017 design and SE/base suspension coverage while retaining the identity."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "camry-road",
+      "claim": "LE reviewers describe soft steering and suspension, capable brakes and sufficient response.",
+      "sourceIds": [
+        "camry-le-test"
+      ],
+      "location": "Review notes by Wong, Lingeman and colleagues",
+      "establishes": "Firsthand 2012 2.5 automatic LE experience.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "toy-cam-xv50",
+        "generation": "XV50",
+        "engineCode": "2AR-FE",
+        "transmission": "Automatic",
+        "market": "US",
+        "years": {
+          "from": 2012,
+          "to": 2012
+        },
+        "status": "partial",
+        "limitations": "SE tune and 2015 facelift untested; wide identity range limits confidence."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Light, limited feel.",
+        "evidenceIds": [
+          "camry-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Soft comfort bias.",
+        "evidenceIds": [
+          "camry-road"
+        ]
+      },
+      "shift": {
+        "status": "limited",
+        "note": "Responsive downshifts.",
+        "evidenceIds": [
+          "camry-road"
+        ]
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "Adequate everyday response.",
+        "evidenceIds": [
+          "camry-road"
+        ]
+      },
+      "braking": {
+        "status": "limited",
+        "note": "Positive pedal response.",
+        "evidenceIds": [
+          "camry-road"
+        ]
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Comfortable with modest involvement.",
+        "evidenceIds": [
+          "camry-road"
+        ]
+      }
+    },
+    "risks": [],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Review 2015–2017 design and SE/base suspension coverage while retaining the identity."
+    ],
+    "conflicts": []
   }
 }

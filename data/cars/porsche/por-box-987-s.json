@@ -119,10 +119,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 60,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The M96-era engine retains relevant IMS exposure. Bearing design and serviceability can vary by installed engine, so one long-term test is limited evidence of population durability.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Firsthand driving and one-car upkeep of early U.S. 987 Boxster S.",
@@ -148,14 +148,25 @@
         "por-ims",
         "por-classic"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 45,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "A specialist mid-engine service layout, performance consumables and potential bearing work keep the burden high. Period service costs do not support a current annual estimate.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Firsthand driving and one-car upkeep of early U.S. 987 Boxster S.",
@@ -181,14 +192,25 @@
         "por-ims",
         "por-classic"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 95,
-      "confidence": "medium",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "The 3.2 flat-six and the chassis give it steering feedback and composure. Its grip and performance are most rewarding with some room to work.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Firsthand driving and one-car upkeep of early U.S. 987 Boxster S.",
@@ -207,14 +229,25 @@
         "por-box-987-long",
         "por-classic"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 85,
-      "confidence": "medium",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "editorial",
-      "rationale": "The revised lamps and larger side intakes sharpen the original Boxster profile. The shared roadster proportions remain its strongest feature.",
+      "rationale": "Prior research is retained, but no structured derivation or comparable review supports an active score. Reassessment is pending.",
       "evidence": [
         {
           "text": "Firsthand driving and one-car upkeep of early U.S. 987 Boxster S.",
@@ -233,8 +266,19 @@
         "por-box-987-long",
         "por-classic"
       ],
-      "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": null,
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "unassessed",
+      "assessor": {
+        "id": "Legacy assessor undocumented",
+        "type": "unknown"
+      },
+      "reviewStatus": "not-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Source applicability and a comparative anchor decision need review."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -262,7 +306,7 @@
     "partsAvailability": null,
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "High",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -292,10 +336,13 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "unrated",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
     ]
-  }
+  },
+  "evidenceLedger": [],
+  "assessmentReview": null
 }

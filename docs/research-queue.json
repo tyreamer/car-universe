@@ -1,0 +1,4415 @@
+[
+  {
+    "id": "acu-int-dc2-gsr",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "acu-int-dc2-r",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "acu-nsx-na1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "acu-nsx-na2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "acu-rsx-dc5-a",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "alf-4c-coupe",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "alf-giulia-qv",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "aud-s4-b5",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "aud-s4-b8",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "aud-tt-8n",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "aud-tts-8j",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-128-e82",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-135-e82-n54",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-135-e82-n55",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-325-e30",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m2-f87",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m2-f87c",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m235-f22",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m240-f22",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m3-e30",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m3-e36-s50",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m3-e36-s52",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m3-e46-m",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Reacquire bearing bulletin (403) and carrier-support instructions (404); retained claims are not freshly confirmed.",
+      "Complete cooling, transmission, structural and VANOS review against a matched reference."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m3-e46-smg",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m3-e90",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m3-e92",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-m5-e39",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-z3-e36-19",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-z3-e36-30",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-z3m-e36-s52",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-z3m-e36-s54",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-z4-e85-30",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "bmw-z4m-e85",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-cam-f4-ls1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-cam-f4-lt1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-cam-f5-lfx",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Find LFX manual road test, visual reference and service/cost review matched to LS3."
+    ],
+    "conflicts": [
+      "A 2010–2015 review title masks a 2011 LT manual test. Do not transfer it to LFX."
+    ]
+  },
+  {
+    "id": "che-cam-f5-llt",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-cam-f5-ls3",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Collect LS3 transmission, cooling, electrical and corrosion evidence; do not import L99/AFM claims."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-cam-f6-lgx",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-cam-f6-lt1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-ss-vf",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-vet-c4-l98",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-vet-c4-lt1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-vet-c5-ls1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-vet-c5-ls6",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-vet-c6-ls2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-vet-c6-ls3",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-vet-c6-ls7",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-vet-c7-lt1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "che-vet-c7-lt4",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "dod-chal-la-392",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "dod-chal-la-hc",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "dod-chal-lc-rt",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "dod-chal-lc-srt",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "dod-vip-sr1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "dod-vip-sr2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "dod-vip-zb2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "fia-124-nf",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "fia-500-312",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-fiesta-b299",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-focus-c346",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-must-new-cobra",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-must-new-gt",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-must-s197-46",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-must-s197-50",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-must-s550-350",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-must-s550-gt2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-must-s550-gt3",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-must-s550-mach",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-must-sn95-46",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "ford-must-sn95-50",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "gen-g70-ik-m",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-accord-cr",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-civic-em1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-civic-ep3",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-civic-fb6",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-civic-fc1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-civic-fd",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-civic-fe",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-civic-fe1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-civic-fg2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-civic-fk8",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-civic-fl5",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-crx-ed9",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-fit-ge",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-prelude-bb1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-prelude-bb6",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-s2k-ap1",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Substantiate oil, over-rev, gearbox, cooling, electrical and corrosion risks without reputation-based assumptions."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hon-s2k-ap2a",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hyu-ela-cn7n",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hyu-gen-bk2t",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hyu-gen-bk2v",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "hyu-vel-jsn",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "jag-ft-x152-m",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "jag-ft-x152-r",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "kia-stinger-ck",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "lex-es-xv40",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "lex-es-xz10h",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "lex-is300-xe10",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "lex-ls-xf30",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "lex-sc300-z30",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "lot-elise-s2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "lot-evora-gt",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "lot-evora-na",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-3-bm",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-3-bp",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-mx5-na16",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "transmission",
+      "cooling",
+      "electrical"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-mx5-na18",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-mx5-nb1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-mx5-nb2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-mx5-nbt",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-mx5-nc1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-mx5-nc2",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-mx5-nd1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-mx5-nd2",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-rx7-fc-na",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-rx7-fc-t",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-rx7-fd",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-rx8-se3p",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-speed3-bk",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "maz-speed3-bl",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "mini-f56-s",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "mini-r53-s",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "mini-r56-n14",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "mini-r56-n18",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "mit-eclipse-2g",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "mit-evo-ix",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "mit-evo-viii",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "mit-evo-x",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "nis-240-s13b",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "nis-240-s14",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "nis-z-rz34",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "nis-z-z32-na",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "nis-z-z32-t",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "nis-z-z33-de",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "nis-z-z33-hr",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "nis-z-z34-base",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "nis-z-z34-nismo",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "pon-gto-vz",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "pon-sol-kappa",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "pon-ta-f4",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-911-964c2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-911-993c2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-911-996a",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-911-996b",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-911-997a",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-911-g32",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-924-20",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-924-s",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-944-early",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "consumables",
+      "repairs",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-944-late",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-944-s",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-944-s2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-944-t",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "consumables",
+      "repairs",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-968-m",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-box-986-25",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-box-986-27",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-box-986-s",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-box-987-27",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-box-987-s",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-cay-987-27",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "por-cay-987-s",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "saa-93-ys3f",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "sub-brz-zc6",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "sub-brz-zd8",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "sub-out-bs",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "sub-sti-gd",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "sub-sti-va",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "sub-wrx-gd",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "sub-wrx-va",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-86-zn6",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-cam-xv50",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "aesthetics"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Review 2015–2017 design and SE/base suspension coverage while retaining the identity."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-celica-st165",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-celica-st185",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-celica-st205",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-celica-t230",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-cor-e120",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-cor-e170",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-cor-e210h",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-gr86-zn8",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-grc-e210",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-mr2-aw-na1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-mr2-aw-na2",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-mr2-aw-sc",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-mr2-sw-na1",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-mr2-sw-na2",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-mr2-sw-t1",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+    ],
+    "conflicts": [
+      "mr2-sw-test is titled 1992 but describes revised chassis hardware; reconcile U.S. model-year attribution before differential scoring."
+    ]
+  },
+  {
+    "id": "toy-mr2-sw-t2",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+    ],
+    "conflicts": [
+      "mr2-sw-test is titled 1992 but describes revised chassis hardware; reconcile U.S. model-year attribution before differential scoring."
+    ]
+  },
+  {
+    "id": "toy-mr2-w30-early",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-mr2-w30-late",
+    "reviewStatus": "ai-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment"
+    ],
+    "systemsMissing": [
+      "engine",
+      "transmission",
+      "cooling",
+      "electrical",
+      "structure"
+    ],
+    "costInputsMissing": [
+      "scheduled",
+      "consumables",
+      "repairs",
+      "ageRelated",
+      "majorFailure",
+      "acquisitionCatchUp"
+    ],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Find firsthand U.S. 2003–2005 five-speed evaluation; do not substitute UK six-speed or SMT.",
+      "Recheck catalyst/oil-consumption mechanisms and any production cutoff using original technical evidence."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-prius-xw50",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-supra-a70-na",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-supra-a70-t",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-supra-a80-na",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "toy-supra-a80-t",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "vw-gti-mk5",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "vw-gti-mk7",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "vw-r-mk7",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "vw-r32-mk4",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "vol-c30-p1",
+    "reviewStatus": "not-reviewed",
+    "unratedDimensions": [
+      "longevity",
+      "ownershipCost",
+      "drivingEnjoyment",
+      "aesthetics"
+    ],
+    "systemsMissing": [],
+    "costInputsMissing": [],
+    "tasks": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
+    ],
+    "conflicts": []
+  }
+]

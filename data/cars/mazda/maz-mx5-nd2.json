@@ -33,7 +33,7 @@
   },
   "specs": {
     "engineCode": "Skyactiv-G 2.0",
-    "displacementL": 2.0,
+    "displacementL": 2,
     "cylinders": 4,
     "cylinderLayout": "Inline",
     "aspiration": "Naturally aspirated",
@@ -135,17 +135,28 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 80,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The factory schedule and light soft-top hardware support a relatively low routine burden. Mature independent repair experience remains limited.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "ND2 powertrain response and driver observations.",
@@ -172,30 +183,29 @@
         "maz-nd2-maint"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
       "value": 95,
-      "confidence": "medium",
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The higher-output revision extends the upper range while preserving the light chassis and short shift. Body roll remains part of the experience.",
+      "rationale": "Benchmark involvement retained, tied with NA and NC. Extra horsepower alone earns no increment.",
       "evidence": [
         {
-          "text": "ND2 powertrain response and driver observations.",
+          "text": "The manual soft-top drive describes a willing revised engine, satisfying shifts and approachable chassis limits.",
           "sourceIds": [
             "maz-nd2-test"
-          ]
-        },
-        {
-          "text": "2019 181-hp engine revision and U.S. soft-top specifications.",
-          "sourceIds": [
-            "maz-nd2-factory"
-          ]
-        },
-        {
-          "text": "U.S. ND2 maintenance schedule and prescribed checks.",
-          "sourceIds": [
-            "maz-nd2-maint"
           ]
         }
       ],
@@ -205,30 +215,47 @@
         "maz-nd2-maint"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 95,
+        "anchorReason": "Benchmark involvement retained, tied with NA and NC. Extra horsepower alone earns no increment.",
+        "evidenceIds": [
+          "nd-road"
+        ],
+        "adjustments": [],
+        "finalValue": 95,
+        "comparison": {
+          "referenceIds": [
+            "maz-mx5-nc2"
+          ],
+          "decisionIds": [
+            "miata-nc-nd"
+          ],
+          "rationale": "Tie: engine revisions do not automatically raise an already broad enjoyment tier."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "2019 Club options; RF, automatic and later changes not directly tested."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 90,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The engine change preserves the compact cabin and clean soft-top body.",
+      "rationale": "Compact proportions and soft-top silhouette are coherent; aggressive lamp graphics keep this below an exceptional-taste claim. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "ND2 powertrain response and driver observations.",
+          "text": "The manual soft-top drive describes a willing revised engine, satisfying shifts and approachable chassis limits.",
           "sourceIds": [
             "maz-nd2-test"
-          ]
-        },
-        {
-          "text": "2019 181-hp engine revision and U.S. soft-top specifications.",
-          "sourceIds": [
-            "maz-nd2-factory"
-          ]
-        },
-        {
-          "text": "U.S. ND2 maintenance schedule and prescribed checks.",
-          "sourceIds": [
-            "maz-nd2-maint"
           ]
         }
       ],
@@ -238,7 +265,36 @@
         "maz-nd2-maint"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Compact proportions and soft-top silhouette are coherent; aggressive lamp graphics keep this below an exceptional-taste claim. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "nd-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "maz-mx5-nc2"
+          ],
+          "decisionIds": [
+            "miata-nc-nd"
+          ],
+          "rationale": "Tie: no objective beauty or fine taste increment."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "2019 Club options; RF, automatic and later changes not directly tested."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -264,7 +320,7 @@
     "partsAvailability": null,
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "Low",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -300,7 +356,198 @@
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
       "Review durability evidence for this configuration.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "nd-road",
+      "claim": "The manual soft-top drive describes a willing revised engine, satisfying shifts and approachable chassis limits.",
+      "sourceIds": [
+        "maz-nd2-test"
+      ],
+      "location": "Engine; The Handling Is as Special as Ever",
+      "establishes": "Firsthand ND2 manual impressions.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "maz-mx5-nd2",
+        "generation": "ND2",
+        "engineCode": "Skyactiv-G 2.0",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2019,
+          "to": 2019
+        },
+        "status": "partial",
+        "limitations": "2019 Club options; RF, automatic and later changes not directly tested."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    },
+    {
+      "id": "nd-schedule",
+      "claim": "U.S. service has calendar and mileage intervals, including manual-transmission fluid.",
+      "sourceIds": [
+        "maz-nd2-maint"
+      ],
+      "location": "Owner manual 6-4 through 6-6",
+      "establishes": "Scheduled service scope.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "maz-mx5-nd2",
+        "generation": "ND2",
+        "engineCode": "Skyactiv-G 2.0",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2019,
+          "to": 2019
+        },
+        "status": "partial",
+        "limitations": "No shop prices, failure frequency or representative repair spending."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "documented",
+        "note": "Calendar limits matter at 3,000 miles/year.",
+        "evidenceIds": [
+          "nd-schedule"
+        ]
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Reach adjustment helps fit; feedback detail limited.",
+        "evidenceIds": [
+          "nd-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Progressive at approachable limits.",
+        "evidenceIds": [
+          "nd-road"
+        ]
+      },
+      "shift": {
+        "status": "limited",
+        "note": "Smooth manual operation.",
+        "evidenceIds": [
+          "nd-road"
+        ]
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "Higher-rev character.",
+        "evidenceIds": [
+          "nd-road"
+        ]
+      },
+      "braking": {
+        "status": "limited",
+        "note": "Test result reflects equipment.",
+        "evidenceIds": [
+          "nd-road"
+        ]
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Canyon-road involvement.",
+        "evidenceIds": [
+          "nd-road"
+        ]
+      }
+    },
+    "risks": [],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [
+      {
+        "name": "Scheduled service only",
+        "scope": "Use time or mileage, whichever comes first; repairs and acquisition catch-up excluded and unpriced.",
+        "evidenceIds": [
+          "nd-schedule"
+        ],
+        "amountUsd": null,
+        "inputs": []
+      }
+    ],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
   }
 }

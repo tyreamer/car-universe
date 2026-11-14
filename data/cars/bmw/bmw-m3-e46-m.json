@@ -126,10 +126,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 60,
-      "confidence": "medium",
-      "methodology": "evidence-based",
-      "rationale": "The bearing action, VANOS hardware and rear carrier support create multiple inspection dependencies. The sources establish mechanisms with limited incidence evidence.",
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [
         {
           "text": "BMW documented a connecting-rod bearing service action with production-date limits.",
@@ -170,13 +170,24 @@
         "bmw-m3-e46-press"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 45,
-      "confidence": "medium",
-      "methodology": "evidence-based",
-      "rationale": "Potential engine and structural work place it in the high tier. The factory manual avoids the SMG hydraulic actuator system.",
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "BMW documented a connecting-rod bearing service action with production-date limits.",
@@ -217,24 +228,29 @@
         "bmw-m3-e46-press"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 95,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The S54 and communicative chassis work particularly well with three pedals. The added grip makes it less playful at lower speeds than the E36.",
+      "rationale": "Rewarding but demanding road use fits 80. Sparse control-specific comparison does not sustain the former benchmark claim.",
       "evidence": [
         {
-          "text": "Manual E46 M3 steering, gearshift, performance and single-car upkeep.",
+          "text": "Long-term test describes engaging responses with ride/noise compromises and individual service events.",
           "sourceIds": [
             "bmw-e46-test"
-          ]
-        },
-        {
-          "text": "U.S. E46 M3 manual and SMG configuration and S54 output.",
-          "sourceIds": [
-            "bmw-m3-e46-press"
           ]
         }
       ],
@@ -243,24 +259,47 @@
         "bmw-m3-e46-press"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Rewarding but demanding road use fits 80. Sparse control-specific comparison does not sustain the former benchmark claim.",
+        "evidenceIds": [
+          "e46-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "che-cam-f5-ls3"
+          ],
+          "decisionIds": [
+            "m3-camaro"
+          ],
+          "rationale": "Tie: rewarding but compromised road experiences; power and badge do not force order."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "One early car; no lifetime or weekend-cost inference."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 90,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "Wide arches and a tidy roofline give the car purpose while retaining the underlying coupe shape.",
+      "rationale": "Widened arches integrate with the coupe body; familiar sedan-family proportions are a reservation. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "Manual E46 M3 steering, gearshift, performance and single-car upkeep.",
+          "text": "Long-term test describes engaging responses with ride/noise compromises and individual service events.",
           "sourceIds": [
             "bmw-e46-test"
-          ]
-        },
-        {
-          "text": "U.S. E46 M3 manual and SMG configuration and S54 output.",
-          "sourceIds": [
-            "bmw-m3-e46-press"
           ]
         }
       ],
@@ -269,7 +308,36 @@
         "bmw-m3-e46-press"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Widened arches integrate with the coupe body; familiar sedan-family proportions are a reservation. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "e46-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "che-cam-f5-ls3"
+          ],
+          "decisionIds": [
+            "m3-camaro"
+          ],
+          "rationale": "Tie: distinct coherent identities with reservations."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "One early car; no lifetime or weekend-cost inference."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -315,7 +383,7 @@
     "partsAvailability": null,
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "High",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -345,10 +413,163 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "partial",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Reacquire bearing bulletin (403) and carrier-support instructions (404); retained claims are not freshly confirmed.",
+      "Complete cooling, transmission, structural and VANOS review against a matched reference."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "e46-road",
+      "claim": "Long-term test describes engaging responses with ride/noise compromises and individual service events.",
+      "sourceIds": [
+        "bmw-e46-test"
+      ],
+      "location": "Driving opinions; service history",
+      "establishes": "One manual test-car experience, not population durability.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "bmw-m3-e46-m",
+        "generation": "E46",
+        "engineCode": "S54B32",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2001,
+          "to": 2001
+        },
+        "status": "partial",
+        "limitations": "One early car; no lifetime or weekend-cost inference."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "limited",
+        "note": "Single-car climate-control repair is limited evidence.",
+        "evidenceIds": [
+          "e46-road"
+        ]
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "unknown",
+        "note": "Applicable first-hand steering evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Responsive with firm ride.",
+        "evidenceIds": [
+          "e46-road"
+        ]
+      },
+      "shift": {
+        "status": "unknown",
+        "note": "Applicable first-hand shift evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "High-rev character.",
+        "evidenceIds": [
+          "e46-road"
+        ]
+      },
+      "braking": {
+        "status": "limited",
+        "note": "Measured stopping on one setup.",
+        "evidenceIds": [
+          "e46-road"
+        ]
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Enthusiasm varies with comfort preference.",
+        "evidenceIds": [
+          "e46-road"
+        ]
+      }
+    },
+    "risks": [],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Reacquire bearing bulletin (403) and carrier-support instructions (404); retained claims are not freshly confirmed.",
+      "Complete cooling, transmission, structural and VANOS review against a matched reference."
+    ],
+    "conflicts": []
   }
 }

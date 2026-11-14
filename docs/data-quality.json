@@ -69,44 +69,74 @@
       "pending": 163
     },
     "scores": {
-      "assessed": 25,
-      "partial": 63,
-      "unrated": 112
+      "partial": 19,
+      "unrated": 181
     }
   },
   "scores": {
     "longevity": {
       "high": 0,
-      "medium": 5,
-      "low": 20,
-      "unrated": 175
+      "medium": 0,
+      "low": 0,
+      "unrated": 200
     },
     "ownershipCost": {
       "high": 0,
-      "medium": 7,
-      "low": 22,
-      "unrated": 171
+      "medium": 0,
+      "low": 0,
+      "unrated": 200
     },
     "drivingEnjoyment": {
       "high": 0,
-      "medium": 82,
-      "low": 5,
-      "unrated": 113
+      "medium": 0,
+      "low": 18,
+      "unrated": 182
     },
     "aesthetics": {
       "high": 0,
-      "medium": 85,
-      "low": 2,
-      "unrated": 113
+      "medium": 0,
+      "low": 18,
+      "unrated": 182
     }
   },
-  "chartReady": 25,
-  "sources": 206,
+  "allFourRated": 0,
+  "chartReady": 0,
+  "axisPairs": {
+    "longevity/ownershipCost": 0,
+    "longevity/drivingEnjoyment": 0,
+    "longevity/aesthetics": 0,
+    "ownershipCost/drivingEnjoyment": 0,
+    "ownershipCost/aesthetics": 0,
+    "drivingEnjoyment/aesthetics": 17
+  },
+  "reviewStatus": {
+    "ai-reviewed": 20,
+    "not-reviewed": 180
+  },
+  "assessedDimensions": {
+    "longevity": {
+      "ai-reviewed": 20,
+      "not-reviewed": 180
+    },
+    "ownershipCost": {
+      "ai-reviewed": 20,
+      "not-reviewed": 180
+    },
+    "drivingEnjoyment": {
+      "ai-reviewed": 20,
+      "not-reviewed": 180
+    },
+    "aesthetics": {
+      "ai-reviewed": 20,
+      "not-reviewed": 180
+    }
+  },
+  "sources": 210,
   "sourcesByType": {
     "government dataset": 1,
     "manufacturer": 87,
     "photograph": 2,
-    "road test": 96,
+    "road test": 100,
     "service bulletin": 6,
     "specialist": 14
   },
@@ -121,7 +151,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -130,7 +161,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -139,7 +171,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -148,7 +181,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -157,7 +191,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -166,7 +201,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -175,7 +211,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -184,7 +221,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -195,7 +233,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -204,7 +243,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -213,7 +253,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -224,7 +265,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -235,7 +277,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -246,7 +289,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -257,7 +301,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -266,7 +311,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -275,7 +321,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -286,7 +333,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -297,7 +345,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -308,7 +357,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -317,7 +367,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -328,21 +379,27 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "bmw-m3-e46-m",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Reacquire bearing bulletin (403) and carrier-support instructions (404); retained claims are not freshly confirmed.",
+        "Complete cooling, transmission, structural and VANOS review against a matched reference."
       ]
     },
     {
       "id": "bmw-m3-e46-smg",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -353,7 +410,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -364,7 +422,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -373,7 +432,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -384,7 +444,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -395,7 +456,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -404,7 +466,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -413,7 +476,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -424,14 +488,16 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "bmw-z4m-e85",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -442,7 +508,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -453,7 +520,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -463,13 +531,17 @@
         "Review durability evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Find LFX manual road test, visual reference and service/cost review matched to LS3."
       ]
     },
     {
       "id": "che-cam-f5-llt",
       "tasks": [
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -478,7 +550,10 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Collect LS3 transmission, cooling, electrical and corrosion evidence; do not import L99/AFM claims."
       ]
     },
     {
@@ -487,7 +562,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -495,7 +571,8 @@
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -504,7 +581,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -515,7 +593,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -526,7 +605,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -537,7 +617,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -548,7 +629,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -559,7 +641,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -568,7 +651,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -579,7 +663,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -588,7 +673,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -599,7 +685,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -608,7 +695,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -617,7 +705,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -626,7 +715,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -637,7 +727,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -648,7 +739,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -659,7 +751,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -670,7 +763,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -679,7 +773,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -688,7 +783,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -697,7 +793,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -706,7 +803,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -717,7 +815,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -728,7 +827,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -739,7 +839,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -750,7 +851,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -761,7 +863,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -772,7 +875,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -783,7 +887,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -794,7 +899,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -805,7 +911,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -816,7 +923,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -827,7 +935,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -838,7 +947,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -849,7 +959,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -860,7 +971,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -871,7 +983,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -882,7 +995,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -893,7 +1007,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -902,7 +1017,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -913,7 +1029,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -924,7 +1041,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -933,7 +1051,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -942,7 +1061,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -953,7 +1073,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -964,7 +1085,9 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
       ]
     },
     {
@@ -975,7 +1098,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -986,21 +1110,26 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "hon-s2k-ap1",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Substantiate oil, over-rev, gearbox, cooling, electrical and corrosion risks without reputation-based assumptions."
       ]
     },
     {
       "id": "hon-s2k-ap2a",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1009,7 +1138,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1020,7 +1150,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1029,7 +1160,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1040,7 +1172,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1049,7 +1182,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1060,7 +1194,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1071,7 +1206,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1080,7 +1216,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1091,7 +1228,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1100,7 +1238,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1109,7 +1248,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1120,7 +1260,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1129,7 +1270,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1140,7 +1282,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1151,7 +1294,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1160,7 +1304,9 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
       ]
     },
     {
@@ -1171,20 +1317,24 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "maz-mx5-na16",
       "tasks": [
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
       ]
     },
     {
       "id": "maz-mx5-na18",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1193,7 +1343,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1204,7 +1355,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1213,28 +1365,33 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "maz-mx5-nc1",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "maz-mx5-nc2",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
       ]
     },
     {
       "id": "maz-mx5-nd1",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1242,7 +1399,9 @@
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
       ]
     },
     {
@@ -1253,7 +1412,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1264,7 +1424,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1273,7 +1434,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1284,7 +1446,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1295,7 +1458,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1306,7 +1470,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1317,7 +1482,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1328,7 +1494,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1339,7 +1506,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1350,7 +1518,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1361,7 +1530,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1370,7 +1540,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1381,7 +1552,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1390,7 +1562,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1401,7 +1574,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1412,7 +1586,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1423,7 +1598,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1434,7 +1610,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1445,7 +1622,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1454,7 +1632,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1465,7 +1644,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1476,7 +1656,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1487,7 +1668,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1498,7 +1680,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1507,7 +1690,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1518,7 +1702,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1529,7 +1714,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1540,7 +1726,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1551,7 +1738,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1562,7 +1750,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1573,7 +1762,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1584,7 +1774,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1595,7 +1786,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1606,21 +1798,26 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "por-944-early",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
       ]
     },
     {
       "id": "por-944-late",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1629,21 +1826,26 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "por-944-s2",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "por-944-t",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
       ]
     },
     {
@@ -1654,14 +1856,17 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "por-box-986-25",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
       ]
     },
     {
@@ -1672,14 +1877,16 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "por-box-986-s",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1690,28 +1897,32 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "por-box-987-s",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "por-cay-987-27",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "por-cay-987-s",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1722,7 +1933,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1731,7 +1943,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1740,7 +1953,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1749,7 +1963,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1760,7 +1975,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1771,7 +1987,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1782,7 +1999,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1791,7 +2009,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1802,7 +2021,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1813,7 +2033,10 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Review 2015–2017 design and SE/base suspension coverage while retaining the identity."
       ]
     },
     {
@@ -1822,7 +2045,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1831,7 +2055,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1842,7 +2067,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1853,7 +2079,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1864,14 +2091,17 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "toy-cor-e170",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
       ]
     },
     {
@@ -1882,7 +2112,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1890,7 +2121,8 @@
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1901,21 +2133,24 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "toy-mr2-aw-na1",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
       "id": "toy-mr2-aw-na2",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1923,7 +2158,8 @@
       "tasks": [
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1934,7 +2170,10 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
       ]
     },
     {
@@ -1945,7 +2184,10 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
       ]
     },
     {
@@ -1954,7 +2196,10 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
       ]
     },
     {
@@ -1963,21 +2208,30 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
       ]
     },
     {
       "id": "toy-mr2-w30-early",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
       ]
     },
     {
       "id": "toy-mr2-w30-late",
       "tasks": [
         "Complete missing factory specifications and applicable test-weight measurements.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Find firsthand U.S. 2003–2005 five-speed evaluation; do not substitute UK six-speed or SMT.",
+        "Recheck catalyst/oil-consumption mechanisms and any production cutoff using original technical evidence."
       ]
     },
     {
@@ -1988,7 +2242,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -1999,7 +2254,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -2010,7 +2266,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -2021,7 +2278,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -2030,7 +2288,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -2041,7 +2300,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -2050,7 +2310,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -2059,7 +2320,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -2070,7 +2332,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Review driving evidence for this configuration.",
         "Review design evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     },
     {
@@ -2079,7 +2342,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Review durability evidence for this configuration.",
         "Review mechanical cost evidence for this configuration.",
-        "Complete variant-specific maintenance, parts availability and consequential failure research."
+        "Complete variant-specific maintenance, parts availability and consequential failure research.",
+        "Reassess retained research under rubric 2.0.0; legacy numbers are archived, not active ratings."
       ]
     }
   ]

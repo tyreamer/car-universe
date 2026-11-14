@@ -31,7 +31,7 @@
   },
   "specs": {
     "engineCode": "3S-GTE",
-    "displacementL": 2.0,
+    "displacementL": 2,
     "cylinders": 4,
     "cylinderLayout": "Inline",
     "aspiration": "Turbocharged",
@@ -115,66 +115,154 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": [
+        "mr2-sw-test is titled 1992 but describes revised chassis hardware; reconcile U.S. model-year attribution before differential scoring."
+      ]
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": [
+        "mr2-sw-test is titled 1992 but describes revised chassis hardware; reconcile U.S. model-year attribution before differential scoring."
+      ]
     },
     "drivingEnjoyment": {
-      "value": 85,
+      "value": 80,
       "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The later suspension was revised to make the rear more forgiving. Direct tests of this exact late configuration are thinner, so the number stays level with the early Turbo.",
+      "rationale": "Rewarding balance with road-use compromises fits 80. The available comparison does not justify small early/late or turbo/base differences.",
       "evidence": [
         {
-          "text": "U.S. model-year distinctions including the 1993 SW20 suspension changes and AW11 Supercharged years.",
+          "text": "The review compares a base manual and Turbo, reports responsive cornering and notes the 1993 chassis changes.",
           "sourceIds": [
-            "mr2-history"
-          ]
-        },
-        {
-          "text": "Early U.S. SW20 Turbo specifications and driving behavior.",
-          "sourceIds": [
-            "mr2-sw-test"
+            "mr2-cg-review"
           ]
         }
       ],
       "sourceIds": [
         "mr2-history",
-        "mr2-sw-test"
+        "mr2-sw-test",
+        "mr2-cg-review"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Rewarding balance with road-use compromises fits 80. The available comparison does not justify small early/late or turbo/base differences.",
+        "evidenceIds": [
+          "sw-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "toy-mr2-sw-t1",
+            "toy-mr2-sw-na2"
+          ],
+          "decisionIds": [
+            "sw-turbo",
+            "sw-na-turbo"
+          ],
+          "rationale": "Tie: source-year conflict prevents an early/late increment. Tie: boost alone does not mean greater road enjoyment."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "Model-year aggregate, not an exact early/late matched test. The Turbo displacement typo is not used as specification evidence."
+      ],
+      "conflictingEvidence": [
+        "mr2-sw-test is titled 1992 but describes revised chassis hardware; reconcile U.S. model-year attribution before differential scoring."
+      ]
     },
     "aesthetics": {
-      "value": 90,
+      "value": 80,
       "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The late trim preserves the earlier car's low roof, strong rear quarters and mid-engine proportions.",
+      "rationale": "The low mid-engine outline has a clear identity; broad body and period details leave reservations. No fine ordering among these variants is justified. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "Early U.S. SW20 Turbo specifications and driving behavior.",
+          "text": "The review compares a base manual and Turbo, reports responsive cornering and notes the 1993 chassis changes.",
           "sourceIds": [
-            "mr2-sw-test"
+            "mr2-cg-review"
           ]
         }
       ],
       "sourceIds": [
-        "mr2-sw-test"
+        "mr2-sw-test",
+        "mr2-cg-review"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "The low mid-engine outline has a clear identity; broad body and period details leave reservations. No fine ordering among these variants is justified. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "sw-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "toy-mr2-sw-t1",
+            "toy-mr2-sw-na2"
+          ],
+          "decisionIds": [
+            "sw-turbo",
+            "sw-na-turbo"
+          ],
+          "rationale": "Tie: facelift details do not support taste precision. Tie: powertrain is not a beauty input."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "Model-year aggregate, not an exact early/late matched test. The Turbo displacement typo is not used as specification evidence."
+      ],
+      "conflictingEvidence": [
+        "mr2-sw-test is titled 1992 but describes revised chassis hardware; reconcile U.S. model-year attribution before differential scoring."
+      ]
     }
   },
   "ownership": {
@@ -228,7 +316,188 @@
       "Complete missing factory specifications and applicable test-weight measurements.",
       "Review durability evidence for this configuration.",
       "Review mechanical cost evidence for this configuration.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+    ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "sw-road",
+      "claim": "The review compares a base manual and Turbo, reports responsive cornering and notes the 1993 chassis changes.",
+      "sourceIds": [
+        "mr2-cg-review"
+      ],
+      "location": "Road Test; Yearly Updates",
+      "establishes": "Applicable driving observations with incomplete test-year attribution.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "toy-mr2-sw-t2",
+        "generation": "SW20",
+        "engineCode": "3S-GTE",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1993,
+          "to": 1995
+        },
+        "status": "partial",
+        "limitations": "Model-year aggregate, not an exact early/late matched test. The Turbo displacement typo is not used as specification evidence."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    },
+    {
+      "id": "sw-year-conflict",
+      "claim": "The archive title and described suspension revision do not align cleanly.",
+      "sourceIds": [
+        "mr2-sw-test"
+      ],
+      "location": "Title versus suspension-link and wheel revision paragraphs",
+      "establishes": "A source-applicability conflict.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "toy-mr2-sw-t2",
+        "generation": "SW20",
+        "engineCode": "3S-GTE",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1993,
+          "to": 1995
+        },
+        "status": "unresolved",
+        "limitations": "Not used to assign an early/late advantage."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Crisp turn-in reported.",
+        "evidenceIds": [
+          "sw-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Firm, flat cornering; limit behavior needs care.",
+        "evidenceIds": [
+          "sw-road"
+        ]
+      },
+      "shift": {
+        "status": "unknown",
+        "note": "Applicable first-hand shift evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "Base manual and Turbo explicitly evaluated.",
+        "evidenceIds": [
+          "sw-road"
+        ]
+      },
+      "braking": {
+        "status": "limited",
+        "note": "Stable braking reported.",
+        "evidenceIds": [
+          "sw-road"
+        ]
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Noise and rough-road ride limit enjoyment.",
+        "evidenceIds": [
+          "sw-road"
+        ]
+      }
+    },
+    "risks": [],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+    ],
+    "conflicts": [
+      "mr2-sw-test is titled 1992 but describes revised chassis hardware; reconcile U.S. model-year attribution before differential scoring."
     ]
   }
 }

@@ -1,6 +1,8 @@
 # Car Universe
 
-A static React and TypeScript catalog of 200 vehicle configurations. Search the catalog, open evidence-backed profiles, explore the four-dimensional map and compare up to four cars. Comparison selections are saved locally in the browser.
+A static React and TypeScript catalog of 200 vehicle configurations. Search the catalog, inspect source claims and editorial assessments, explore a square four-quadrant map and compare up to four cars. Comparison selections and separate My taste ratings are saved locally in the browser.
+
+The evidence correction is provisional: 20 configurations have a new AI source review, with no independent human approval. Unsupported legacy numbers are archived. Longevity and Low upkeep are currently null, so the default map is empty; explicitly choose driving/design to explore the 17 cars with both assessments. See [the correction report](docs/CORRECTION_REPORT.md).
 
 ## Run locally
 
@@ -22,10 +24,24 @@ Vite prints the local address. Build and serve the production bundle with `npm r
 - `data/catalog-manifest.json` tracks the release cohort. The initial version requires exactly 200 entries.
 - `data/sources.json` holds provenance and coverage limitations. `data/epa-evidence.json` retains the selected original EPA rows and their IDs.
 - `data/scoring-rubric.json` holds versioned anchors and the reference ownership scenario.
+- `data/assessment-baseline.json` preserves the original assessments; do not overwrite it. `data/calibration-decisions.json` holds reviewed comparisons and fingerprints. See [schema and change control](docs/SCHEMA_V2.md).
 - `npm run validate:data` regenerates the [coverage report](docs/DATA_COVERAGE.md) and per-record [follow-up report](docs/data-quality.json). `npm run audit:scores` regenerates [calibration comparisons](docs/scoring-audit.json).
 - `npm run build` validates the data, compiles a lightweight index and emits one same-origin static profile asset per vehicle. The app has no runtime API dependency.
 
 See [methodology](docs/METHODOLOGY.md), [research standards](docs/RESEARCH_STANDARDS.md), [source policy](docs/SOURCE_POLICY.md) and [roadmap](docs/ROADMAP.md).
+
+## Check a correction
+
+`npm run check` validates the catalog, requires current before/after reports, runs the data/logic tests and builds the static site. When assessments change, complete the substantive review and update the explicit calibration decisions first; `npm run audit:scores` then regenerates reports. It does not automatically approve score changes or refresh calibration fingerprints.
+
+For browser checks, serve `npm run preview -- --host 127.0.0.1 --port 4173` after a build and `npm run dev -- --host 127.0.0.1 --port 5174` for isolated synthetic fixtures. In a separate terminal run:
+
+```sh
+npx --yes --package @playwright/cli playwright-cli -s=car-review open http://127.0.0.1:4173
+npx --yes --package @playwright/cli playwright-cli -s=car-review run-code --filename scripts/browser-checks.js
+```
+
+Screenshots are written to `output/playwright/`. The fixture values are synthetic and never enter the catalog. The production app has no Playwright runtime dependency. Visually inspect screenshots as well as test results; then use [the substantive checklist](docs/SUBSTANTIVE_REVIEW.md). This correction branch is for owner review, not automatic deployment.
 
 ## Cloudflare Pages
 

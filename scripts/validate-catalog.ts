@@ -9,7 +9,9 @@ const table = (title: string, values: Record<string, number>) => [
 ]
 const coverage = [
   '# Data coverage', '',
-  report.total + ' vehicle records. ' + report.chartReady + ' have four numeric assessments. ' + report.fullyCurated + ' meet all identity, specification, ownership and scoring completion criteria.', '',
+  report.total + ' vehicle records. ' + report.allFourRated + ' have four numeric assessments. ' + report.chartReady + ' can be plotted on the default longevity/enjoyment axes. ' + report.fullyCurated + ' meet all research and independent human-review completion criteria.', '',
+  'Generated from the current catalog; counts are a snapshot, not acceptance quotas. Null is missing support, never a zero rating. The original snapshot is preserved in [BASELINE_COVERAGE.md](BASELINE_COVERAGE.md).', '',
+  ...table('Substantive review status', report.reviewStatus), ...table('Cars available by axis pair', report.axisPairs),
   report.epaFullYearCoverage + ' records have a selected EPA row for every model year in the stated range. ' + report.sourceRows + ' unique original EPA rows are retained as evidence. EPA labels can group trims.', '',
   'Confirmed identifies records with additional archival evidence for the catalog identity. The evidence varies in granularity. Research is editorial and has received no independent human approval.', '',
   ...table('Categories', report.categories), ...table('Manufacturers', report.makes),

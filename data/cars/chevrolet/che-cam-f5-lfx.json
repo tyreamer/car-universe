@@ -134,17 +134,30 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": [
+        "A 2010–2015 review title masks a 2011 LT manual test. Do not transfer it to LFX."
+      ]
     },
     "ownershipCost": {
-      "value": 60,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The 1LS uses modest hardware relative to the SS. GM documents a labor-intensive timing-chain repair for the 2012 LFX, while later exposure is unquantified.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "2012 LFX 3.6 and six-speed base coupe specifications.",
@@ -164,27 +177,66 @@
         "cam-v6-chain"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": [
+        "A 2010–2015 review title masks a 2011 LT manual test. Do not transfer it to LFX."
+      ]
     },
     "drivingEnjoyment": {
       "value": null,
       "confidence": "unrated",
-      "methodology": "provisional",
-      "rationale": "An applicable firsthand driving assessment has not been documented for this configuration.",
+      "methodology": "editorial",
+      "rationale": "Available V6 test attribution is LLT-era. LFX manual driving evidence remains unresolved; specifications do not fill the gap.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Configuration-specific support remains incomplete."
+      ],
+      "conflictingEvidence": [
+        "A 2010–2015 review title masks a 2011 LT manual test. Do not transfer it to LFX."
+      ]
     },
     "aesthetics": {
       "value": null,
       "confidence": "unrated",
-      "methodology": "provisional",
-      "rationale": "A configuration-appropriate design reference and editorial assessment still need review.",
+      "methodology": "editorial",
+      "rationale": "Applicable assessment remains unresolved after source review.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "Configuration-specific support remains incomplete."
+      ],
+      "conflictingEvidence": [
+        "A 2010–2015 review title masks a 2011 LT manual test. Do not transfer it to LFX."
+      ]
     }
   },
   "ownership": {
@@ -219,7 +271,7 @@
     "partsAvailability": null,
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "Moderate",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -234,13 +286,205 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "partial",
+    "scores": "unrated",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
       "Review durability evidence for this configuration.",
       "Review driving evidence for this configuration.",
       "Review design evidence for this configuration.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Find LFX manual road test, visual reference and service/cost review matched to LS3."
+    ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "lfx-chain",
+      "claim": "GM lists 2012 LFX Camaro timing-chain service in bulletin 12-06-01-009F.",
+      "sourceIds": [
+        "cam-v6-chain"
+      ],
+      "location": "Pages 1–3, models and chain-service instructions",
+      "establishes": "Documented repair mechanism and model-year scope.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "che-cam-f5-lfx",
+        "generation": "Fifth generation",
+        "engineCode": "LFX",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2012,
+          "to": 2012
+        },
+        "status": "partial",
+        "limitations": "No incidence or transfer of this Camaro scope to 2013–2015."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    },
+    {
+      "id": "lfx-drive-gap",
+      "claim": "The grouped review’s rated manual LT is identified as a 2011 test car.",
+      "sourceIds": [
+        "cam-cg-review"
+      ],
+      "location": "Road Test; Model Tested",
+      "establishes": "Why the V6 test is not LFX evidence.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "che-cam-f5-lfx",
+        "generation": "Fifth generation",
+        "engineCode": "LFX",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2012,
+          "to": 2015
+        },
+        "status": "unresolved",
+        "limitations": "2011 LLT behavior cannot determine the LFX tier."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "limited",
+        "note": "2012 chain-service exposure; later coverage unresolved.",
+        "evidenceIds": [
+          "lfx-chain"
+        ]
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "limited",
+        "note": "Repair scope but no current shop inputs.",
+        "evidenceIds": [
+          "lfx-chain"
+        ]
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "unknown",
+        "note": "Applicable first-hand steering evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "chassis": {
+        "status": "unknown",
+        "note": "Applicable first-hand chassis evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "shift": {
+        "status": "unknown",
+        "note": "Applicable first-hand shift evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "powertrain": {
+        "status": "unknown",
+        "note": "Applicable first-hand powertrain evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "braking": {
+        "status": "unknown",
+        "note": "Applicable first-hand braking evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "roadSpeeds": {
+        "status": "unknown",
+        "note": "Applicable first-hand roadSpeeds evaluation unresolved.",
+        "evidenceIds": []
+      }
+    },
+    "risks": [
+      {
+        "mechanism": "Timing-chain stretch with diagnostic codes; consequential repair exposure.",
+        "evidenceIds": [
+          "lfx-chain"
+        ],
+        "affectedYears": {
+          "from": 2012,
+          "to": 2012
+        },
+        "incidence": "unknown",
+        "severity": "high",
+        "preventability": "Follow applicable service guidance; no supported prevention probability.",
+        "residualRisk": "Not quantified by inspected material; prevention is not a guarantee.",
+        "evidenceStrength": "documented mechanism",
+        "ageDependent": true
+      }
+    ],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Find LFX manual road test, visual reference and service/cost review matched to LS3."
+    ],
+    "conflicts": [
+      "A 2010–2015 review title masks a 2011 LT manual test. Do not transfer it to LFX."
     ]
   }
 }

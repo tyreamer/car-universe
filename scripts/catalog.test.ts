@@ -13,10 +13,10 @@ const assessed = catalog.vehicles.find(car => car.id === 'maz-mx5-na16')!
 test('initial manifest compiles to 200 unique configurations', () => {
   assert.equal(catalog.vehicles.length, 200)
   assert.equal(new Set(catalog.vehicles.map(car => car.id)).size, 200)
-  assert.ok(summarizeCatalog(catalog).chartReady > 0)
+  assert.equal(summarizeCatalog(catalog).chartReady, catalog.vehicles.filter(c => c.scores.longevity.value !== null && c.scores.drivingEnjoyment.value !== null).length)
 })
 test('a score requires supporting evidence and five-point increments', () => {
-  const score = assessed.scores.longevity
+  const score = assessed.scores.drivingEnjoyment
   assert.ok(scoreSchema.safeParse(score).success)
   for (const patch of [{ value: 83 }, { value: 105 }, { reviewedAt: null }, { evidence: [] }, { confidence: 'unrated' }, { rationale: '' }]) {
     assert.equal(scoreSchema.safeParse({ ...score, ...patch }).success, false)

@@ -35,7 +35,7 @@
   },
   "specs": {
     "engineCode": "MZR 2.0",
-    "displacementL": 2.0,
+    "displacementL": 2,
     "cylinders": 4,
     "cylinderLayout": "Inline",
     "aspiration": "Naturally aspirated",
@@ -134,10 +134,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 75,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The revised 2.0 still shares the NC coolant-reservoir exposure. The engine changes do not establish a higher durability anchor.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [
         {
           "text": "Revised NC powertrain and chassis observations.",
@@ -164,13 +164,24 @@
         "maz-nc-tank"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 75,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The revised NC has modest consumables with the same age-sensitive cooling inspection. No representative shop-cost estimate is available.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "Revised NC powertrain and chassis observations.",
@@ -197,24 +208,29 @@
         "maz-nc-tank"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 90,
-      "confidence": "medium",
+      "value": 95,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The revised engine responds eagerly high in the rev range and the chassis retains useful feedback. The NC still feels substantial beside an NA or ND.",
+      "rationale": "Same benchmark involvement tier as NA and ND; option and test differences do not justify a finer ranking.",
       "evidence": [
         {
-          "text": "Revised NC powertrain and chassis observations.",
+          "text": "Revised manual test reports responsive handling, improved shifts and an eager engine.",
           "sourceIds": [
             "maz-nc09-test"
-          ]
-        },
-        {
-          "text": "Four-generation timeline and design evolution.",
-          "sourceIds": [
-            "maz-miata-history"
           ]
         }
       ],
@@ -223,24 +239,49 @@
         "maz-miata-history"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 95,
+        "anchorReason": "Same benchmark involvement tier as NA and ND; option and test differences do not justify a finer ranking.",
+        "evidenceIds": [
+          "nc-road"
+        ],
+        "adjustments": [],
+        "finalValue": 95,
+        "comparison": {
+          "referenceIds": [
+            "maz-mx5-na16",
+            "maz-mx5-nd2"
+          ],
+          "decisionIds": [
+            "miata-na-nc",
+            "miata-nc-nd"
+          ],
+          "rationale": "Tie: both fit involvement anchor; test era and options do not justify five-point precision. Tie: engine revisions do not automatically raise an already broad enjoyment tier."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "2009 Grand Touring Sport package; option-dependent handling and later years not separately tested."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
       "value": 80,
-      "confidence": "medium",
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The facelift nose defines the rounded shape more clearly, with familiar broad arches.",
+      "rationale": "Rounded arches and facelift details retain a coherent roadster shape; visual bulk is a reservation without a fine tier penalty. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "Revised NC powertrain and chassis observations.",
+          "text": "Revised manual test reports responsive handling, improved shifts and an eager engine.",
           "sourceIds": [
             "maz-nc09-test"
-          ]
-        },
-        {
-          "text": "Four-generation timeline and design evolution.",
-          "sourceIds": [
-            "maz-miata-history"
           ]
         }
       ],
@@ -249,7 +290,38 @@
         "maz-miata-history"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Rounded arches and facelift details retain a coherent roadster shape; visual bulk is a reservation without a fine tier penalty. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "nc-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "maz-mx5-na16",
+            "maz-mx5-nd2"
+          ],
+          "decisionIds": [
+            "miata-na-nc",
+            "miata-nc-nd"
+          ],
+          "rationale": "Tie: coherent roadsters with different proportion reservations. Tie: no objective beauty or fine taste increment."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "2009 Grand Touring Sport package; option-dependent handling and later years not separately tested."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -277,7 +349,7 @@
     "partsAvailability": null,
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "Low",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -306,10 +378,210 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "partial",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "nc-road",
+      "claim": "Revised manual test reports responsive handling, improved shifts and an eager engine.",
+      "sourceIds": [
+        "maz-nc09-test"
+      ],
+      "location": "A Willing Partner; Always Fun",
+      "establishes": "Firsthand revised NC driving context.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "maz-mx5-nc2",
+        "generation": "NC2/NC3",
+        "engineCode": "MZR 2.0",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2009,
+          "to": 2009
+        },
+        "status": "partial",
+        "limitations": "2009 Grand Touring Sport package; option-dependent handling and later years not separately tested."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    },
+    {
+      "id": "nc-reservoir",
+      "claim": "Specialist describes deterioration of the original pressurized plastic reservoir.",
+      "sourceIds": [
+        "maz-nc-tank"
+      ],
+      "location": "Product technical description",
+      "establishes": "A coolant-loss mechanism.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "maz-mx5-nc2",
+        "generation": "NC2/NC3",
+        "engineCode": "MZR 2.0",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2009,
+          "to": 2015
+        },
+        "status": "partial",
+        "limitations": "Commercial supplier; no denominator or claim that all cars fail."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "limited",
+        "note": "Reservoir deterioration can lose coolant.",
+        "evidenceIds": [
+          "nc-reservoir"
+        ]
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "limited",
+        "note": "Reservoir renewal separate from scheduled costs.",
+        "evidenceIds": [
+          "nc-reservoir"
+        ]
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Directional response praised.",
+        "evidenceIds": [
+          "nc-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Sport-package rotation; ride compromise.",
+        "evidenceIds": [
+          "nc-road"
+        ]
+      },
+      "shift": {
+        "status": "limited",
+        "note": "Improved synchronizers.",
+        "evidenceIds": [
+          "nc-road"
+        ]
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "Higher-rpm response.",
+        "evidenceIds": [
+          "nc-road"
+        ]
+      },
+      "braking": {
+        "status": "limited",
+        "note": "Competence described.",
+        "evidenceIds": [
+          "nc-road"
+        ]
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Responsive character; noise remains.",
+        "evidenceIds": [
+          "nc-road"
+        ]
+      }
+    },
+    "risks": [
+      {
+        "mechanism": "Coolant loss can cause overheating.",
+        "evidenceIds": [
+          "nc-reservoir"
+        ],
+        "affectedYears": {
+          "from": 2009,
+          "to": 2015
+        },
+        "incidence": "unknown",
+        "severity": "high",
+        "preventability": "Inspection and appropriate renewal; other cooling failures remain possible.",
+        "residualRisk": "Not quantified by inspected material; prevention is not a guarantee.",
+        "evidenceStrength": "documented mechanism",
+        "ageDependent": true
+      }
+    ],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
   }
 }

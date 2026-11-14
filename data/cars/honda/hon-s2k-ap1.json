@@ -32,7 +32,7 @@
   },
   "specs": {
     "engineCode": "F20C",
-    "displacementL": 2.0,
+    "displacementL": 2,
     "cylinders": 4,
     "cylinderLayout": "Inline",
     "aspiration": "Naturally aspirated",
@@ -131,10 +131,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 75,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The F20C can tolerate hard use with attentive service, but oil-level vigilance and evidence of abuse matter on used cars.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [
         {
           "text": "AP1 and AP2 distinctions, used inspection and maintenance considerations.",
@@ -154,13 +154,24 @@
         "s2k-ap1-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 70,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Routine four-cylinder service is manageable. Neglect or mechanical over-rev can make the repair exposure much larger than the routine bill.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "AP1 and AP2 distinctions, used inspection and maintenance considerations.",
@@ -180,16 +191,27 @@
         "s2k-ap1-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 95,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The shifter and upper-rpm response are exceptional. The narrow power band and early chassis demand an active driver.",
+      "rationale": "Rewarding controls fit 80; road-speed power-band compromises prevent a universal benchmark claim. Boxster tie acknowledges different preferences.",
       "evidence": [
         {
-          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "text": "The comparison finds precise AP1 controls and a high-rpm emphasis.",
           "sourceIds": [
             "s2k-ap1-test"
           ]
@@ -199,16 +221,45 @@
         "s2k-ap1-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Rewarding controls fit 80; road-speed power-band compromises prevent a universal benchmark claim. Boxster tie acknowledges different preferences.",
+        "evidenceIds": [
+          "ap1-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "por-box-986-25"
+          ],
+          "decisionIds": [
+            "roadsters"
+          ],
+          "rationale": "Tie: high-rpm precision and road composure appeal to different preferences."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "One 2000 test; later changes and driver preferences vary."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 90,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "A low cabin, long hood and restrained sides make the original roadster visually cohesive.",
+      "rationale": "Long hood and restrained sides are coherent; conservative detailing is a reservation. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "text": "The comparison finds precise AP1 controls and a high-rpm emphasis.",
           "sourceIds": [
             "s2k-ap1-test"
           ]
@@ -218,7 +269,36 @@
         "s2k-ap1-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Long hood and restrained sides are coherent; conservative detailing is a reservation. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "ap1-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "por-box-986-25"
+          ],
+          "decisionIds": [
+            "roadsters"
+          ],
+          "rationale": "Tie: coherent roadsters with different detailing reservations."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "One 2000 test; later changes and driver preferences vary."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -237,7 +317,7 @@
     "partsAvailability": null,
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "Low",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -265,10 +345,163 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "partial",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Substantiate oil, over-rev, gearbox, cooling, electrical and corrosion risks without reputation-based assumptions."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "ap1-road",
+      "claim": "The comparison finds precise AP1 controls and a high-rpm emphasis.",
+      "sourceIds": [
+        "s2k-ap1-test"
+      ],
+      "location": "Honda S2000 section",
+      "establishes": "Firsthand AP1 manual evaluation.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "hon-s2k-ap1",
+        "generation": "AP1",
+        "engineCode": "F20C",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2000,
+          "to": 2000
+        },
+        "status": "partial",
+        "limitations": "One 2000 test; later changes and driver preferences vary."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Accurate.",
+        "evidenceIds": [
+          "ap1-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Controlled and responsive.",
+        "evidenceIds": [
+          "ap1-road"
+        ]
+      },
+      "shift": {
+        "status": "limited",
+        "note": "Precise short shifts.",
+        "evidenceIds": [
+          "ap1-road"
+        ]
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "High-rpm emphasis.",
+        "evidenceIds": [
+          "ap1-road"
+        ]
+      },
+      "braking": {
+        "status": "limited",
+        "note": "Strong response.",
+        "evidenceIds": [
+          "ap1-road"
+        ]
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Low-speed access differs from high-rpm reward.",
+        "evidenceIds": [
+          "ap1-road"
+        ]
+      }
+    },
+    "risks": [],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Substantiate oil, over-rev, gearbox, cooling, electrical and corrosion risks without reputation-based assumptions."
+    ],
+    "conflicts": []
   }
 }

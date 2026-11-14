@@ -64,7 +64,7 @@
     "supports": [
       "Early U.S. SW20 Turbo specifications and driving behavior."
     ],
-    "limitations": "The road test precedes the 1993 chassis revision.",
+    "limitations": "Title says 1992, but the body describes revised links, wheels and brakes associated with the later U.S. suspension revision. Not clean early-car evidence; exact test model year needs reconciliation.",
     "accessedAt": "2026-11-13",
     "author": null,
     "publishedAt": null
@@ -2882,5 +2882,61 @@
       "Shows a red naturally aspirated 1987 Toyota MR2 T-Bar used in the Explorer."
     ],
     "limitations": "Photo illustrates the AW11 design. It does not establish the market or exact equipment of other cars. CC BY-SA 3.0, resized and converted to WebP."
+  },
+  {
+    "id": "mr2-cg-review",
+    "publisher": "Consumer Guide Auto",
+    "title": "1991–95 Toyota MR2 road test and model-year review",
+    "url": "https://consumerguide.com/used/1991-95-toyota-mr2/",
+    "author": null,
+    "publishedAt": null,
+    "accessedAt": "2026-11-13",
+    "category": "road test",
+    "supports": [
+      "Road Test and Yearly Updates distinguish base manual and Turbo."
+    ],
+    "limitations": "Aggregates years. Exact test-year attribution is incomplete; overview has a turbo-displacement typo. No failure denominator."
+  },
+  {
+    "id": "cam-cg-review",
+    "publisher": "Consumer Guide Auto",
+    "title": "2010–15 Chevrolet Camaro road test and model-year review",
+    "url": "https://consumerguide.com/used/2010-15-chevrolet-camaro/",
+    "author": null,
+    "publishedAt": null,
+    "accessedAt": "2026-11-13",
+    "category": "road test",
+    "supports": [
+      "Manual V6 test attribution and model-year updates."
+    ],
+    "limitations": "Rated test is a 2011 LT, not LFX. Trouble spots mix engines; retrieve original bulletins before applying."
+  },
+  {
+    "id": "fit-ge-test",
+    "publisher": "Car and Driver",
+    "title": "2009 Honda Fit Sport manual road test",
+    "url": "https://www.caranddriver.com/reviews/a15143108/2009-honda-fit-sport-road-test/",
+    "author": null,
+    "publishedAt": null,
+    "accessedAt": "2026-11-13",
+    "category": "road test",
+    "supports": [
+      "Firsthand steering, shift, chassis and brake evaluation."
+    ],
+    "limitations": "2009 Sport equipment; later years and base tires not directly tested."
+  },
+  {
+    "id": "camry-le-test",
+    "publisher": "Autoweek",
+    "title": "2012 Toyota Camry LE review notes",
+    "url": "https://www.autoweek.com/drives/a1958891/2012-toyota-camry-le-review-notes-still-americas-go-midsize-sedan/",
+    "author": null,
+    "publishedAt": null,
+    "accessedAt": "2026-11-13",
+    "category": "road test",
+    "supports": [
+      "Firsthand 2.5 six-speed automatic LE impressions."
+    ],
+    "limitations": "SE tune and 2015 facelift are not directly evaluated."
   }
 ]

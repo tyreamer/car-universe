@@ -117,10 +117,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 60,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "A documented IMS bearing failure mechanism can lead to major engine work. Its rate for this configuration remains uncertain.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [
         {
           "text": "The specialist reference documents bearing types and serviceability by engine and model year.",
@@ -147,13 +147,24 @@
         "s2k-ap1-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 45,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Mid-engine service access and engine-scale bearing exposure put even the early base car in the high tier.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "The specialist reference documents bearing types and serviceability by engine and model year.",
@@ -180,22 +191,27 @@
         "s2k-ap1-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 90,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "Steering and predictable balance stand out. Modest output and softer shift action temper involvement beside the AP1.",
+      "rationale": "Rewarding road behavior fits 80; shift limitations balance steering appeal. AP1 tie avoids a universal preference ranking.",
       "evidence": [
         {
-          "text": "Porsche model histories, variant tables and chassis changes.",
-          "sourceIds": [
-            "por-classic"
-          ]
-        },
-        {
-          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "text": "The comparison favors Boxster steering but finds shifts less precise.",
           "sourceIds": [
             "s2k-ap1-test"
           ]
@@ -206,22 +222,45 @@
         "s2k-ap1-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Rewarding road behavior fits 80; shift limitations balance steering appeal. AP1 tie avoids a universal preference ranking.",
+        "evidenceIds": [
+          "986-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "hon-s2k-ap1"
+          ],
+          "decisionIds": [
+            "roadsters"
+          ],
+          "rationale": "Tie: high-rpm precision and road composure appeal to different preferences."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "Sport package and 18-inch wheels; equipment-sensitive."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 85,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The clean mid-engine profile is strong, while the large combination lamps are more divisive.",
+      "rationale": "The mid-engine silhouette is coherent; combined lamp shapes remain a reservation. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "Porsche model histories, variant tables and chassis changes.",
-          "sourceIds": [
-            "por-classic"
-          ]
-        },
-        {
-          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "text": "The comparison favors Boxster steering but finds shifts less precise.",
           "sourceIds": [
             "s2k-ap1-test"
           ]
@@ -232,7 +271,36 @@
         "s2k-ap1-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "The mid-engine silhouette is coherent; combined lamp shapes remain a reservation. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "986-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "hon-s2k-ap1"
+          ],
+          "decisionIds": [
+            "roadsters"
+          ],
+          "rationale": "Tie: coherent roadsters with different detailing reservations."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "Sport package and 18-inch wheels; equipment-sensitive."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -260,7 +328,7 @@
     "partsAvailability": null,
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "High",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -290,10 +358,210 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "partial",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "986-road",
+      "claim": "The comparison favors Boxster steering but finds shifts less precise.",
+      "sourceIds": [
+        "s2k-ap1-test"
+      ],
+      "location": "Porsche Boxster section",
+      "establishes": "Firsthand 1999 2.5 manual comparison.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "por-box-986-25",
+        "generation": "986",
+        "engineCode": null,
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1999,
+          "to": 1999
+        },
+        "status": "partial",
+        "limitations": "Sport package and 18-inch wheels; equipment-sensitive."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    },
+    {
+      "id": "986-ims",
+      "claim": "The specialist distinguishes early dual-row IMS bearings from later applications.",
+      "sourceIds": [
+        "por-ims"
+      ],
+      "location": "Problem Years at a Glance",
+      "establishes": "Bearing-application distinction.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "por-box-986-25",
+        "generation": "986",
+        "engineCode": null,
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1997,
+          "to": 1999
+        },
+        "status": "partial",
+        "limitations": "Commercial specialist; later-bearing rates are not transferred to the 1997–1999 2.5."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "limited",
+        "note": "Confirm fitted bearing and engine history.",
+        "evidenceIds": [
+          "986-ims"
+        ]
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "limited",
+        "note": "Engine-scale exposure without relevant probability.",
+        "evidenceIds": [
+          "986-ims"
+        ]
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Strong feedback.",
+        "evidenceIds": [
+          "986-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Predictable balance.",
+        "evidenceIds": [
+          "986-road"
+        ]
+      },
+      "shift": {
+        "status": "limited",
+        "note": "Less precise action.",
+        "evidenceIds": [
+          "986-road"
+        ]
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "Limited thrust.",
+        "evidenceIds": [
+          "986-road"
+        ]
+      },
+      "braking": {
+        "status": "limited",
+        "note": "Road braking positive; track fade.",
+        "evidenceIds": [
+          "986-road"
+        ]
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Road composure is a strength.",
+        "evidenceIds": [
+          "986-road"
+        ]
+      }
+    },
+    "risks": [
+      {
+        "mechanism": "IMS bearing deterioration can cause major engine damage.",
+        "evidenceIds": [
+          "986-ims"
+        ],
+        "affectedYears": {
+          "from": 1997,
+          "to": 1999
+        },
+        "incidence": "unknown",
+        "severity": "high",
+        "preventability": "Identify fitted bearing and review preventive options; replacement engines complicate applicability.",
+        "residualRisk": "Not quantified by inspected material; prevention is not a guarantee.",
+        "evidenceStrength": "documented mechanism",
+        "ageDependent": true
+      }
+    ],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
   }
 }

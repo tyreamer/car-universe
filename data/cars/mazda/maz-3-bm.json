@@ -32,7 +32,7 @@
   },
   "specs": {
     "engineCode": "Skyactiv-G 2.0",
-    "displacementL": 2.0,
+    "displacementL": 2,
     "cylinders": 4,
     "cylinderLayout": "Inline",
     "aspiration": "Naturally aspirated",
@@ -131,38 +131,54 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
-      "value": 75,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "Responsive steering and a well-matched conventional automatic add involvement to ordinary trips. The 2.0 has limited reserve when loaded.",
+      "rationale": "Rewarding responses fit 80 with output limitations. Fit tie recognizes transmission preferences without a manual-only rule.",
       "evidence": [
         {
-          "text": "2014 2.0 automatic sedan specs and road behavior.",
+          "text": "The 2.0 automatic test praises steering, shift calibration and brake modulation despite modest output.",
           "sourceIds": [
             "maz-3-test"
-          ]
-        },
-        {
-          "text": "Comparative observations on 2014 mainstream sedans.",
-          "sourceIds": [
-            "compact-14"
           ]
         }
       ],
@@ -171,24 +187,49 @@
         "compact-14"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Rewarding responses fit 80 with output limitations. Fit tie recognizes transmission preferences without a manual-only rule.",
+        "evidenceIds": [
+          "maz3-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "hon-fit-ge",
+            "toy-cor-e170"
+          ],
+          "decisionIds": [
+            "ordinary-engaging",
+            "ordinary-span"
+          ],
+          "rationale": "Tie: steering and responses support involvement across different transmissions. Mazda3 higher: applicable evaluations describe richer control feedback; Corolla fits agreeable anchor. Broad editorial distinction."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "Touring equipment; later updates and other engines not directly tested."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 75,
-      "confidence": "medium",
+      "value": 65,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The rearward-looking cabin and sculpted sides give it stance. The grille adds a stronger graphic than the other details.",
+      "rationale": "Sculpted sedan outline is appealing but familiar; prominent front detailing keeps it in the mixed-detail tier. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "2014 2.0 automatic sedan specs and road behavior.",
+          "text": "The 2.0 automatic test praises steering, shift calibration and brake modulation despite modest output.",
           "sourceIds": [
             "maz-3-test"
-          ]
-        },
-        {
-          "text": "Comparative observations on 2014 mainstream sedans.",
-          "sourceIds": [
-            "compact-14"
           ]
         }
       ],
@@ -197,7 +238,38 @@
         "compact-14"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 65,
+        "anchorReason": "Sculpted sedan outline is appealing but familiar; prominent front detailing keeps it in the mixed-detail tier. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "maz3-road"
+        ],
+        "adjustments": [],
+        "finalValue": 65,
+        "comparison": {
+          "referenceIds": [
+            "hon-fit-ge",
+            "toy-cor-e170"
+          ],
+          "decisionIds": [
+            "ordinary-engaging",
+            "ordinary-span"
+          ],
+          "rationale": "Tie: purposeful designs in mixed-detail tier. Mazda3 higher in assessor taste: sculpting versus conventional outline. Subjective, not source-established."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "Touring equipment; later updates and other engines not directly tested."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -244,7 +316,158 @@
       "Complete missing factory specifications and applicable test-weight measurements.",
       "Review durability evidence for this configuration.",
       "Review mechanical cost evidence for this configuration.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "maz3-road",
+      "claim": "The 2.0 automatic test praises steering, shift calibration and brake modulation despite modest output.",
+      "sourceIds": [
+        "maz-3-test"
+      ],
+      "location": "Dynamics and automatic-transmission paragraphs",
+      "establishes": "Firsthand 2014 sedan observations.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "maz-3-bm",
+        "generation": "BM/BN",
+        "engineCode": "Skyactiv-G 2.0",
+        "transmission": "Automatic",
+        "market": "US",
+        "years": {
+          "from": 2014,
+          "to": 2014
+        },
+        "status": "partial",
+        "limitations": "Touring equipment; later updates and other engines not directly tested."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Communicative and accurate.",
+        "evidenceIds": [
+          "maz3-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Controlled and responsive.",
+        "evidenceIds": [
+          "maz3-road"
+        ]
+      },
+      "shift": {
+        "status": "limited",
+        "note": "Well-calibrated automatic.",
+        "evidenceIds": [
+          "maz3-road"
+        ]
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "Modest output rewards momentum.",
+        "evidenceIds": [
+          "maz3-road"
+        ]
+      },
+      "braking": {
+        "status": "limited",
+        "note": "Good modulation.",
+        "evidenceIds": [
+          "maz3-road"
+        ]
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Rewarding everyday dynamics.",
+        "evidenceIds": [
+          "maz3-road"
+        ]
+      }
+    },
+    "risks": [],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
   }
 }

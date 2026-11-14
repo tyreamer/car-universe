@@ -136,30 +136,52 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [],
       "sourceIds": [],
-      "reviewedAt": null,
-      "methodologyVersion": "1.0.0"
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
       "value": 80,
-      "confidence": "medium",
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The manual LS3 brings powertrain character and the chassis has grip. Mass, size and visibility limit placement on narrow roads.",
+      "rationale": "A rewarding manual powertrain and chassis support 80 with size and visibility reservations. The LFX ordering remains unknown.",
       "evidence": [
         {
-          "text": "LS3 manual performance and driving behavior.",
+          "text": "The test separates LS3/manual and L99/automatic and evaluates steering and clutch/shift behavior.",
           "sourceIds": [
             "cam-ss-10"
           ]
@@ -169,16 +191,47 @@
         "cam-ss-10"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "A rewarding manual powertrain and chassis support 80 with size and visibility reservations. The LFX ordering remains unknown.",
+        "evidenceIds": [
+          "ls3-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "che-cam-f5-lfx",
+            "bmw-m3-e46-m"
+          ],
+          "decisionIds": [
+            "camaro",
+            "m3-camaro"
+          ],
+          "rationale": "Unknown: LFX-specific manual evaluation missing while LS3 has applicable evidence. Tie: rewarding but compromised road experiences; power and badge do not force order."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "2010 test; later FE4 and facelift changes need separate comparison."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 85,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "Wide shoulders and a narrow cabin give it strong muscle-car identity. The tall sides add visual weight.",
+      "rationale": "Shoulders and a low roof give a clear muscle-car identity; tall sides and narrow glasshouse are reservations. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "LS3 manual performance and driving behavior.",
+          "text": "The test separates LS3/manual and L99/automatic and evaluates steering and clutch/shift behavior.",
           "sourceIds": [
             "cam-ss-10"
           ]
@@ -188,7 +241,38 @@
         "cam-ss-10"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Shoulders and a low roof give a clear muscle-car identity; tall sides and narrow glasshouse are reservations. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "ls3-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "che-cam-f5-lfx",
+            "bmw-m3-e46-m"
+          ],
+          "decisionIds": [
+            "camaro",
+            "m3-camaro"
+          ],
+          "rationale": "Unknown: no inspected LFX-specific design reference used. Tie: distinct coherent identities with reservations."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "2010 test; later FE4 and facelift changes need separate comparison."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -233,7 +317,158 @@
       "Complete missing factory specifications and applicable test-weight measurements.",
       "Review durability evidence for this configuration.",
       "Review mechanical cost evidence for this configuration.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Collect LS3 transmission, cooling, electrical and corrosion evidence; do not import L99/AFM claims."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "ls3-road",
+      "claim": "The test separates LS3/manual and L99/automatic and evaluates steering and clutch/shift behavior.",
+      "sourceIds": [
+        "cam-ss-10"
+      ],
+      "location": "Stick to the Stick; handling and cabin paragraphs",
+      "establishes": "Applicable manual driving impressions.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "che-cam-f5-ls3",
+        "generation": "Fifth generation",
+        "engineCode": "LS3",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2010,
+          "to": 2010
+        },
+        "status": "partial",
+        "limitations": "2010 test; later FE4 and facelift changes need separate comparison."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "unknown",
+        "note": "No comparable documented repairs inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Useful on-center feedback.",
+        "evidenceIds": [
+          "ls3-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Grip and independent suspension evaluated.",
+        "evidenceIds": [
+          "ls3-road"
+        ]
+      },
+      "shift": {
+        "status": "limited",
+        "note": "Usable clutch and shift.",
+        "evidenceIds": [
+          "ls3-road"
+        ]
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "LS3 distinct from L99.",
+        "evidenceIds": [
+          "ls3-road"
+        ]
+      },
+      "braking": {
+        "status": "unknown",
+        "note": "Applicable first-hand braking evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Size and visibility limit placement.",
+        "evidenceIds": [
+          "ls3-road"
+        ]
+      }
+    },
+    "risks": [],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Collect LS3 transmission, cooling, electrical and corrosion evidence; do not import L99/AFM claims."
+    ],
+    "conflicts": []
   }
 }

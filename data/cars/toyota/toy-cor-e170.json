@@ -127,10 +127,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 70,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "The powertrain is relatively straightforward, with a documented CVT software and wear concern on eligible 2014–2017 cars. Long-term evidence is narrower than the full selection.",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [
         {
           "text": "Toyota documents abnormal CVT valve wear and the replacement remedy for eligible 2014–2017 Corollas.",
@@ -164,13 +164,24 @@
         "compact-14"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 75,
-      "confidence": "low",
+      "value": null,
+      "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Ordinary consumables and accessible routine service support a low tier, with a reserve for CVT exposure and a check of campaign history.",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "Toyota documents abnormal CVT valve wear and the replacement remedy for eligible 2014–2017 Corollas.",
@@ -204,30 +215,29 @@
         "compact-14"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
       "value": 50,
-      "confidence": "medium",
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "Easy controls and a comfortable chassis suit commuting. The steering and CVT offer modest involvement.",
+      "rationale": "Agreeable, modest involvement fits 50. Tied with Camry without a CVT penalty or brand default.",
       "evidence": [
         {
-          "text": "2014 Corolla CVT variants and observed chassis behavior.",
+          "text": "The drive finds a smoother CVT and ride, with limited low-rpm response.",
           "sourceIds": [
             "toy-corolla-test"
-          ]
-        },
-        {
-          "text": "Factory service schedule and applicable operating conditions.",
-          "sourceIds": [
-            "toy-corolla-service"
-          ]
-        },
-        {
-          "text": "Comparative observations on 2014 mainstream sedans.",
-          "sourceIds": [
-            "compact-14"
           ]
         }
       ],
@@ -237,30 +247,49 @@
         "compact-14"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 50,
+        "anchorReason": "Agreeable, modest involvement fits 50. Tied with Camry without a CVT penalty or brand default.",
+        "evidenceIds": [
+          "corolla-road"
+        ],
+        "adjustments": [],
+        "finalValue": 50,
+        "comparison": {
+          "referenceIds": [
+            "toy-cam-xv50",
+            "maz-3-bm"
+          ],
+          "decisionIds": [
+            "ordinary-comfort",
+            "ordinary-span"
+          ],
+          "rationale": "Tie: comfort-focused evaluations fit modest involvement without fine ranking. Mazda3 higher: applicable evaluations describe richer control feedback; Corolla fits agreeable anchor. Broad editorial distinction."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "2014 trims grouped; Eco engine and later revisions excluded from inference."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 55,
-      "confidence": "medium",
+      "value": 50,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The conventional outline is clean, with a busier front graphic providing most of the identity.",
+      "rationale": "The conventional sedan outline has limited visual identity to this assessor; sharper details do not establish a distinct higher tier. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "2014 Corolla CVT variants and observed chassis behavior.",
+          "text": "The drive finds a smoother CVT and ride, with limited low-rpm response.",
           "sourceIds": [
             "toy-corolla-test"
-          ]
-        },
-        {
-          "text": "Factory service schedule and applicable operating conditions.",
-          "sourceIds": [
-            "toy-corolla-service"
-          ]
-        },
-        {
-          "text": "Comparative observations on 2014 mainstream sedans.",
-          "sourceIds": [
-            "compact-14"
           ]
         }
       ],
@@ -270,7 +299,38 @@
         "compact-14"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 50,
+        "anchorReason": "The conventional sedan outline has limited visual identity to this assessor; sharper details do not establish a distinct higher tier. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "corolla-road"
+        ],
+        "adjustments": [],
+        "finalValue": 50,
+        "comparison": {
+          "referenceIds": [
+            "toy-cam-xv50",
+            "maz-3-bm"
+          ],
+          "decisionIds": [
+            "ordinary-comfort",
+            "ordinary-span"
+          ],
+          "rationale": "Unknown: Camry restyle design coverage missing. Mazda3 higher in assessor taste: sculpting versus conventional outline. Subjective, not source-established."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "2014 trims grouped; Eco engine and later revisions excluded from inference."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -304,7 +364,7 @@
     "partsAvailability": null,
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "Low",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -335,10 +395,208 @@
   "research": {
     "specifications": "partial",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "partial",
     "followUp": [
       "Complete missing factory specifications and applicable test-weight measurements.",
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "corolla-road",
+      "claim": "The drive finds a smoother CVT and ride, with limited low-rpm response.",
+      "sourceIds": [
+        "toy-corolla-test"
+      ],
+      "location": "Quieter, Smoother; CVT paragraph",
+      "establishes": "CVT driving context separate from manual observations.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "toy-cor-e170",
+        "generation": "E170",
+        "engineCode": "2ZR-FE",
+        "transmission": "CVT",
+        "market": "US",
+        "years": {
+          "from": 2014,
+          "to": 2014
+        },
+        "status": "partial",
+        "limitations": "2014 trims grouped; Eco engine and later revisions excluded from inference."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    },
+    {
+      "id": "corolla-campaign",
+      "claim": "Toyota JSD covers specified 2014–2017 Corolla CVT cars.",
+      "sourceIds": [
+        "toy-cvt-jsd"
+      ],
+      "location": "Dealer letter: condition and remedy",
+      "establishes": "Scoped software/wear concern and remedy.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "toy-cor-e170",
+        "generation": "E170",
+        "engineCode": "2ZR-FE",
+        "transmission": "CVT",
+        "market": "US",
+        "years": {
+          "from": 2014,
+          "to": 2017
+        },
+        "status": "partial",
+        "limitations": "VIN eligibility matters; coverage is not incidence and does not cover 2018–2019 here."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific engine durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "transmission": {
+        "status": "limited",
+        "note": "Scoped campaign, no fleet failure rate.",
+        "evidenceIds": [
+          "corolla-campaign"
+        ]
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific structure durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "limited",
+        "note": "Remedy does not establish average spending.",
+        "evidenceIds": [
+          "corolla-campaign"
+        ]
+      },
+      "ageRelated": {
+        "status": "unknown",
+        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Response improved; detailed feedback evidence limited.",
+        "evidenceIds": [
+          "corolla-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Comfort emphasis.",
+        "evidenceIds": [
+          "corolla-road"
+        ]
+      },
+      "shift": {
+        "status": "limited",
+        "note": "CVT evaluated separately.",
+        "evidenceIds": [
+          "corolla-road"
+        ]
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "Limited low-rpm response.",
+        "evidenceIds": [
+          "corolla-road"
+        ]
+      },
+      "braking": {
+        "status": "unknown",
+        "note": "Applicable first-hand braking evaluation unresolved.",
+        "evidenceIds": []
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Agreeable commuting emphasis.",
+        "evidenceIds": [
+          "corolla-road"
+        ]
+      }
+    },
+    "risks": [
+      {
+        "mechanism": "CVT control software can contribute to abnormal component wear.",
+        "evidenceIds": [
+          "corolla-campaign"
+        ],
+        "affectedYears": {
+          "from": 2014,
+          "to": 2017
+        },
+        "incidence": "unknown",
+        "severity": "high",
+        "preventability": "Check VIN-specific JSD completion; not all covered cars failed.",
+        "residualRisk": "Not quantified by inspected material; prevention is not a guarantee.",
+        "evidenceStrength": "documented mechanism",
+        "ageDependent": false
+      }
+    ],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
   }
 }

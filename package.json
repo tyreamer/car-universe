@@ -9,7 +9,8 @@
     "validate:data": "tsx scripts/validate-catalog.ts",
     "build:data": "tsx scripts/build-catalog.ts",
     "audit:scores": "tsx scripts/audit-scores.ts",
-    "test": "tsx --test scripts/catalog.test.ts",
+    "test": "tsx --test scripts/*.test.ts",
+    "check": "npm run validate:data && npm run audit:scores -- --check && npm test && npm run build",
     "build": "npm run build:data && tsc --noEmit && vite build",
     "preview": "vite preview"
   },

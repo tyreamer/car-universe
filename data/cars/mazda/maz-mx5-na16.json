@@ -141,10 +141,10 @@
   },
   "scores": {
     "longevity": {
-      "value": 80,
-      "confidence": "medium",
-      "methodology": "evidence-based",
-      "rationale": "A straightforward 1.6 and five-speed support above-average durability. Corrosion and the early short-nose crank are consequential exceptions.",
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
       "evidence": [
         {
           "text": "NA generation changes, known inspection points and parts support.",
@@ -164,13 +164,24 @@
         "maz-na16-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "System coverage, incidence and residual risk remain incomplete."
+      ],
+      "conflictingEvidence": []
     },
     "ownershipCost": {
-      "value": 85,
-      "confidence": "medium",
-      "methodology": "evidence-based",
-      "rationale": "Small consumables and documented parts support keep routine burden low. Crank damage or structural rust can dominate the cost of a poor example.",
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
       "evidence": [
         {
           "text": "NA generation changes, known inspection points and parts support.",
@@ -190,16 +201,27 @@
         "maz-na16-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": null,
+      "uncertainties": [
+        "No matched independent-shop parts/labor basket or representative repair exposure."
+      ],
+      "conflictingEvidence": []
     },
     "drivingEnjoyment": {
       "value": 95,
-      "confidence": "medium",
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "Steering, shifter and low mass reward small inputs at attainable speeds. Modest output and body movement shape that experience.",
+      "rationale": "Benchmark feedback, shifts and ordinary-road involvement support 95. Evidence does not justify a five-point ordering against NC or ND.",
       "evidence": [
         {
-          "text": "NA 1.6 specifications and tested driving characteristics.",
+          "text": "Manual test praises responsive controls and road-speed involvement, noting pedal spacing and ride limits.",
           "sourceIds": [
             "maz-na16-test"
           ]
@@ -209,16 +231,47 @@
         "maz-na16-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "evidence-informed editorial",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 95,
+        "anchorReason": "Benchmark feedback, shifts and ordinary-road involvement support 95. Evidence does not justify a five-point ordering against NC or ND.",
+        "evidenceIds": [
+          "na-road"
+        ],
+        "adjustments": [],
+        "finalValue": 95,
+        "comparison": {
+          "referenceIds": [
+            "maz-mx5-nc2",
+            "hon-fit-ge"
+          ],
+          "decisionIds": [
+            "miata-na-nc",
+            "reference-roadster"
+          ],
+          "rationale": "Tie: both fit involvement anchor; test era and options do not justify five-point precision. Miata higher: ordinary-road involvement fits benchmark; Fit braking limitations retain rewarding anchor. Editorial distinction, not a population fact."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "1990 car and period tires; not every year or option."
+      ],
+      "conflictingEvidence": []
     },
     "aesthetics": {
-      "value": 90,
-      "confidence": "medium",
+      "value": 80,
+      "confidence": "low",
       "methodology": "editorial",
-      "rationale": "The low beltline, rounded surfaces and concealed lamps give the original roadster a distinctive face.",
+      "rationale": "Simple rounded surfaces and concealed lamps are coherent; a familiar retro reference is a reservation rather than an exceptional-beauty claim. Assessor taste, not a factual conclusion or a vote.",
       "evidence": [
         {
-          "text": "NA 1.6 specifications and tested driving characteristics.",
+          "text": "Manual test praises responsive controls and road-speed involvement, noting pedal spacing and ride limits.",
           "sourceIds": [
             "maz-na16-test"
           ]
@@ -228,7 +281,38 @@
         "maz-na16-test"
       ],
       "reviewedAt": "2026-11-13",
-      "methodologyVersion": "1.0.0"
+      "methodologyVersion": "2.0.0",
+      "assessmentType": "editorial taste",
+      "assessor": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      },
+      "reviewStatus": "ai-reviewed",
+      "derivation": {
+        "anchor": 80,
+        "anchorReason": "Simple rounded surfaces and concealed lamps are coherent; a familiar retro reference is a reservation rather than an exceptional-beauty claim. Assessor taste, not a factual conclusion or a vote.",
+        "evidenceIds": [
+          "na-road"
+        ],
+        "adjustments": [],
+        "finalValue": 80,
+        "comparison": {
+          "referenceIds": [
+            "maz-mx5-nc2",
+            "hon-fit-ge"
+          ],
+          "decisionIds": [
+            "miata-na-nc",
+            "reference-roadster"
+          ],
+          "rationale": "Tie: coherent roadsters with different proportion reservations. Miata higher in assessor taste: simpler low silhouette fits coherent rather than mixed-detail proportions."
+        }
+      },
+      "uncertainties": [
+        "Broad editorial tier; no within-tier ordering is established.",
+        "1990 car and period tires; not every year or option."
+      ],
+      "conflictingEvidence": []
     }
   },
   "ownership": {
@@ -269,7 +353,7 @@
     },
     "mechanicalComplexity": null,
     "maintenanceAccessibility": null,
-    "costTier": "Low",
+    "costTier": null,
     "annualCost": null
   },
   "character": {
@@ -298,9 +382,229 @@
   "research": {
     "specifications": "researched",
     "ownership": "partial",
-    "scores": "assessed",
+    "scores": "partial",
     "followUp": [
-      "Complete variant-specific maintenance, parts availability and consequential failure research."
+      "Complete variant-specific maintenance, parts availability and consequential failure research.",
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
     ]
+  },
+  "evidenceLedger": [
+    {
+      "id": "na-road",
+      "claim": "Manual test praises responsive controls and road-speed involvement, noting pedal spacing and ride limits.",
+      "sourceIds": [
+        "maz-na16-test"
+      ],
+      "location": "Driving evaluation and Counterpoints",
+      "establishes": "Firsthand 1.6 five-speed observations.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "maz-mx5-na16",
+        "generation": "NA",
+        "engineCode": "B6-ZE",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1990,
+          "to": 1990
+        },
+        "status": "partial",
+        "limitations": "1990 car and period tires; not every year or option."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    },
+    {
+      "id": "na-mechanical",
+      "claim": "The guide identifies early crank-bolt sensitivity, corrosion checks and parts support.",
+      "sourceIds": [
+        "maz-na-buy"
+      ],
+      "location": "Engine; Problem Areas",
+      "establishes": "Inspection mechanisms without a representative denominator.",
+      "doesNotEstablish": "No population failure rate, representative annual expenditure, or objective beauty ranking is established.",
+      "applicability": {
+        "configuration": "maz-mx5-na16",
+        "generation": "NA",
+        "engineCode": "B6-ZE",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1990,
+          "to": 1993
+        },
+        "status": "partial",
+        "limitations": "1990–1991 crank exposure is a subset; no comparable five-system NC review or current cost basket."
+      },
+      "inspectedAt": "2026-11-13",
+      "inspectedBy": {
+        "id": "Codex initial calibration review",
+        "type": "ai"
+      }
+    }
+  ],
+  "assessmentReview": {
+    "assessor": {
+      "id": "Codex initial calibration review",
+      "type": "ai"
+    },
+    "assessedAt": "2026-11-13",
+    "status": "ai-reviewed",
+    "systems": {
+      "engine": {
+        "status": "limited",
+        "note": "Early crank-bolt sensitivity.",
+        "evidenceIds": [
+          "na-mechanical"
+        ]
+      },
+      "transmission": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "cooling": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific cooling durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "electrical": {
+        "status": "unknown",
+        "note": "Insufficient configuration-specific electrical durability coverage in this review; absence of evidence is not low risk.",
+        "evidenceIds": []
+      },
+      "structure": {
+        "status": "limited",
+        "note": "Corrosion inspection points.",
+        "evidenceIds": [
+          "na-mechanical"
+        ]
+      }
+    },
+    "costs": {
+      "scheduled": {
+        "status": "unknown",
+        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "consumables": {
+        "status": "unknown",
+        "note": "No comparable documented consumables inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "repairs": {
+        "status": "limited",
+        "note": "Qualitative parts support, not a representative bill.",
+        "evidenceIds": [
+          "na-mechanical"
+        ]
+      },
+      "ageRelated": {
+        "status": "limited",
+        "note": "Rust and condition can dominate renewal.",
+        "evidenceIds": [
+          "na-mechanical"
+        ]
+      },
+      "majorFailure": {
+        "status": "unknown",
+        "note": "No comparable documented majorFailure inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      },
+      "acquisitionCatchUp": {
+        "status": "unknown",
+        "note": "No comparable documented acquisitionCatchUp inputs under the U.S. 3,000-mile/year independent-shop scenario.",
+        "evidenceIds": []
+      }
+    },
+    "driving": {
+      "steering": {
+        "status": "limited",
+        "note": "Direct response.",
+        "evidenceIds": [
+          "na-road"
+        ]
+      },
+      "chassis": {
+        "status": "limited",
+        "note": "Enjoyable below limit; roughness remains.",
+        "evidenceIds": [
+          "na-road"
+        ]
+      },
+      "shift": {
+        "status": "limited",
+        "note": "Quick and crisp.",
+        "evidenceIds": [
+          "na-road"
+        ]
+      },
+      "powertrain": {
+        "status": "limited",
+        "note": "Willing rev response.",
+        "evidenceIds": [
+          "na-road"
+        ]
+      },
+      "braking": {
+        "status": "limited",
+        "note": "Instrumented result is tire-specific.",
+        "evidenceIds": [
+          "na-road"
+        ]
+      },
+      "roadSpeeds": {
+        "status": "limited",
+        "note": "Ordinary-speed involvement discussed.",
+        "evidenceIds": [
+          "na-road"
+        ]
+      }
+    },
+    "risks": [
+      {
+        "mechanism": "Incorrect crank-bolt installation can damage the early short-nose crank.",
+        "evidenceIds": [
+          "na-mechanical"
+        ],
+        "affectedYears": {
+          "from": 1990,
+          "to": 1991
+        },
+        "incidence": "unknown",
+        "severity": "high",
+        "preventability": "Correct installation and inspection; prior damage may remain.",
+        "residualRisk": "Not quantified by inspected material; prevention is not a guarantee.",
+        "evidenceStrength": "documented mechanism",
+        "ageDependent": false
+      },
+      {
+        "mechanism": "Corrosion can compromise body and structure.",
+        "evidenceIds": [
+          "na-mechanical"
+        ],
+        "affectedYears": {
+          "from": 1990,
+          "to": 1993
+        },
+        "incidence": "unknown",
+        "severity": "high",
+        "preventability": "Inspect and repair; environment and existing damage matter.",
+        "residualRisk": "Not quantified by inspected material; prevention is not a guarantee.",
+        "evidenceStrength": "documented mechanism",
+        "ageDependent": true
+      }
+    ],
+    "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
+    "costScenarios": [],
+    "unresolved": [
+      "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+    ],
+    "conflicts": []
   }
 }

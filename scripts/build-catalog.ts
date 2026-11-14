@@ -15,7 +15,7 @@ export function writeCatalog(output: string, catalog = loadCatalog()) {
     engineCode: car.specs.engineCode, drivetrain: car.specs.drivetrain,
     engineLocation: car.specs.engineLocation, cylinderLayout: car.specs.cylinderLayout,
     scores: Object.fromEntries(Object.entries(car.scores).map(([dimension, score]) => [
-      dimension, { value: score.value, confidence: score.confidence }
+      dimension, { value: score.value, confidence: score.confidence, assessmentType: score.assessmentType, reviewStatus: score.reviewStatus }
     ]))
   }))
   const directory = join(output, 'vehicles')

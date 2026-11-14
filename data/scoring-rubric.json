@@ -1,57 +1,118 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "increment": 5,
   "scenario": {
     "market": "United States",
     "annualMiles": 3000,
     "condition": "Good used condition at acquisition",
-    "labor": "Independent repair shop or marque specialist",
-    "futureAnnualMiles": 12000
+    "labor": "Independent repair shop or marque specialist"
   },
   "dimensions": {
     "longevity": {
       "label": "Longevity",
-      "description": "The mechanical platform’s durability potential with appropriate maintenance.",
+      "description": "Whole-platform durability potential under appropriate scheduled maintenance, covering engine, transmission, cooling, electrical systems and structural corrosion. Age-related renewal is recorded separately. Not the remaining life of an unidentified used car.",
       "anchors": [
-        [90, "Exceptional platform durability with well-supported evidence across major systems."],
-        [75, "Above-average durability with identifiable, manageable risks."],
-        [60, "Average durability with meaningful upkeep dependencies or a documented major weak point."],
-        [45, "Below average. Several documented consequential vulnerabilities or a difficult-to-control failure mode."],
-        [25, "Poor durability supported by evidence of recurring major problems across the applicable configuration."]
+        [
+          90,
+          "Exceptional platform durability with well-supported evidence across major systems."
+        ],
+        [
+          75,
+          "Above-average durability with identifiable, manageable risks."
+        ],
+        [
+          60,
+          "Average durability with meaningful upkeep dependencies or a documented major weak point."
+        ],
+        [
+          45,
+          "Below average. Several documented consequential vulnerabilities or a difficult-to-control failure mode."
+        ],
+        [
+          25,
+          "Poor durability supported by evidence of recurring major problems across the applicable configuration."
+        ]
       ]
     },
     "ownershipCost": {
-      "label": "Ownership cost",
-      "description": "Ongoing mechanical burden. Higher scores mean lower costs.",
+      "label": "Low upkeep",
+      "description": "Affordability to maintain under the U.S. 3,000-mile/year independent-shop scenario. Higher is better. Excludes fuel, insurance, purchase, tax, financing and depreciation.",
       "anchors": [
-        [90, "Very low. Inexpensive common consumables, accessible service and modest documented repair exposure."],
-        [75, "Low. Common service and parts, with some specialist work or expensive exceptions."],
-        [60, "Moderate. A recurring specialist job, performance consumables or a meaningful repair reserve."],
-        [45, "High. Multiple specialist or access-intensive jobs, expensive hardware or a material catastrophic exposure."],
-        [25, "Very high. Broad specialist dependence with costly components and major repair exposure."]
+        [
+          90,
+          "Very low. Inexpensive common consumables, accessible service and modest documented repair exposure."
+        ],
+        [
+          75,
+          "Low. Common service and parts, with some specialist work or expensive exceptions."
+        ],
+        [
+          60,
+          "Moderate. A recurring specialist job, performance consumables or a meaningful repair reserve."
+        ],
+        [
+          45,
+          "High. Multiple specialist or access-intensive jobs, expensive hardware or a material catastrophic exposure."
+        ],
+        [
+          25,
+          "Very high. Broad specialist dependence with costly components and major repair exposure."
+        ]
       ]
     },
     "drivingEnjoyment": {
       "label": "Driving enjoyment",
       "description": "Editorial assessment of feedback, involvement and character on public roads.",
       "anchors": [
-        [95, "Benchmark feedback and involvement in multiple controls, with a characterful powertrain or exceptional agility."],
-        [80, "Rewarding balance and involvement with a clear limitation in feedback, response, or accessibility."],
-        [65, "Engaging in a particular way but with meaningful compromises across several controls."],
-        [50, "Competent and agreeable with modest feedback or involvement."],
-        [30, "Little chassis or powertrain involvement based on the tested configuration."]
+        [
+          95,
+          "Benchmark feedback and involvement in multiple controls, with a characterful powertrain or exceptional agility."
+        ],
+        [
+          80,
+          "Rewarding balance and involvement with a clear limitation in feedback, response, or accessibility."
+        ],
+        [
+          65,
+          "Engaging in a particular way but with meaningful compromises across several controls."
+        ],
+        [
+          50,
+          "Competent and agreeable with modest feedback or involvement."
+        ],
+        [
+          30,
+          "Little chassis or powertrain involvement based on the tested configuration."
+        ]
       ]
     },
     "aesthetics": {
-      "label": "Aesthetics",
-      "description": "A subjective editorial assessment of visual identity and coherence.",
+      "label": "Editorial aesthetics",
+      "description": "Assessor taste, separate from factual design observations; no votes and no objective beauty claim.",
       "anchors": [
-        [95, "Exceptional proportions, coherence and distinctive identity with few reservations."],
-        [80, "Distinctive and coherent with one or two visible compromises."],
-        [65, "Appealing overall with mixed detailing or familiar proportions."],
-        [50, "Conventional proportions and limited visual identity."],
-        [30, "Incoherent proportions or details dominate the editorial impression."]
+        [
+          95,
+          "Exceptional proportions, coherence and distinctive identity with few reservations."
+        ],
+        [
+          80,
+          "Distinctive and coherent with one or two visible compromises."
+        ],
+        [
+          65,
+          "Appealing overall with mixed detailing or familiar proportions."
+        ],
+        [
+          50,
+          "Conventional proportions and limited visual identity."
+        ],
+        [
+          30,
+          "Incoherent proportions or details dominate the editorial impression."
+        ]
       ]
     }
-  }
+  },
+  "precision": "Use the published broad anchors by default; adjustments require a separate cited explanation and reviewed comparison.",
+  "referencePopulation": "The 200 U.S.-focused catalog configurations, including mainstream reference vehicles, under appropriate scheduled maintenance. These are editorial tiers, not percentiles or population measurements."
 }
