@@ -1,0 +1,225 @@
+{
+  "id": "hon-civic-fe",
+  "make": "Honda",
+  "model": "Civic",
+  "generation": "FE",
+  "variant": "2.0 CVT sedan",
+  "configuration": "hon-civic-fe",
+  "years": {
+    "to": 2024,
+    "from": 2022
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "Mainstream reference",
+  "productionStatus": "unknown",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The naturally aspirated 2.0-liter CVT sedan is distinct from turbo and hybrid models.",
+    "epaIds": [
+      44133,
+      46054,
+      47071
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "honda-civic22"
+    ]
+  },
+  "specs": {
+    "engineCode": "K20C2",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 158,
+    "torqueLbFt": 138,
+    "transmission": "CVT",
+    "gears": null,
+    "hasClutchPedal": false,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 5
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-civic22"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-civic22"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-civic22"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2022 U.S. Civic Sport 2.0 CVT reference test, published output.",
+      "sourceIds": [
+        "honda-civic22"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2022 U.S. Civic Sport 2.0 CVT reference test, published output.",
+      "sourceIds": [
+        "honda-civic22"
+      ]
+    },
+    "seats": {
+      "text": "2022 U.S. Civic Sport 2.0 CVT reference test, published output.",
+      "sourceIds": [
+        "honda-civic22"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 60,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The chassis is composed and easy to place. The naturally aspirated engine and CVT emphasize ease.",
+      "evidence": [
+        {
+          "text": "2022 2.0-liter CVT sedan specifications and road behavior.",
+          "sourceIds": [
+            "honda-civic22"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "honda-civic22"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 70,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The upright glasshouse and simple sides look clean, with fewer distinctive cues than the preceding Civic.",
+      "evidence": [
+        {
+          "text": "2022 2.0-liter CVT sedan specifications and road behavior.",
+          "sourceIds": [
+            "honda-civic22"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "honda-civic22"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The chassis is composed and easy to place. The naturally aspirated engine and CVT emphasize ease.",
+      "sourceIds": [
+        "honda-civic22"
+      ]
+    },
+    "styling": {
+      "text": "The upright glasshouse and simple sides look clean, with fewer distinctive cues than the preceding Civic.",
+      "sourceIds": [
+        "honda-civic22"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

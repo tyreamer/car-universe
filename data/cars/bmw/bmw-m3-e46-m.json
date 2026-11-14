@@ -1,0 +1,354 @@
+{
+  "id": "bmw-m3-e46-m",
+  "make": "BMW",
+  "model": "M3",
+  "generation": "E46",
+  "variant": "Factory manual coupe",
+  "configuration": "bmw-m3-e46-m",
+  "years": {
+    "to": 2006,
+    "from": 2001
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The BMW U.S. kit confirms the MY2002 three-pedal gearbox despite a gap in the exact EPA coupe selector.",
+    "epaIds": [
+      16498,
+      18401,
+      19465,
+      20603,
+      21723
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "bmw-m3-e46-press",
+      "bmw-e46-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "S54B32",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 333,
+    "torqueLbFt": 262,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-m3-e46-press",
+        "bmw-e46-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-m3-e46-press",
+        "bmw-e46-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-m3-e46-press",
+        "bmw-e46-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2002 BMW U.S. S54 factory rating.",
+      "sourceIds": [
+        "bmw-m3-e46-press"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2002 BMW U.S. S54 factory rating.",
+      "sourceIds": [
+        "bmw-m3-e46-press"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 60,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "The bearing action, VANOS hardware and rear carrier support create multiple inspection dependencies. The sources establish mechanisms with limited incidence evidence.",
+      "evidence": [
+        {
+          "text": "BMW documented a connecting-rod bearing service action with production-date limits.",
+          "sourceIds": [
+            "bmw-bearings"
+          ]
+        },
+        {
+          "text": "BMW published a rear axle carrier support inspection and repair procedure.",
+          "sourceIds": [
+            "bmw-rear-floor"
+          ]
+        },
+        {
+          "text": "S54 VANOS hardware diagnosis and mechanical service procedure.",
+          "sourceIds": [
+            "bmw-vanos"
+          ]
+        },
+        {
+          "text": "Manual E46 M3 steering, gearshift, performance and single-car upkeep.",
+          "sourceIds": [
+            "bmw-e46-test"
+          ]
+        },
+        {
+          "text": "U.S. E46 M3 manual and SMG configuration and S54 output.",
+          "sourceIds": [
+            "bmw-m3-e46-press"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-bearings",
+        "bmw-rear-floor",
+        "bmw-vanos",
+        "bmw-e46-test",
+        "bmw-m3-e46-press"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 45,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "Potential engine and structural work place it in the high tier. The factory manual avoids the SMG hydraulic actuator system.",
+      "evidence": [
+        {
+          "text": "BMW documented a connecting-rod bearing service action with production-date limits.",
+          "sourceIds": [
+            "bmw-bearings"
+          ]
+        },
+        {
+          "text": "BMW published a rear axle carrier support inspection and repair procedure.",
+          "sourceIds": [
+            "bmw-rear-floor"
+          ]
+        },
+        {
+          "text": "S54 VANOS hardware diagnosis and mechanical service procedure.",
+          "sourceIds": [
+            "bmw-vanos"
+          ]
+        },
+        {
+          "text": "Manual E46 M3 steering, gearshift, performance and single-car upkeep.",
+          "sourceIds": [
+            "bmw-e46-test"
+          ]
+        },
+        {
+          "text": "U.S. E46 M3 manual and SMG configuration and S54 output.",
+          "sourceIds": [
+            "bmw-m3-e46-press"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-bearings",
+        "bmw-rear-floor",
+        "bmw-vanos",
+        "bmw-e46-test",
+        "bmw-m3-e46-press"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The S54 and communicative chassis work particularly well with three pedals. The added grip makes it less playful at lower speeds than the E36.",
+      "evidence": [
+        {
+          "text": "Manual E46 M3 steering, gearshift, performance and single-car upkeep.",
+          "sourceIds": [
+            "bmw-e46-test"
+          ]
+        },
+        {
+          "text": "U.S. E46 M3 manual and SMG configuration and S54 output.",
+          "sourceIds": [
+            "bmw-m3-e46-press"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-e46-test",
+        "bmw-m3-e46-press"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Wide arches and a tidy roofline give the car purpose while retaining the underlying coupe shape.",
+      "evidence": [
+        {
+          "text": "Manual E46 M3 steering, gearshift, performance and single-car upkeep.",
+          "sourceIds": [
+            "bmw-e46-test"
+          ]
+        },
+        {
+          "text": "U.S. E46 M3 manual and SMG configuration and S54 output.",
+          "sourceIds": [
+            "bmw-m3-e46-press"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-e46-test",
+        "bmw-m3-e46-press"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "BMW issued a connecting-rod bearing service action for specified E46 M3 production dates. Coverage depends on the individual VIN.",
+        "sourceIds": [
+          "bmw-bearings"
+        ],
+        "severity": "high",
+        "frequency": "documented campaign"
+      },
+      {
+        "text": "BMW published repair procedures for cracking at the rear axle carrier support. Inspection should cover the body attachment area.",
+        "sourceIds": [
+          "bmw-rear-floor"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      },
+      {
+        "text": "The S54 VANOS exhaust drive hardware is an inspection point. Specialist service information describes worn or damaged drive components.",
+        "sourceIds": [
+          "bmw-vanos"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Verify rod-bearing campaign history and ask a BMW specialist to inspect the rear carrier support and VANOS system.",
+        "sourceIds": [
+          "bmw-bearings",
+          "bmw-rear-floor",
+          "bmw-vanos"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "High",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The S54 and communicative chassis work particularly well with three pedals. The added grip makes it less playful at lower speeds than the E36.",
+      "sourceIds": [
+        "bmw-e46-test",
+        "bmw-m3-e46-press"
+      ]
+    },
+    "styling": {
+      "text": "Wide arches and a tidy roofline give the car purpose while retaining the underlying coupe shape.",
+      "sourceIds": [
+        "bmw-e46-test",
+        "bmw-m3-e46-press"
+      ]
+    },
+    "enthusiastAppeal": "The S54 adds engine character to a practical coupe format.",
+    "idealBuyer": "A driver who wants a usable sports coupe and can budget for specialist inspection and repairs.",
+    "avoidIf": "You need a predictable low maintenance budget."
+  },
+  "aestheticsTags": [
+    "Classic",
+    "Muscular"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

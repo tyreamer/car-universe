@@ -1,0 +1,218 @@
+{
+  "id": "fia-500-312",
+  "make": "Fiat",
+  "model": "500",
+  "generation": "312",
+  "variant": "Abarth 1.4 Turbo manual",
+  "configuration": "fia-500-312",
+  "years": {
+    "to": 2019,
+    "from": 2012
+  },
+  "market": "US",
+  "bodyStyle": "Hatchback",
+  "segment": "Compact hatchback",
+  "category": "Other enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The U.S. Abarth hatch pairs the 1.4 turbo with a five-speed in this record.",
+    "epaIds": [
+      32282,
+      33027,
+      34332,
+      35157,
+      36840,
+      37810,
+      39955,
+      41149
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "fia-500-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "MultiAir 1.4 Turbo",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "fia-500-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "fia-500-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "fia-500-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "A lively exhaust and small footprint make it entertaining, with a tall driving position and a busy ride.",
+      "evidence": [
+        {
+          "text": "U.S. turbo Abarth gearbox, chassis and design observations.",
+          "sourceIds": [
+            "fia-500-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "fia-500-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The upright, rounded body has strong identity. The Abarth trim gives it a purposeful edge.",
+      "evidence": [
+        {
+          "text": "U.S. turbo Abarth gearbox, chassis and design observations.",
+          "sourceIds": [
+            "fia-500-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "fia-500-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "A lively exhaust and small footprint make it entertaining, with a tall driving position and a busy ride.",
+      "sourceIds": [
+        "fia-500-test"
+      ]
+    },
+    "styling": {
+      "text": "The upright, rounded body has strong identity. The Abarth trim gives it a purposeful edge.",
+      "sourceIds": [
+        "fia-500-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Retro"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

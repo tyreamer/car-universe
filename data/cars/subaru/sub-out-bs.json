@@ -1,0 +1,227 @@
+{
+  "id": "sub-out-bs",
+  "make": "Subaru",
+  "model": "Outback",
+  "generation": "BS",
+  "variant": "2.5 AWD CVT",
+  "configuration": "sub-out-bs",
+  "years": {
+    "to": 2019,
+    "from": 2015
+  },
+  "market": "US",
+  "bodyStyle": "Wagon",
+  "segment": "Wagon",
+  "category": "Mainstream reference",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 2.5 CVT is the four-cylinder U.S. Outback variant, separate from the 3.6R.",
+    "epaIds": [
+      35055,
+      36434,
+      37466,
+      38856,
+      40382
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "sub-out15-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "FB25",
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "cylinderLayout": "Flat",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 175,
+    "torqueLbFt": 174,
+    "transmission": "CVT",
+    "gears": null,
+    "hasClutchPedal": false,
+    "drivetrain": "AWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 5
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "sub-out15-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "sub-out15-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "sub-out15-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2015 U.S. Outback 2.5 test, published output.",
+      "sourceIds": [
+        "sub-out15-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2015 U.S. Outback 2.5 test, published output.",
+      "sourceIds": [
+        "sub-out15-test"
+      ]
+    },
+    "seats": {
+      "text": "2015 U.S. Outback 2.5 test, published output.",
+      "sourceIds": [
+        "sub-out15-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 55,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The chassis and CVT prioritize comfort and traction. Steering and powertrain interaction are modest.",
+      "evidence": [
+        {
+          "text": "BS Outback 2.5 CVT and firsthand driving.",
+          "sourceIds": [
+            "sub-out15-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sub-out15-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 65,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The wagon profile has useful space and clear proportions, while exterior cladding adds visual bulk.",
+      "evidence": [
+        {
+          "text": "BS Outback 2.5 CVT and firsthand driving.",
+          "sourceIds": [
+            "sub-out15-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sub-out15-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The chassis and CVT prioritize comfort and traction. Steering and powertrain interaction are modest.",
+      "sourceIds": [
+        "sub-out15-test"
+      ]
+    },
+    "styling": {
+      "text": "The wagon profile has useful space and clear proportions, while exterior cladding adds visual bulk.",
+      "sourceIds": [
+        "sub-out15-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

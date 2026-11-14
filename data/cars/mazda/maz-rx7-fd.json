@@ -1,0 +1,246 @@
+{
+  "id": "maz-rx7-fd",
+  "make": "Mazda",
+  "model": "RX-7",
+  "generation": "FD",
+  "variant": "Sequential Twin Turbo",
+  "configuration": "maz-rx7-fd",
+  "years": {
+    "to": 1995,
+    "from": 1993
+  },
+  "market": "US",
+  "bodyStyle": "Liftback",
+  "segment": "Liftback",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "U.S. FD uses a sequential twin-turbo rotary. The EPA labels rotor count as cylinders, which the catalog leaves inapplicable.",
+    "epaIds": [
+      9659,
+      10641,
+      11605
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "maz-rotary",
+      "maz-fd-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "13B-REW",
+    "displacementL": 1.3,
+    "cylinders": null,
+    "cylinderLayout": "Rotary",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 255,
+    "torqueLbFt": 217,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-rotary",
+        "maz-fd-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-rotary",
+        "maz-fd-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-rotary",
+        "maz-fd-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "1993 U.S. road test, published output.",
+      "sourceIds": [
+        "maz-fd-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "1993 U.S. road test, published output.",
+      "sourceIds": [
+        "maz-fd-test"
+      ]
+    },
+    "seats": {
+      "text": "1993 U.S. road test, published output.",
+      "sourceIds": [
+        "maz-fd-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Low mass, direct steering and the rotary's unusual delivery make it a road-speed reference. It rewards attention to boost response.",
+      "evidence": [
+        {
+          "text": "U.S. FD launch driving impressions, rotary configuration and design.",
+          "sourceIds": [
+            "maz-fd-test"
+          ]
+        },
+        {
+          "text": "FC and FD development and rotary powertrain design.",
+          "sourceIds": [
+            "maz-rotary"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-fd-test",
+        "maz-rotary"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The low nose, flowing fenders and compact cabin are visually distinctive without busy trim.",
+      "evidence": [
+        {
+          "text": "U.S. FD launch driving impressions, rotary configuration and design.",
+          "sourceIds": [
+            "maz-fd-test"
+          ]
+        },
+        {
+          "text": "FC and FD development and rotary powertrain design.",
+          "sourceIds": [
+            "maz-rotary"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-fd-test",
+        "maz-rotary"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Low mass, direct steering and the rotary's unusual delivery make it a road-speed reference. It rewards attention to boost response.",
+      "sourceIds": [
+        "maz-fd-test",
+        "maz-rotary"
+      ]
+    },
+    "styling": {
+      "text": "The low nose, flowing fenders and compact cabin are visually distinctive without busy trim.",
+      "sourceIds": [
+        "maz-fd-test",
+        "maz-rotary"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Exotic",
+    "Pop-up headlights"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "id": "bmw-z3m-e36-s52",
+  "make": "BMW",
+  "model": "Z3 M Roadster",
+  "generation": "E36/7",
+  "variant": "U.S. S52 five-speed",
+  "configuration": "bmw-z3m-e36-s52",
+  "years": {
+    "to": 2000,
+    "from": 1998
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The U.S. launch M Roadster uses the S52, separate from the European S50 and later U.S. S54.",
+    "epaIds": [
+      13990,
+      14793,
+      15630
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "bmw-z3m",
+      "bmw-z3-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "S52",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-z3m",
+        "bmw-z3-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-z3m",
+        "bmw-z3-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-z3m",
+        "bmw-z3-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The early U.S. engine offers usable midrange. The short roadster chassis can feel less settled on rough, fast roads.",
+      "evidence": [
+        {
+          "text": "U.S. S52 driving and test specifications.",
+          "sourceIds": [
+            "bmw-z3-test"
+          ]
+        },
+        {
+          "text": "U.S. S52 and S54 distinction alongside international models.",
+          "sourceIds": [
+            "bmw-z3m"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-z3-test",
+        "bmw-z3m"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Long hood and stubby rear give it distinctive proportions. Side vents and bright trim make the details busy.",
+      "evidence": [
+        {
+          "text": "U.S. S52 driving and test specifications.",
+          "sourceIds": [
+            "bmw-z3-test"
+          ]
+        },
+        {
+          "text": "U.S. S52 and S54 distinction alongside international models.",
+          "sourceIds": [
+            "bmw-z3m"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-z3-test",
+        "bmw-z3m"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The early U.S. engine offers usable midrange. The short roadster chassis can feel less settled on rough, fast roads.",
+      "sourceIds": [
+        "bmw-z3-test",
+        "bmw-z3m"
+      ]
+    },
+    "styling": {
+      "text": "Long hood and stubby rear give it distinctive proportions. Side vents and bright trim make the details busy.",
+      "sourceIds": [
+        "bmw-z3-test",
+        "bmw-z3m"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Classic",
+    "Muscular"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

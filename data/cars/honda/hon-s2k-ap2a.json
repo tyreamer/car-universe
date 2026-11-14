@@ -1,0 +1,314 @@
+{
+  "id": "hon-s2k-ap2a",
+  "make": "Honda",
+  "model": "S2000",
+  "generation": "AP2",
+  "variant": "2.2 six-speed",
+  "configuration": "hon-s2k-ap2a",
+  "years": {
+    "to": 2009,
+    "from": 2004
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The U.S. AP2 switched to 2.2 liters for MY2004. The MY2006 throttle and stability-control changes are noted without a separate score.",
+    "epaIds": [
+      19358,
+      20480,
+      21633,
+      23479,
+      24758,
+      25788
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "s2k-buy",
+      "s2k-ap2-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "F22C1",
+    "displacementL": 2.2,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 240,
+    "torqueLbFt": 162,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "s2k-buy",
+        "s2k-ap2-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "s2k-buy",
+        "s2k-ap2-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "s2k-buy",
+        "s2k-ap2-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2004 U.S. AP2 period test. Later SAE reporting differs.",
+      "sourceIds": [
+        "s2k-ap2-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2004 U.S. AP2 period test. Later SAE reporting differs.",
+      "sourceIds": [
+        "s2k-ap2-test"
+      ]
+    },
+    "seats": {
+      "text": "2004 U.S. AP2 period test. Later SAE reporting differs.",
+      "sourceIds": [
+        "s2k-ap2-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 75,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The longer-stroke engine and lower rev ceiling distinguish AP2. Qualitative ownership evidence gives little basis for a durability increase over AP1.",
+      "evidence": [
+        {
+          "text": "AP1 and AP2 distinctions, used inspection and maintenance considerations.",
+          "sourceIds": [
+            "s2k-buy"
+          ]
+        },
+        {
+          "text": "AP2 introduction and 2.2-liter, chassis and drivability changes.",
+          "sourceIds": [
+            "s2k-ap2-test"
+          ]
+        },
+        {
+          "text": "U.S. Elise first-hand driving, plus AP2 and Mazdaspeed MX-5.",
+          "sourceIds": [
+            "elise-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s2k-buy",
+        "s2k-ap2-test",
+        "elise-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 70,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The 2.2 keeps the routine burden similar. Condition and prior use matter more to the reserve than the displacement change.",
+      "evidence": [
+        {
+          "text": "AP1 and AP2 distinctions, used inspection and maintenance considerations.",
+          "sourceIds": [
+            "s2k-buy"
+          ]
+        },
+        {
+          "text": "AP2 introduction and 2.2-liter, chassis and drivability changes.",
+          "sourceIds": [
+            "s2k-ap2-test"
+          ]
+        },
+        {
+          "text": "U.S. Elise first-hand driving, plus AP2 and Mazdaspeed MX-5.",
+          "sourceIds": [
+            "elise-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s2k-buy",
+        "s2k-ap2-test",
+        "elise-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Added midrange and calmer rear response make the excellent manual easier to use. The steering could communicate more.",
+      "evidence": [
+        {
+          "text": "AP2 introduction and 2.2-liter, chassis and drivability changes.",
+          "sourceIds": [
+            "s2k-ap2-test"
+          ]
+        },
+        {
+          "text": "U.S. Elise first-hand driving, plus AP2 and Mazdaspeed MX-5.",
+          "sourceIds": [
+            "elise-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s2k-ap2-test",
+        "elise-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Sharper lamps and revised bumpers update the long-hood shape without disrupting its balance.",
+      "evidence": [
+        {
+          "text": "AP2 introduction and 2.2-liter, chassis and drivability changes.",
+          "sourceIds": [
+            "s2k-ap2-test"
+          ]
+        },
+        {
+          "text": "U.S. Elise first-hand driving, plus AP2 and Mazdaspeed MX-5.",
+          "sourceIds": [
+            "elise-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s2k-ap2-test",
+        "elise-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [
+      {
+        "text": "Check oil regularly and review service history, modifications and evidence of previous track use.",
+        "sourceIds": [
+          "s2k-buy"
+        ]
+      }
+    ],
+    "yearChanges": [
+      {
+        "text": "The 2004 U.S. model gained a longer-stroke 2.2 and revised suspension. The later 2006 refresh introduced electronic throttle and stability control.",
+        "sourceIds": [
+          "s2k-ap2-test",
+          "s2k-buy"
+        ]
+      }
+    ],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Low",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Added midrange and calmer rear response make the excellent manual easier to use. The steering could communicate more.",
+      "sourceIds": [
+        "s2k-ap2-test",
+        "elise-test"
+      ]
+    },
+    "styling": {
+      "text": "Sharper lamps and revised bumpers update the long-hood shape without disrupting its balance.",
+      "sourceIds": [
+        "s2k-ap2-test",
+        "elise-test"
+      ]
+    },
+    "enthusiastAppeal": "The engine and gearbox invite frequent shifting and careful placement.",
+    "idealBuyer": "A roadster buyer who enjoys revving an engine and tracking its service history.",
+    "avoidIf": "You prefer low-rpm torque, long-distance isolation or practical storage."
+  },
+  "aestheticsTags": [
+    "Classic",
+    "Minimalist"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

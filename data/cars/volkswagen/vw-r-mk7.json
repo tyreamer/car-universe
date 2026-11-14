@@ -1,0 +1,230 @@
+{
+  "id": "vw-r-mk7",
+  "make": "Volkswagen",
+  "model": "Golf R",
+  "generation": "Mk7",
+  "variant": "2.0 TSI AWD six-speed",
+  "configuration": "vw-r-mk7",
+  "years": {
+    "to": 2019,
+    "from": 2016
+  },
+  "market": "US",
+  "bodyStyle": "Hatchback",
+  "segment": "Compact hatchback",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The Mk7 U.S. Golf R offers a six-speed after the initial DSG-only U.S. launch.",
+    "epaIds": [
+      36402,
+      37916,
+      38912,
+      41084
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "vw-r-history",
+      "vw-r-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "EA888 Gen 3",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 292,
+    "torqueLbFt": 280,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "AWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "vw-r-history",
+        "vw-r-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "vw-r-history",
+        "vw-r-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "vw-r-history",
+        "vw-r-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2016 U.S. manual test, published output.",
+      "sourceIds": [
+        "vw-r-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2016 U.S. manual test, published output.",
+      "sourceIds": [
+        "vw-r-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Broad turbo response and all-weather traction make it easy to drive quickly. Steering and rear-axle involvement are more restrained.",
+      "evidence": [
+        {
+          "text": "U.S. six-speed Golf R chassis and drivetrain behavior.",
+          "sourceIds": [
+            "vw-r-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "vw-r-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The upright hatch has clean details and discreet performance cues. Its silhouette remains familiar.",
+      "evidence": [
+        {
+          "text": "U.S. six-speed Golf R chassis and drivetrain behavior.",
+          "sourceIds": [
+            "vw-r-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "vw-r-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Broad turbo response and all-weather traction make it easy to drive quickly. Steering and rear-axle involvement are more restrained.",
+      "sourceIds": [
+        "vw-r-test"
+      ]
+    },
+    "styling": {
+      "text": "The upright hatch has clean details and discreet performance cues. Its silhouette remains familiar.",
+      "sourceIds": [
+        "vw-r-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

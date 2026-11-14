@@ -1,0 +1,293 @@
+{
+  "id": "por-944-s2",
+  "make": "Porsche",
+  "model": "944",
+  "generation": "944",
+  "variant": "S2 3.0 coupe",
+  "configuration": "por-944-s2",
+  "years": {
+    "to": 1991,
+    "from": 1989
+  },
+  "market": "US",
+  "bodyStyle": "Liftback",
+  "segment": "Liftback",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 3.0-liter 16-valve S2 superseded the 2.5-liter S.",
+    "epaIds": [
+      5296,
+      6437,
+      7513
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "por-944-buy",
+      "por-transaxle"
+    ]
+  },
+  "specs": {
+    "engineCode": null,
+    "displacementL": 3.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 208,
+    "torqueLbFt": 207,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "U.S. 3.0 944 S2 published ratings.",
+      "sourceIds": [
+        "por-944-s2-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "U.S. 3.0 944 S2 published ratings.",
+      "sourceIds": [
+        "por-944-s2-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 65,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The timing-belt dependency carries over to the 3.0. Its qualitative evidence supports a moderate durability anchor with service records in view.",
+      "evidence": [
+        {
+          "text": "S2 engine and firsthand driving in an S2 example.",
+          "sourceIds": [
+            "por-944-s2-test"
+          ]
+        },
+        {
+          "text": "The technical reference documents cam and balance-shaft belt service and potential damage from timing loss.",
+          "sourceIds": [
+            "por-944-belt"
+          ]
+        },
+        {
+          "text": "U.S. 944 series and ownership considerations, including service history.",
+          "sourceIds": [
+            "por-944-buy"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-s2-test",
+        "por-944-belt",
+        "por-944-buy"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 45,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "Belt work and the sixteen-valve engine justify specialist budgeting. There is no representative annual range for this variant.",
+      "evidence": [
+        {
+          "text": "S2 engine and firsthand driving in an S2 example.",
+          "sourceIds": [
+            "por-944-s2-test"
+          ]
+        },
+        {
+          "text": "The technical reference documents cam and balance-shaft belt service and potential damage from timing loss.",
+          "sourceIds": [
+            "por-944-belt"
+          ]
+        },
+        {
+          "text": "U.S. 944 series and ownership considerations, including service history.",
+          "sourceIds": [
+            "por-944-buy"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-s2-test",
+        "por-944-belt",
+        "por-944-buy"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The larger naturally aspirated four gives useful response to go with the transaxle balance. It is more immediate than the period turbo layout.",
+      "evidence": [
+        {
+          "text": "S2 engine and firsthand driving in an S2 example.",
+          "sourceIds": [
+            "por-944-s2-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-s2-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The later, smooth nose and squared wheel arches produce a distinctive wedge. The cleaner front end suits the body particularly well.",
+      "evidence": [
+        {
+          "text": "S2 engine and firsthand driving in an S2 example.",
+          "sourceIds": [
+            "por-944-s2-test"
+          ]
+        },
+        {
+          "text": "U.S. 944 series and ownership considerations, including service history.",
+          "sourceIds": [
+            "por-944-buy"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-s2-test",
+        "por-944-buy"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "Loss of cam timing after belt failure can cause piston-to-valve contact and major internal engine damage.",
+        "sourceIds": [
+          "por-944-belt"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Confirm documented cam and balance-belt service and consult a specialist about the correct interval and tension procedure.",
+        "sourceIds": [
+          "por-944-belt",
+          "por-944-buy"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "High",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The larger naturally aspirated four gives useful response to go with the transaxle balance. It is more immediate than the period turbo layout.",
+      "sourceIds": [
+        "por-944-s2-test"
+      ]
+    },
+    "styling": {
+      "text": "The later, smooth nose and squared wheel arches produce a distinctive wedge. The cleaner front end suits the body particularly well.",
+      "sourceIds": [
+        "por-944-s2-test",
+        "por-944-buy"
+      ]
+    },
+    "enthusiastAppeal": "The front-engine and rear-transaxle layout gives the car a distinct handling character.",
+    "idealBuyer": "A buyer who enjoys vintage steering feel and values a detailed service file.",
+    "avoidIf": "You need readily predictable repair costs or have no access to specialist service."
+  },
+  "aestheticsTags": [
+    "Wedge",
+    "Pop-up headlights",
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

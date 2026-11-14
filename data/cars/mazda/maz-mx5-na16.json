@@ -1,0 +1,306 @@
+{
+  "id": "maz-mx5-na16",
+  "make": "Mazda",
+  "model": "MX-5 Miata",
+  "generation": "NA",
+  "variant": "1.6 five-speed",
+  "configuration": "maz-mx5-na16",
+  "years": {
+    "to": 1993,
+    "from": 1990
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "First U.S. Miata engine and five-speed before the 1.8 revision.",
+    "epaIds": [
+      6424,
+      7490,
+      8580,
+      9657
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "maz-miata-history",
+      "maz-na16-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "B6-ZE",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 116,
+    "torqueLbFt": 100,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": 2210,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-na16-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-na16-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-na16-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "1990 U.S. published output and Car and Driver test weight.",
+      "sourceIds": [
+        "maz-na16-test",
+        "maz-na-buy"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "1990 U.S. published output and Car and Driver test weight.",
+      "sourceIds": [
+        "maz-na16-test",
+        "maz-na-buy"
+      ]
+    },
+    "curbWeightLb": {
+      "text": "1990 U.S. published output and Car and Driver test weight.",
+      "sourceIds": [
+        "maz-na16-test",
+        "maz-na-buy"
+      ]
+    },
+    "seats": {
+      "text": "1990 U.S. published output and Car and Driver test weight.",
+      "sourceIds": [
+        "maz-na16-test",
+        "maz-na-buy"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "A straightforward 1.6 and five-speed support above-average durability. Corrosion and the early short-nose crank are consequential exceptions.",
+      "evidence": [
+        {
+          "text": "NA generation changes, known inspection points and parts support.",
+          "sourceIds": [
+            "maz-na-buy"
+          ]
+        },
+        {
+          "text": "NA 1.6 specifications and tested driving characteristics.",
+          "sourceIds": [
+            "maz-na16-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-na-buy",
+        "maz-na16-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "Small consumables and documented parts support keep routine burden low. Crank damage or structural rust can dominate the cost of a poor example.",
+      "evidence": [
+        {
+          "text": "NA generation changes, known inspection points and parts support.",
+          "sourceIds": [
+            "maz-na-buy"
+          ]
+        },
+        {
+          "text": "NA 1.6 specifications and tested driving characteristics.",
+          "sourceIds": [
+            "maz-na16-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-na-buy",
+        "maz-na16-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Steering, shifter and low mass reward small inputs at attainable speeds. Modest output and body movement shape that experience.",
+      "evidence": [
+        {
+          "text": "NA 1.6 specifications and tested driving characteristics.",
+          "sourceIds": [
+            "maz-na16-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-na16-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The low beltline, rounded surfaces and concealed lamps give the original roadster a distinctive face.",
+      "evidence": [
+        {
+          "text": "NA 1.6 specifications and tested driving characteristics.",
+          "sourceIds": [
+            "maz-na16-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-na16-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "Check the rockers, doors and fenders for corrosion. Inspect the structure separately before committing to repairs.",
+        "sourceIds": [
+          "maz-na-buy"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      },
+      {
+        "text": "Certain 1990–1991 short-nose crank engines can sustain major damage when the crank bolt is installed incorrectly.",
+        "sourceIds": [
+          "maz-na-buy"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Review prior timing-belt service and inspect for corrosion or questionable modifications before purchase.",
+        "sourceIds": [
+          "maz-na-buy"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": {
+      "text": "The buying guide describes strong replacement parts availability, including body parts. Current supplier stock was not surveyed.",
+      "sourceIds": [
+        "maz-na-buy"
+      ]
+    },
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Low",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Steering, shifter and low mass reward small inputs at attainable speeds. Modest output and body movement shape that experience.",
+      "sourceIds": [
+        "maz-na16-test"
+      ]
+    },
+    "styling": {
+      "text": "The low beltline, rounded surfaces and concealed lamps give the original roadster a distinctive face.",
+      "sourceIds": [
+        "maz-na16-test"
+      ]
+    },
+    "enthusiastAppeal": "The original Miata rewards ordinary road speeds with direct controls.",
+    "idealBuyer": "A driver who wants a simple open car and can find a structurally sound example.",
+    "avoidIf": "You routinely need a quiet cabin or more than two seats."
+  },
+  "aestheticsTags": [
+    "Pop-up headlights",
+    "Classic",
+    "Minimalist"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "researched",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

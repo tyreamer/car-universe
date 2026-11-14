@@ -1,0 +1,256 @@
+{
+  "id": "acu-nsx-na1",
+  "make": "Acura",
+  "model": "NSX",
+  "generation": "NA1",
+  "variant": "3.0 five-speed",
+  "configuration": "acu-nsx-na1",
+  "years": {
+    "to": 1996,
+    "from": 1991
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The initial U.S. five-speed uses the 3.0-liter engine. Early cars include multiple roof configurations, and this entry represents the coupe.",
+    "epaIds": [
+      7446,
+      8557,
+      9631,
+      10618,
+      11581,
+      12508
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "acura-timeline",
+      "honda-nsx96"
+    ]
+  },
+  "specs": {
+    "engineCode": "C30A",
+    "displacementL": 3.0,
+    "cylinders": 6,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 270,
+    "torqueLbFt": 210,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "acura-timeline",
+        "honda-nsx96"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "acura-timeline",
+        "honda-nsx96"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "acura-timeline",
+        "honda-nsx96"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "1994 U.S. manual coupe, published engine ratings.",
+      "sourceIds": [
+        "acu-nsx94-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "1994 U.S. manual coupe, published engine ratings.",
+      "sourceIds": [
+        "acu-nsx94-test"
+      ]
+    },
+    "seats": {
+      "text": "1994 U.S. manual coupe, published engine ratings.",
+      "sourceIds": [
+        "acu-nsx94-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Clear steering, precise shifts and an alert V6 make this a useful reference for involvement. The chassis rewards a smooth approach at its limit.",
+      "evidence": [
+        {
+          "text": "U.S. NA1 3.0 five-speed coupe controls, layout and engine output.",
+          "sourceIds": [
+            "acu-nsx94-test"
+          ]
+        },
+        {
+          "text": "U.S. Acura model and trim milestones, including Integra, RSX and NSX.",
+          "sourceIds": [
+            "acura-timeline"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "acu-nsx94-test",
+        "acura-timeline"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The low nose and airy cabin give the early car unmistakable proportions. Concealed lamps preserve a clean front surface.",
+      "evidence": [
+        {
+          "text": "U.S. NA1 3.0 five-speed coupe controls, layout and engine output.",
+          "sourceIds": [
+            "acu-nsx94-test"
+          ]
+        },
+        {
+          "text": "U.S. Acura model and trim milestones, including Integra, RSX and NSX.",
+          "sourceIds": [
+            "acura-timeline"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "acu-nsx94-test",
+        "acura-timeline"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Clear steering, precise shifts and an alert V6 make this a useful reference for involvement. The chassis rewards a smooth approach at its limit.",
+      "sourceIds": [
+        "acu-nsx94-test",
+        "acura-timeline"
+      ]
+    },
+    "styling": {
+      "text": "The low nose and airy cabin give the early car unmistakable proportions. Concealed lamps preserve a clean front surface.",
+      "sourceIds": [
+        "acu-nsx94-test",
+        "acura-timeline"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Exotic",
+    "Pop-up headlights",
+    "Mid-engine proportions"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

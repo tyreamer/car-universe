@@ -1,0 +1,247 @@
+{
+  "id": "dod-chal-la-hc",
+  "make": "Dodge",
+  "model": "Challenger",
+  "generation": "LA",
+  "variant": "SRT Hellcat launch manual",
+  "configuration": "dod-chal-la-hc",
+  "years": {
+    "to": 2016,
+    "from": 2015
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "American enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The launch Hellcat has a supercharged 6.2 and a factory six-speed manual option.",
+    "epaIds": [
+      35776,
+      36957
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "dod-chal-15",
+      "dod-hellcat-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "HEMI 6.2 supercharged",
+    "displacementL": 6.2,
+    "cylinders": 8,
+    "cylinderLayout": "V",
+    "aspiration": "Supercharged",
+    "horsepowerHp": 707,
+    "torqueLbFt": 650,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "dod-chal-15",
+        "dod-hellcat-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "dod-chal-15",
+        "dod-hellcat-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "dod-chal-15",
+        "dod-hellcat-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2015 U.S. Dodge factory rating.",
+      "sourceIds": [
+        "dod-chal-15",
+        "dod-hellcat-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2015 U.S. Dodge factory rating.",
+      "sourceIds": [
+        "dod-chal-15",
+        "dod-hellcat-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The supercharger and manual give it real occasion. Managing traction and size is central to the experience.",
+      "evidence": [
+        {
+          "text": "U.S. Hellcat manual road test and model-specific hardware.",
+          "sourceIds": [
+            "dod-hellcat-test"
+          ]
+        },
+        {
+          "text": "Scat Pack and Hellcat engines and available manual gearboxes.",
+          "sourceIds": [
+            "dod-chal-15"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "dod-hellcat-test",
+        "dod-chal-15"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The large retro body is coherent, and the stronger front treatment makes the Hellcat distinctive within the range.",
+      "evidence": [
+        {
+          "text": "U.S. Hellcat manual road test and model-specific hardware.",
+          "sourceIds": [
+            "dod-hellcat-test"
+          ]
+        },
+        {
+          "text": "Scat Pack and Hellcat engines and available manual gearboxes.",
+          "sourceIds": [
+            "dod-chal-15"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "dod-hellcat-test",
+        "dod-chal-15"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The supercharger and manual give it real occasion. Managing traction and size is central to the experience.",
+      "sourceIds": [
+        "dod-hellcat-test",
+        "dod-chal-15"
+      ]
+    },
+    "styling": {
+      "text": "The large retro body is coherent, and the stronger front treatment makes the Hellcat distinctive within the range.",
+      "sourceIds": [
+        "dod-hellcat-test",
+        "dod-chal-15"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Muscular",
+    "Retro"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

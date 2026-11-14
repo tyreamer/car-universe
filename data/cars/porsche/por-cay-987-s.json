@@ -1,0 +1,305 @@
+{
+  "id": "por-cay-987-s",
+  "make": "Porsche",
+  "model": "Cayman",
+  "generation": "987.1",
+  "variant": "S 3.4 six-speed",
+  "configuration": "por-cay-987-s",
+  "years": {
+    "to": 2008,
+    "from": 2006
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The initial Cayman S uses the 3.4-liter flat-six with six-speed.",
+    "epaIds": [
+      22674,
+      23091,
+      24212
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "por-classic",
+      "por-cay-s-test"
+    ]
+  },
+  "specs": {
+    "engineCode": null,
+    "displacementL": 3.4,
+    "cylinders": 6,
+    "cylinderLayout": "Flat",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 295,
+    "torqueLbFt": 251,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-classic",
+        "por-cay-s-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-classic",
+        "por-cay-s-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2006 U.S. Cayman S launch drive, published output.",
+      "sourceIds": [
+        "por-cay-s-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2006 U.S. Cayman S launch drive, published output.",
+      "sourceIds": [
+        "por-cay-s-test"
+      ]
+    },
+    "seats": {
+      "text": "2006 U.S. Cayman S launch drive, published output.",
+      "sourceIds": [
+        "por-cay-s-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 60,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The early Cayman S has an IMS design with more involved access. Evidence of its failure frequency remains limited.",
+      "evidence": [
+        {
+          "text": "The specialist reference documents bearing types and serviceability by engine and model year.",
+          "sourceIds": [
+            "por-ims"
+          ]
+        },
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "Launch Cayman S driving and configuration.",
+          "sourceIds": [
+            "por-cay-s-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-ims",
+        "por-classic",
+        "por-cay-s-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 40,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "Mid-engine access and the bearing design increase the reserve, along with performance consumables.",
+      "evidence": [
+        {
+          "text": "The specialist reference documents bearing types and serviceability by engine and model year.",
+          "sourceIds": [
+            "por-ims"
+          ]
+        },
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "Launch Cayman S driving and configuration.",
+          "sourceIds": [
+            "por-cay-s-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-ims",
+        "por-classic",
+        "por-cay-s-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Accurate steering and flat-six response make this a chassis benchmark. Grip can require a brisk pace to reveal the full range.",
+      "evidence": [
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "Launch Cayman S driving and configuration.",
+          "sourceIds": [
+            "por-cay-s-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-classic",
+        "por-cay-s-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The fastback and deep side inlets give it its own identity while the nose remains clearly related to the Boxster.",
+      "evidence": [
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "Launch Cayman S driving and configuration.",
+          "sourceIds": [
+            "por-cay-s-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-classic",
+        "por-cay-s-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "A failing intermediate-shaft bearing can cause major engine damage. Applicable bearing design and accessibility depend on the engine and production history.",
+        "sourceIds": [
+          "por-ims"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Ask a Porsche specialist to identify the installed engine and bearing design, then review any documented prior bearing work.",
+        "sourceIds": [
+          "por-ims"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "High",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Accurate steering and flat-six response make this a chassis benchmark. Grip can require a brisk pace to reveal the full range.",
+      "sourceIds": [
+        "por-classic",
+        "por-cay-s-test"
+      ]
+    },
+    "styling": {
+      "text": "The fastback and deep side inlets give it its own identity while the nose remains clearly related to the Boxster.",
+      "sourceIds": [
+        "por-classic",
+        "por-cay-s-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Mid-engine proportions",
+    "Elegant"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

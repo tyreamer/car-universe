@@ -1,0 +1,231 @@
+{
+  "id": "mit-evo-ix",
+  "make": "Mitsubishi",
+  "model": "Lancer Evolution",
+  "generation": "CT9A IX",
+  "variant": "IX five-speed",
+  "configuration": "mit-evo-ix",
+  "years": {
+    "to": 2006,
+    "from": 2006
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 2006 IX adds MIVEC. The five-speed and MR six-speed are distinct.",
+    "epaIds": [
+      21842
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "mit-evo-ix",
+      "mit-history"
+    ]
+  },
+  "specs": {
+    "engineCode": "4G63 MIVEC",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "AWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mit-evo-ix",
+        "mit-history"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mit-evo-ix",
+        "mit-history"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mit-evo-ix",
+        "mit-history"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Turbo response and all-wheel traction combine with precise steering. The ride and noise trade comfort for immediacy.",
+      "evidence": [
+        {
+          "text": "Evolution IX introduction, MIVEC and road behavior.",
+          "sourceIds": [
+            "mit-evo-ix"
+          ]
+        },
+        {
+          "text": "Global model and generation milestones.",
+          "sourceIds": [
+            "mit-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mit-evo-ix",
+        "mit-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The compact sedan wears its rally hardware coherently, although the rear wing dominates the tail.",
+      "evidence": [
+        {
+          "text": "Evolution IX introduction, MIVEC and road behavior.",
+          "sourceIds": [
+            "mit-evo-ix"
+          ]
+        },
+        {
+          "text": "Global model and generation milestones.",
+          "sourceIds": [
+            "mit-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mit-evo-ix",
+        "mit-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Turbo response and all-wheel traction combine with precise steering. The ride and noise trade comfort for immediacy.",
+      "sourceIds": [
+        "mit-evo-ix",
+        "mit-history"
+      ]
+    },
+    "styling": {
+      "text": "The compact sedan wears its rally hardware coherently, although the rear wing dominates the tail.",
+      "sourceIds": [
+        "mit-evo-ix",
+        "mit-history"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

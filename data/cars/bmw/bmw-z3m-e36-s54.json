@@ -1,0 +1,232 @@
+{
+  "id": "bmw-z3m-e36-s54",
+  "make": "BMW",
+  "model": "Z3 M Roadster",
+  "generation": "E36/7",
+  "variant": "S54 five-speed",
+  "configuration": "bmw-z3m-e36-s54",
+  "years": {
+    "to": 2002,
+    "from": 2001
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 2001–2002 S54 is the later U.S. M Roadster. EPA's earlier row shares the same nominal displacement with S52.",
+    "epaIds": [
+      16430
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "bmw-z3m",
+      "bmw-z3-s54-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "S54",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-z3m",
+        "bmw-z3-s54-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-z3m",
+        "bmw-z3-s54-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-z3m",
+        "bmw-z3-s54-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The S54 adds a compelling upper range. The compact rear chassis still needs attention over uneven roads.",
+      "evidence": [
+        {
+          "text": "S54 M Roadster and 986 Boxster S in period road testing.",
+          "sourceIds": [
+            "bmw-z3-s54-test"
+          ]
+        },
+        {
+          "text": "U.S. S52 and S54 distinction alongside international models.",
+          "sourceIds": [
+            "bmw-z3m"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-z3-s54-test",
+        "bmw-z3m"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The late car retains the long nose and wide fenders, with modest exterior differences from the S52.",
+      "evidence": [
+        {
+          "text": "S54 M Roadster and 986 Boxster S in period road testing.",
+          "sourceIds": [
+            "bmw-z3-s54-test"
+          ]
+        },
+        {
+          "text": "U.S. S52 and S54 distinction alongside international models.",
+          "sourceIds": [
+            "bmw-z3m"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-z3-s54-test",
+        "bmw-z3m"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The S54 adds a compelling upper range. The compact rear chassis still needs attention over uneven roads.",
+      "sourceIds": [
+        "bmw-z3-s54-test",
+        "bmw-z3m"
+      ]
+    },
+    "styling": {
+      "text": "The late car retains the long nose and wide fenders, with modest exterior differences from the S52.",
+      "sourceIds": [
+        "bmw-z3-s54-test",
+        "bmw-z3m"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Classic",
+    "Muscular"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

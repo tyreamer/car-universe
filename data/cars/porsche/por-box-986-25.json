@@ -1,0 +1,299 @@
+{
+  "id": "por-box-986-25",
+  "make": "Porsche",
+  "model": "Boxster",
+  "generation": "986",
+  "variant": "2.5 five-speed",
+  "configuration": "por-box-986-25",
+  "years": {
+    "to": 1999,
+    "from": 1997
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "First U.S. Boxster with a 2.5-liter engine and five-speed.",
+    "epaIds": [
+      29627,
+      14007,
+      14813
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "por-classic",
+      "s2k-ap1-test"
+    ]
+  },
+  "specs": {
+    "engineCode": null,
+    "displacementL": 2.5,
+    "cylinders": 6,
+    "cylinderLayout": "Flat",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 201,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-classic",
+        "s2k-ap1-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-classic",
+        "s2k-ap1-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "U.S. 2.5-liter period test output and configuration.",
+      "sourceIds": [
+        "s2k-ap1-test"
+      ]
+    },
+    "seats": {
+      "text": "U.S. 2.5-liter period test output and configuration.",
+      "sourceIds": [
+        "s2k-ap1-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 60,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "A documented IMS bearing failure mechanism can lead to major engine work. Its rate for this configuration remains uncertain.",
+      "evidence": [
+        {
+          "text": "The specialist reference documents bearing types and serviceability by engine and model year.",
+          "sourceIds": [
+            "por-ims"
+          ]
+        },
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "sourceIds": [
+            "s2k-ap1-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-ims",
+        "por-classic",
+        "s2k-ap1-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 45,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "Mid-engine service access and engine-scale bearing exposure put even the early base car in the high tier.",
+      "evidence": [
+        {
+          "text": "The specialist reference documents bearing types and serviceability by engine and model year.",
+          "sourceIds": [
+            "por-ims"
+          ]
+        },
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "sourceIds": [
+            "s2k-ap1-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-ims",
+        "por-classic",
+        "s2k-ap1-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Steering and predictable balance stand out. Modest output and softer shift action temper involvement beside the AP1.",
+      "evidence": [
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "sourceIds": [
+            "s2k-ap1-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-classic",
+        "s2k-ap1-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The clean mid-engine profile is strong, while the large combination lamps are more divisive.",
+      "evidence": [
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "sourceIds": [
+            "s2k-ap1-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-classic",
+        "s2k-ap1-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "A failing intermediate-shaft bearing can cause major engine damage. Applicable bearing design and accessibility depend on the engine and production history.",
+        "sourceIds": [
+          "por-ims"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Ask a Porsche specialist to identify the installed engine and bearing design, then review any documented prior bearing work.",
+        "sourceIds": [
+          "por-ims"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "High",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Steering and predictable balance stand out. Modest output and softer shift action temper involvement beside the AP1.",
+      "sourceIds": [
+        "por-classic",
+        "s2k-ap1-test"
+      ]
+    },
+    "styling": {
+      "text": "The clean mid-engine profile is strong, while the large combination lamps are more divisive.",
+      "sourceIds": [
+        "por-classic",
+        "s2k-ap1-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Mid-engine proportions",
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

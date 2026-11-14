@@ -1,0 +1,244 @@
+{
+  "id": "bmw-m3-e36-s50",
+  "make": "BMW",
+  "model": "M3",
+  "generation": "E36",
+  "variant": "U.S. 3.0 coupe",
+  "configuration": "bmw-m3-e36-s50",
+  "years": {
+    "to": 1995,
+    "from": 1995
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The original 1995 U.S. 3.0 is mechanically distinct from the later 3.2 and European M3.",
+    "epaIds": [
+      11643
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "bmw-m3-history",
+      "bmw-e36-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "S50B30US",
+    "displacementL": 3.0,
+    "cylinders": 6,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 240,
+    "torqueLbFt": 225,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-m3-history",
+        "bmw-e36-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-m3-history",
+        "bmw-e36-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-m3-history",
+        "bmw-e36-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "1995 U.S. tested 3.0 coupe and published output.",
+      "sourceIds": [
+        "bmw-e36-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "1995 U.S. tested 3.0 coupe and published output.",
+      "sourceIds": [
+        "bmw-e36-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Communicative steering and progressive balance make the U.S. 3.0 rewarding. The compliant chassis suits imperfect roads.",
+      "evidence": [
+        {
+          "text": "U.S. S50 E36 driving behavior and tested specifications.",
+          "sourceIds": [
+            "bmw-e36-test"
+          ]
+        },
+        {
+          "text": "M3 generation history and engine architecture.",
+          "sourceIds": [
+            "bmw-m3-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-e36-test",
+        "bmw-m3-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Clean proportions and restrained M trim give it a coherent road-car design with less visual drama than the E30.",
+      "evidence": [
+        {
+          "text": "U.S. S50 E36 driving behavior and tested specifications.",
+          "sourceIds": [
+            "bmw-e36-test"
+          ]
+        },
+        {
+          "text": "M3 generation history and engine architecture.",
+          "sourceIds": [
+            "bmw-m3-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-e36-test",
+        "bmw-m3-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Communicative steering and progressive balance make the U.S. 3.0 rewarding. The compliant chassis suits imperfect roads.",
+      "sourceIds": [
+        "bmw-e36-test",
+        "bmw-m3-history"
+      ]
+    },
+    "styling": {
+      "text": "Clean proportions and restrained M trim give it a coherent road-car design with less visual drama than the E30.",
+      "sourceIds": [
+        "bmw-e36-test",
+        "bmw-m3-history"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated",
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

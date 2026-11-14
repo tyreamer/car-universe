@@ -1,0 +1,249 @@
+{
+  "id": "vol-c30-p1",
+  "make": "Volvo",
+  "model": "C30",
+  "generation": "P1",
+  "variant": "T5 six-speed",
+  "configuration": "vol-c30-p1",
+  "years": {
+    "to": 2013,
+    "from": 2008
+  },
+  "market": "US",
+  "bodyStyle": "Hatchback",
+  "segment": "Compact hatchback",
+  "category": "Other enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The C30 T5 uses a turbo five-cylinder and offers a six-speed manual, distinct from the 2.4 model.",
+    "epaIds": [
+      24331,
+      25453,
+      28614,
+      30068,
+      31206,
+      32590
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "vol-c30-13",
+      "vol-c30-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "B5254T7",
+    "displacementL": 2.5,
+    "cylinders": 5,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 227,
+    "torqueLbFt": 236,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "vol-c30-13",
+        "vol-c30-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "vol-c30-13",
+        "vol-c30-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "vol-c30-13",
+        "vol-c30-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2013 U.S. C30 T5 factory rating.",
+      "sourceIds": [
+        "vol-c30-13"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2013 U.S. C30 T5 factory rating.",
+      "sourceIds": [
+        "vol-c30-13"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The five-cylinder adds character and the six-speed improves involvement. The chassis is calmer than the Mazda in the comparison.",
+      "evidence": [
+        {
+          "text": "Firsthand T5 six-speed and early Mazdaspeed3 handling.",
+          "sourceIds": [
+            "vol-c30-test"
+          ]
+        },
+        {
+          "text": "U.S. T5 turbo and six-speed manual availability.",
+          "sourceIds": [
+            "vol-c30-13"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "vol-c30-test",
+        "vol-c30-13"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The glass hatch and high rear lamps give the small Volvo an unusually distinctive tail.",
+      "evidence": [
+        {
+          "text": "Firsthand T5 six-speed and early Mazdaspeed3 handling.",
+          "sourceIds": [
+            "vol-c30-test"
+          ]
+        },
+        {
+          "text": "U.S. T5 turbo and six-speed manual availability.",
+          "sourceIds": [
+            "vol-c30-13"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "vol-c30-test",
+        "vol-c30-13"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The five-cylinder adds character and the six-speed improves involvement. The chassis is calmer than the Mazda in the comparison.",
+      "sourceIds": [
+        "vol-c30-test",
+        "vol-c30-13"
+      ]
+    },
+    "styling": {
+      "text": "The glass hatch and high rear lamps give the small Volvo an unusually distinctive tail.",
+      "sourceIds": [
+        "vol-c30-test",
+        "vol-c30-13"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated",
+    "Retro"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

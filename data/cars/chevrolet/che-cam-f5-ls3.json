@@ -1,0 +1,239 @@
+{
+  "id": "che-cam-f5-ls3",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "generation": "Fifth generation",
+  "variant": "SS LS3 six-speed",
+  "configuration": "che-cam-f5-ls3",
+  "years": {
+    "to": 2015,
+    "from": 2010
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "American enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The three-pedal SS uses LS3, separate from the L99 automatic.",
+    "epaIds": [
+      26429,
+      30316,
+      31346,
+      32394,
+      33812,
+      35218
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "cam-ss-10",
+      "gm-heritage"
+    ]
+  },
+  "specs": {
+    "engineCode": "LS3",
+    "displacementL": 6.2,
+    "cylinders": 8,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 426,
+    "torqueLbFt": 420,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 4
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-ss-10",
+        "gm-heritage"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-ss-10",
+        "gm-heritage"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-ss-10",
+        "gm-heritage"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2010 U.S. SS manual, published manufacturer rating.",
+      "sourceIds": [
+        "cam-ss-10"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2010 U.S. SS manual, published manufacturer rating.",
+      "sourceIds": [
+        "cam-ss-10"
+      ]
+    },
+    "seats": {
+      "text": "2010 U.S. SS manual, published manufacturer rating.",
+      "sourceIds": [
+        "cam-ss-10"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The manual LS3 brings powertrain character and the chassis has grip. Mass, size and visibility limit placement on narrow roads.",
+      "evidence": [
+        {
+          "text": "LS3 manual performance and driving behavior.",
+          "sourceIds": [
+            "cam-ss-10"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-ss-10"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Wide shoulders and a narrow cabin give it strong muscle-car identity. The tall sides add visual weight.",
+      "evidence": [
+        {
+          "text": "LS3 manual performance and driving behavior.",
+          "sourceIds": [
+            "cam-ss-10"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-ss-10"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The manual LS3 brings powertrain character and the chassis has grip. Mass, size and visibility limit placement on narrow roads.",
+      "sourceIds": [
+        "cam-ss-10"
+      ]
+    },
+    "styling": {
+      "text": "Wide shoulders and a narrow cabin give it strong muscle-car identity. The tall sides add visual weight.",
+      "sourceIds": [
+        "cam-ss-10"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Muscular",
+    "Retro"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

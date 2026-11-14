@@ -1,0 +1,232 @@
+{
+  "id": "sub-brz-zc6",
+  "make": "Subaru",
+  "model": "BRZ",
+  "generation": "ZC6",
+  "variant": "2.0 six-speed launch series",
+  "configuration": "sub-brz-zc6",
+  "years": {
+    "to": 2016,
+    "from": 2013
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The original U.S. BRZ six-speed is an FA20 rear-drive coupe. This selection ends before the 2017 revision.",
+    "epaIds": [
+      32311,
+      34152,
+      34849,
+      36150
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "sub-brz13-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "FA20",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Flat",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 200,
+    "torqueLbFt": 151,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 4
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "sub-brz13-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "sub-brz13-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "sub-brz13-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2013 U.S. manual BRZ, published output.",
+      "sourceIds": [
+        "sub-brz13-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2013 U.S. manual BRZ, published output.",
+      "sourceIds": [
+        "sub-brz13-test"
+      ]
+    },
+    "seats": {
+      "text": "2013 U.S. manual BRZ, published output.",
+      "sourceIds": [
+        "sub-brz13-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Steering and rear-drive balance are accessible at ordinary speeds. The original engine's midrange response is the main reservation.",
+      "evidence": [
+        {
+          "text": "U.S. first-generation manual BRZ and single-car driving and upkeep observations.",
+          "sourceIds": [
+            "sub-brz13-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sub-brz13-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "A low hood and tidy roof make it a coherent small coupe. The details are more restrained than distinctive.",
+      "evidence": [
+        {
+          "text": "U.S. first-generation manual BRZ and single-car driving and upkeep observations.",
+          "sourceIds": [
+            "sub-brz13-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "sub-brz13-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Steering and rear-drive balance are accessible at ordinary speeds. The original engine's midrange response is the main reservation.",
+      "sourceIds": [
+        "sub-brz13-test"
+      ]
+    },
+    "styling": {
+      "text": "A low hood and tidy roof make it a coherent small coupe. The details are more restrained than distinctive.",
+      "sourceIds": [
+        "sub-brz13-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

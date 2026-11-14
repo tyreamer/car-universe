@@ -1,0 +1,302 @@
+{
+  "id": "toy-mr2-aw-na1",
+  "make": "Toyota",
+  "model": "MR2",
+  "generation": "AW11",
+  "variant": "Early naturally aspirated",
+  "configuration": "toy-mr2-aw-na1",
+  "years": {
+    "to": 1987,
+    "from": 1985
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The launch AW11 is the early 4A-GE model. The later naturally aspirated revision has its own record.",
+    "epaIds": [
+      32,
+      1724,
+      2933
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "mr2-na-test",
+      "mr2-history"
+    ]
+  },
+  "specs": {
+    "engineCode": "4A-GE",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 112,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": 2396,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-history"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-history"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-history"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "1985 U.S. Car and Driver test. Output is the published rating and curb weight refers to the test car.",
+      "sourceIds": [
+        "mr2-na-test"
+      ]
+    },
+    "curbWeightLb": {
+      "text": "1985 U.S. Car and Driver test. Output is the published rating and curb weight refers to the test car.",
+      "sourceIds": [
+        "mr2-na-test"
+      ]
+    },
+    "seats": {
+      "text": "1985 U.S. Car and Driver test. Output is the published rating and curb weight refers to the test car.",
+      "sourceIds": [
+        "mr2-na-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 70,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The 4A-GE and five-speed held up in one original long-term test. Later-life corrosion and cooling coverage remain thin.",
+      "evidence": [
+        {
+          "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
+          "sourceIds": [
+            "mr2-na-test"
+          ]
+        },
+        {
+          "text": "The original U.S. supercharged road test compared the boosted and unboosted cars and documented the 1988 changes.",
+          "sourceIds": [
+            "mr2-sc-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 65,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The naturally aspirated layout avoids boost hardware, but the mid-engine package and vintage parts uncertainty justify a reserve.",
+      "evidence": [
+        {
+          "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
+          "sourceIds": [
+            "mr2-na-test"
+          ]
+        },
+        {
+          "text": "The original U.S. supercharged road test compared the boosted and unboosted cars and documented the 1988 changes.",
+          "sourceIds": [
+            "mr2-sc-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Quick responses and a willing 1.6 are involving at modest speeds, with limited cabin space and a busy ride.",
+      "evidence": [
+        {
+          "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
+          "sourceIds": [
+            "mr2-na-test"
+          ]
+        },
+        {
+          "text": "The original U.S. supercharged road test compared the boosted and unboosted cars and documented the 1988 changes.",
+          "sourceIds": [
+            "mr2-sc-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Short ends, clear glazing and concealed lamps give the little wedge a strong identity.",
+      "evidence": [
+        {
+          "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
+          "sourceIds": [
+            "mr2-na-test"
+          ]
+        },
+        {
+          "text": "The original U.S. supercharged road test compared the boosted and unboosted cars and documented the 1988 changes.",
+          "sourceIds": [
+            "mr2-sc-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [
+      {
+        "text": "The period test car retained its shift quality and lively engine after a year of use.",
+        "sourceIds": [
+          "mr2-na-test"
+        ]
+      }
+    ],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": {
+      "text": "A specialist lists selected AW11 replacement and aftermarket items. Availability of model-specific body and powertrain pieces requires a part-by-part check.",
+      "sourceIds": [
+        "mr2-aw-parts"
+      ]
+    },
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Moderate",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Quick responses and a willing 1.6 are involving at modest speeds, with limited cabin space and a busy ride.",
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test"
+      ]
+    },
+    "styling": {
+      "text": "Short ends, clear glazing and concealed lamps give the little wedge a strong identity.",
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test"
+      ]
+    },
+    "enthusiastAppeal": "The small footprint and low-speed feedback are the attraction.",
+    "idealBuyer": "A driver looking for a compact two-seat classic who can make time for age-related inspection.",
+    "avoidIf": "You need easy cargo access or consistently available model-specific trim."
+  },
+  "aestheticsTags": [
+    "Wedge",
+    "Pop-up headlights",
+    "Mid-engine proportions"
+  ],
+  "photo": {
+    "path": "/images/aw11.webp",
+    "alt": "White Toyota MR2 AW11 in front three-quarter view",
+    "credit": "Jacob Frey 4A · Wikimedia Commons · resized and converted to WebP",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceId": "photo-aw11"
+  },
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "id": "toy-mr2-sw-t2",
+  "make": "Toyota",
+  "model": "MR2",
+  "generation": "SW20",
+  "variant": "Turbo revised suspension",
+  "configuration": "toy-mr2-sw-t2",
+  "years": {
+    "to": 1995,
+    "from": 1993
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 1993 revision applies to the Turbo. The 1992 test is useful for powertrain context and does not directly test the later chassis.",
+    "epaIds": [
+      9665,
+      10650,
+      11612
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "mr2-history",
+      "mr2-sw-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "3S-GTE",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-history",
+        "mr2-sw-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-history",
+        "mr2-sw-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-history",
+        "mr2-sw-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "low",
+      "methodology": "editorial",
+      "rationale": "The later suspension was revised to make the rear more forgiving. Direct tests of this exact late configuration are thinner, so the number stays level with the early Turbo.",
+      "evidence": [
+        {
+          "text": "U.S. model-year distinctions including the 1993 SW20 suspension changes and AW11 Supercharged years.",
+          "sourceIds": [
+            "mr2-history"
+          ]
+        },
+        {
+          "text": "Early U.S. SW20 Turbo specifications and driving behavior.",
+          "sourceIds": [
+            "mr2-sw-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-history",
+        "mr2-sw-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "low",
+      "methodology": "editorial",
+      "rationale": "The late trim preserves the earlier car's low roof, strong rear quarters and mid-engine proportions.",
+      "evidence": [
+        {
+          "text": "Early U.S. SW20 Turbo specifications and driving behavior.",
+          "sourceIds": [
+            "mr2-sw-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-sw-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [
+      {
+        "text": "Toyota revised the U.S. suspension for MY1993 to make off-throttle responses more forgiving. Wheel and tire changes accompanied the revision.",
+        "sourceIds": [
+          "mr2-history"
+        ]
+      }
+    ],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The later suspension was revised to make the rear more forgiving. Direct tests of this exact late configuration are thinner, so the number stays level with the early Turbo.",
+      "sourceIds": [
+        "mr2-history",
+        "mr2-sw-test"
+      ]
+    },
+    "styling": {
+      "text": "The late trim preserves the earlier car's low roof, strong rear quarters and mid-engine proportions.",
+      "sourceIds": [
+        "mr2-sw-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Wedge",
+    "Pop-up headlights",
+    "Mid-engine proportions"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

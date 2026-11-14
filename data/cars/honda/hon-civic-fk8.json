@@ -1,0 +1,253 @@
+{
+  "id": "hon-civic-fk8",
+  "make": "Honda",
+  "model": "Civic",
+  "generation": "FK8",
+  "variant": "Type R 2.0 Turbo",
+  "configuration": "hon-civic-fk8",
+  "years": {
+    "to": 2021,
+    "from": 2017
+  },
+  "market": "US",
+  "bodyStyle": "Hatchback",
+  "segment": "Compact hatchback",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "First U.S. Type R uses the turbocharged 2.0 and six-speed. EPA folds later years into the broader hatchback label.",
+    "epaIds": [
+      38696,
+      39576,
+      41097,
+      42501,
+      43643
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "honda-fk8",
+      "honda-fk8-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "K20C1",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 306,
+    "torqueLbFt": 295,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 4
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-fk8",
+        "honda-fk8-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-fk8",
+        "honda-fk8-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-fk8",
+        "honda-fk8-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2017 U.S. launch rating. Later limited or market editions are outside this reference.",
+      "sourceIds": [
+        "honda-fk8"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2017 U.S. launch rating. Later limited or market editions are outside this reference.",
+      "sourceIds": [
+        "honda-fk8"
+      ]
+    },
+    "seats": {
+      "text": "2017 U.S. launch rating. Later limited or market editions are outside this reference.",
+      "sourceIds": [
+        "honda-fk8"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The front end puts power down cleanly and the six-speed is precise. The adaptive ride makes the car usable on rough roads.",
+      "evidence": [
+        {
+          "text": "Firsthand FK8 steering, traction, ride and visual details.",
+          "sourceIds": [
+            "honda-fk8-test"
+          ]
+        },
+        {
+          "text": "U.S. FK8 launch and K20C1 manual specifications.",
+          "sourceIds": [
+            "honda-fk8"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "honda-fk8-test",
+        "honda-fk8"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The vents, wings and angular trim make its intent clear. Several competing details reduce coherence.",
+      "evidence": [
+        {
+          "text": "Firsthand FK8 steering, traction, ride and visual details.",
+          "sourceIds": [
+            "honda-fk8-test"
+          ]
+        },
+        {
+          "text": "U.S. FK8 launch and K20C1 manual specifications.",
+          "sourceIds": [
+            "honda-fk8"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "honda-fk8-test",
+        "honda-fk8"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The front end puts power down cleanly and the six-speed is precise. The adaptive ride makes the car usable on rough roads.",
+      "sourceIds": [
+        "honda-fk8-test",
+        "honda-fk8"
+      ]
+    },
+    "styling": {
+      "text": "The vents, wings and angular trim make its intent clear. Several competing details reduce coherence.",
+      "sourceIds": [
+        "honda-fk8-test",
+        "honda-fk8"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

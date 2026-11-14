@@ -1,0 +1,203 @@
+{
+  "id": "ford-must-new-cobra",
+  "make": "Ford",
+  "model": "Mustang",
+  "generation": "New Edge",
+  "variant": "SVT Cobra supercharged",
+  "configuration": "ford-must-new-cobra",
+  "years": {
+    "to": 2004,
+    "from": 2003
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "American enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "archival evidence",
+    "notes": "The MY2003–2004 Cobra is supercharged. The EPA six-speed 4.6 rows omit the supercharger flag.",
+    "epaIds": [],
+    "sourceIds": [
+      "ford-cobra-test",
+      "ford-must-timeline"
+    ]
+  },
+  "specs": {
+    "engineCode": "Modular 4.6 4V supercharged",
+    "displacementL": 4.6,
+    "cylinders": 8,
+    "cylinderLayout": "V",
+    "aspiration": "Supercharged",
+    "horsepowerHp": 390,
+    "torqueLbFt": 390,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "ford-cobra-test",
+        "ford-must-timeline"
+      ]
+    },
+    "displacementL": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "ford-cobra-test",
+        "ford-must-timeline"
+      ]
+    },
+    "cylinders": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "ford-cobra-test",
+        "ford-must-timeline"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "ford-cobra-test",
+        "ford-must-timeline"
+      ]
+    },
+    "aspiration": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "ford-cobra-test",
+        "ford-must-timeline"
+      ]
+    },
+    "transmission": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "ford-cobra-test",
+        "ford-must-timeline"
+      ]
+    },
+    "gears": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "ford-cobra-test",
+        "ford-must-timeline"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "ford-cobra-test",
+        "ford-must-timeline"
+      ]
+    },
+    "drivetrain": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "ford-cobra-test",
+        "ford-must-timeline"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "ford-cobra-test",
+        "ford-must-timeline"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2003 U.S. factory rating reported in the period road test.",
+      "sourceIds": [
+        "ford-cobra-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2003 U.S. factory rating reported in the period road test.",
+      "sourceIds": [
+        "ford-cobra-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "An applicable firsthand driving assessment has not been documented for this configuration.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "A configuration-appropriate design reference and editorial assessment still need review.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": null,
+    "styling": null,
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "unrated",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

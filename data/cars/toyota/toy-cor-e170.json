@@ -1,0 +1,344 @@
+{
+  "id": "toy-cor-e170",
+  "make": "Toyota",
+  "model": "Corolla",
+  "generation": "E170",
+  "variant": "1.8 CVT sedan",
+  "configuration": "toy-cor-e170",
+  "years": {
+    "to": 2019,
+    "from": 2014
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "Mainstream reference",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The standard 1.8 CVT selection excludes the separately listed LE Eco. EPA transmission descriptors can group grades.",
+    "epaIds": [
+      34399,
+      35498,
+      36800,
+      38153,
+      39341,
+      40241
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "toy-corolla-test",
+      "toy-corolla-service"
+    ]
+  },
+  "specs": {
+    "engineCode": "2ZR-FE",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 132,
+    "torqueLbFt": 128,
+    "transmission": "CVT",
+    "gears": null,
+    "hasClutchPedal": false,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 5
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "toy-corolla-test",
+        "toy-corolla-service"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "toy-corolla-test",
+        "toy-corolla-service"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "toy-corolla-test",
+        "toy-corolla-service"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2014 U.S. standard 1.8 CVT output. LE Eco is separate.",
+      "sourceIds": [
+        "toy-corolla-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2014 U.S. standard 1.8 CVT output. LE Eco is separate.",
+      "sourceIds": [
+        "toy-corolla-test"
+      ]
+    },
+    "seats": {
+      "text": "2014 U.S. standard 1.8 CVT output. LE Eco is separate.",
+      "sourceIds": [
+        "toy-corolla-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 70,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The powertrain is relatively straightforward, with a documented CVT software and wear concern on eligible 2014–2017 cars. Long-term evidence is narrower than the full selection.",
+      "evidence": [
+        {
+          "text": "Toyota documents abnormal CVT valve wear and the replacement remedy for eligible 2014–2017 Corollas.",
+          "sourceIds": [
+            "toy-cvt-jsd"
+          ]
+        },
+        {
+          "text": "2014 Corolla CVT variants and observed chassis behavior.",
+          "sourceIds": [
+            "toy-corolla-test"
+          ]
+        },
+        {
+          "text": "Factory service schedule and applicable operating conditions.",
+          "sourceIds": [
+            "toy-corolla-service"
+          ]
+        },
+        {
+          "text": "Comparative observations on 2014 mainstream sedans.",
+          "sourceIds": [
+            "compact-14"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "toy-cvt-jsd",
+        "toy-corolla-test",
+        "toy-corolla-service",
+        "compact-14"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 75,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "Ordinary consumables and accessible routine service support a low tier, with a reserve for CVT exposure and a check of campaign history.",
+      "evidence": [
+        {
+          "text": "Toyota documents abnormal CVT valve wear and the replacement remedy for eligible 2014–2017 Corollas.",
+          "sourceIds": [
+            "toy-cvt-jsd"
+          ]
+        },
+        {
+          "text": "2014 Corolla CVT variants and observed chassis behavior.",
+          "sourceIds": [
+            "toy-corolla-test"
+          ]
+        },
+        {
+          "text": "Factory service schedule and applicable operating conditions.",
+          "sourceIds": [
+            "toy-corolla-service"
+          ]
+        },
+        {
+          "text": "Comparative observations on 2014 mainstream sedans.",
+          "sourceIds": [
+            "compact-14"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "toy-cvt-jsd",
+        "toy-corolla-test",
+        "toy-corolla-service",
+        "compact-14"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 50,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Easy controls and a comfortable chassis suit commuting. The steering and CVT offer modest involvement.",
+      "evidence": [
+        {
+          "text": "2014 Corolla CVT variants and observed chassis behavior.",
+          "sourceIds": [
+            "toy-corolla-test"
+          ]
+        },
+        {
+          "text": "Factory service schedule and applicable operating conditions.",
+          "sourceIds": [
+            "toy-corolla-service"
+          ]
+        },
+        {
+          "text": "Comparative observations on 2014 mainstream sedans.",
+          "sourceIds": [
+            "compact-14"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "toy-corolla-test",
+        "toy-corolla-service",
+        "compact-14"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 55,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The conventional outline is clean, with a busier front graphic providing most of the identity.",
+      "evidence": [
+        {
+          "text": "2014 Corolla CVT variants and observed chassis behavior.",
+          "sourceIds": [
+            "toy-corolla-test"
+          ]
+        },
+        {
+          "text": "Factory service schedule and applicable operating conditions.",
+          "sourceIds": [
+            "toy-corolla-service"
+          ]
+        },
+        {
+          "text": "Comparative observations on 2014 mainstream sedans.",
+          "sourceIds": [
+            "compact-14"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "toy-corolla-test",
+        "toy-corolla-service",
+        "compact-14"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "Specified 2014–2017 CVT cars can experience abnormal valve wear associated with control software. Toyota issued campaign JSD with a revised remedy.",
+        "sourceIds": [
+          "toy-cvt-jsd"
+        ],
+        "severity": "high",
+        "frequency": "documented campaign"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Use the schedule for the applicable model year and operating conditions. Low annual mileage still requires time-based checks.",
+        "sourceIds": [
+          "toy-corolla-service"
+        ]
+      },
+      {
+        "text": "Ask Toyota to check the VIN and confirm JSD completion. A completed J0D alone does not establish the later remedy.",
+        "sourceIds": [
+          "toy-cvt-jsd"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Low",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Easy controls and a comfortable chassis suit commuting. The steering and CVT offer modest involvement.",
+      "sourceIds": [
+        "toy-corolla-test",
+        "toy-corolla-service",
+        "compact-14"
+      ]
+    },
+    "styling": {
+      "text": "The conventional outline is clean, with a busier front graphic providing most of the identity.",
+      "sourceIds": [
+        "toy-corolla-test",
+        "toy-corolla-service",
+        "compact-14"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

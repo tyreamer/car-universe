@@ -1,0 +1,226 @@
+{
+  "id": "hon-civic-fd",
+  "make": "Honda",
+  "model": "Civic",
+  "generation": "FA/FD series",
+  "variant": "1.8 automatic sedan",
+  "configuration": "hon-civic-fd",
+  "years": {
+    "to": 2011,
+    "from": 2006
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "Mainstream reference",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The Honda service bulletin identifies applicable early 1.8-liter Civics. The warranty population is narrower than this generation.",
+    "epaIds": [
+      21736,
+      23502,
+      25082,
+      25870,
+      29700,
+      30603
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "honda-civic06",
+      "honda-block"
+    ]
+  },
+  "specs": {
+    "engineCode": "R18A1",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 140,
+    "torqueLbFt": 128,
+    "transmission": "Automatic",
+    "gears": 5,
+    "hasClutchPedal": false,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 5
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-civic06",
+        "honda-block"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-civic06",
+        "honda-block"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-civic06",
+        "honda-block"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2006 U.S. 1.8 gasoline sedan five-speed automatic factory specifications.",
+      "sourceIds": [
+        "honda-civic06"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2006 U.S. 1.8 gasoline sedan five-speed automatic factory specifications.",
+      "sourceIds": [
+        "honda-civic06"
+      ]
+    },
+    "seats": {
+      "text": "2006 U.S. 1.8 gasoline sedan five-speed automatic factory specifications.",
+      "sourceIds": [
+        "honda-civic06"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "An applicable firsthand driving assessment has not been documented for this configuration.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "A configuration-appropriate design reference and editorial assessment still need review.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "Honda extended warranty coverage for engine block coolant leaks in specified 2006–2008 and early 2009 Civics. A leaking block can overheat the engine.",
+        "sourceIds": [
+          "honda-block"
+        ],
+        "severity": "high",
+        "frequency": "documented campaign"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Review prior coolant leak or engine block work and ask a shop to inspect the cooling system. Check applicability by VIN.",
+        "sourceIds": [
+          "honda-block"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": null,
+    "styling": null,
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "unrated",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

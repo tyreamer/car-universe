@@ -1,0 +1,2086 @@
+{
+  "total": 200,
+  "makes": {
+    "Acura": 5,
+    "Alfa Romeo": 2,
+    "Audi": 4,
+    "BMW": 22,
+    "Chevrolet": 17,
+    "Dodge": 7,
+    "Fiat": 2,
+    "Ford": 12,
+    "Genesis": 1,
+    "Honda": 17,
+    "Hyundai": 4,
+    "Jaguar": 2,
+    "Kia": 1,
+    "Lexus": 5,
+    "Lotus": 3,
+    "MINI": 4,
+    "Mazda": 17,
+    "Mitsubishi": 4,
+    "Nissan": 9,
+    "Pontiac": 3,
+    "Porsche": 21,
+    "Saab": 1,
+    "Subaru": 7,
+    "Toyota": 25,
+    "Volkswagen": 4,
+    "Volvo": 1
+  },
+  "categories": {
+    "American enthusiast": 39,
+    "German enthusiast": 51,
+    "Japanese enthusiast": 74,
+    "Mainstream reference": 15,
+    "Other enthusiast": 21
+  },
+  "identity": {
+    "confirmed": 200
+  },
+  "identityCoverage": {
+    "EPA plus archival evidence": 196,
+    "archival evidence": 4
+  },
+  "epaFullYearCoverage": 187,
+  "specifications": {
+    "engineCode": 173,
+    "displacementL": 200,
+    "cylinders": 196,
+    "cylinderLayout": 200,
+    "aspiration": 200,
+    "horsepowerHp": 92,
+    "torqueLbFt": 85,
+    "transmission": 200,
+    "gears": 193,
+    "hasClutchPedal": 200,
+    "drivetrain": 200,
+    "engineLocation": 200,
+    "curbWeightLb": 5,
+    "seats": 57
+  },
+  "research": {
+    "specifications": {
+      "partial": 197,
+      "researched": 3
+    },
+    "ownership": {
+      "partial": 37,
+      "pending": 163
+    },
+    "scores": {
+      "assessed": 25,
+      "partial": 63,
+      "unrated": 112
+    }
+  },
+  "scores": {
+    "longevity": {
+      "high": 0,
+      "medium": 5,
+      "low": 20,
+      "unrated": 175
+    },
+    "ownershipCost": {
+      "high": 0,
+      "medium": 7,
+      "low": 22,
+      "unrated": 171
+    },
+    "drivingEnjoyment": {
+      "high": 0,
+      "medium": 82,
+      "low": 5,
+      "unrated": 113
+    },
+    "aesthetics": {
+      "high": 0,
+      "medium": 85,
+      "low": 2,
+      "unrated": 113
+    }
+  },
+  "chartReady": 25,
+  "sources": 206,
+  "sourcesByType": {
+    "government dataset": 1,
+    "manufacturer": 87,
+    "photograph": 2,
+    "road test": 96,
+    "service bulletin": 6,
+    "specialist": 14
+  },
+  "sourceRows": 797,
+  "fullyCurated": 0,
+  "followUp": [
+    {
+      "id": "acu-int-dc2-gsr",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "acu-int-dc2-r",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "acu-nsx-na1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "acu-nsx-na2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "acu-rsx-dc5-a",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "alf-4c-coupe",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "alf-giulia-qv",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "aud-s4-b5",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "aud-s4-b8",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "aud-tt-8n",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "aud-tts-8j",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-128-e82",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-135-e82-n54",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-135-e82-n55",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-325-e30",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m2-f87",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m2-f87c",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m235-f22",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m240-f22",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m3-e30",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m3-e36-s50",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m3-e36-s52",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m3-e46-m",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m3-e46-smg",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m3-e90",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m3-e92",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-m5-e39",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-z3-e36-19",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-z3-e36-30",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-z3m-e36-s52",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-z3m-e36-s54",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-z4-e85-30",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "bmw-z4m-e85",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-cam-f4-ls1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-cam-f4-lt1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-cam-f5-lfx",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-cam-f5-llt",
+      "tasks": [
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-cam-f5-ls3",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-cam-f6-lgx",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-cam-f6-lt1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-ss-vf",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-vet-c4-l98",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-vet-c4-lt1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-vet-c5-ls1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-vet-c5-ls6",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-vet-c6-ls2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-vet-c6-ls3",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-vet-c6-ls7",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-vet-c7-lt1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "che-vet-c7-lt4",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "dod-chal-la-392",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "dod-chal-la-hc",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "dod-chal-lc-rt",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "dod-chal-lc-srt",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "dod-vip-sr1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "dod-vip-sr2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "dod-vip-zb2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "fia-124-nf",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "fia-500-312",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-fiesta-b299",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-focus-c346",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-must-new-cobra",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-must-new-gt",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-must-s197-46",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-must-s197-50",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-must-s550-350",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-must-s550-gt2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-must-s550-gt3",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-must-s550-mach",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-must-sn95-46",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "ford-must-sn95-50",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "gen-g70-ik-m",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-accord-cr",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-civic-em1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-civic-ep3",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-civic-fb6",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-civic-fc1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-civic-fd",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-civic-fe",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-civic-fe1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-civic-fg2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-civic-fk8",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-civic-fl5",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-crx-ed9",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-fit-ge",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-prelude-bb1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-prelude-bb6",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-s2k-ap1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hon-s2k-ap2a",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hyu-ela-cn7n",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hyu-gen-bk2t",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hyu-gen-bk2v",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "hyu-vel-jsn",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "jag-ft-x152-m",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "jag-ft-x152-r",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "kia-stinger-ck",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "lex-es-xv40",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "lex-es-xz10h",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "lex-is300-xe10",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "lex-ls-xf30",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "lex-sc300-z30",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "lot-elise-s2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "lot-evora-gt",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "lot-evora-na",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-3-bm",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-3-bp",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-mx5-na16",
+      "tasks": [
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-mx5-na18",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-mx5-nb1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-mx5-nb2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-mx5-nbt",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-mx5-nc1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-mx5-nc2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-mx5-nd1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-mx5-nd2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-rx7-fc-na",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-rx7-fc-t",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-rx7-fd",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-rx8-se3p",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-speed3-bk",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "maz-speed3-bl",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "mini-f56-s",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "mini-r53-s",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "mini-r56-n14",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "mini-r56-n18",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "mit-eclipse-2g",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "mit-evo-ix",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "mit-evo-viii",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "mit-evo-x",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "nis-240-s13b",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "nis-240-s14",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "nis-z-rz34",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "nis-z-z32-na",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "nis-z-z32-t",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "nis-z-z33-de",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "nis-z-z33-hr",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "nis-z-z34-base",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "nis-z-z34-nismo",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "pon-gto-vz",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "pon-sol-kappa",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "pon-ta-f4",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-911-964c2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-911-993c2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-911-996a",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-911-996b",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-911-997a",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-911-g32",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-924-20",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-924-s",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-944-early",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-944-late",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-944-s",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-944-s2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-944-t",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-968-m",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-box-986-25",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-box-986-27",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-box-986-s",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-box-987-27",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-box-987-s",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-cay-987-27",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "por-cay-987-s",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "saa-93-ys3f",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "sub-brz-zc6",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "sub-brz-zd8",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "sub-out-bs",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "sub-sti-gd",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "sub-sti-va",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "sub-wrx-gd",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "sub-wrx-va",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-86-zn6",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-cam-xv50",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-celica-st165",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-celica-st185",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-celica-st205",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-celica-t230",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-cor-e120",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-cor-e170",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-cor-e210h",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-gr86-zn8",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-grc-e210",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-mr2-aw-na1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-mr2-aw-na2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-mr2-aw-sc",
+      "tasks": [
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-mr2-sw-na1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-mr2-sw-na2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-mr2-sw-t1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-mr2-sw-t2",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-mr2-w30-early",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-mr2-w30-late",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-prius-xw50",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-supra-a70-na",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-supra-a70-t",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-supra-a80-na",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "toy-supra-a80-t",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "vw-gti-mk5",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "vw-gti-mk7",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "vw-r-mk7",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "vw-r32-mk4",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Review driving evidence for this configuration.",
+        "Review design evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    },
+    {
+      "id": "vol-c30-p1",
+      "tasks": [
+        "Complete missing factory specifications and applicable test-weight measurements.",
+        "Review durability evidence for this configuration.",
+        "Review mechanical cost evidence for this configuration.",
+        "Complete variant-specific maintenance, parts availability and consequential failure research."
+      ]
+    }
+  ]
+}

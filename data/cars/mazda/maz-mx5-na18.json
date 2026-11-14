@@ -1,0 +1,300 @@
+{
+  "id": "maz-mx5-na18",
+  "make": "Mazda",
+  "model": "MX-5 Miata",
+  "generation": "NA",
+  "variant": "1.8 five-speed",
+  "configuration": "maz-mx5-na18",
+  "years": {
+    "to": 1997,
+    "from": 1994
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 1.8 arrived for MY1994. Weight and output in the profile use a 1994 reference car.",
+    "epaIds": [
+      10639,
+      11603,
+      12526,
+      13268
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "maz-na-buy",
+      "maz-na18-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "BP-ZE",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 128,
+    "torqueLbFt": 110,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-na-buy",
+        "maz-na18-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-na-buy",
+        "maz-na18-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-na-buy",
+        "maz-na18-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "1994 U.S. published output. Later NA 1.8 output can vary.",
+      "sourceIds": [
+        "maz-na18-test",
+        "maz-na-buy"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "1994 U.S. published output. Later NA 1.8 output can vary.",
+      "sourceIds": [
+        "maz-na18-test",
+        "maz-na-buy"
+      ]
+    },
+    "seats": {
+      "text": "1994 U.S. published output. Later NA 1.8 output can vary.",
+      "sourceIds": [
+        "maz-na18-test",
+        "maz-na-buy"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "The 1.8 avoids the earliest crank issue. Corrosion and prior modifications remain important inspection items.",
+      "evidence": [
+        {
+          "text": "NA generation changes, known inspection points and parts support.",
+          "sourceIds": [
+            "maz-na-buy"
+          ]
+        },
+        {
+          "text": "Launch-year NA 1.8 specs and road test.",
+          "sourceIds": [
+            "maz-na18-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-na-buy",
+        "maz-na18-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "Parts support and manageable consumables keep it near the very-low-burden anchor. Structural repair on a rusty car changes the economics.",
+      "evidence": [
+        {
+          "text": "NA generation changes, known inspection points and parts support.",
+          "sourceIds": [
+            "maz-na-buy"
+          ]
+        },
+        {
+          "text": "Launch-year NA 1.8 specs and road test.",
+          "sourceIds": [
+            "maz-na18-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-na-buy",
+        "maz-na18-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "More torque broadens the original formula while retaining its control feedback and eager chassis.",
+      "evidence": [
+        {
+          "text": "Launch-year NA 1.8 specs and road test.",
+          "sourceIds": [
+            "maz-na18-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-na18-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The larger engine leaves the low body and pop-up-lamp silhouette largely intact.",
+      "evidence": [
+        {
+          "text": "Launch-year NA 1.8 specs and road test.",
+          "sourceIds": [
+            "maz-na18-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-na18-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "Check the rockers, doors and fenders for corrosion. Inspect the structure separately before committing to repairs.",
+        "sourceIds": [
+          "maz-na-buy"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Review prior timing-belt service and inspect for corrosion or questionable modifications before purchase.",
+        "sourceIds": [
+          "maz-na-buy"
+        ]
+      }
+    ],
+    "yearChanges": [
+      {
+        "text": "The 1994 car introduced the 1.8-liter powertrain and associated driveline changes.",
+        "sourceIds": [
+          "maz-na18-test",
+          "maz-na-buy"
+        ]
+      }
+    ],
+    "partsAvailability": {
+      "text": "The buying guide describes strong replacement parts availability, including body parts. Current supplier stock was not surveyed.",
+      "sourceIds": [
+        "maz-na-buy"
+      ]
+    },
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Low",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "More torque broadens the original formula while retaining its control feedback and eager chassis.",
+      "sourceIds": [
+        "maz-na18-test"
+      ]
+    },
+    "styling": {
+      "text": "The larger engine leaves the low body and pop-up-lamp silhouette largely intact.",
+      "sourceIds": [
+        "maz-na18-test"
+      ]
+    },
+    "enthusiastAppeal": "The original Miata rewards ordinary road speeds with direct controls.",
+    "idealBuyer": "A driver who wants a simple open car and can find a structurally sound example.",
+    "avoidIf": "You routinely need a quiet cabin or more than two seats."
+  },
+  "aestheticsTags": [
+    "Pop-up headlights",
+    "Classic",
+    "Minimalist"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

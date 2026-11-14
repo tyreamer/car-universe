@@ -1,0 +1,256 @@
+{
+  "id": "acu-nsx-na2",
+  "make": "Acura",
+  "model": "NSX",
+  "generation": "NA2",
+  "variant": "3.2 six-speed facelift",
+  "configuration": "acu-nsx-na2",
+  "years": {
+    "to": 2005,
+    "from": 2002
+  },
+  "market": "US",
+  "bodyStyle": "Targa",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 2002 facelift manual NSX uses the 3.2-liter engine, separate from the 3.0-liter automatic.",
+    "epaIds": [
+      17333,
+      18293,
+      19333,
+      20452
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "acura-nsx-02",
+      "acura-timeline"
+    ]
+  },
+  "specs": {
+    "engineCode": "C32B",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 290,
+    "torqueLbFt": 224,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "acura-nsx-02",
+        "acura-timeline"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "acura-nsx-02",
+        "acura-timeline"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "acura-nsx-02",
+        "acura-timeline"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2002 U.S. 3.2 six-speed, published engine ratings.",
+      "sourceIds": [
+        "acura-nsx-02",
+        "acu-nsx02-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2002 U.S. 3.2 six-speed, published engine ratings.",
+      "sourceIds": [
+        "acura-nsx-02",
+        "acu-nsx02-test"
+      ]
+    },
+    "seats": {
+      "text": "2002 U.S. 3.2 six-speed, published engine ratings.",
+      "sourceIds": [
+        "acura-nsx-02",
+        "acu-nsx02-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The revised 3.2 and six-speed retain sharp response and direct controls. The underlying design feels particularly mechanical beside newer performance cars.",
+      "evidence": [
+        {
+          "text": "Firsthand facelift U.S. NSX driving and output.",
+          "sourceIds": [
+            "acu-nsx02-test"
+          ]
+        },
+        {
+          "text": "2002 facelift and six-speed 3.2 configuration.",
+          "sourceIds": [
+            "acura-nsx-02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "acu-nsx02-test",
+        "acura-nsx-02"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Fixed lamps update the nose while the long tail and low cabin keep the original profile recognizable.",
+      "evidence": [
+        {
+          "text": "Firsthand facelift U.S. NSX driving and output.",
+          "sourceIds": [
+            "acu-nsx02-test"
+          ]
+        },
+        {
+          "text": "2002 facelift and six-speed 3.2 configuration.",
+          "sourceIds": [
+            "acura-nsx-02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "acu-nsx02-test",
+        "acura-nsx-02"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The revised 3.2 and six-speed retain sharp response and direct controls. The underlying design feels particularly mechanical beside newer performance cars.",
+      "sourceIds": [
+        "acu-nsx02-test",
+        "acura-nsx-02"
+      ]
+    },
+    "styling": {
+      "text": "Fixed lamps update the nose while the long tail and low cabin keep the original profile recognizable.",
+      "sourceIds": [
+        "acu-nsx02-test",
+        "acura-nsx-02"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Exotic",
+    "Mid-engine proportions"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

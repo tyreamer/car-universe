@@ -1,0 +1,259 @@
+{
+  "id": "sub-brz-zd8",
+  "make": "Subaru",
+  "model": "BRZ",
+  "generation": "ZD8",
+  "variant": "2.4 six-speed",
+  "configuration": "sub-brz-zd8",
+  "years": {
+    "to": 2025,
+    "from": 2022
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Japanese enthusiast",
+  "productionStatus": "unknown",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The second-generation 2.4-liter car has separate suspension tuning from its Toyota sibling.",
+    "epaIds": [
+      44271,
+      45288,
+      47554,
+      48484
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "brz-test",
+      "twins-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "FA24",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "cylinderLayout": "Flat",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 228,
+    "torqueLbFt": 184,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 4
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "brz-test",
+        "twins-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "brz-test",
+        "twins-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "brz-test",
+        "twins-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2022 U.S. manual test and published output.",
+      "sourceIds": [
+        "brz-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2022 U.S. manual test and published output.",
+      "sourceIds": [
+        "brz-test"
+      ]
+    },
+    "seats": {
+      "text": "2022 U.S. manual test and published output.",
+      "sourceIds": [
+        "brz-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The 2.4 fills in the old midrange gap, and the small chassis stays approachable. The tested manual encourages involvement on ordinary roads.",
+      "evidence": [
+        {
+          "text": "Manual BRZ driving character and test specs.",
+          "sourceIds": [
+            "brz-test"
+          ]
+        },
+        {
+          "text": "Shared platform and firsthand driving impressions.",
+          "sourceIds": [
+            "twins-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "brz-test",
+        "twins-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The low hood, rounder nose and compact tail form a coherent coupe.",
+      "evidence": [
+        {
+          "text": "Manual BRZ driving character and test specs.",
+          "sourceIds": [
+            "brz-test"
+          ]
+        },
+        {
+          "text": "Shared platform and firsthand driving impressions.",
+          "sourceIds": [
+            "twins-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "brz-test",
+        "twins-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [
+      {
+        "text": "A period long-term manual BRZ test records real maintenance and wear observations for one car. It cannot establish platform failure rates.",
+        "sourceIds": [
+          "brz-long"
+        ]
+      }
+    ],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The 2.4 fills in the old midrange gap, and the small chassis stays approachable. The tested manual encourages involvement on ordinary roads.",
+      "sourceIds": [
+        "brz-test",
+        "twins-test"
+      ]
+    },
+    "styling": {
+      "text": "The low hood, rounder nose and compact tail form a coherent coupe.",
+      "sourceIds": [
+        "brz-test",
+        "twins-test"
+      ]
+    },
+    "enthusiastAppeal": "An accessible rear-drive chassis and modest size put the focus on control feedback.",
+    "idealBuyer": "A driver who wants a manual coupe with compact dimensions and occasional rear seating.",
+    "avoidIf": "You need full-size rear seats or prefer a quiet long-distance cabin."
+  },
+  "aestheticsTags": [
+    "Understated"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

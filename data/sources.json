@@ -1,0 +1,2886 @@
+[
+  {
+    "id": "epa-vehicles",
+    "category": "government dataset",
+    "publisher": "U.S. EPA and Department of Energy",
+    "title": "Fuel Economy Web Services and downloadable vehicle table",
+    "url": "https://www.fueleconomy.gov/feg/ws/",
+    "supports": [
+      "U.S. model-year and powertrain rows, including transmission, displacement and drivetrain."
+    ],
+    "limitations": "Rows are emissions configurations. They can group trims or contain miscoding and omit older models. The file does not measure reliability.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mr2-na-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1985 Toyota MR2 long-term test",
+    "url": "https://www.caranddriver.com/reviews/a15141643/toyota-mr2-archived-long-term-test-wrap-up-review/",
+    "supports": [
+      "Original 1985 U.S. AW11 driving, specification and single-car service observations."
+    ],
+    "limitations": "One early U.S. test car. Long-term observations cannot establish population failure rates.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mr2-sc-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1988 Toyota MR2 Supercharged road test",
+    "url": "https://www.caranddriver.com/reviews/a15140694/toyota-mr2-supercharged-archived-test-review/",
+    "supports": [
+      "U.S. 4A-GZE configuration, output and driving observations, with 1988 naturally aspirated changes."
+    ],
+    "limitations": "One supercharged test car and comparison to its base contemporary.",
+    "accessedAt": "2026-11-13",
+    "author": "Nicholas Bissoon-Dath",
+    "publishedAt": null
+  },
+  {
+    "id": "mr2-history",
+    "category": "specialist",
+    "publisher": "MotorTrend",
+    "title": "Toyota MR2 history and model differences",
+    "url": "https://www.motortrend.com/features/toyota-mr2-history-generations-models-differences",
+    "supports": [
+      "U.S. model-year distinctions including the 1993 SW20 suspension changes and AW11 Supercharged years."
+    ],
+    "limitations": "Retrospective coverage. Reliability incidence is outside its scope.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mr2-sw-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1992 Toyota MR2 Turbo road test",
+    "url": "https://www.caranddriver.com/reviews/a15141875/toyota-mr2-turbo-archived-test-review/",
+    "supports": [
+      "Early U.S. SW20 Turbo specifications and driving behavior."
+    ],
+    "limitations": "The road test precedes the 1993 chassis revision.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mr2-spyder-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2000 Toyota MR2 Spyder first drive",
+    "url": "https://www.caranddriver.com/reviews/a15141142/2000-toyota-mr2-spyder-first-drive-review/",
+    "supports": [
+      "U.S. launch configuration, handling and packaging."
+    ],
+    "limitations": "Early five-speed only. Manufacturer claims and test observations have different origins.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mr2-spyder-brochure",
+    "category": "manufacturer",
+    "publisher": "Toyota Motor Sales U.S.A.",
+    "title": "2003 MR2 Spyder U.S. brochure",
+    "url": "https://www.auto-brochures.com/makes/Toyota/MR2/Toyota_US%20MR2_2003.pdf",
+    "supports": [
+      "Facelift U.S. specs and distinction between five-speed manual and six-speed SMT."
+    ],
+    "limitations": "Manufacturer document hosted by an archive. Covers MY2003.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mr2-spyder-uk",
+    "category": "manufacturer",
+    "publisher": "Toyota GB",
+    "title": "MR2 Roadster 2003 model",
+    "url": "https://media.toyota.co.uk/mr2-roadster-2003-model/",
+    "supports": [
+      "Facelift suspension and tire changes, UK gearbox change."
+    ],
+    "limitations": "UK six-speed three-pedal specification is not applicable to the U.S. record.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mr2-spyder-manual",
+    "category": "manufacturer",
+    "publisher": "Toyota Motor Sales U.S.A.",
+    "title": "U.S. MR2 Spyder owner manual",
+    "url": "https://assets.sia.toyota.com/publications/en/om-s/OM17511U/pdf/OM17511U.pdf",
+    "supports": [
+      "Owner oil-level checks and mechanical operation."
+    ],
+    "limitations": "Does not establish incidence or causality of oil consumption or catalyst failures.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mr2-catalyst",
+    "category": "specialist",
+    "publisher": "Monkeywrench Racing",
+    "title": "MR2 Spyder header and pre-catalyst description",
+    "url": "https://www.monkeywrenchracing.com/product/mwr-header-combo-mr2-spyder-1zz-fe-stainless-with-catless-down-pipe/",
+    "supports": [
+      "Specialist description of original pre-catalyst hardware and reported debris concern."
+    ],
+    "limitations": "Commercial seller. No denominator, validated cause, or evidence of a model-year cutoff. No endorsement of emissions modifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-supra-history",
+    "category": "manufacturer",
+    "publisher": "Toyota USA Newsroom",
+    "title": "The Supra lineage",
+    "url": "https://pressroom.toyota.com/the-supra-lineage/",
+    "supports": [
+      "U.S. Supra generations and engine milestones."
+    ],
+    "limitations": "Retrospective. Review year-specific availability with period documentation.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-supra-t-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1993 Toyota Supra Turbo instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a15142755/toyota-supra-turbo-instrumented-test/",
+    "supports": [
+      "1993 six-speed Twin Turbo existence, specifications and original road test."
+    ],
+    "limitations": "Single launch car. 1996 manual availability is outside scope.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-celica-uk",
+    "category": "manufacturer",
+    "publisher": "Toyota GB",
+    "title": "Celica GT-Four 1994–1999 archive",
+    "url": "https://media.toyota.co.uk/vehicles/celica-gt-four-archive-1994/",
+    "supports": [
+      "UK ST205 identity and model-generation period."
+    ],
+    "limitations": "UK source. Do not transfer power ratings or equipment across markets.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-celica-uk-spec",
+    "category": "manufacturer",
+    "publisher": "Toyota GB",
+    "title": "Sixth-generation GT-Four UK launch pack",
+    "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/Celica-Gen6-GT-Four-UK-launch-pack.pdf",
+    "supports": [
+      "ST205 turbo four-cylinder and all-wheel-drive five-speed specifications."
+    ],
+    "limitations": "UK-market launch specification.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-gr86",
+    "category": "manufacturer",
+    "publisher": "Toyota USA Newsroom",
+    "title": "Toyota announces pricing on all-new 2022 GR86",
+    "url": "https://pressroom.toyota.com/toyota-announces-pricing-on-all-new-2022-gr86/",
+    "supports": [
+      "Launch-year dimensions, 2.4-liter power and torque, gearbox and trim information."
+    ],
+    "limitations": "Launch-year specifications. Manufacturer driving claims are promotional.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": "2021-10-27"
+  },
+  {
+    "id": "toy-grc",
+    "category": "manufacturer",
+    "publisher": "Toyota USA Newsroom",
+    "title": "First-ever GR Corolla rockets out this fall",
+    "url": "https://pressroom.toyota.com/first-ever-gr-corolla-rockets-out-this-fall/",
+    "supports": [
+      "Launch-year U.S. GR Corolla turbo three-cylinder, AWD and manual."
+    ],
+    "limitations": "Launch model. Torque differs by grade or later model year.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": "2022-09-14"
+  },
+  {
+    "id": "honda-si",
+    "category": "manufacturer",
+    "publisher": "Honda News",
+    "title": "Honda Civic Si history",
+    "url": "https://hondanews.com/en-US/releases/honda-civic-si-history",
+    "supports": [
+      "U.S. Si trim history and drivetrain changes."
+    ],
+    "limitations": "Check which years the timeline covers before reusing individual specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "acura-timeline",
+    "category": "manufacturer",
+    "publisher": "Acura News",
+    "title": "Acura model chronology",
+    "url": "https://acuranews.com/en-US/releases/release-6cd08e1213f4f2aca52228004c34c087-acura-model-chronology",
+    "supports": [
+      "U.S. Acura model and trim milestones, including Integra, RSX and NSX."
+    ],
+    "limitations": "Historical timeline. EPA grouping can still leave body and trim ambiguous.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "acura-nsx-02",
+    "category": "manufacturer",
+    "publisher": "Acura News",
+    "title": "2002 Acura NSX introduction",
+    "url": "https://acuranews.com/en-US/releases/release-892a7927aecb51abfd11df004c34c77c-2002-acura-nsx-introduction",
+    "supports": [
+      "2002 facelift and six-speed 3.2 configuration."
+    ],
+    "limitations": "Launch-year model information.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "s2k-buy",
+    "category": "specialist",
+    "publisher": "Car and Driver",
+    "title": "What to buy 2000–2009 Honda S2000",
+    "url": "https://www.caranddriver.com/features/a42273103/what-to-buy-2000-2009-honda-s2000/",
+    "supports": [
+      "AP1 and AP2 distinctions, used inspection and maintenance considerations."
+    ],
+    "limitations": "Qualitative buying guide. No configuration-specific failure rate or annual cost data.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "s2k-ap1-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2000 Honda S2000 versus German roadsters",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a70013058/2000-honda-s2000-vs-bmw-m-roadster-mercedes-slk-porsche-boxster/",
+    "supports": [
+      "Original AP1 and 2.5 Boxster driving observations and specifications."
+    ],
+    "limitations": "Period comparison of particular examples. Boxster described is the outgoing 2.5 model.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "s2k-ap2-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2004 Honda S2000 road test",
+    "url": "https://www.caranddriver.com/reviews/a15133774/honda-s2000-short-take-road-test/",
+    "supports": [
+      "AP2 introduction and 2.2-liter, chassis and drivability changes."
+    ],
+    "limitations": "2004 test. Later published outputs may use a different SAE procedure.",
+    "accessedAt": "2026-11-13",
+    "author": "Barry Winfield",
+    "publishedAt": null
+  },
+  {
+    "id": "honda-block",
+    "category": "service bulletin",
+    "publisher": "American Honda",
+    "title": "Honda service bulletin 10-048 on Civic engine block coolant leaks",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2014/MC-10115799-9999.pdf",
+    "supports": [
+      "Warranty extension and engine-block coolant-leak mechanism on affected Civic VINs."
+    ],
+    "limitations": "VIN-dependent coverage for 2006–08 and some early 2009 cars. No incidence estimate.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-civic22",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2022 Honda Civic Sport instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a39599595/2022-honda-civic-sport-by-the-numbers/",
+    "supports": [
+      "2022 2.0-liter CVT sedan specifications and road behavior."
+    ],
+    "limitations": "Sport test trim. Weights and equipment may vary across 2.0-liter trims.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-miata-history",
+    "category": "manufacturer",
+    "publisher": "Mazda USA",
+    "title": "History of the Mazda MX-5 Miata",
+    "url": "https://www.mazdausa.com/discover/mazda-mx-5-miata-fans",
+    "supports": [
+      "Four-generation timeline and design evolution."
+    ],
+    "limitations": "Historical summary. Use technical material for exact specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-na-buy",
+    "category": "specialist",
+    "publisher": "Car and Driver",
+    "title": "What to buy 1990–1997 Mazda MX-5 Miata",
+    "url": "https://www.caranddriver.com/features/a38015568/buy-1990-1997-mazda-mx-5-miata/",
+    "supports": [
+      "NA generation changes, known inspection points and parts support."
+    ],
+    "limitations": "Qualitative guide for a historical vehicle. No frequency or current service prices.",
+    "accessedAt": "2026-11-13",
+    "author": "Tony Quiroga",
+    "publishedAt": null
+  },
+  {
+    "id": "maz-na16-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1990 Mazda MX-5 Miata instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a15141519/1990-mazda-mx-5-miata-archived-test-review/",
+    "supports": [
+      "NA 1.6 specifications and tested driving characteristics."
+    ],
+    "limitations": "1990 test car with test-specific equipment.",
+    "accessedAt": "2026-11-13",
+    "author": "Arthur St. Antoine",
+    "publishedAt": null
+  },
+  {
+    "id": "maz-na18-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1994 Mazda Miata instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a15141095/1994-mazda-miata-archived-instrumented-test/",
+    "supports": [
+      "Launch-year NA 1.8 specs and road test."
+    ],
+    "limitations": "1994 test. Treat output and weight as model-year specific.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-nb-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1999 Mazda MX-5 Miata road test",
+    "url": "https://www.caranddriver.com/reviews/a15142268/1999-mazda-mx-5-miata-road-test-review/",
+    "supports": [
+      "NB launch, styling and observed handling."
+    ],
+    "limitations": "Review equipment and gearbox can differ between NB subvariants.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-nbt-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2005 Mazdaspeed MX-5 Miata road test",
+    "url": "https://www.caranddriver.com/reviews/a15132727/mazdaspeed-mx-5-miata-road-test/",
+    "supports": [
+      "Turbo NB specifications, gearing and response."
+    ],
+    "limitations": "One model year and test configuration.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-nc-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2006 Mazda MX-5 road test",
+    "url": "https://www.caranddriver.com/reviews/a18203001/mazda-mx-5-road-test/",
+    "supports": [
+      "Launch-year NC six-speed steering, chassis and drivetrain."
+    ],
+    "limitations": "One launch-year test. Verify trim equipment independently.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-nc09-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2009 Mazda MX-5 Miata Grand Touring test",
+    "url": "https://www.caranddriver.com/reviews/a16581586/2009-mazda-mx-5-miata-grand-touring-instrumented-test/",
+    "supports": [
+      "Revised NC powertrain and chassis observations."
+    ],
+    "limitations": "Grand Touring tested configuration. Equipment differs across grades.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-nd1-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2016 Mazda MX-5 Miata Club test",
+    "url": "https://www.caranddriver.com/reviews/a15105840/2016-mazda-mx-5-miata-club-test-review/",
+    "supports": [
+      "ND1 soft-top manual specs and driving observations."
+    ],
+    "limitations": "Club test includes trim-specific hardware.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-nd2-factory",
+    "category": "manufacturer",
+    "publisher": "Mazda North American Operations",
+    "title": "2019 Mazda MX-5 Miata soft-top fact sheet",
+    "url": "https://news.mazdausa.com/download/2019-Mazda-MX-5-Press-Kit-Soft-Top-Fact-Sheet.pdf",
+    "supports": [
+      "2019 181-hp engine revision and U.S. soft-top specifications."
+    ],
+    "limitations": "2019 release; weights vary by trim and equipment.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-nd2-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2019 Mazda MX-5 Miata new engine first drive",
+    "url": "https://www.caranddriver.com/reviews/a22678665/2019-mazda-mx-5-miata-engine-more-power/",
+    "supports": [
+      "ND2 powertrain response and driver observations."
+    ],
+    "limitations": "Early first drive; available equipment varies by trim.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-speed3-08",
+    "category": "manufacturer",
+    "publisher": "Mazda USA News",
+    "title": "2008 Mazda3 and Mazdaspeed3 specifications",
+    "url": "https://news.mazdausa.com/download/2008-MAZDASPEED3-Spec.pdf",
+    "supports": [
+      "2008 BK Mazdaspeed3 specifications and body."
+    ],
+    "limitations": "One model year.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-speed3-09",
+    "category": "manufacturer",
+    "publisher": "Mazda USA News",
+    "title": "2009 Mazdaspeed3 specifications",
+    "url": "https://news.mazdausa.com/download/2009-MAZDASPEED3-Spec.pdf",
+    "supports": [
+      "2009 BK Mazdaspeed3 specifications and body."
+    ],
+    "limitations": "One model year.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-3-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2014 Mazda3 2.0 automatic sedan test",
+    "url": "https://www.caranddriver.com/reviews/a15110703/2014-mazda-3-20-automatic-sedan-test-review/",
+    "supports": [
+      "2014 2.0 automatic sedan specs and road behavior."
+    ],
+    "limitations": "Single sedan test. Other trims and years may have different curb weights.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "nis-z-history",
+    "category": "manufacturer",
+    "publisher": "Nissan USA",
+    "title": "Nissan Z generations",
+    "url": "https://www.nissanusa.com/experience-nissan/news-and-events/nissan-z-car.html",
+    "supports": [
+      "Z32, Z33, Z34 and RZ34 generation history and representative design."
+    ],
+    "limitations": "Historical overview. Year- or trim-specific specifications need press kits.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "nis-350-07",
+    "category": "manufacturer",
+    "publisher": "Nissan North America",
+    "title": "2007 Nissan 350Z coupe and roadster press kit",
+    "url": "https://usa.nissannews.com/en-US/releases/release-ef1dd6ba81c549a0a73c1e836625ab74-2007-nissan-350z-coupe-and-roadster-press-kit",
+    "supports": [
+      "VQ35HR replacement and 2007 output."
+    ],
+    "limitations": "2007 U.S. launch specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "gr86-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2022 Toyota GR86 instrumented road test",
+    "url": "https://www.caranddriver.com/reviews/a37322814/2022-toyota-gr86-drive/",
+    "supports": [
+      "Manual GR86 driving character and test specs."
+    ],
+    "limitations": "Launch test. No platform durability or annual-cost evidence.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "brz-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2022 Subaru BRZ manual road test",
+    "url": "https://www.caranddriver.com/reviews/a37419688/2022-subaru-brz-drive/",
+    "supports": [
+      "Manual BRZ driving character and test specs."
+    ],
+    "limitations": "Launch test. No platform durability or annual-cost evidence.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "twins-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2022 Subaru BRZ and Toyota GR86 10Best drive",
+    "url": "https://www.caranddriver.com/features/a38260627/10best-2022-subaru-brz-toyota-gr-86/",
+    "supports": [
+      "Shared platform and firsthand driving impressions."
+    ],
+    "limitations": "Shared test context. Evidence does not warrant independent durability rankings.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "brz-long",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2023 Subaru BRZ long-term road test",
+    "url": "https://www.caranddriver.com/reviews/a41979904/2023-subaru-brz-manual-reliability-maintenance/",
+    "supports": [
+      "Maintenance and wear observations for one second-generation manual BRZ."
+    ],
+    "limitations": "One car. Does not establish representative costs or population durability.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "sub-wrx02",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2002 Subaru Impreza WRX long-term road test",
+    "url": "https://www.caranddriver.com/reviews/a15136644/2002-subaru-impreza-wrx-long-term-road-test/",
+    "supports": [
+      "Early U.S. WRX configuration, driving and single-car ownership observations."
+    ],
+    "limitations": "One 2002 example.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "sub-sti-compare",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2015 WRX STI versus 2004 Impreza WRX STI",
+    "url": "https://www.caranddriver.com/features/a15106637/2015-subaru-wrx-sti-vs-2004-subaru-wrx-sti-feature/",
+    "supports": [
+      "Firsthand comparisons of U.S. GD and VA STI chassis and powertrains."
+    ],
+    "limitations": "Two particular example cars and model years.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mit-history",
+    "category": "manufacturer",
+    "publisher": "Mitsubishi Motors",
+    "title": "Mitsubishi Motors car history",
+    "url": "https://www.mitsubishi-motors.com/en/company/history/car/",
+    "supports": [
+      "Global model and generation milestones."
+    ],
+    "limitations": "International coverage. EPA rows anchor applicable U.S. configurations.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mit-evo-ix",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2006 Mitsubishi Lancer Evolution IX road test",
+    "url": "https://www.caranddriver.com/reviews/a18202877/2006-mitsubishi-lancer-evolution-ix-first-drive-review/",
+    "supports": [
+      "Evolution IX introduction, MIVEC and road behavior."
+    ],
+    "limitations": "Grade-specific gearbox and suspension details vary.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-m3-history",
+    "category": "manufacturer",
+    "publisher": "BMW of North America",
+    "title": "Thirty years of the BMW M3",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0264196EN_US/30-years-of-the-bmw-m3-%E2%80%93-the-story-behind-the-legend?language=en_US",
+    "supports": [
+      "M3 generation history and engine architecture."
+    ],
+    "limitations": "International retrospective. Do not copy European outputs into U.S. records.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-m3-e46-press",
+    "category": "manufacturer",
+    "publisher": "BMW of North America",
+    "title": "Press kit model year 2002 BMW M3",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0022127EN_US/press-kit-model-year-2002%3A-m3?language=en_US",
+    "supports": [
+      "U.S. E46 M3 manual and SMG configuration and S54 output."
+    ],
+    "limitations": "2002 U.S. press material.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-bearings",
+    "category": "service bulletin",
+    "publisher": "BMW of North America",
+    "title": "BMW service information 11 04 04 on E46 connecting rod bearings",
+    "url": "https://australiancar.reviews/_pdfs/BMW_E46_M3_ServiceBulletin-110404.pdf",
+    "supports": [
+      "Connecting-rod bearing service action on specified E46 M3 production dates."
+    ],
+    "limitations": "Applies to the bulletin population only. Verify eligibility by VIN.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-rear-floor",
+    "category": "service bulletin",
+    "publisher": "BMW of North America",
+    "title": "E46 rear axle carrier support repair instructions",
+    "url": "https://bmwtechinfo.bmwgroup.com/sib_attachments/B410408FR_Description_0054198.pdf",
+    "supports": [
+      "Factory repair procedure for cracking at the E46 rear axle carrier support."
+    ],
+    "limitations": "Documents repair and mechanism. Does not provide prevalence.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-e36-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1995 BMW M3 instrumented road test",
+    "url": "https://www.caranddriver.com/reviews/a15141488/1995-bmw-m3-road-test-review/",
+    "supports": [
+      "U.S. S50 E36 driving behavior and tested specifications."
+    ],
+    "limitations": "1995 3.0-liter car.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-e46-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2001 BMW M3 long-term road test",
+    "url": "https://www.caranddriver.com/reviews/a15135950/2001-bmw-m3-long-term-road-test/",
+    "supports": [
+      "Manual E46 M3 steering, gearshift, performance and single-car upkeep."
+    ],
+    "limitations": "One 2001 manual example.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-smg-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "BMW M3 SMG short take road test",
+    "url": "https://www.caranddriver.com/reviews/a15136822/bmw-m3-smg-short-take-road-test/",
+    "supports": [
+      "Driving behavior of the E46 SMG II and its electrohydraulic operation."
+    ],
+    "limitations": "Contemporary test. No population evidence on pump failure.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-z3m",
+    "category": "manufacturer",
+    "publisher": "BMW M",
+    "title": "BMW Z3 M Roadster history",
+    "url": "https://www.bmw-m.com/en/topics/magazine-article-pool/bmw-z3-m-roadster.html",
+    "supports": [
+      "U.S. S52 and S54 distinction alongside international models."
+    ],
+    "limitations": "International material. Different output and engine combinations by market.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-z3-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1998 BMW M Roadster versus Corvette and Boxster",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a42349099/1998-bmw-m-roadster-1998-chevrolet-corvette-1998-porsche-boxster-compared/",
+    "supports": [
+      "U.S. S52 driving and test specifications."
+    ],
+    "limitations": "Early S52 roadster only.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-z3-s54-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2001 sport convertible comparison",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a71420674/2001-bmw-m-roadster-chevrolet-corvette-mercedes-benz-slk32-amg-porsche-boxster-s-roadster-comparison-test/",
+    "supports": [
+      "S54 M Roadster and 986 Boxster S in period road testing."
+    ],
+    "limitations": "A comparison of individual 2001 cars.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-z4m",
+    "category": "manufacturer",
+    "publisher": "BMW of North America",
+    "title": "2006 BMW Z4 M Roadster press kit",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0019155EN_US/",
+    "supports": [
+      "U.S. S54 roadster powertrain, output and chassis."
+    ],
+    "limitations": "Launch-year U.S. coverage.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-z4-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2006 BMW Z4 M Roadster road test",
+    "url": "https://www.caranddriver.com/reviews/a18201602/2006-bmw-z4-m-roadster-road-test/",
+    "supports": [
+      "Driving and testing of U.S. E85 M Roadster."
+    ],
+    "limitations": "Single car and model year.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-classic",
+    "category": "manufacturer",
+    "publisher": "Porsche Classic",
+    "title": "Porsche Classic model archive",
+    "url": "https://www.porsche.com/usa/accessoriesandservice/classic/models/",
+    "supports": [
+      "Porsche model histories, variant tables and chassis changes."
+    ],
+    "limitations": "International production dates and equipment may differ from U.S. model years.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-924",
+    "category": "manufacturer",
+    "publisher": "Porsche Classic",
+    "title": "Porsche 924 model overview",
+    "url": "https://www.porsche.com/usa/accessoriesandservice/classic/models/924/",
+    "supports": [
+      "924 and 924 S engine and trim differences."
+    ],
+    "limitations": "International series history. Use U.S. evidence for market-specific output and dates.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-transaxle",
+    "category": "manufacturer",
+    "publisher": "Porsche Newsroom",
+    "title": "Time lapse of Porsche transaxle models",
+    "url": "https://newsroom.porsche.com/en/2026/history/porsche-transaxle-models-history-42008.html",
+    "supports": [
+      "924, 944, Turbo, S and 968 evolution and body identification."
+    ],
+    "limitations": "Global chronology and power conventions.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-911",
+    "category": "manufacturer",
+    "publisher": "Porsche Newsroom",
+    "title": "Porsche 911 across the generations",
+    "url": "https://newsroom.porsche.com/dam/jcr%3A52d0f295-c4e1-4c00-b753-afb18b1a4de6/PAG_911er_Generationen_Uebersicht_EN.pdf",
+    "supports": [
+      "911 G-series, 964, 993, 996 and 997 model distinctions."
+    ],
+    "limitations": "Global history. Do not substitute European output for U.S. output.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-944-long",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "Life with a 1983 Porsche 944",
+    "url": "https://www.caranddriver.com/reviews/a70846626/1983-porsche-944-archive-long-term-wrap/",
+    "supports": [
+      "Early 944 U.S. specification, road behavior and single-car maintenance."
+    ],
+    "limitations": "One 1983 car. Period repair charges are not current.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-944-buy",
+    "category": "specialist",
+    "publisher": "Car and Driver",
+    "title": "What to buy 1983–1991 Porsche 944",
+    "url": "https://www.caranddriver.com/features/a62894336/what-to-buy-1983-1991-porsche-944/",
+    "supports": [
+      "U.S. 944 series and ownership considerations, including service history."
+    ],
+    "limitations": "Retrospective qualitative material. No failure-rate data.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-944-belt",
+    "category": "specialist",
+    "publisher": "Clark's Garage",
+    "title": "944 camshaft and balance shaft belt information",
+    "url": "https://www.clarks-garage.com/shop-manual/eng-04.htm",
+    "supports": [
+      "Timing-belt maintenance and interference-engine consequences for 944."
+    ],
+    "limitations": "Independent technical guide. Confirm service procedures against the applicable factory schedule.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-944s-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1987 Porsche 944S expands the lineup",
+    "url": "https://www.caranddriver.com/reviews/a63922372/1987-porsche-944s-archive-drive/",
+    "supports": [
+      "U.S. 944S introduction, output and driving traits."
+    ],
+    "limitations": "Period 944S review.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-944-t-road",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1986 10Best Cars including Porsche 944 Turbo",
+    "url": "https://www.caranddriver.com/features/a15144979/1986-10best-cars/",
+    "supports": [
+      "Period driving assessment of 944 Turbo."
+    ],
+    "limitations": "Editorial test summary with less detail than a dedicated instrumented report.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-ims",
+    "category": "specialist",
+    "publisher": "LN Engineering",
+    "title": "Porsche IMS bearing applications by model year",
+    "url": "https://lnengineering.com/products/the-definitive-guide-and-faq-for-porsche-ims-bearings/porsche-ims-bearing-problem-years/",
+    "supports": [
+      "M96 and M97 IMS designs and serviceability distinctions."
+    ],
+    "limitations": "Commercial specialist. Fitment can vary with engine serial number or replacement. No incidence estimates used.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-cay-s-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2006 Porsche Cayman S first drive",
+    "url": "https://www.caranddriver.com/reviews/a18202693/2006-porsche-cayman-s-road-test-review/",
+    "supports": [
+      "Launch Cayman S driving and configuration."
+    ],
+    "limitations": "Test equipment varies from base cars.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-cay-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2007 Porsche Cayman test",
+    "url": "https://www.caranddriver.com/reviews/a18201825/2007-porsche-cayman-short-take-road-test/",
+    "supports": [
+      "Base Cayman road behavior, engine and gearbox details."
+    ],
+    "limitations": "Verify tested gearbox before using weights or gearbox impressions.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "gm-heritage",
+    "category": "manufacturer",
+    "publisher": "General Motors",
+    "title": "GM Heritage vehicle information kits",
+    "url": "https://www.gm.com/heritage/archive/vehicle-information-kits",
+    "supports": [
+      "Factory technical literature index for Chevrolet and Pontiac."
+    ],
+    "limitations": "Use applicable model-year kit for detailed specifications. Coverage is uneven.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "gm-vette",
+    "category": "manufacturer",
+    "publisher": "Chevrolet",
+    "title": "Mid-engine Corvette collector's edition",
+    "url": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/about/new-roads-issue-12/teasers/02-pdfs/CHEVY_OWNER_NR15_CORVETTE_interactive_rev102020.pdf",
+    "supports": [
+      "Historical Corvette generations and drivetrain changes."
+    ],
+    "limitations": "Manufacturer history. The ranges represent selected catalog configurations.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "cam-v6-10",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2010 Chevrolet Camaro V6 road test",
+    "url": "https://www.caranddriver.com/reviews/a15147385/2010-chevrolet-camaro-v-6-short-take-road-test/",
+    "supports": [
+      "Fifth-generation 2010 V6 road test and tested configuration."
+    ],
+    "limitations": "Use gearbox-specific observations only where applicable.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "cam-v6-12",
+    "category": "manufacturer",
+    "publisher": "Chevrolet via Car and Driver",
+    "title": "2012 Chevrolet Camaro 1LS technical specifications",
+    "url": "https://www.caranddriver.com/chevrolet/camaro/specs/2012/chevrolet_camaro_chevrolet-camaro-coupe_2012",
+    "supports": [
+      "2012 LFX 3.6 and six-speed base coupe specifications."
+    ],
+    "limitations": "Reference trim and year. No first-hand drive or maintenance data.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "cam-ss-10",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2010 Chevrolet Camaro SS V8 instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a15146139/2010-chevrolet-camaro-ss-v8-instrumented-test/",
+    "supports": [
+      "LS3 manual performance and driving behavior."
+    ],
+    "limitations": "One fifth-generation SS launch test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "cam-v6-16",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2016 Chevrolet Camaro V6 manual test",
+    "url": "https://www.caranddriver.com/reviews/a15105437/2016-chevrolet-camaro-v-6-manual-test-review/",
+    "supports": [
+      "LGX manual performance, controls and chassis observations."
+    ],
+    "limitations": "A specific 2016 coupe and test equipment.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "cam-ss-16",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2016 Chevrolet Camaro SS manual first drive",
+    "url": "https://www.caranddriver.com/reviews/a15104158/2016-chevrolet-camaro-ss-manual-first-drive-review/",
+    "supports": [
+      "LT1 manual specifications and first-hand driving impressions."
+    ],
+    "limitations": "Launch-year test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "cam-ss-long",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2016 Chevrolet Camaro SS long-term test",
+    "url": "https://www.caranddriver.com/reviews/a15091733/2016-chevrolet-camaro-ss-long-term-test-review/",
+    "supports": [
+      "Single-car manual SS operation, tires, maintenance and repair experience."
+    ],
+    "limitations": "Historical one-car costs. No fleet reliability or current annual expense inference.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "cam-tech-19",
+    "category": "manufacturer",
+    "publisher": "Chevrolet",
+    "title": "2019 Chevrolet Camaro technical data",
+    "url": "https://media.chevrolet.com/content/dam/Media/documents/INTL/chevrolet/2019/vehicles/camaro/Tech-Data-Chevrolet-Camaro.pdf",
+    "supports": [
+      "Sixth-generation engine and equipment reference."
+    ],
+    "limitations": "International technical document. Use U.S. tests for U.S. numeric specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "ford-must-timeline",
+    "category": "manufacturer",
+    "publisher": "Ford Motor Company",
+    "title": "50 years of Ford Mustang milestones",
+    "url": "https://media.ford.com/content/dam/fordmedia/North%20America/US/2013/12/05/Mustang_Milestones.pdf",
+    "supports": [
+      "Mustang generation and powertrain milestones through S197."
+    ],
+    "limitations": "Chronology. Use variant-specific material for specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "ford-cobra-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2003 Ford SVT Mustang Cobra road test",
+    "url": "https://www.caranddriver.com/reviews/a15137031/2003-ford-svt-mustang-cobra-road-test-review/",
+    "supports": [
+      "Supercharged 4.6, six-speed and road behavior."
+    ],
+    "limitations": "Launch-year test. The EPA row lacks the supercharger flag.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "ford-gt350",
+    "category": "manufacturer",
+    "publisher": "Ford Motor Company",
+    "title": "2016 Shelby GT350 and GT350R specifications",
+    "url": "https://media.ford.com/content/dam/fordmedia/North%20America/US/2015/08/24/gt350-gt350r-tech-specs.pdf",
+    "supports": [
+      "GT350 Voodoo engine and six-speed specifications."
+    ],
+    "limitations": "2016. Separate GT350R specifications from GT350.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "ford-fiesta-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2017 Ford Fiesta ST instrumented road test",
+    "url": "https://www.caranddriver.com/reviews/a15089257/2017-ford-fiesta-st-instrumented-test-review/",
+    "supports": [
+      "U.S. ST driving and equipment."
+    ],
+    "limitations": "One 2017 example.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "dodge-viper",
+    "category": "manufacturer",
+    "publisher": "Dodge",
+    "title": "Dodge Viper making history",
+    "url": "https://xr793.com/wp-content/uploads/2016/11/2010-Dodge-Viper.pdf",
+    "supports": [
+      "Dodge factory Viper chronology and 2010 specifications."
+    ],
+    "limitations": "Archived U.S. brochure. Focused on 2010.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "dodge-viper-gts",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1997 Dodge Viper GTS versus 911 Turbo S and NSX-T",
+    "url": "https://www.caranddriver.com/reviews/a35728264/1997-dodge-viper-gts-vs-porsche-911-turbo-s-vs-acura-nsx-t-comparison-test/",
+    "supports": [
+      "Period U.S. GTS existence, specs and firsthand driving."
+    ],
+    "limitations": "1997 test with specific tires and equipment.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mini-r53-press",
+    "category": "manufacturer",
+    "publisher": "MINI USA",
+    "title": "2003 MINI Cooper S product information",
+    "url": "https://www.press.bmwgroup.com/usa/article/attachment/T0018282EN_US/36018",
+    "supports": [
+      "First-generation U.S. supercharged Cooper S specifications and launch background."
+    ],
+    "limitations": "Specifications for the 2003 car.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "aud-tts-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2010 Audi TTS road test",
+    "url": "https://www.caranddriver.com/reviews/a16580867/2010-audi-tts-road-test-review/",
+    "supports": [
+      "U.S. TTS coupe with six-speed dual-clutch and 2.0-liter turbo."
+    ],
+    "limitations": "EPA aggregates with TT quattro in this catalog matching. Do not reuse ordinary TT power figures.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "vw-gti-15",
+    "category": "manufacturer",
+    "publisher": "Volkswagen of America",
+    "title": "2015 Golf GTI press kit",
+    "url": "https://media.vw.com/press-kits/2015-golf-gti-press-kit",
+    "supports": [
+      "Mk7 U.S. introduction, GTI engine, manual gearbox and trim details."
+    ],
+    "limitations": "Launch year and distinct Performance Package power figures.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "elise-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "Lotus Elise versus four minimalist roadster rivals",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a15132427/2004-caterham-seven-superlight-r-vs-factory-five-racing-mark-ii-roadster-honda-s2000-lotus-elise-mazdaspeed-mx-5-miata-comparison-tests/",
+    "supports": [
+      "U.S. Elise first-hand driving, plus AP2 and Mazdaspeed MX-5."
+    ],
+    "limitations": "Period tests of individual cars.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "lot-evora-gt",
+    "category": "manufacturer",
+    "publisher": "Lotus Cars",
+    "title": "New Lotus Evora GT for North America",
+    "url": "https://media.lotuscars.com/en/news-articles/evora-gt-north-america.html",
+    "supports": [
+      "Evora GT six-speed and supercharged output by gearbox."
+    ],
+    "limitations": "Launch material. Weights vary with equipment.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "hyu-vel-n",
+    "category": "manufacturer",
+    "publisher": "Hyundai Motor America",
+    "title": "2021 Veloster N powertrain announcement",
+    "url": "https://www.hyundainews.com/releases/3096",
+    "supports": [
+      "2021 Veloster N changes and manual versus dual-clutch configuration."
+    ],
+    "limitations": "2021 base power differs from earlier non-Performance Package cars.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "gen-g70",
+    "category": "manufacturer",
+    "publisher": "Genesis Motor America",
+    "title": "2019 Genesis G70 product information",
+    "url": "https://www.genesisnewsusa.com/assets/documents/original/1391-2019GenesisG70ProductInformation.pdf",
+    "supports": [
+      "U.S. 2.0T rear-drive six-speed configuration and launch specifications."
+    ],
+    "limitations": "Launch year and specific trim only.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-corolla-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2014 Toyota Corolla first drive",
+    "url": "https://www.caranddriver.com/reviews/a15113765/2014-toyota-corolla-first-drive-review/",
+    "supports": [
+      "2014 Corolla CVT variants and observed chassis behavior."
+    ],
+    "limitations": "Launch review across multiple trims. LE Eco has a different engine tune.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-corolla-service",
+    "category": "manufacturer",
+    "publisher": "Toyota Motor Sales U.S.A.",
+    "title": "2014 Corolla warranty and maintenance guide",
+    "url": "https://assets.sia.toyota.com/publications/en/omms-s/T-MMS-14Corolla/pdf/2014_Toyota_Corolla_WMG.pdf",
+    "supports": [
+      "Factory service schedule and applicable operating conditions."
+    ],
+    "limitations": "Does not describe real-world repair incidence or current parts pricing.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "compact-14",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2014 compact car comparison",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a15111276/2014-honda-civic-ex-l-vs-2014-kia-forte-ex-vs-2014-mazda-3-i-touring-vs-2014-toyota-corolla-s-vs-2014-volkswagen-jetta-se-comparison-test/",
+    "supports": [
+      "Comparative observations on 2014 mainstream sedans."
+    ],
+    "limitations": "Single comparison. Trim-specific suspension and tires may differ.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-nd-gear",
+    "category": "service bulletin",
+    "publisher": "Mazda North American Operations",
+    "title": "Mazda bulletin 05-001/17 on early MX-5 manual gear damage",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2017/MC-10120349-9999.pdf",
+    "supports": [
+      "Manual gearbox diagnostic and replacement procedure for specified 2016–2017 MX-5 soft tops."
+    ],
+    "limitations": "Check affected VIN range. Bulletin does not give a failure rate.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": "2017-06-08"
+  },
+  {
+    "id": "bmw-vanos",
+    "category": "specialist",
+    "publisher": "Beisan Systems",
+    "title": "S54 VANOS rattle procedure",
+    "url": "https://beisansystems.com/s54-vanos-rattle-procedure/",
+    "supports": [
+      "S54 VANOS hardware diagnosis and mechanical service procedure."
+    ],
+    "limitations": "Commercial specialist. No prevalence data.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "photo-aw11",
+    "category": "photograph",
+    "publisher": "Wikimedia Commons",
+    "title": "Toyota MR2 AW11 white",
+    "url": "https://commons.wikimedia.org/wiki/File:Toyota_MR2_AW11_white.jpg",
+    "supports": [
+      "Illustrates the AW11 generation exterior."
+    ],
+    "limitations": "Representative generation photo. Does not establish configuration or model year.",
+    "accessedAt": "2026-11-13",
+    "author": "Jacob Frey 4A",
+    "publishedAt": "2017-08-06"
+  },
+  {
+    "id": "honda-fk8",
+    "category": "manufacturer",
+    "publisher": "Honda News",
+    "title": "First Civic Type R for America goes on sale",
+    "url": "https://hondanews.com/en-US/releases/release-efb68afb3d714c2fb491badeb1d05bd8-first-ever-civic-type-r-for-america-goes-on-sale-tomorrow",
+    "supports": [
+      "U.S. FK8 launch and K20C1 manual specifications."
+    ],
+    "limitations": "Launch-year record.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-fl5",
+    "category": "manufacturer",
+    "publisher": "Honda News",
+    "title": "2023 Honda Civic Type R press kit",
+    "url": "https://hondanews.com/en-US/releases/release-907c81858bdfe231c1cc3d0f70179fdc-2023-honda-civic-type-r-press-kit",
+    "supports": [
+      "FL5 generation, output, manual and chassis changes."
+    ],
+    "limitations": "Launch year only.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-fk8-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2017 Honda Civic Type R road test",
+    "url": "https://www.caranddriver.com/reviews/a15090975/2017-honda-civic-type-r-test-review/",
+    "supports": [
+      "Firsthand FK8 steering, traction, ride and visual details."
+    ],
+    "limitations": "Single launch-year test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-fl5-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2023 Honda Civic Type R instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a41952459/2023-honda-civic-type-r-by-the-numbers/",
+    "supports": [
+      "Firsthand FL5 handling and powertrain observations."
+    ],
+    "limitations": "One 2023 test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-rotary",
+    "category": "manufacturer",
+    "publisher": "Mazda Motor Corporation",
+    "title": "The Savanna RX-7 second and third generations",
+    "url": "https://www2.mazda.com/en/stories/craftmanship/greatcar/p15.html",
+    "supports": [
+      "FC and FD development and rotary powertrain design."
+    ],
+    "limitations": "Japanese-market details require U.S. corroboration.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-rotary-history",
+    "category": "manufacturer",
+    "publisher": "Mazda Motor Corporation",
+    "title": "Mazda rotary engine production milestones",
+    "url": "https://newsroom.mazda.com/en/publicity/release/2023/202310/231030b.html",
+    "supports": [
+      "RX-7 and RX-8 rotary model chronology."
+    ],
+    "limitations": "Global overview.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-fd-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1993 Mazda RX-7 archive drive",
+    "url": "https://www.caranddriver.com/reviews/a73670245/1993-mazda-rx-7-archive-drive/",
+    "supports": [
+      "U.S. FD launch driving impressions, rotary configuration and design."
+    ],
+    "limitations": "Initial model only.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-speed3-10",
+    "category": "manufacturer",
+    "publisher": "Mazda North American Operations",
+    "title": "2010 Mazdaspeed3 specifications",
+    "url": "https://news.mazdausa.com/download/2010-MAZDASPEED3-specs.pdf",
+    "supports": [
+      "BL 2.3 DISI turbo six-speed launch configuration."
+    ],
+    "limitations": "MY2010 only.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-3-19",
+    "category": "manufacturer",
+    "publisher": "Mazda North American Operations",
+    "title": "2019 Mazda3 specifications",
+    "url": "https://news.mazdausa.com/download/2019-Mazda-3-Vehicle-Spec-Deck-3.pdf",
+    "supports": [
+      "BP 2.5-liter sedan with six-speed automatic and front-wheel drive."
+    ],
+    "limitations": "U.S. launch-year specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "lex-history",
+    "category": "manufacturer",
+    "publisher": "Lexus USA Newsroom",
+    "title": "The history of Lexus",
+    "url": "https://pressroom.lexus.com/history-lexus/",
+    "supports": [
+      "Lexus U.S. generation and model introduction milestones."
+    ],
+    "limitations": "Retrospective. Consult model-specific material for output.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "lex-is-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "Lexus IS300 manual road test",
+    "url": "https://www.caranddriver.com/reviews/a15138284/lexus-is300-road-test/",
+    "supports": [
+      "Five-speed sedan configuration and firsthand impressions."
+    ],
+    "limitations": "One test model.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "lex-es07-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2007 Lexus ES350 road test",
+    "url": "https://www.caranddriver.com/reviews/a18200969/2007-lexus-es350-short-take-road-test/",
+    "supports": [
+      "XV40 V6 and automatic launch specifications and ride."
+    ],
+    "limitations": "One 2007 test car.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "lex-es19",
+    "category": "manufacturer",
+    "publisher": "Lexus USA Newsroom",
+    "title": "Seventh-generation Lexus ES sedan launch",
+    "url": "https://pressroom.lexus.com/pricing-epa-mileage-figures-announced-for-all-new-seventh-generation-lexus-es-sedan/",
+    "supports": [
+      "U.S. ES 300h generation and hybrid powertrain launch."
+    ],
+    "limitations": "Launch-year rating.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "lex-ls04-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2004 luxury sedan comparison",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a15133568/2004-luxury-sedan-comparison-test/",
+    "supports": [
+      "Facelift LS 430 six-speed and firsthand behavior."
+    ],
+    "limitations": "One 2004 comparison car.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "nis-s13-buy",
+    "category": "specialist",
+    "publisher": "Car and Driver",
+    "title": "The best odds 1991–94 Nissan 240SX",
+    "url": "https://www.caranddriver.com/features/a71421928/the-best-odds-199194-nissan-240sx/",
+    "supports": [
+      "S13 facelift powertrain, configuration and buying considerations."
+    ],
+    "limitations": "Retrospective qualitative evidence.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "nis-s14-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1994 budget sports coupes comparison",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a73542806/1994-acura-eagle-ford-honda-mitsubishi-nissan-toyota-sports-coupe-archive-comparison-test/",
+    "supports": [
+      "Original comparison of sport coupes, including the redesigned 240SX."
+    ],
+    "limitations": "Publication and model years can differ.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-celica-88-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1988 Toyota Celica All-Trac Turbo road test",
+    "url": "https://www.caranddriver.com/reviews/a41242901/1988-toyota-celica-all-trac-turbo-by-the-numbers-archive/",
+    "supports": [
+      "U.S. ST165 turbo AWD drivetrain and contemporary driving."
+    ],
+    "limitations": "1988 test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-celica-90-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1990 Toyota Celica All-Trac Turbo archive drive",
+    "url": "https://www.caranddriver.com/reviews/a64355750/1990-toyota-celica-all-trac-turbo-archive-drive/",
+    "supports": [
+      "U.S. ST185 introduction and firsthand driving impressions."
+    ],
+    "limitations": "1990 launch model.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-86-17",
+    "category": "manufacturer",
+    "publisher": "Toyota USA Newsroom",
+    "title": "2017 Toyota 86 launch information",
+    "url": "https://pressroom.toyota.com/2017-toyota-86-is-affordable-fundamental-sports-car/",
+    "supports": [
+      "U.S. 86 nameplate, manual engine output and chassis changes."
+    ],
+    "limitations": "Launch-year equipment.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-corolla08",
+    "category": "manufacturer",
+    "publisher": "Toyota Motor Sales U.S.A.",
+    "title": "2008 Corolla scheduled maintenance guide",
+    "url": "https://assets.sia.toyota.com/publications/en/omms-s/T-MMS-08Corolla/pdf/T-MMS-08Corolla.pdf",
+    "supports": [
+      "Factory maintenance intervals for the final E120 U.S. model year."
+    ],
+    "limitations": "Schedule only. Does not supply repair frequencies or prices.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-prius16",
+    "category": "manufacturer",
+    "publisher": "Toyota USA Newsroom",
+    "title": "Fourth-generation 2016 Toyota Prius launch",
+    "url": "https://pressroom.toyota.com/2016-toyota-prius-hybrid-all-new/",
+    "supports": [
+      "Fourth-generation Prius hybrid and liftback configuration."
+    ],
+    "limitations": "Launch information.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-cor20",
+    "category": "manufacturer",
+    "publisher": "Toyota USA Newsroom",
+    "title": "All-new 2020 Toyota Corolla",
+    "url": "https://pressroom.toyota.com/driving-and-design-highlight-the-all-new-2020-toyota-corolla/",
+    "supports": [
+      "E210 sedan introduction and U.S. hybrid configuration."
+    ],
+    "limitations": "Launch year only.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-camry12",
+    "category": "manufacturer",
+    "publisher": "Toyota USA Newsroom",
+    "title": "Toyota introduces seventh-generation Camry for 2012",
+    "url": "https://pressroom.toyota.com/?generate_pdf=47282",
+    "supports": [
+      "Seventh-generation 2.5-liter gasoline Camry specification."
+    ],
+    "limitations": "Launch-year equipment.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-accord13",
+    "category": "manufacturer",
+    "publisher": "Honda News",
+    "title": "2013 Honda Accord powertrain press kit",
+    "url": "https://hondanews.com/en-US/releases/2013-honda-accord-powertrain",
+    "supports": [
+      "2.4-liter direct-injected engine and CVT for U.S. Accord."
+    ],
+    "limitations": "Launch specifications and grade-dependent output.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-fit09",
+    "category": "manufacturer",
+    "publisher": "Honda News",
+    "title": "2009 Honda Fit overview",
+    "url": "https://hondanews.com/en-US/releases/release-8783f16fabeddc4e7516bd004c34bc90-2009-honda-fit-overview",
+    "supports": [
+      "Second-generation Fit U.S. launch with 1.5-liter engine and five-speed manual."
+    ],
+    "limitations": "Launch-year material.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-prelude-94",
+    "category": "manufacturer",
+    "publisher": "American Honda",
+    "title": "1994 Honda Prelude MVMA specifications",
+    "url": "https://www.crbscca.com/uploadedFiles/mvmaVTS/Honda_Prelude_1994_192.PDF",
+    "supports": [
+      "Period U.S. Prelude trim and powertrain specifications including VTEC."
+    ],
+    "limitations": "1994 manufacturer data hosted by an archive.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-prelude-history",
+    "category": "manufacturer",
+    "publisher": "Honda Motor Europe",
+    "title": "Honda Prelude generations press kit",
+    "url": "https://hondanews.eu/eu/en/cars/media/pressreleases/574738/honda-prelude-generations-press-kit",
+    "supports": [
+      "Fourth- and fifth-generation Prelude design and powertrain history."
+    ],
+    "limitations": "Europe-focused. Do not carry European equipment or output into the U.S. catalog.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-prelude-97",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1997 Honda Prelude SH instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a34932538/1997-honda-prelude-sh-by-the-numbers/",
+    "supports": [
+      "U.S. fifth-generation VTEC engine and five-speed, with SH chassis details."
+    ],
+    "limitations": "SH test. Do not transfer torque-vectoring handling observations to the base car.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-1-08",
+    "category": "manufacturer",
+    "publisher": "BMW of North America",
+    "title": "BMW 2007 Los Angeles announcement of the 1 Series",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0019933EN_US/remarks-by-tom-purves-bmw-press-conference-los-angeles-auto-show-november-14-2007?language=en_US",
+    "supports": [
+      "U.S. launch of E82 128i and twin-turbo 135i."
+    ],
+    "limitations": "Launch specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-1-11",
+    "category": "manufacturer",
+    "publisher": "BMW of North America",
+    "title": "BMW model year 2011 fall update",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0084373EN_US/bmw-model-year-2011-fall-update?language=en_US",
+    "supports": [
+      "U.S. 135i transition to single twin-scroll turbo and transmission choices."
+    ],
+    "limitations": "2011 model-year publication.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-m2-long",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2017 BMW M2 long-term road test",
+    "url": "https://www.caranddriver.com/reviews/a24402269/2017-bmw-m2-reliability-mainentance-ownership/",
+    "supports": [
+      "Original M2 driving and single-car ownership observations."
+    ],
+    "limitations": "One M2. No fleet durability or current labor prices.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-m2c",
+    "category": "manufacturer",
+    "publisher": "BMW of North America",
+    "title": "The first 2019 BMW M2 Competition",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0280302EN_US/the-first-ever-2019-bmw-m2-competition",
+    "supports": [
+      "S55, six-speed and Competition chassis changes."
+    ],
+    "limitations": "2019 launch details.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-m2c-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2019 BMW M2 Competition manual road test",
+    "url": "https://www.caranddriver.com/reviews/a22574455/2019-bmw-m2-competition-first-drive-review/",
+    "supports": [
+      "Firsthand S55 Competition manual impressions and specs."
+    ],
+    "limitations": "One test configuration.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-m235",
+    "category": "manufacturer",
+    "publisher": "BMW of North America",
+    "title": "All-new BMW 2 Series Coupe",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0151907EN_US/the-all-new-bmw-2-series-coupe?language=en_US",
+    "supports": [
+      "M235i launch, rear-drive manual and N55 output."
+    ],
+    "limitations": "2014 launch specification.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-m5-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2000 BMW M5 archive drive",
+    "url": "https://www.caranddriver.com/reviews/a71546448/2000-bmw-m5-archive-drive/",
+    "supports": [
+      "E39 M5 engine, gearbox and period driving impressions."
+    ],
+    "limitations": "Launch coverage. No used-car failure rates.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "audi-tt-history",
+    "category": "manufacturer",
+    "publisher": "Audi AG",
+    "title": "Audi TT turns 25",
+    "url": "https://www.audi.com/en/press-releases/a-timeless-design-icon-the-audi-tt-turns-25-15317",
+    "supports": [
+      "TT generations, Bauhaus-inspired shape and model development."
+    ],
+    "limitations": "Global retrospective.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "audi-tt-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2001 Audi TT drive",
+    "url": "https://www.caranddriver.com/features/a44220732/2001-audi-tt-drive/",
+    "supports": [
+      "U.S. first-generation 225 quattro and period road impressions."
+    ],
+    "limitations": "Single configuration.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "vw-r-history",
+    "category": "manufacturer",
+    "publisher": "Volkswagen of America",
+    "title": "Twenty years of the Golf R",
+    "url": "https://www.vw.com/en/newsroom/discover-vw/golf-r-20th-anniversary.html",
+    "supports": [
+      "U.S. R32 and Golf R generational distinctions."
+    ],
+    "limitations": "Anniversary overview.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "vw-r-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2016 Volkswagen Golf R manual test",
+    "url": "https://www.caranddriver.com/reviews/a15105868/2016-volkswagen-golf-r-manual-test-review/",
+    "supports": [
+      "U.S. six-speed Golf R chassis and drivetrain behavior."
+    ],
+    "limitations": "2016 test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "ford-mach21",
+    "category": "manufacturer",
+    "publisher": "Ford Motor Company",
+    "title": "2021 Ford Mustang technical specifications",
+    "url": "https://media.ford.com/content/dam/fordmedia/North%20America/US/product/2021/mustang/2021-Mustang-Tech-Specs.pdf",
+    "supports": [
+      "U.S. S550 GT and Mach 1 engine and transmission distinction."
+    ],
+    "limitations": "2021 specifications. Output revisions can vary by year.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "ford-focus13",
+    "category": "manufacturer",
+    "publisher": "Ford Motor Company",
+    "title": "2013 Focus ST owner supplement",
+    "url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/13focst1e.pdf",
+    "supports": [
+      "U.S. turbo Focus ST powertrain and maintenance guidance."
+    ],
+    "limitations": "2013 launch-year supplement.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "gti-focus-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2015 Volkswagen GTI versus 2013 Ford Focus ST",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a15115073/2015-volkswagen-gti-vs-2013-ford-focus-st-comparison-test/",
+    "supports": [
+      "Firsthand comparison of U.S. turbo manual hot hatches."
+    ],
+    "limitations": "Trim-specific hardware can affect results.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "che-ss-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2015 Chevrolet SS manual instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a15108731/2015-chevrolet-ss-manual-instrumented-test-review/",
+    "supports": [
+      "U.S. LS3 six-speed sedan and firsthand handling."
+    ],
+    "limitations": "One 2015 test car.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "dod-rt-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2009 Dodge Challenger R/T manual road test",
+    "url": "https://www.caranddriver.com/reviews/a15146276/2009-dodge-challenger-r-t-manual-short-take-road-test/",
+    "supports": [
+      "LC R/T manual powertrain and road behavior."
+    ],
+    "limitations": "One early R/T.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "dod-srt-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2009 Challenger SE, R/T and SRT8 first drive",
+    "url": "https://www.caranddriver.com/reviews/a15150353/2009-dodge-challenger-se-r-t-srt8-first-drive-review/",
+    "supports": [
+      "Early SRT8 manual introduction and firsthand generation impressions."
+    ],
+    "limitations": "Single model year and multiple configurations.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "jag-ft16",
+    "category": "manufacturer",
+    "publisher": "Jaguar Land Rover North America",
+    "title": "2016 F-Type manual and AWD options",
+    "url": "https://media.jlr.com/jaguar/en-us/news/2014/11/2016-f-type-gains-all-wheel-drive-and-manual-transmission-options",
+    "supports": [
+      "U.S. supercharged V6 manual and AWD V8 R configurations."
+    ],
+    "limitations": "2016 press release.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "jag-ft-manual-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2016 Jaguar F-Type S manual coupe test",
+    "url": "https://www.caranddriver.com/reviews/a15104322/2016-jaguar-f-type-s-coupe-manual-test-review/",
+    "supports": [
+      "Firsthand S coupe manual dynamics and specifications."
+    ],
+    "limitations": "Single V6 S configuration.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "fia-124-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2017 Fiat 124 Spider Abarth road test",
+    "url": "https://www.caranddriver.com/reviews/a15102013/2017-fiat-124-spider-abarth-tested-review/",
+    "supports": [
+      "U.S. Abarth manual specifications and firsthand road behavior."
+    ],
+    "limitations": "Single launch-year test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "fia-500-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2017 Fiat 500 Abarth road test",
+    "url": "https://www.caranddriver.com/reviews/a15089564/2017-fiat-500-abarth-review/",
+    "supports": [
+      "U.S. turbo Abarth gearbox, chassis and design observations."
+    ],
+    "limitations": "One MY2017 example.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "lot-evora10",
+    "category": "manufacturer",
+    "publisher": "Lotus Cars",
+    "title": "Lotus Evora North American debut",
+    "url": "https://allcarcentral.com/lotus_pdf/Lotus_Evora_North_American_Debut_2009.pdf",
+    "supports": [
+      "North American Evora 3.5 V6 and manual configuration."
+    ],
+    "limitations": "Manufacturer document hosted by an archive. Launch material.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "hyu-gen13-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2013 Hyundai Genesis Coupe first drive",
+    "url": "https://www.caranddriver.com/reviews/a15120756/2013-hyundai-genesis-coupe-first-drive-review/",
+    "supports": [
+      "Facelift 2.0 Turbo and 3.8 GDI mechanical changes."
+    ],
+    "limitations": "Gearbox and equipment vary by grade.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "hyu-gen38-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2013 Hyundai Genesis Coupe 3.8 R-Spec test",
+    "url": "https://www.caranddriver.com/reviews/a15118307/2013-hyundai-genesis-coupe-38-r-spec-test-review/",
+    "supports": [
+      "3.8 manual R-Spec specifications and firsthand impressions."
+    ],
+    "limitations": "R-Spec chassis equipment can differ from other manual trims.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "hyu-elantra-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "Civic Si, Elantra N and Jetta GLI comparison",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a39430142/2022-honda-civic-si-hyundai-elantra-n-vw-jetta-gli-compared/",
+    "supports": [
+      "2022 Elantra N manual specifications and chassis behavior."
+    ],
+    "limitations": "Individual U.S. comparison cars.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "kia-stinger18",
+    "category": "manufacturer",
+    "publisher": "Kia Motors America",
+    "title": "2018 Kia Stinger overview",
+    "url": "https://www.kiamedia.com/us/en/media/pressreleases/13531/2018-kia-stinger-overview2",
+    "supports": [
+      "U.S. 3.3 twin-turbo GT, rear drive and eight-speed introduction."
+    ],
+    "limitations": "Launch specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "vol-c30-13",
+    "category": "manufacturer",
+    "publisher": "Volvo Cars USA",
+    "title": "2013 Volvo C30 model update",
+    "url": "https://www.volvocars.com/us/media/press-releases/0975833FB595B90F/",
+    "supports": [
+      "U.S. T5 turbo and six-speed manual availability."
+    ],
+    "limitations": "Final model-year specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "vol-c30-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "Mazdaspeed3, Subaru WRX and Volvo C30 T5 comparison",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a15388392/2007-mazdaspeed-3-vs-2008-subaru-impreza-wrx-2008-volvo-c30-t5-comparison-tests/",
+    "supports": [
+      "Firsthand T5 six-speed and early Mazdaspeed3 handling."
+    ],
+    "limitations": "Three individual test cars.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "saab-vin06",
+    "category": "manufacturer",
+    "publisher": "Saab via General Motors",
+    "title": "2006 Saab VIN and powertrain reference",
+    "url": "https://gsitlc.ext.gm.com/dealerworld/vincards/pdf/saab06.pdf",
+    "supports": [
+      "Identifies U.S. Saab body series and 2.8 turbo configuration."
+    ],
+    "limitations": "2006 manufacturer reference, not a road test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "sub-wrx15-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2015 Subaru WRX manual long-term test",
+    "url": "https://www.caranddriver.com/reviews/a15101574/2015-subaru-wrx-manual-long-term-test-wrap-up/",
+    "supports": [
+      "Launch VA manual driving and single-car wear and maintenance experience."
+    ],
+    "limitations": "One test car.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "alf-4c-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2015 Alfa Romeo 4C coupe instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a15109040/2015-alfa-romeo-4c-coupe-test-review/",
+    "supports": [
+      "U.S. carbon-tub 4C turbo dual-clutch specifications and firsthand driving."
+    ],
+    "limitations": "One launch-year test car.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "alf-giulia-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2017 Alfa Romeo Giulia Quadrifoglio instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a15098913/2017-alfa-romeo-giulia-quadrifoglio-test-review/",
+    "supports": [
+      "U.S. 2.9 twin-turbo V6 sedan with eight-speed automatic."
+    ],
+    "limitations": "One MY2017 configuration.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "audi-s4-b5-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "Y2K super sedan comparison",
+    "url": "https://www.caranddriver.com/reviews/comparison-test/a15141199/1999-audi-s4-quattro-vs-bmw-m3-mercedes-benz-c43-amg-saab-9-3-viggen-archived-comparison-test/",
+    "supports": [
+      "U.S. B5 S4 sedan, twin turbo six-speed and road behavior."
+    ],
+    "limitations": "Period comparison of individual cars.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "audi-s4-b8-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2010 Audi S4 second drive",
+    "url": "https://www.caranddriver.com/reviews/a15144227/2010-audi-s4-second-drive/",
+    "supports": [
+      "U.S. B8 3.0 supercharged V6 and gearbox options."
+    ],
+    "limitations": "Check the tested transmission before using shift impressions.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-325",
+    "category": "manufacturer",
+    "publisher": "BMW Group Classic",
+    "title": "BMW 325i E30",
+    "url": "https://www.bmwgroup-classic.com/en/models/bmw-classics/product-description-page.ad-110-1.bmw-325i-e30.html",
+    "supports": [
+      "E30 325i engine and generation identity."
+    ],
+    "limitations": "Global production coverage. U.S. model years and ratings differ.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-m240",
+    "category": "manufacturer",
+    "publisher": "BMW of North America",
+    "title": "New 2017 BMW 2 Series powertrains",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0260117EN_US/the-new-2017-bmw-2-series-now-featuring-the-latest-generation-of-bmw-twinpower-turbo-engines?language=en_US",
+    "supports": [
+      "B58 M240i replaces M235i and offers a manual."
+    ],
+    "limitations": "Launch-year equipment.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-roadster-history",
+    "category": "manufacturer",
+    "publisher": "BMW Group",
+    "title": "75 years of the BMW roadster",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0022479EN_US/75-years-of-the-bmw-roadster-the-bmw-315/1-and-its-successors?language=en_US",
+    "supports": [
+      "Z3 and Z4 generation and engine history."
+    ],
+    "limitations": "Global retrospective. EPA defines the U.S. mechanical scope.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-z3-30",
+    "category": "manufacturer",
+    "publisher": "BMW Group Classic",
+    "title": "BMW Z3 Roadster 3.0i E36",
+    "url": "https://www.bmwgroup-classic.com/en/models/bmw-classics/product-description-page.ad-23-8.bmw-z3-roadster-3-0i-e36.html",
+    "supports": [
+      "Z3 3.0i generation, M54 identity and production history."
+    ],
+    "limitations": "International market specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "bmw-z4-04",
+    "category": "manufacturer",
+    "publisher": "BMW of North America",
+    "title": "BMW Z4 Roadster second model year",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0022217EN_US",
+    "supports": [
+      "U.S. early 3.0i powertrain and manual transmission."
+    ],
+    "limitations": "Second model-year press material.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "dod-chal-15",
+    "category": "manufacturer",
+    "publisher": "Dodge",
+    "title": "2015 Dodge Challenger brochure",
+    "url": "https://www.dodge.com/assets/pdf/brochure/2015challenger.pdf",
+    "supports": [
+      "Scat Pack and Hellcat engines and available manual gearboxes."
+    ],
+    "limitations": "MY2015 equipment and outputs.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "dod-hellcat-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2015 Challenger SRT Hellcat manual test",
+    "url": "https://www.caranddriver.com/reviews/a15108775/2015-dodge-challenger-srt-hellcat-manual-test-review/",
+    "supports": [
+      "U.S. Hellcat manual road test and model-specific hardware."
+    ],
+    "limitations": "One launch-year manual test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "dod-scat-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2015 Challenger R/T Scat Pack 6.4 manual test",
+    "url": "https://www.caranddriver.com/reviews/a15109851/2015-dodge-challenger-r-t-64l-scat-pack-tested-review/",
+    "supports": [
+      "U.S. 392 manual performance and road character."
+    ],
+    "limitations": "One MY2015 test configuration.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "ford-must15",
+    "category": "manufacturer",
+    "publisher": "Ford Motor Company",
+    "title": "2015 Ford Mustang U.S. specifications",
+    "url": "https://media.ford.com/content/dam/fordmedia/North%20America/US/2015_Specs/2015_Mustang_Specs.pdf",
+    "supports": [
+      "S550 launch GT 5.0 and six-speed manual."
+    ],
+    "limitations": "Launch-year specifications.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-si-retro",
+    "category": "specialist",
+    "publisher": "Car and Driver",
+    "title": "History of Honda Si cars in America",
+    "url": "https://www.caranddriver.com/features/g15381097/kicking-in-the-history-of-honda-si-cars-in-america/",
+    "supports": [
+      "U.S. CRX Si and Civic Si generations."
+    ],
+    "limitations": "Retrospective, including multiple trims.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "lex-sc-buy",
+    "category": "specialist",
+    "publisher": "Car and Driver",
+    "title": "What to buy 1992–2000 Lexus SC300 and SC400",
+    "url": "https://www.caranddriver.com/features/a39475871/buy-1992-2000-lexus-sc300-sc400/",
+    "supports": [
+      "U.S. SC 300 manual availability, engine identity and ownership considerations."
+    ],
+    "limitations": "Qualitative buying guide. Current parts and labor prices are not established.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mini-r56-07",
+    "category": "manufacturer",
+    "publisher": "MINI USA",
+    "title": "Press kit for the new MINI",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0017704EN_US/press-kit%3A-the-new-mini?language=en_US",
+    "supports": [
+      "Second-generation Cooper S switches to a turbocharged 1.6 and offers a six-speed."
+    ],
+    "limitations": "Launch press kit.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mini-r56-11",
+    "category": "manufacturer",
+    "publisher": "MINI Canada",
+    "title": "2011 MINI lineup product updates",
+    "url": "https://www.press.bmwgroup.com/canada/article/detail/T0090813EN/mini-canada-announces-product-updates-and-pricing-for-2011-mini-lineup?language=en",
+    "supports": [
+      "R56 revised turbo engine and power increase for 2011."
+    ],
+    "limitations": "Canada release. EPA supplies U.S. configuration corroboration.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mini-f56-14",
+    "category": "manufacturer",
+    "publisher": "MINI USA",
+    "title": "Third-generation MINI Hardtop launch",
+    "url": "https://www.press.bmwgroup.com/usa/article/detail/T0165168EN_US/mini-usa-announces-pricing-for-third-generation-mini-hardtop?language=en_US",
+    "supports": [
+      "F56 Cooper S two-door and 2.0-liter launch powertrain."
+    ],
+    "limitations": "MY2014 press material.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mit-eclipse-history",
+    "category": "specialist",
+    "publisher": "Car and Driver",
+    "title": "Total Eclipse of the Mitsubishi",
+    "url": "https://www.caranddriver.com/features/g15086474/turn-around-total-eclipse-of-the-mitsubishi/",
+    "supports": [
+      "Eclipse generations, GSX turbo AWD distinctions and U.S. chronology."
+    ],
+    "limitations": "Retrospective. No configuration-specific repair incidence.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "pon-gto05",
+    "category": "manufacturer",
+    "publisher": "Pontiac",
+    "title": "2005 Pontiac GTO brochure",
+    "url": "https://over-drive-magazine.com/wp-content/uploads/2023/03/2005-Pontiac-GTO-Brochure-1-40CA.pdf",
+    "supports": [
+      "LS2 and six-speed manual in the U.S. GTO."
+    ],
+    "limitations": "Manufacturer brochure hosted by an archive.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "pon-sol-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2007 Pontiac Solstice GXP road test",
+    "url": "https://www.caranddriver.com/reviews/a18199887/2007-pontiac-solstice-gxp-road-test/",
+    "supports": [
+      "U.S. GXP turbo roadster and firsthand driving."
+    ],
+    "limitations": "Launch-year test configuration.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "sub-brz13-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2013 Subaru BRZ Premium long-term test",
+    "url": "https://www.caranddriver.com/reviews/a15111600/2013-subaru-brz-long-term-test-wrap-up-review/",
+    "supports": [
+      "U.S. first-generation manual BRZ and single-car driving and upkeep observations."
+    ],
+    "limitations": "One long-term example. No population incidence.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "sub-out15-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2015 Subaru Outback 2.5 road test",
+    "url": "https://www.caranddriver.com/reviews/a15108663/2015-subaru-outback-25-test-review/",
+    "supports": [
+      "BS Outback 2.5 CVT and firsthand driving."
+    ],
+    "limitations": "One MY2015 test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-celica-us",
+    "category": "manufacturer",
+    "publisher": "Toyota USA Newsroom",
+    "title": "U.S. Toyota Celica archives",
+    "url": "https://pressroom.toyota.com/historic-vehicles/celica/",
+    "supports": [
+      "U.S. Celica model and trim history, including seventh-generation GT-S."
+    ],
+    "limitations": "Archive collection with uneven technical coverage.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-mr2-mvma",
+    "category": "manufacturer",
+    "publisher": "Toyota Motor Sales U.S.A.",
+    "title": "1993 Toyota MR2 MVMA specifications",
+    "url": "https://www.crbscca.com/uploadedFiles/mvmaVTS/Toyota_MR%202_1993_146.PDF",
+    "supports": [
+      "Original U.S. MY1993 normally aspirated and turbo MR2 specification sheets."
+    ],
+    "limitations": "Manufacturer document hosted by an archive. MY1993 equipment.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "pon-ta98",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1998 Pontiac Trans Am Firehawk archive test",
+    "url": "https://www.caranddriver.com/reviews/a62533579/1998-pontiac-trans-am-firehawk-archive-test/",
+    "supports": [
+      "Identifies the standard LS1 Trans Am before discussing Firehawk-specific upgrades."
+    ],
+    "limitations": "The directly tested car is a Firehawk prototype. Do not apply its output, weight or handling to the base Trans Am.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "vw-gti06",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2006 Volkswagen GTI long-term road test",
+    "url": "https://www.caranddriver.com/reviews/a15387641/2006-volkswagen-gti-long-term-road-test/",
+    "supports": [
+      "U.S. Mk5 2.0 direct-injection turbo and standard six-speed manual availability."
+    ],
+    "limitations": "The test car uses DSG. Do not carry over gearbox-specific service, shift or repair observations.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-cvt-jsd",
+    "category": "service bulletin",
+    "publisher": "Toyota Motor Sales U.S.A.",
+    "title": "Special Service Campaign JSD on Corolla CVT control software",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2018/MC-10197440-9999.pdf",
+    "supports": [
+      "Toyota documents abnormal CVT valve wear and the replacement remedy for eligible 2014–2017 Corollas."
+    ],
+    "limitations": "VIN-dependent. The campaign replaced J0D. No population incidence.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-nc-tank",
+    "category": "specialist",
+    "publisher": "Flyin' Miata",
+    "title": "NC alloy expansion tank technical description",
+    "url": "https://flyinmiata.com/products/nc-alloy-expansion-tank",
+    "supports": [
+      "NC pressurized coolant reservoir construction and reported age-related deterioration."
+    ],
+    "limitations": "Commercial parts supplier. No population incidence or factory interval.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "maz-nd2-maint",
+    "category": "manufacturer",
+    "publisher": "Mazda North American Operations",
+    "title": "2019 MX-5 scheduled maintenance",
+    "url": "https://www.mazdausa.com/siteassets/global-resources/vehicle-resources/owner-manuals/2019/mx-5/2019-mazda-miata-mx-5-scheduled-maintenance.pdf",
+    "supports": [
+      "U.S. ND2 maintenance schedule and prescribed checks."
+    ],
+    "limitations": "Model-year reference. Does not establish repair prices or failure rates.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "acu-nsx94-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "1994 Acura NSX instrumented road test",
+    "url": "https://www.caranddriver.com/reviews/a15141577/1994-acura-nsx-archived-test-review/",
+    "supports": [
+      "U.S. NA1 3.0 five-speed coupe controls, layout and engine output."
+    ],
+    "limitations": "One 1994 test car.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "acu-nsx02-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2002 Acura NSX first drive",
+    "url": "https://www.caranddriver.com/reviews/a15137473/acura-nsx-first-drive-review/",
+    "supports": [
+      "Firsthand facelift U.S. NSX driving and output."
+    ],
+    "limitations": "One facelift launch configuration.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "acu-rsx02-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2002 Acura RSX Type-S road test",
+    "url": "https://www.caranddriver.com/reviews/a15138655/acura-rsx-type-s-road-test/",
+    "supports": [
+      "U.S. K20 Type-S six-speed powertrain and firsthand driving."
+    ],
+    "limitations": "One launch-year test.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "acu-itr-drive",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "Revisiting Acura Type S and Type R models",
+    "url": "https://www.caranddriver.com/reviews/a36412248/vintage-2000s-acura-type-s-type-r-drive/",
+    "supports": [
+      "Firsthand driving in original Acura enthusiast variants including the U.S. Integra Type R."
+    ],
+    "limitations": "Later retrospective driving in specific examples.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mit-evox-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2008 Mitsubishi Lancer Evolution GSR first drive",
+    "url": "https://www.caranddriver.com/reviews/a17012338/2008-mitsubishi-lancer-evolution-gsr-first-drive-review/",
+    "supports": [
+      "Launch U.S. Evo X GSR manual and chassis assessment."
+    ],
+    "limitations": "MY2008 launch.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "che-vette08-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2008 Chevrolet Corvette road test",
+    "url": "https://www.caranddriver.com/reviews/a15146729/2008-chevrolet-corvette-road-test/",
+    "supports": [
+      "U.S. C6 LS3 update, engine and road behavior."
+    ],
+    "limitations": "Factory output can differ with optional exhaust. Check test gearbox before using shift comments.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "che-vette14-long",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2014 Corvette Stingray Z51 manual long-term test",
+    "url": "https://www.caranddriver.com/reviews/a15102778/2014-chevrolet-corvette-stingray-z51-manual-long-term-test-wrap-up/",
+    "supports": [
+      "U.S. C7 manual Z51 driving and one-car service history."
+    ],
+    "limitations": "Z51 hardware and single-car observations. No fleet failure rates.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "nis-z23-spec",
+    "category": "manufacturer",
+    "publisher": "Nissan via Car and Driver",
+    "title": "2023 Nissan Z Sport manual specifications",
+    "url": "https://www.caranddriver.com/nissan/z/specs/2023/nissan_z_nissan-z_2023",
+    "supports": [
+      "U.S. Sport 3.0-liter turbo manual ratings and dimensions."
+    ],
+    "limitations": "Reference MY2023 Sport specification.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "cam-v6-chain",
+    "category": "service bulletin",
+    "publisher": "General Motors",
+    "title": "GM bulletin 12-06-01-009F on high-feature V6 timing chains",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2015/MC-10113723-9999.pdf",
+    "supports": [
+      "GM service kits and diagnosis for stretched timing chains on affected 2010–2012 Camaro LLT and LFX applications."
+    ],
+    "limitations": "The bulletin covers 2012 LFX, not the entire LFX production span. No population frequency or current labor prices.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-box-987-long",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2005 Porsche Boxster S long-term road test",
+    "url": "https://www.caranddriver.com/reviews/a15387613/2005-porsche-boxster-s-long-term-road-test/",
+    "supports": [
+      "Firsthand driving and one-car upkeep of early U.S. 987 Boxster S."
+    ],
+    "limitations": "One 2005 car with period service costs.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-box-986s-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2000 Porsche Boxster S instrumented test",
+    "url": "https://www.caranddriver.com/reviews/a15140956/porsche-boxster-s-road-test/",
+    "supports": [
+      "Launch U.S. 986 S specifications and instrumented driving."
+    ],
+    "limitations": "One 2000 car.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-gr86-maint",
+    "category": "manufacturer",
+    "publisher": "Toyota Motor Sales U.S.A.",
+    "title": "2022 GR86 warranty and maintenance guide",
+    "url": "https://assets.sia.toyota.com/publications/en/omms-s/T-MMS-2286/pdf/T-MMS-2286.pdf",
+    "supports": [
+      "Official U.S. scheduled maintenance and usage assumptions."
+    ],
+    "limitations": "Schedule establishes routine work. It does not establish failure rates, track durability or market repair costs.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "mr2-aw-parts",
+    "category": "specialist",
+    "publisher": "Twos R Us",
+    "title": "AW11 specialist parts catalog",
+    "url": "https://twosrus.com/catalog/index.php?cPath=21",
+    "supports": [
+      "Documented aftermarket supply for some AW11 mechanical and trim components."
+    ],
+    "limitations": "One parts retailer. Inventory and price may change. Does not establish broad parts availability.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "nis-350-de-test",
+    "category": "road test",
+    "publisher": "Car and Driver",
+    "title": "2003 Nissan 350Z instrumented road test",
+    "url": "https://www.caranddriver.com/reviews/a15136959/nissan-350z-road-test/",
+    "supports": [
+      "Early DE coupe manual specs and driving observations."
+    ],
+    "limitations": "Launch-year example.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-944-s2-test",
+    "category": "road test",
+    "publisher": "MotorTrend",
+    "title": "Collectible Classic 1989–1991 Porsche 944 S2",
+    "url": "https://www.motortrend.com/features/1989-1991porsche-944-s2-collectible-classic",
+    "supports": [
+      "S2 engine and firsthand driving in an S2 example."
+    ],
+    "limitations": "Retrospective and one example. Do not transfer exact weight across body styles.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-civic06",
+    "category": "manufacturer",
+    "publisher": "American Honda",
+    "title": "2006 Honda Civic sedan and Civic Hybrid specifications",
+    "url": "https://hondanews.com/en-US/releases/release-591334b5ff2cd7fdfabb17004c34c1b5-2006-honda-civic-sedan-and-civic-hybrid-specifications",
+    "supports": [
+      "U.S. 1.8 gasoline sedan and five-speed automatic factory specifications."
+    ],
+    "limitations": "MY2006 manufacturer reference. The bulletin on coolant leakage has narrower VIN applicability.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "honda-nsx96",
+    "category": "manufacturer",
+    "publisher": "American Honda",
+    "title": "1996 Acura NSX and NSX-T powertrain press kit",
+    "url": "https://hondanews.com/en-US/releases/release-0f1e62092a1e24748ee621004c34c9e4-1996-acura-nsx-nsx-t-powertrain",
+    "supports": [
+      "U.S. NSX and NSX-T 3.0-liter powertrain coverage."
+    ],
+    "limitations": "EPA does not separate all roof configurations in its shared rows.",
+    "accessedAt": "2026-11-13",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "photo-aw11-red",
+    "title": "1987 Toyota MR2 T-Bar AW11 red",
+    "publisher": "Wikimedia Commons",
+    "author": "Mr.choppers",
+    "url": "https://commons.wikimedia.org/wiki/File:1987_Toyota_MR2_T-Bar_AW11_red.jpg",
+    "publishedAt": "2013-09-03",
+    "accessedAt": "2026-11-13",
+    "category": "photograph",
+    "supports": [
+      "Shows a red naturally aspirated 1987 Toyota MR2 T-Bar used in the Explorer."
+    ],
+    "limitations": "Photo illustrates the AW11 design. It does not establish the market or exact equipment of other cars. CC BY-SA 3.0, resized and converted to WebP."
+  }
+]

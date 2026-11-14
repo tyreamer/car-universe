@@ -1,0 +1,324 @@
+{
+  "id": "por-944-early",
+  "make": "Porsche",
+  "model": "944",
+  "generation": "944",
+  "variant": "Early 2.5 eight-valve",
+  "configuration": "por-944-early",
+  "years": {
+    "to": 1984,
+    "from": 1983
+  },
+  "market": "US",
+  "bodyStyle": "Liftback",
+  "segment": "Liftback",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 1983 introduction predates the EPA download. The 1984 EPA row has no drive field. The original road test covers the early rear-drive 2.5.",
+    "epaIds": [
+      26594
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "por-944-long",
+      "por-944-buy",
+      "por-transaxle"
+    ]
+  },
+  "specs": {
+    "engineCode": null,
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "displacementL": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "por-944-long",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-944-long",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "aspiration": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "por-944-long",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "transmission": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "por-944-long",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "gears": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "por-944-long",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "por-944-long",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "drivetrain": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "por-944-long",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-944-long",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 65,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "The platform can serve well with evidence of belt care. A missed timing drive service creates consequential engine exposure.",
+      "evidence": [
+        {
+          "text": "Early 944 U.S. specification, road behavior and single-car maintenance.",
+          "sourceIds": [
+            "por-944-long"
+          ]
+        },
+        {
+          "text": "The technical reference documents cam and balance-shaft belt service and potential damage from timing loss.",
+          "sourceIds": [
+            "por-944-belt"
+          ]
+        },
+        {
+          "text": "U.S. 944 series and ownership considerations, including service history.",
+          "sourceIds": [
+            "por-944-buy"
+          ]
+        },
+        {
+          "text": "924, 944, Turbo, S and 968 evolution and body identification.",
+          "sourceIds": [
+            "por-transaxle"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-long",
+        "por-944-belt",
+        "por-944-buy",
+        "por-transaxle"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 50,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "Cam and balance-belt work creates a recurring specialist bill. Timing failure has a large downside even on the base car.",
+      "evidence": [
+        {
+          "text": "Early 944 U.S. specification, road behavior and single-car maintenance.",
+          "sourceIds": [
+            "por-944-long"
+          ]
+        },
+        {
+          "text": "The technical reference documents cam and balance-shaft belt service and potential damage from timing loss.",
+          "sourceIds": [
+            "por-944-belt"
+          ]
+        },
+        {
+          "text": "U.S. 944 series and ownership considerations, including service history.",
+          "sourceIds": [
+            "por-944-buy"
+          ]
+        },
+        {
+          "text": "924, 944, Turbo, S and 968 evolution and body identification.",
+          "sourceIds": [
+            "por-transaxle"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-long",
+        "por-944-belt",
+        "por-944-buy",
+        "por-transaxle"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Steering and front-engine rear-transaxle balance keep the early 944 rewarding with modest power.",
+      "evidence": [
+        {
+          "text": "Early 944 U.S. specification, road behavior and single-car maintenance.",
+          "sourceIds": [
+            "por-944-long"
+          ]
+        },
+        {
+          "text": "924, 944, Turbo, S and 968 evolution and body identification.",
+          "sourceIds": [
+            "por-transaxle"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-long",
+        "por-transaxle"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Boxed arches and a low liftback distinguish it from the slimmer 924.",
+      "evidence": [
+        {
+          "text": "Early 944 U.S. specification, road behavior and single-car maintenance.",
+          "sourceIds": [
+            "por-944-long"
+          ]
+        },
+        {
+          "text": "U.S. 944 series and ownership considerations, including service history.",
+          "sourceIds": [
+            "por-944-buy"
+          ]
+        },
+        {
+          "text": "924, 944, Turbo, S and 968 evolution and body identification.",
+          "sourceIds": [
+            "por-transaxle"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-long",
+        "por-944-buy",
+        "por-transaxle"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "Loss of cam timing after belt failure can cause piston-to-valve contact and major internal engine damage.",
+        "sourceIds": [
+          "por-944-belt"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Confirm documented cam and balance-belt service and consult a specialist about the correct interval and tension procedure.",
+        "sourceIds": [
+          "por-944-belt",
+          "por-944-buy"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "High",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Steering and front-engine rear-transaxle balance keep the early 944 rewarding with modest power.",
+      "sourceIds": [
+        "por-944-long",
+        "por-transaxle"
+      ]
+    },
+    "styling": {
+      "text": "Boxed arches and a low liftback distinguish it from the slimmer 924.",
+      "sourceIds": [
+        "por-944-long",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "enthusiastAppeal": "The front-engine and rear-transaxle layout gives the car a distinct handling character.",
+    "idealBuyer": "A buyer who enjoys vintage steering feel and values a detailed service file.",
+    "avoidIf": "You need readily predictable repair costs or have no access to specialist service."
+  },
+  "aestheticsTags": [
+    "Wedge",
+    "Pop-up headlights",
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

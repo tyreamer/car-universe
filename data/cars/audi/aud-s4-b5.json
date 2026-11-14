@@ -1,0 +1,214 @@
+{
+  "id": "aud-s4-b5",
+  "make": "Audi",
+  "model": "S4",
+  "generation": "B5",
+  "variant": "2.7 biturbo six-speed sedan",
+  "configuration": "aud-s4-b5",
+  "years": {
+    "to": 2002,
+    "from": 2000
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The early U.S. S4 sedan has a 2.7 twin-turbo V6 and manual transmission.",
+    "epaIds": [
+      15751,
+      16581,
+      17497
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "audi-s4-b5-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "2.7 biturbo",
+    "displacementL": 2.7,
+    "cylinders": 6,
+    "cylinderLayout": "V",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "AWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "audi-s4-b5-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "audi-s4-b5-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "audi-s4-b5-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The turbo V6 and manual give this quiet sedan usable punch. The all-wheel-drive setup favors security over rotation.",
+      "evidence": [
+        {
+          "text": "U.S. B5 S4 sedan, twin turbo six-speed and road behavior.",
+          "sourceIds": [
+            "audi-s4-b5-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "audi-s4-b5-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Discreet trim and clean proportions make the B5 a coherent performance sedan.",
+      "evidence": [
+        {
+          "text": "U.S. B5 S4 sedan, twin turbo six-speed and road behavior.",
+          "sourceIds": [
+            "audi-s4-b5-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "audi-s4-b5-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The turbo V6 and manual give this quiet sedan usable punch. The all-wheel-drive setup favors security over rotation.",
+      "sourceIds": [
+        "audi-s4-b5-test"
+      ]
+    },
+    "styling": {
+      "text": "Discreet trim and clean proportions make the B5 a coherent performance sedan.",
+      "sourceIds": [
+        "audi-s4-b5-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated",
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

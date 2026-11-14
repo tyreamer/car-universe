@@ -1,0 +1,274 @@
+{
+  "id": "hon-s2k-ap1",
+  "make": "Honda",
+  "model": "S2000",
+  "generation": "AP1",
+  "variant": "2.0 six-speed",
+  "configuration": "hon-s2k-ap1",
+  "years": {
+    "to": 2003,
+    "from": 2000
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The U.S. AP1 is the 2.0-liter car through MY2003.",
+    "epaIds": [
+      15607,
+      16448,
+      17356,
+      18314
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "s2k-buy",
+      "s2k-ap1-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "F20C",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 240,
+    "torqueLbFt": 153,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "s2k-buy",
+        "s2k-ap1-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "s2k-buy",
+        "s2k-ap1-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "s2k-buy",
+        "s2k-ap1-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "U.S. AP1 period comparison, published engine output.",
+      "sourceIds": [
+        "s2k-ap1-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "U.S. AP1 period comparison, published engine output.",
+      "sourceIds": [
+        "s2k-ap1-test"
+      ]
+    },
+    "seats": {
+      "text": "U.S. AP1 period comparison, published engine output.",
+      "sourceIds": [
+        "s2k-ap1-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 75,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The F20C can tolerate hard use with attentive service, but oil-level vigilance and evidence of abuse matter on used cars.",
+      "evidence": [
+        {
+          "text": "AP1 and AP2 distinctions, used inspection and maintenance considerations.",
+          "sourceIds": [
+            "s2k-buy"
+          ]
+        },
+        {
+          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "sourceIds": [
+            "s2k-ap1-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s2k-buy",
+        "s2k-ap1-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 70,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "Routine four-cylinder service is manageable. Neglect or mechanical over-rev can make the repair exposure much larger than the routine bill.",
+      "evidence": [
+        {
+          "text": "AP1 and AP2 distinctions, used inspection and maintenance considerations.",
+          "sourceIds": [
+            "s2k-buy"
+          ]
+        },
+        {
+          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "sourceIds": [
+            "s2k-ap1-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s2k-buy",
+        "s2k-ap1-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The shifter and upper-rpm response are exceptional. The narrow power band and early chassis demand an active driver.",
+      "evidence": [
+        {
+          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "sourceIds": [
+            "s2k-ap1-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s2k-ap1-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "A low cabin, long hood and restrained sides make the original roadster visually cohesive.",
+      "evidence": [
+        {
+          "text": "Original AP1 and 2.5 Boxster driving observations and specifications.",
+          "sourceIds": [
+            "s2k-ap1-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "s2k-ap1-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [
+      {
+        "text": "Check oil regularly and review service history, modifications and evidence of previous track use.",
+        "sourceIds": [
+          "s2k-buy"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Low",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The shifter and upper-rpm response are exceptional. The narrow power band and early chassis demand an active driver.",
+      "sourceIds": [
+        "s2k-ap1-test"
+      ]
+    },
+    "styling": {
+      "text": "A low cabin, long hood and restrained sides make the original roadster visually cohesive.",
+      "sourceIds": [
+        "s2k-ap1-test"
+      ]
+    },
+    "enthusiastAppeal": "The engine and gearbox invite frequent shifting and careful placement.",
+    "idealBuyer": "A roadster buyer who enjoys revving an engine and tracking its service history.",
+    "avoidIf": "You prefer low-rpm torque, long-distance isolation or practical storage."
+  },
+  "aestheticsTags": [
+    "Classic",
+    "Minimalist"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "id": "lot-elise-s2",
+  "make": "Lotus",
+  "model": "Elise",
+  "generation": "Series 2",
+  "variant": "U.S. 2ZZ six-speed",
+  "configuration": "lot-elise-s2",
+  "years": {
+    "to": 2011,
+    "from": 2005
+  },
+  "market": "US",
+  "bodyStyle": "Targa",
+  "segment": "Sports car",
+  "category": "Other enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "U.S. Series 2 Elise launch car has the Toyota 1.8 and six-speed, separate from the European launch Elise.",
+    "epaIds": [
+      20485,
+      22659,
+      23069,
+      24759,
+      26522,
+      29684,
+      34736
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "elise-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "2ZZ-GE",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 190,
+    "torqueLbFt": 133,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "elise-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "elise-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "elise-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "Early U.S. Series 2, published output for the tested 2ZZ car.",
+      "sourceIds": [
+        "elise-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "Early U.S. Series 2, published output for the tested 2ZZ car.",
+      "sourceIds": [
+        "elise-test"
+      ]
+    },
+    "seats": {
+      "text": "Early U.S. Series 2, published output for the tested 2ZZ car.",
+      "sourceIds": [
+        "elise-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Low mass and direct steering make minute inputs matter. Cabin access and noise impose significant everyday compromises.",
+      "evidence": [
+        {
+          "text": "U.S. Elise first-hand driving, plus AP2 and Mazdaspeed MX-5.",
+          "sourceIds": [
+            "elise-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "elise-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The compact mid-engine shape, low cowl and taut wheel arches give it unmistakable proportions.",
+      "evidence": [
+        {
+          "text": "U.S. Elise first-hand driving, plus AP2 and Mazdaspeed MX-5.",
+          "sourceIds": [
+            "elise-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "elise-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Low mass and direct steering make minute inputs matter. Cabin access and noise impose significant everyday compromises.",
+      "sourceIds": [
+        "elise-test"
+      ]
+    },
+    "styling": {
+      "text": "The compact mid-engine shape, low cowl and taut wheel arches give it unmistakable proportions.",
+      "sourceIds": [
+        "elise-test"
+      ]
+    },
+    "enthusiastAppeal": "Low mass and direct controls are the reason to choose it.",
+    "idealBuyer": "A weekend driver who prioritizes steering feel and accepts the tight cabin.",
+    "avoidIf": "You need easy entry, quiet highway cruising or storage."
+  },
+  "aestheticsTags": [
+    "Exotic",
+    "Mid-engine proportions",
+    "Minimalist"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

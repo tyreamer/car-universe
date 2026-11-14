@@ -1,0 +1,233 @@
+{
+  "id": "fia-124-nf",
+  "make": "Fiat",
+  "model": "124 Spider",
+  "generation": "348",
+  "variant": "Abarth 1.4 Turbo manual",
+  "configuration": "fia-124-nf",
+  "years": {
+    "to": 2020,
+    "from": 2017
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Other enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The Abarth version uses the Fiat turbo engine and a six-speed manual.",
+    "epaIds": [
+      37528,
+      39485,
+      40228,
+      41609
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "fia-124-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "MultiAir 1.4 Turbo",
+    "displacementL": 1.4,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 164,
+    "torqueLbFt": 184,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "fia-124-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "fia-124-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "fia-124-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2017 U.S. Abarth test, published ratings.",
+      "sourceIds": [
+        "fia-124-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2017 U.S. Abarth test, published ratings.",
+      "sourceIds": [
+        "fia-124-test"
+      ]
+    },
+    "seats": {
+      "text": "2017 U.S. Abarth test, published ratings.",
+      "sourceIds": [
+        "fia-124-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The Mazda-derived chassis and manual are approachable. Turbo response is less immediate than the naturally aspirated Miata's.",
+      "evidence": [
+        {
+          "text": "U.S. Abarth manual specifications and firsthand road behavior.",
+          "sourceIds": [
+            "fia-124-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "fia-124-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Longer, straighter body surfaces distinguish it from the ND. The retro references fit the compact proportions.",
+      "evidence": [
+        {
+          "text": "U.S. Abarth manual specifications and firsthand road behavior.",
+          "sourceIds": [
+            "fia-124-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "fia-124-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The Mazda-derived chassis and manual are approachable. Turbo response is less immediate than the naturally aspirated Miata's.",
+      "sourceIds": [
+        "fia-124-test"
+      ]
+    },
+    "styling": {
+      "text": "Longer, straighter body surfaces distinguish it from the ND. The retro references fit the compact proportions.",
+      "sourceIds": [
+        "fia-124-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Classic",
+    "Retro"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

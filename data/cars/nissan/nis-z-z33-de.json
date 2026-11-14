@@ -1,0 +1,247 @@
+{
+  "id": "nis-z-z33-de",
+  "make": "Nissan",
+  "model": "350Z",
+  "generation": "Z33",
+  "variant": "Early VQ35DE coupe",
+  "configuration": "nis-z-z33-de",
+  "years": {
+    "to": 2004,
+    "from": 2003
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The launch Z33 configuration precedes later VQ revisions.",
+    "epaIds": [
+      18331,
+      19378
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "nis-z-history"
+    ]
+  },
+  "specs": {
+    "engineCode": "VQ35DE",
+    "displacementL": 3.5,
+    "cylinders": 6,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 287,
+    "torqueLbFt": 274,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "nis-z-history"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "nis-z-history"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "nis-z-history"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2003 U.S. launch coupe, published ratings.",
+      "sourceIds": [
+        "nis-350-de-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2003 U.S. launch coupe, published ratings.",
+      "sourceIds": [
+        "nis-350-de-test"
+      ]
+    },
+    "seats": {
+      "text": "2003 U.S. launch coupe, published ratings.",
+      "sourceIds": [
+        "nis-350-de-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Strong midrange, an involving manual and a direct chassis give the early 350Z character. Its mass and cabin compromises reduce versatility.",
+      "evidence": [
+        {
+          "text": "Early DE coupe manual specs and driving observations.",
+          "sourceIds": [
+            "nis-350-de-test"
+          ]
+        },
+        {
+          "text": "Z32, Z33, Z34 and RZ34 generation history and representative design.",
+          "sourceIds": [
+            "nis-z-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "nis-350-de-test",
+        "nis-z-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "A short cabin and broad rear quarters give it the proportions of a sports car. The clean flanks distinguish it from the more detailed successor.",
+      "evidence": [
+        {
+          "text": "Early DE coupe manual specs and driving observations.",
+          "sourceIds": [
+            "nis-350-de-test"
+          ]
+        },
+        {
+          "text": "Z32, Z33, Z34 and RZ34 generation history and representative design.",
+          "sourceIds": [
+            "nis-z-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "nis-350-de-test",
+        "nis-z-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Strong midrange, an involving manual and a direct chassis give the early 350Z character. Its mass and cabin compromises reduce versatility.",
+      "sourceIds": [
+        "nis-350-de-test",
+        "nis-z-history"
+      ]
+    },
+    "styling": {
+      "text": "A short cabin and broad rear quarters give it the proportions of a sports car. The clean flanks distinguish it from the more detailed successor.",
+      "sourceIds": [
+        "nis-350-de-test",
+        "nis-z-history"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Muscular",
+    "Minimalist"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

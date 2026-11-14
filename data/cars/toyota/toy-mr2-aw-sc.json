@@ -1,0 +1,265 @@
+{
+  "id": "toy-mr2-aw-sc",
+  "make": "Toyota",
+  "model": "MR2",
+  "generation": "AW11",
+  "variant": "Supercharged",
+  "configuration": "toy-mr2-aw-sc",
+  "years": {
+    "to": 1989,
+    "from": 1988
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "archival evidence",
+    "notes": "The 1988 road test establishes the five-speed 4A-GZE and the generation history covers the two U.S. model years. The public EPA table does not separate this configuration.",
+    "epaIds": [],
+    "sourceIds": [
+      "mr2-sc-test",
+      "mr2-history"
+    ]
+  },
+  "specs": {
+    "engineCode": "4A-GZE",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Supercharged",
+    "horsepowerHp": 145,
+    "torqueLbFt": 140,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": 2604,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "displacementL": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "cylinders": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "aspiration": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "transmission": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "gears": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "drivetrain": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "1988 U.S. Car and Driver test. Output is the published rating and curb weight refers to the test car.",
+      "sourceIds": [
+        "mr2-sc-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "1988 U.S. Car and Driver test. Output is the published rating and curb weight refers to the test car.",
+      "sourceIds": [
+        "mr2-sc-test"
+      ]
+    },
+    "curbWeightLb": {
+      "text": "1988 U.S. Car and Driver test. Output is the published rating and curb weight refers to the test car.",
+      "sourceIds": [
+        "mr2-sc-test"
+      ]
+    },
+    "seats": {
+      "text": "1988 U.S. Car and Driver test. Output is the published rating and curb weight refers to the test car.",
+      "sourceIds": [
+        "mr2-sc-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Immediate boost adds flexibility. The tested car was heavier and had more engine noise than the base car.",
+      "evidence": [
+        {
+          "text": "The original U.S. supercharged road test compared the boosted and unboosted cars and documented the 1988 changes.",
+          "sourceIds": [
+            "mr2-sc-test"
+          ]
+        },
+        {
+          "text": "U.S. model-year distinctions including the 1993 SW20 suspension changes and AW11 Supercharged years.",
+          "sourceIds": [
+            "mr2-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Small vents and discreet badges give the same wedge a slightly more purposeful look.",
+      "evidence": [
+        {
+          "text": "The original U.S. supercharged road test compared the boosted and unboosted cars and documented the 1988 changes.",
+          "sourceIds": [
+            "mr2-sc-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-sc-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [
+      {
+        "text": "The 1988 U.S. supercharged option adds a Roots blower and intercooler.",
+        "sourceIds": [
+          "mr2-sc-test",
+          "mr2-history"
+        ]
+      }
+    ],
+    "partsAvailability": {
+      "text": "A specialist lists selected AW11 replacement and aftermarket items. Availability of model-specific body and powertrain pieces requires a part-by-part check.",
+      "sourceIds": [
+        "mr2-aw-parts"
+      ]
+    },
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Immediate boost adds flexibility. The tested car was heavier and had more engine noise than the base car.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "styling": {
+      "text": "Small vents and discreet badges give the same wedge a slightly more purposeful look.",
+      "sourceIds": [
+        "mr2-sc-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Wedge",
+    "Pop-up headlights",
+    "Mid-engine proportions"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "researched",
+    "ownership": "partial",
+    "scores": "partial",
+    "followUp": [
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

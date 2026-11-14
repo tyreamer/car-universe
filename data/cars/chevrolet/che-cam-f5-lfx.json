@@ -1,0 +1,246 @@
+{
+  "id": "che-cam-f5-lfx",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "generation": "Fifth generation",
+  "variant": "LT LFX V6 six-speed",
+  "configuration": "che-cam-f5-lfx",
+  "years": {
+    "to": 2015,
+    "from": 2012
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "American enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The revised LFX V6 replaces the LLT at the same displacement.",
+    "epaIds": [
+      31349,
+      32396,
+      33809,
+      35217
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "cam-v6-12",
+      "gm-heritage"
+    ]
+  },
+  "specs": {
+    "engineCode": "LFX",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 323,
+    "torqueLbFt": 278,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 4
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-v6-12",
+        "gm-heritage"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-v6-12",
+        "gm-heritage"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-v6-12",
+        "gm-heritage"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2012 U.S. 1LS manual, published manufacturer rating.",
+      "sourceIds": [
+        "cam-v6-12"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2012 U.S. 1LS manual, published manufacturer rating.",
+      "sourceIds": [
+        "cam-v6-12"
+      ]
+    },
+    "seats": {
+      "text": "2012 U.S. 1LS manual, published manufacturer rating.",
+      "sourceIds": [
+        "cam-v6-12"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 60,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The 1LS uses modest hardware relative to the SS. GM documents a labor-intensive timing-chain repair for the 2012 LFX, while later exposure is unquantified.",
+      "evidence": [
+        {
+          "text": "2012 LFX 3.6 and six-speed base coupe specifications.",
+          "sourceIds": [
+            "cam-v6-12"
+          ]
+        },
+        {
+          "text": "GM service kits and diagnosis for stretched timing chains on affected 2010–2012 Camaro LLT and LFX applications.",
+          "sourceIds": [
+            "cam-v6-chain"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-v6-12",
+        "cam-v6-chain"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "An applicable firsthand driving assessment has not been documented for this configuration.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "A configuration-appropriate design reference and editorial assessment still need review.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "GM published service guidance for stretched timing chains on 2010–2011 LLT and 2012 LFX Camaro engines. The bulletin does not establish frequency or cover the later LFX model years.",
+        "sourceIds": [
+          "cam-v6-chain"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Review the service history and ask a shop to investigate camshaft correlation codes when present. Apply the bulletin by model year and engine.",
+        "sourceIds": [
+          "cam-v6-chain"
+        ]
+      }
+    ],
+    "yearChanges": [
+      {
+        "text": "The 2012 LFX is the revised 3.6 with a 323-hp factory rating for the reference 1LS coupe.",
+        "sourceIds": [
+          "cam-v6-12"
+        ]
+      }
+    ],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Moderate",
+    "annualCost": null
+  },
+  "character": {
+    "driving": null,
+    "styling": null,
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review driving evidence for this configuration.",
+      "Review design evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

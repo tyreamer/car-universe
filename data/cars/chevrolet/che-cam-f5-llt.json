@@ -1,0 +1,286 @@
+{
+  "id": "che-cam-f5-llt",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "generation": "Fifth generation",
+  "variant": "LT LLT V6 six-speed",
+  "configuration": "che-cam-f5-llt",
+  "years": {
+    "to": 2011,
+    "from": 2010
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "American enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The early V6 uses LLT before the LFX revision.",
+    "epaIds": [
+      26427,
+      30318
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "cam-v6-10",
+      "gm-heritage"
+    ]
+  },
+  "specs": {
+    "engineCode": "LLT",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 304,
+    "torqueLbFt": 273,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": 3807,
+    "seats": 4
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-v6-10",
+        "gm-heritage"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-v6-10",
+        "gm-heritage"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-v6-10",
+        "gm-heritage"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2010 U.S. manual reference test and factory output. The 2011 published rating differs.",
+      "sourceIds": [
+        "cam-v6-10"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2010 U.S. manual reference test and factory output. The 2011 published rating differs.",
+      "sourceIds": [
+        "cam-v6-10"
+      ]
+    },
+    "curbWeightLb": {
+      "text": "2010 U.S. manual reference test and factory output. The 2011 published rating differs.",
+      "sourceIds": [
+        "cam-v6-10"
+      ]
+    },
+    "seats": {
+      "text": "2010 U.S. manual reference test and factory output. The 2011 published rating differs.",
+      "sourceIds": [
+        "cam-v6-10"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 60,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "GM identifies a stretched-chain service procedure for this LLT generation. It is a meaningful inspection point with unknown incidence.",
+      "evidence": [
+        {
+          "text": "Fifth-generation 2010 V6 road test and tested configuration.",
+          "sourceIds": [
+            "cam-v6-10"
+          ]
+        },
+        {
+          "text": "GM service kits and diagnosis for stretched timing chains on affected 2010–2012 Camaro LLT and LFX applications.",
+          "sourceIds": [
+            "cam-v6-chain"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-v6-10",
+        "cam-v6-chain"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 60,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The V6 uses less specialized wear items than the SS. The factory chain repair guidance documents labor substantial enough to reserve for it.",
+      "evidence": [
+        {
+          "text": "Fifth-generation 2010 V6 road test and tested configuration.",
+          "sourceIds": [
+            "cam-v6-10"
+          ]
+        },
+        {
+          "text": "GM service kits and diagnosis for stretched timing chains on affected 2010–2012 Camaro LLT and LFX applications.",
+          "sourceIds": [
+            "cam-v6-chain"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-v6-10",
+        "cam-v6-chain"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The manual and direct-injected V6 offer useful involvement. Size, sightlines and wheel-dependent steering feel hold it back.",
+      "evidence": [
+        {
+          "text": "Fifth-generation 2010 V6 road test and tested configuration.",
+          "sourceIds": [
+            "cam-v6-10"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-v6-10"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The long nose and narrow glasshouse give it the fifth generation's muscle-car identity, with tall sides and a large footprint.",
+      "evidence": [
+        {
+          "text": "Fifth-generation 2010 V6 road test and tested configuration.",
+          "sourceIds": [
+            "cam-v6-10"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-v6-10"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "GM published service guidance for stretched timing chains on 2010–2011 LLT and 2012 LFX Camaro engines. The bulletin does not establish frequency or cover the later LFX model years.",
+        "sourceIds": [
+          "cam-v6-chain"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Review the service history and ask a shop to investigate camshaft correlation codes when present. Apply the bulletin by model year and engine.",
+        "sourceIds": [
+          "cam-v6-chain"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Moderate",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The manual and direct-injected V6 offer useful involvement. Size, sightlines and wheel-dependent steering feel hold it back.",
+      "sourceIds": [
+        "cam-v6-10"
+      ]
+    },
+    "styling": {
+      "text": "The long nose and narrow glasshouse give it the fifth generation's muscle-car identity, with tall sides and a large footprint.",
+      "sourceIds": [
+        "cam-v6-10"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Muscular",
+    "Retro"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "researched",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

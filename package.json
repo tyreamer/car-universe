@@ -1,0 +1,22 @@
+{
+  "name": "car-universe",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.12" },
+  "scripts": {
+    "dev": "npm run build:data && vite",
+    "validate:data": "tsx scripts/validate-catalog.ts",
+    "build:data": "tsx scripts/build-catalog.ts",
+    "audit:scores": "tsx scripts/audit-scores.ts",
+    "test": "tsx --test scripts/catalog.test.ts",
+    "build": "npm run build:data && tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": { "react": "^19", "react-dom": "^19", "zod": "^4" },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4", "@types/node": "^24", "@types/react": "^19",
+    "@types/react-dom": "^19", "@vitejs/plugin-react": "^5", "tailwindcss": "^4",
+    "tsx": "^4", "typescript": "^5.9", "vite": "^7"
+  }
+}

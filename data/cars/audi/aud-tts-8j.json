@@ -1,0 +1,218 @@
+{
+  "id": "aud-tts-8j",
+  "make": "Audi",
+  "model": "TTS",
+  "generation": "8J",
+  "variant": "2.0 TFSI quattro coupe",
+  "configuration": "aud-tts-8j",
+  "years": {
+    "to": 2015,
+    "from": 2009
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The EPA labels the matching mechanical rows TT Coupe quattro. The period test independently documents the TTS and its six-speed dual-clutch.",
+    "epaIds": [
+      25222,
+      28549,
+      30287,
+      31566,
+      32565,
+      33639,
+      34664
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "aud-tts-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "2.0 TFSI",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Dual-clutch",
+    "gears": 6,
+    "hasClutchPedal": false,
+    "drivetrain": "AWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    },
+    "transmission": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    },
+    "gears": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    },
+    "drivetrain": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The dual-clutch gearbox responds quickly and the turbo feels strong. Its secure chassis offers less playfulness than the rear-drive coupes.",
+      "evidence": [
+        {
+          "text": "U.S. TTS coupe with six-speed dual-clutch and 2.0-liter turbo.",
+          "sourceIds": [
+            "aud-tts-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "aud-tts-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The familiar roof shape and cleaner flanks preserve TT identity, with less visual novelty than the original.",
+      "evidence": [
+        {
+          "text": "U.S. TTS coupe with six-speed dual-clutch and 2.0-liter turbo.",
+          "sourceIds": [
+            "aud-tts-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "aud-tts-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The dual-clutch gearbox responds quickly and the turbo feels strong. Its secure chassis offers less playfulness than the rear-drive coupes.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    },
+    "styling": {
+      "text": "The familiar roof shape and cleaner flanks preserve TT identity, with less visual novelty than the original.",
+      "sourceIds": [
+        "aud-tts-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Minimalist",
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

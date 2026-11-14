@@ -1,0 +1,232 @@
+{
+  "id": "pon-sol-kappa",
+  "make": "Pontiac",
+  "model": "Solstice",
+  "generation": "Kappa",
+  "variant": "GXP Turbo five-speed",
+  "configuration": "pon-sol-kappa",
+  "years": {
+    "to": 2009,
+    "from": 2007
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "American enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "GXP adds a direct-injected 2.0 turbo separate from the naturally aspirated base roadster.",
+    "epaIds": [
+      23079,
+      24200,
+      25396
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "pon-sol-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "LNF",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 260,
+    "torqueLbFt": 260,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "pon-sol-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "pon-sol-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "pon-sol-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2007 U.S. Solstice GXP road test, published output.",
+      "sourceIds": [
+        "pon-sol-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2007 U.S. Solstice GXP road test, published output.",
+      "sourceIds": [
+        "pon-sol-test"
+      ]
+    },
+    "seats": {
+      "text": "2007 U.S. Solstice GXP road test, published output.",
+      "sourceIds": [
+        "pon-sol-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Strong turbo midrange and an agile chassis work well at road speeds. The top and storage add practical compromises.",
+      "evidence": [
+        {
+          "text": "U.S. GXP turbo roadster and firsthand driving.",
+          "sourceIds": [
+            "pon-sol-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "pon-sol-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Rounded fenders and a long hood make the compact roadster visually distinctive.",
+      "evidence": [
+        {
+          "text": "U.S. GXP turbo roadster and firsthand driving.",
+          "sourceIds": [
+            "pon-sol-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "pon-sol-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Strong turbo midrange and an agile chassis work well at road speeds. The top and storage add practical compromises.",
+      "sourceIds": [
+        "pon-sol-test"
+      ]
+    },
+    "styling": {
+      "text": "Rounded fenders and a long hood make the compact roadster visually distinctive.",
+      "sourceIds": [
+        "pon-sol-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Classic",
+    "Muscular"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "id": "jag-ft-x152-m",
+  "make": "Jaguar",
+  "model": "F-Type",
+  "generation": "X152",
+  "variant": "3.0 V6 S rear-drive manual",
+  "configuration": "jag-ft-x152-m",
+  "years": {
+    "to": 2017,
+    "from": 2016
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Other enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The V6 S couples the supercharged 3.0 with rear drive and a six-speed manual.",
+    "epaIds": [
+      36307,
+      37319
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "jag-ft16",
+      "jag-ft-manual-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "AJ126",
+    "displacementL": 3.0,
+    "cylinders": 6,
+    "cylinderLayout": "V",
+    "aspiration": "Supercharged",
+    "horsepowerHp": 380,
+    "torqueLbFt": 339,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "jag-ft16",
+        "jag-ft-manual-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "jag-ft16",
+        "jag-ft-manual-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "jag-ft16",
+        "jag-ft-manual-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2016 U.S. V6 S coupe published output.",
+      "sourceIds": [
+        "jag-ft16",
+        "jag-ft-manual-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2016 U.S. V6 S coupe published output.",
+      "sourceIds": [
+        "jag-ft16",
+        "jag-ft-manual-test"
+      ]
+    },
+    "seats": {
+      "text": "2016 U.S. V6 S coupe published output.",
+      "sourceIds": [
+        "jag-ft16",
+        "jag-ft-manual-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The supercharged V6 and manual add involvement and sound. Heavy controls and limited visibility moderate its agility.",
+      "evidence": [
+        {
+          "text": "Firsthand S coupe manual dynamics and specifications.",
+          "sourceIds": [
+            "jag-ft-manual-test"
+          ]
+        },
+        {
+          "text": "U.S. supercharged V6 manual and AWD V8 R configurations.",
+          "sourceIds": [
+            "jag-ft16"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "jag-ft-manual-test",
+        "jag-ft16"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The long hood, low cabin and carefully tapered rear are unusually coherent for a modern coupe.",
+      "evidence": [
+        {
+          "text": "Firsthand S coupe manual dynamics and specifications.",
+          "sourceIds": [
+            "jag-ft-manual-test"
+          ]
+        },
+        {
+          "text": "U.S. supercharged V6 manual and AWD V8 R configurations.",
+          "sourceIds": [
+            "jag-ft16"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "jag-ft-manual-test",
+        "jag-ft16"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The supercharged V6 and manual add involvement and sound. Heavy controls and limited visibility moderate its agility.",
+      "sourceIds": [
+        "jag-ft-manual-test",
+        "jag-ft16"
+      ]
+    },
+    "styling": {
+      "text": "The long hood, low cabin and carefully tapered rear are unusually coherent for a modern coupe.",
+      "sourceIds": [
+        "jag-ft-manual-test",
+        "jag-ft16"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Elegant",
+    "Muscular"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

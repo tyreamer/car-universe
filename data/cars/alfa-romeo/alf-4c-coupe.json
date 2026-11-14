@@ -1,0 +1,227 @@
+{
+  "id": "alf-4c-coupe",
+  "make": "Alfa Romeo",
+  "model": "4C",
+  "generation": "Type 960",
+  "variant": "1.75 Turbo dual-clutch coupe",
+  "configuration": "alf-4c-coupe",
+  "years": {
+    "to": 2018,
+    "from": 2015
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Other enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The U.S. 4C coupe uses a turbo four and dual-clutch transaxle behind the cabin.",
+    "epaIds": [
+      35527,
+      36817,
+      38407,
+      39271
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "alf-4c-test"
+    ]
+  },
+  "specs": {
+    "engineCode": null,
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 237,
+    "torqueLbFt": 258,
+    "transmission": "Dual-clutch",
+    "gears": 6,
+    "hasClutchPedal": false,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "alf-4c-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "alf-4c-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2015 U.S. launch test and published ratings.",
+      "sourceIds": [
+        "alf-4c-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2015 U.S. launch test and published ratings.",
+      "sourceIds": [
+        "alf-4c-test"
+      ]
+    },
+    "seats": {
+      "text": "2015 U.S. launch test and published ratings.",
+      "sourceIds": [
+        "alf-4c-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Unassisted steering, light construction and fast shifts make it involving. Kickback and imperfect low-speed response limit accessibility.",
+      "evidence": [
+        {
+          "text": "U.S. carbon-tub 4C turbo dual-clutch specifications and firsthand driving.",
+          "sourceIds": [
+            "alf-4c-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "alf-4c-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "A low roof and strong rear quarters give the small car unusual presence. The front details are comparatively busy.",
+      "evidence": [
+        {
+          "text": "U.S. carbon-tub 4C turbo dual-clutch specifications and firsthand driving.",
+          "sourceIds": [
+            "alf-4c-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "alf-4c-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Unassisted steering, light construction and fast shifts make it involving. Kickback and imperfect low-speed response limit accessibility.",
+      "sourceIds": [
+        "alf-4c-test"
+      ]
+    },
+    "styling": {
+      "text": "A low roof and strong rear quarters give the small car unusual presence. The front details are comparatively busy.",
+      "sourceIds": [
+        "alf-4c-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Exotic",
+    "Mid-engine proportions"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

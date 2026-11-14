@@ -1,0 +1,240 @@
+{
+  "id": "maz-mx5-nbt",
+  "make": "Mazda",
+  "model": "MX-5 Miata",
+  "generation": "NB",
+  "variant": "Mazdaspeed Turbo six-speed",
+  "configuration": "maz-mx5-nbt",
+  "years": {
+    "to": 2005,
+    "from": 2004
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The turbocharged U.S. Mazdaspeed uses its own six-speed configuration.",
+    "epaIds": [
+      19369,
+      20491
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "maz-nbt-test"
+    ]
+  },
+  "specs": {
+    "engineCode": null,
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 178,
+    "torqueLbFt": 166,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-nbt-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-nbt-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2005 U.S. tested configuration and published output.",
+      "sourceIds": [
+        "maz-nbt-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2005 U.S. tested configuration and published output.",
+      "sourceIds": [
+        "maz-nbt-test"
+      ]
+    },
+    "seats": {
+      "text": "2005 U.S. tested configuration and published output.",
+      "sourceIds": [
+        "maz-nbt-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Extra grip and boost make this a quick NB. The short ratios and less even delivery interrupt the flow of the naturally aspirated car.",
+      "evidence": [
+        {
+          "text": "Turbo NB specifications, gearing and response.",
+          "sourceIds": [
+            "maz-nbt-test"
+          ]
+        },
+        {
+          "text": "U.S. Elise first-hand driving, plus AP2 and Mazdaspeed MX-5.",
+          "sourceIds": [
+            "elise-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nbt-test",
+        "elise-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Purposeful wheels and small aero changes add definition to the fixed-lamp body.",
+      "evidence": [
+        {
+          "text": "Turbo NB specifications, gearing and response.",
+          "sourceIds": [
+            "maz-nbt-test"
+          ]
+        },
+        {
+          "text": "U.S. Elise first-hand driving, plus AP2 and Mazdaspeed MX-5.",
+          "sourceIds": [
+            "elise-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nbt-test",
+        "elise-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Extra grip and boost make this a quick NB. The short ratios and less even delivery interrupt the flow of the naturally aspirated car.",
+      "sourceIds": [
+        "maz-nbt-test",
+        "elise-test"
+      ]
+    },
+    "styling": {
+      "text": "Purposeful wheels and small aero changes add definition to the fixed-lamp body.",
+      "sourceIds": [
+        "maz-nbt-test",
+        "elise-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

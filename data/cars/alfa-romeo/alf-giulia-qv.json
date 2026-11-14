@@ -1,0 +1,225 @@
+{
+  "id": "alf-giulia-qv",
+  "make": "Alfa Romeo",
+  "model": "Giulia",
+  "generation": "Type 952",
+  "variant": "Quadrifoglio 2.9 eight-speed",
+  "configuration": "alf-giulia-qv",
+  "years": {
+    "to": 2024,
+    "from": 2017
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "Other enthusiast",
+  "productionStatus": "unknown",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The U.S. Quadrifoglio sedan uses the 2.9 twin-turbo and eight-speed rather than the international manual.",
+    "epaIds": [
+      38370,
+      39288,
+      40637,
+      42148,
+      43611,
+      44243,
+      45431,
+      46783
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "alf-giulia-test"
+    ]
+  },
+  "specs": {
+    "engineCode": null,
+    "displacementL": 2.9,
+    "cylinders": 6,
+    "cylinderLayout": "V",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 505,
+    "torqueLbFt": 443,
+    "transmission": "Automatic",
+    "gears": 8,
+    "hasClutchPedal": false,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "alf-giulia-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "alf-giulia-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2017 U.S. test and published ratings.",
+      "sourceIds": [
+        "alf-giulia-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2017 U.S. test and published ratings.",
+      "sourceIds": [
+        "alf-giulia-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Quick steering and a responsive V6 keep the sedan alert. High grip and sharp inputs can make it feel busy.",
+      "evidence": [
+        {
+          "text": "U.S. 2.9 twin-turbo V6 sedan with eight-speed automatic.",
+          "sourceIds": [
+            "alf-giulia-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "alf-giulia-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The low hood, short rear and triangular grille give it a clear identity without exaggerating the body.",
+      "evidence": [
+        {
+          "text": "U.S. 2.9 twin-turbo V6 sedan with eight-speed automatic.",
+          "sourceIds": [
+            "alf-giulia-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "alf-giulia-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Quick steering and a responsive V6 keep the sedan alert. High grip and sharp inputs can make it feel busy.",
+      "sourceIds": [
+        "alf-giulia-test"
+      ]
+    },
+    "styling": {
+      "text": "The low hood, short rear and triangular grille give it a clear identity without exaggerating the body.",
+      "sourceIds": [
+        "alf-giulia-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Elegant",
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

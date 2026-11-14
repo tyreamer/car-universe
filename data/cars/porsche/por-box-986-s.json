@@ -1,0 +1,305 @@
+{
+  "id": "por-box-986-s",
+  "make": "Porsche",
+  "model": "Boxster",
+  "generation": "986",
+  "variant": "S 3.2 pre-facelift",
+  "configuration": "por-box-986-s",
+  "years": {
+    "to": 2002,
+    "from": 2000
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "First 3.2-liter Boxster S with six-speed, before the facelift.",
+    "epaIds": [
+      15620,
+      16464,
+      17375
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "por-classic",
+      "bmw-z3-s54-test"
+    ]
+  },
+  "specs": {
+    "engineCode": null,
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "cylinderLayout": "Flat",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 250,
+    "torqueLbFt": 225,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-classic",
+        "bmw-z3-s54-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-classic",
+        "bmw-z3-s54-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2000 U.S. 986 S published launch ratings.",
+      "sourceIds": [
+        "por-box-986s-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2000 U.S. 986 S published launch ratings.",
+      "sourceIds": [
+        "por-box-986s-test"
+      ]
+    },
+    "seats": {
+      "text": "2000 U.S. 986 S published launch ratings.",
+      "sourceIds": [
+        "por-box-986s-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 60,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The early S retains the IMS concern. Verify the engine and its history before drawing conclusions about the bearing design.",
+      "evidence": [
+        {
+          "text": "The specialist reference documents bearing types and serviceability by engine and model year.",
+          "sourceIds": [
+            "por-ims"
+          ]
+        },
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "S54 M Roadster and 986 Boxster S in period road testing.",
+          "sourceIds": [
+            "bmw-z3-s54-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-ims",
+        "por-classic",
+        "bmw-z3-s54-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 45,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The S has specialist access requirements and engine-level risk. Larger performance hardware adds to the routine bill.",
+      "evidence": [
+        {
+          "text": "The specialist reference documents bearing types and serviceability by engine and model year.",
+          "sourceIds": [
+            "por-ims"
+          ]
+        },
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "S54 M Roadster and 986 Boxster S in period road testing.",
+          "sourceIds": [
+            "bmw-z3-s54-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-ims",
+        "por-classic",
+        "bmw-z3-s54-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Extra flat-six response complements the steering and progressive balance in the period comparison.",
+      "evidence": [
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "S54 M Roadster and 986 Boxster S in period road testing.",
+          "sourceIds": [
+            "bmw-z3-s54-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-classic",
+        "bmw-z3-s54-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The S keeps the clean original roadster proportions and subtle exterior differences.",
+      "evidence": [
+        {
+          "text": "Porsche model histories, variant tables and chassis changes.",
+          "sourceIds": [
+            "por-classic"
+          ]
+        },
+        {
+          "text": "S54 M Roadster and 986 Boxster S in period road testing.",
+          "sourceIds": [
+            "bmw-z3-s54-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-classic",
+        "bmw-z3-s54-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "A failing intermediate-shaft bearing can cause major engine damage. Applicable bearing design and accessibility depend on the engine and production history.",
+        "sourceIds": [
+          "por-ims"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Ask a Porsche specialist to identify the installed engine and bearing design, then review any documented prior bearing work.",
+        "sourceIds": [
+          "por-ims"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "High",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Extra flat-six response complements the steering and progressive balance in the period comparison.",
+      "sourceIds": [
+        "por-classic",
+        "bmw-z3-s54-test"
+      ]
+    },
+    "styling": {
+      "text": "The S keeps the clean original roadster proportions and subtle exterior differences.",
+      "sourceIds": [
+        "por-classic",
+        "bmw-z3-s54-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Mid-engine proportions",
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

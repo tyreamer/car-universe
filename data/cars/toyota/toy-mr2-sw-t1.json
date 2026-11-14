@@ -1,0 +1,251 @@
+{
+  "id": "toy-mr2-sw-t1",
+  "make": "Toyota",
+  "model": "MR2",
+  "generation": "SW20",
+  "variant": "Turbo before suspension revision",
+  "configuration": "toy-mr2-sw-t1",
+  "years": {
+    "to": 1992,
+    "from": 1991
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The period Turbo test predates the 1993 suspension revision.",
+    "epaIds": [
+      7494,
+      8591
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "mr2-history",
+      "mr2-sw-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "3S-GTE",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 200,
+    "torqueLbFt": 200,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-history",
+        "mr2-sw-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-history",
+        "mr2-sw-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-history",
+        "mr2-sw-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "1992 U.S. road test specification panel.",
+      "sourceIds": [
+        "mr2-sw-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "1992 U.S. road test specification panel.",
+      "sourceIds": [
+        "mr2-sw-test"
+      ]
+    },
+    "seats": {
+      "text": "1992 U.S. road test specification panel.",
+      "sourceIds": [
+        "mr2-sw-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The turbo powertrain and mid-engine layout give the early car real occasion. Its response to abrupt inputs near the limit requires care.",
+      "evidence": [
+        {
+          "text": "Early U.S. SW20 Turbo specifications and driving behavior.",
+          "sourceIds": [
+            "mr2-sw-test"
+          ]
+        },
+        {
+          "text": "U.S. model-year distinctions including the 1993 SW20 suspension changes and AW11 Supercharged years.",
+          "sourceIds": [
+            "mr2-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-sw-test",
+        "mr2-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The low cabin, broad haunches and concealed lamps give the Turbo convincing exotic proportions.",
+      "evidence": [
+        {
+          "text": "Early U.S. SW20 Turbo specifications and driving behavior.",
+          "sourceIds": [
+            "mr2-sw-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-sw-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [
+      {
+        "text": "The earlier second-generation suspension requires care with abrupt lift-off near the limit.",
+        "sourceIds": [
+          "mr2-history"
+        ]
+      }
+    ],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The turbo powertrain and mid-engine layout give the early car real occasion. Its response to abrupt inputs near the limit requires care.",
+      "sourceIds": [
+        "mr2-sw-test",
+        "mr2-history"
+      ]
+    },
+    "styling": {
+      "text": "The low cabin, broad haunches and concealed lamps give the Turbo convincing exotic proportions.",
+      "sourceIds": [
+        "mr2-sw-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Wedge",
+    "Pop-up headlights",
+    "Mid-engine proportions"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "id": "hon-civic-fl5",
+  "make": "Honda",
+  "model": "Civic",
+  "generation": "FL5",
+  "variant": "Type R 2.0 Turbo",
+  "configuration": "hon-civic-fl5",
+  "years": {
+    "to": 2025,
+    "from": 2023
+  },
+  "market": "US",
+  "bodyStyle": "Hatchback",
+  "segment": "Compact hatchback",
+  "category": "Japanese enthusiast",
+  "productionStatus": "unknown",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "Second U.S. Type R has the FL5 body and revised turbo hardware.",
+    "epaIds": [
+      46142,
+      47582,
+      48042
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "honda-fl5",
+      "honda-fl5-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "K20C1",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 315,
+    "torqueLbFt": 310,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 4
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-fl5",
+        "honda-fl5-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-fl5",
+        "honda-fl5-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "honda-fl5",
+        "honda-fl5-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2023 U.S. launch specifications.",
+      "sourceIds": [
+        "honda-fl5"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2023 U.S. launch specifications.",
+      "sourceIds": [
+        "honda-fl5"
+      ]
+    },
+    "seats": {
+      "text": "2023 U.S. launch specifications.",
+      "sourceIds": [
+        "honda-fl5"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Precise steering, a clean shift and strong front-axle traction invite involvement. The firmest settings are less useful on ordinary roads.",
+      "evidence": [
+        {
+          "text": "Firsthand FL5 handling and powertrain observations.",
+          "sourceIds": [
+            "honda-fl5-test"
+          ]
+        },
+        {
+          "text": "FL5 generation, output, manual and chassis changes.",
+          "sourceIds": [
+            "honda-fl5"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "honda-fl5-test",
+        "honda-fl5"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Broad fenders and a long roof give the hatchback a clear stance. The large wing is the primary visual interruption.",
+      "evidence": [
+        {
+          "text": "Firsthand FL5 handling and powertrain observations.",
+          "sourceIds": [
+            "honda-fl5-test"
+          ]
+        },
+        {
+          "text": "FL5 generation, output, manual and chassis changes.",
+          "sourceIds": [
+            "honda-fl5"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "honda-fl5-test",
+        "honda-fl5"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Precise steering, a clean shift and strong front-axle traction invite involvement. The firmest settings are less useful on ordinary roads.",
+      "sourceIds": [
+        "honda-fl5-test",
+        "honda-fl5"
+      ]
+    },
+    "styling": {
+      "text": "Broad fenders and a long roof give the hatchback a clear stance. The large wing is the primary visual interruption.",
+      "sourceIds": [
+        "honda-fl5-test",
+        "honda-fl5"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Aggressive",
+    "Understated"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

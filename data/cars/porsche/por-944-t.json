@@ -1,0 +1,319 @@
+{
+  "id": "por-944-t",
+  "make": "Porsche",
+  "model": "944",
+  "generation": "951",
+  "variant": "Turbo early 2.5",
+  "configuration": "por-944-t",
+  "years": {
+    "to": 1987,
+    "from": 1986
+  },
+  "market": "US",
+  "bodyStyle": "Liftback",
+  "segment": "Liftback",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "Early U.S. 2.5 Turbo precedes the 1988 Turbo S. The EPA labels it 944.",
+    "epaIds": [
+      1742,
+      2949
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "por-944-t-road",
+      "por-944-buy",
+      "por-transaxle"
+    ]
+  },
+  "specs": {
+    "engineCode": null,
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-944-t-road",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-944-t-road",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 60,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "It shares the timing-belt exposure and adds boost and heat-management hardware. Available evidence describes the risks without a frequency estimate.",
+      "evidence": [
+        {
+          "text": "Period driving assessment of 944 Turbo.",
+          "sourceIds": [
+            "por-944-t-road"
+          ]
+        },
+        {
+          "text": "The technical reference documents cam and balance-shaft belt service and potential damage from timing loss.",
+          "sourceIds": [
+            "por-944-belt"
+          ]
+        },
+        {
+          "text": "U.S. 944 series and ownership considerations, including service history.",
+          "sourceIds": [
+            "por-944-buy"
+          ]
+        },
+        {
+          "text": "924, 944, Turbo, S and 968 evolution and body identification.",
+          "sourceIds": [
+            "por-transaxle"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-t-road",
+        "por-944-belt",
+        "por-944-buy",
+        "por-transaxle"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 40,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "The naturally aspirated car's belt expense remains, with additional boost hardware and tighter packaging.",
+      "evidence": [
+        {
+          "text": "Period driving assessment of 944 Turbo.",
+          "sourceIds": [
+            "por-944-t-road"
+          ]
+        },
+        {
+          "text": "The technical reference documents cam and balance-shaft belt service and potential damage from timing loss.",
+          "sourceIds": [
+            "por-944-belt"
+          ]
+        },
+        {
+          "text": "U.S. 944 series and ownership considerations, including service history.",
+          "sourceIds": [
+            "por-944-buy"
+          ]
+        },
+        {
+          "text": "924, 944, Turbo, S and 968 evolution and body identification.",
+          "sourceIds": [
+            "por-transaxle"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-t-road",
+        "por-944-belt",
+        "por-944-buy",
+        "por-transaxle"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Strong in-gear performance adds to the balanced chassis. Boost response and higher speeds change how easily the car can be enjoyed on a tight road.",
+      "evidence": [
+        {
+          "text": "Period driving assessment of 944 Turbo.",
+          "sourceIds": [
+            "por-944-t-road"
+          ]
+        },
+        {
+          "text": "924, 944, Turbo, S and 968 evolution and body identification.",
+          "sourceIds": [
+            "por-transaxle"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-t-road",
+        "por-transaxle"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The smooth Turbo nose and strong flares make the long transaxle silhouette especially coherent.",
+      "evidence": [
+        {
+          "text": "Period driving assessment of 944 Turbo.",
+          "sourceIds": [
+            "por-944-t-road"
+          ]
+        },
+        {
+          "text": "U.S. 944 series and ownership considerations, including service history.",
+          "sourceIds": [
+            "por-944-buy"
+          ]
+        },
+        {
+          "text": "924, 944, Turbo, S and 968 evolution and body identification.",
+          "sourceIds": [
+            "por-transaxle"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944-t-road",
+        "por-944-buy",
+        "por-transaxle"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "Loss of cam timing after belt failure can cause piston-to-valve contact and major internal engine damage.",
+        "sourceIds": [
+          "por-944-belt"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Confirm documented cam and balance-belt service and consult a specialist about the correct interval and tension procedure.",
+        "sourceIds": [
+          "por-944-belt",
+          "por-944-buy"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": {
+      "text": "Turbo hardware adds plumbing and heat-management components to the belt-driven transaxle platform.",
+      "sourceIds": [
+        "por-transaxle",
+        "por-944-belt"
+      ]
+    },
+    "maintenanceAccessibility": null,
+    "costTier": "High",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Strong in-gear performance adds to the balanced chassis. Boost response and higher speeds change how easily the car can be enjoyed on a tight road.",
+      "sourceIds": [
+        "por-944-t-road",
+        "por-transaxle"
+      ]
+    },
+    "styling": {
+      "text": "The smooth Turbo nose and strong flares make the long transaxle silhouette especially coherent.",
+      "sourceIds": [
+        "por-944-t-road",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "enthusiastAppeal": "The front-engine and rear-transaxle layout gives the car a distinct handling character.",
+    "idealBuyer": "A buyer who enjoys vintage steering feel and values a detailed service file.",
+    "avoidIf": "You need readily predictable repair costs or have no access to specialist service."
+  },
+  "aestheticsTags": [
+    "Wedge",
+    "Pop-up headlights",
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

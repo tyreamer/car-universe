@@ -1,0 +1,282 @@
+{
+  "id": "maz-mx5-nd1",
+  "make": "Mazda",
+  "model": "MX-5 Miata",
+  "generation": "ND1",
+  "variant": "2.0 soft-top six-speed",
+  "configuration": "maz-mx5-nd1",
+  "years": {
+    "to": 2018,
+    "from": 2016
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The original U.S. ND soft top uses the 155-hp 2.0-liter engine.",
+    "epaIds": [
+      36168,
+      38174,
+      39770
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "maz-miata-history",
+      "maz-nd1-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "Skyactiv-G 2.0",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 155,
+    "torqueLbFt": 148,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nd1-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nd1-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nd1-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2016 U.S. manual Club test and published output.",
+      "sourceIds": [
+        "maz-nd1-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2016 U.S. manual Club test and published output.",
+      "sourceIds": [
+        "maz-nd1-test"
+      ]
+    },
+    "seats": {
+      "text": "2016 U.S. manual Club test and published output.",
+      "sourceIds": [
+        "maz-nd1-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 70,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "Mazda documents an early manual gearbox failure mode for specified vehicles. The eligible VIN range and unknown frequency warrant a provisional rating.",
+      "evidence": [
+        {
+          "text": "ND1 soft-top manual specs and driving observations.",
+          "sourceIds": [
+            "maz-nd1-test"
+          ]
+        },
+        {
+          "text": "Mazda published a repair procedure for second- and third-gear damage on specified early manual soft tops.",
+          "sourceIds": [
+            "maz-nd-gear"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nd1-test",
+        "maz-nd-gear"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 75,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "Light consumables favor a low burden, with a reserve for the eligible early gearbox concern.",
+      "evidence": [
+        {
+          "text": "ND1 soft-top manual specs and driving observations.",
+          "sourceIds": [
+            "maz-nd1-test"
+          ]
+        },
+        {
+          "text": "Mazda published a repair procedure for second- and third-gear damage on specified early manual soft tops.",
+          "sourceIds": [
+            "maz-nd-gear"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nd1-test",
+        "maz-nd-gear"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The low mass and short manual shift make ordinary speeds engaging. Body roll rewards a smooth rhythm.",
+      "evidence": [
+        {
+          "text": "ND1 soft-top manual specs and driving observations.",
+          "sourceIds": [
+            "maz-nd1-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nd1-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Short bodywork, narrow lamps and strong fender lines make the ND distinctive without cluttering the silhouette.",
+      "evidence": [
+        {
+          "text": "ND1 soft-top manual specs and driving observations.",
+          "sourceIds": [
+            "maz-nd1-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nd1-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "Specified early 2016–2017 manual soft tops may suffer damage to second or third gear. Mazda's bulletin describes a revised replacement gearbox.",
+        "sourceIds": [
+          "maz-nd-gear"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Confirm the VIN range, check gearbox service records and test for grinding or difficulty selecting second and third.",
+        "sourceIds": [
+          "maz-nd-gear"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Low",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The low mass and short manual shift make ordinary speeds engaging. Body roll rewards a smooth rhythm.",
+      "sourceIds": [
+        "maz-nd1-test"
+      ]
+    },
+    "styling": {
+      "text": "Short bodywork, narrow lamps and strong fender lines make the ND distinctive without cluttering the silhouette.",
+      "sourceIds": [
+        "maz-nd1-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Minimalist",
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

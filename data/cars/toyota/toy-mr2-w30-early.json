@@ -1,0 +1,318 @@
+{
+  "id": "toy-mr2-w30-early",
+  "make": "Toyota",
+  "model": "MR2 Spyder",
+  "generation": "ZZW30",
+  "variant": "Early five-speed",
+  "configuration": "toy-mr2-w30-early",
+  "years": {
+    "to": 2002,
+    "from": 2000
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The EPA 2000 five-speed row erroneously lists front-wheel drive. The U.S. road test establishes a mid-engine rear-wheel-drive configuration.",
+    "epaIds": [
+      15621,
+      16465,
+      17377
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "mr2-spyder-test",
+      "mr2-history"
+    ]
+  },
+  "specs": {
+    "engineCode": "1ZZ-FE",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 138,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-history"
+      ]
+    },
+    "displacementL": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-history"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-history"
+      ]
+    },
+    "aspiration": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-history"
+      ]
+    },
+    "transmission": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-history"
+      ]
+    },
+    "gears": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-history"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-history"
+      ]
+    },
+    "drivetrain": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-history"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-history"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2000 U.S. launch drive. Output is the published launch rating.",
+      "sourceIds": [
+        "mr2-spyder-test"
+      ]
+    },
+    "seats": {
+      "text": "2000 U.S. launch drive. Output is the published launch rating.",
+      "sourceIds": [
+        "mr2-spyder-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 65,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The reported pre-catalyst concern merits inspection because engine damage would be consequential. Its incidence and causal sequence remain uncertain.",
+      "evidence": [
+        {
+          "text": "U.S. launch configuration, handling and packaging.",
+          "sourceIds": [
+            "mr2-spyder-test"
+          ]
+        },
+        {
+          "text": "A commercial MR2 specialist documents the pre-catalyst construction and describes reported deterioration.",
+          "sourceIds": [
+            "mr2-catalyst"
+          ]
+        },
+        {
+          "text": "The U.S. owner manual describes oil-level checks.",
+          "sourceIds": [
+            "mr2-spyder-manual"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-catalyst",
+        "mr2-spyder-manual"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 60,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "Light, unboosted hardware limits routine consumables. A possible engine-scale repair and mid-engine access keep the cost assessment moderate.",
+      "evidence": [
+        {
+          "text": "U.S. launch configuration, handling and packaging.",
+          "sourceIds": [
+            "mr2-spyder-test"
+          ]
+        },
+        {
+          "text": "A commercial MR2 specialist documents the pre-catalyst construction and describes reported deterioration.",
+          "sourceIds": [
+            "mr2-catalyst"
+          ]
+        },
+        {
+          "text": "The U.S. owner manual describes oil-level checks.",
+          "sourceIds": [
+            "mr2-spyder-manual"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-catalyst",
+        "mr2-spyder-manual"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Low mass and quick direction changes are rewarding at everyday speeds. The modest engine and nearly absent luggage space narrow its appeal.",
+      "evidence": [
+        {
+          "text": "U.S. launch configuration, handling and packaging.",
+          "sourceIds": [
+            "mr2-spyder-test"
+          ]
+        },
+        {
+          "text": "The U.S. owner manual describes oil-level checks.",
+          "sourceIds": [
+            "mr2-spyder-manual"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-spyder-manual"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Short ends and a small cabin work well. The big lamp shapes are less resolved than the proportions.",
+      "evidence": [
+        {
+          "text": "U.S. launch configuration, handling and packaging.",
+          "sourceIds": [
+            "mr2-spyder-test"
+          ]
+        },
+        {
+          "text": "The U.S. owner manual describes oil-level checks.",
+          "sourceIds": [
+            "mr2-spyder-manual"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-spyder-manual"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "Specialist reports describe deterioration of the original pre-catalyst material and possible engine damage. Frequency, causal sequence and a facelift cutoff are unestablished.",
+        "sourceIds": [
+          "mr2-catalyst"
+        ],
+        "severity": "high",
+        "frequency": "unknown"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Check oil level and ask a qualified shop to investigate oil consumption or catalyst symptoms with the emissions equipment intact.",
+        "sourceIds": [
+          "mr2-spyder-manual",
+          "mr2-catalyst"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": {
+      "text": "The mid-engine package constrains access compared with an open front-engine bay. Job-specific labor estimates remain unresearched.",
+      "sourceIds": [
+        "mr2-spyder-test"
+      ]
+    },
+    "costTier": "Moderate",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Low mass and quick direction changes are rewarding at everyday speeds. The modest engine and nearly absent luggage space narrow its appeal.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-spyder-manual"
+      ]
+    },
+    "styling": {
+      "text": "Short ends and a small cabin work well. The big lamp shapes are less resolved than the proportions.",
+      "sourceIds": [
+        "mr2-spyder-test",
+        "mr2-spyder-manual"
+      ]
+    },
+    "enthusiastAppeal": "The mid-engine layout makes a modest powertrain feel lively on an ordinary road.",
+    "idealBuyer": "A weekend driver who values agility and can accommodate little luggage.",
+    "avoidIf": "You need usable luggage space or want minimal used-car inspection effort."
+  },
+  "aestheticsTags": [
+    "Mid-engine proportions",
+    "Minimalist"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

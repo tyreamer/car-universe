@@ -1,0 +1,232 @@
+{
+  "id": "maz-mx5-nb1",
+  "make": "Mazda",
+  "model": "MX-5 Miata",
+  "generation": "NB1",
+  "variant": "1.8 five-speed",
+  "configuration": "maz-mx5-nb1",
+  "years": {
+    "to": 2000,
+    "from": 1999
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The first U.S. NB uses a 1.8-liter engine and fixed headlamps. This entry is the five-speed.",
+    "epaIds": [
+      14806,
+      15610
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "maz-miata-history",
+      "maz-nb-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "BP-4W",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nb-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nb-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nb-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "low",
+      "methodology": "editorial",
+      "rationale": "The early NB chassis remains agile and predictable. Confidence is lower because the reviewed equipment differs across early trim levels.",
+      "evidence": [
+        {
+          "text": "NB launch, styling and observed handling.",
+          "sourceIds": [
+            "maz-nb-test"
+          ]
+        },
+        {
+          "text": "Four-generation timeline and design evolution.",
+          "sourceIds": [
+            "maz-miata-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nb-test",
+        "maz-miata-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Sculpted arches and fixed lamps give the NB a clear stance. The shape is less singular than the original pop-up design.",
+      "evidence": [
+        {
+          "text": "NB launch, styling and observed handling.",
+          "sourceIds": [
+            "maz-nb-test"
+          ]
+        },
+        {
+          "text": "Four-generation timeline and design evolution.",
+          "sourceIds": [
+            "maz-miata-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nb-test",
+        "maz-miata-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The early NB chassis remains agile and predictable. Confidence is lower because the reviewed equipment differs across early trim levels.",
+      "sourceIds": [
+        "maz-nb-test",
+        "maz-miata-history"
+      ]
+    },
+    "styling": {
+      "text": "Sculpted arches and fixed lamps give the NB a clear stance. The shape is less singular than the original pop-up design.",
+      "sourceIds": [
+        "maz-nb-test",
+        "maz-miata-history"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

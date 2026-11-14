@@ -1,0 +1,224 @@
+{
+  "id": "hyu-ela-cn7n",
+  "make": "Hyundai",
+  "model": "Elantra N",
+  "generation": "CN7",
+  "variant": "2.0 Turbo six-speed",
+  "configuration": "hyu-ela-cn7n",
+  "years": {
+    "to": 2023,
+    "from": 2022
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "Other enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The Elantra N sedan uses a turbo 2.0 and offers a six-speed manual.",
+    "epaIds": [
+      44471,
+      45934
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "hyu-elantra-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "Theta II 2.0T",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 276,
+    "torqueLbFt": 289,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "hyu-elantra-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "hyu-elantra-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "hyu-elantra-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2022 U.S. Elantra N manual comparison test, published output.",
+      "sourceIds": [
+        "hyu-elantra-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2022 U.S. Elantra N manual comparison test, published output.",
+      "sourceIds": [
+        "hyu-elantra-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Strong front-axle traction, adjustable behavior and a manual make it engaging. The firm ride and vocal exhaust shape its everyday character.",
+      "evidence": [
+        {
+          "text": "2022 Elantra N manual specifications and chassis behavior.",
+          "sourceIds": [
+            "hyu-elantra-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "hyu-elantra-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Angular surfaces and prominent trim give the N presence, with several competing lines across the body.",
+      "evidence": [
+        {
+          "text": "2022 Elantra N manual specifications and chassis behavior.",
+          "sourceIds": [
+            "hyu-elantra-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "hyu-elantra-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Strong front-axle traction, adjustable behavior and a manual make it engaging. The firm ride and vocal exhaust shape its everyday character.",
+      "sourceIds": [
+        "hyu-elantra-test"
+      ]
+    },
+    "styling": {
+      "text": "Angular surfaces and prominent trim give the N presence, with several competing lines across the body.",
+      "sourceIds": [
+        "hyu-elantra-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

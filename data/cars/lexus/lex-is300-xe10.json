@@ -1,0 +1,231 @@
+{
+  "id": "lex-is300-xe10",
+  "make": "Lexus",
+  "model": "IS 300",
+  "generation": "XE10",
+  "variant": "Sedan five-speed",
+  "configuration": "lex-is300-xe10",
+  "years": {
+    "to": 2005,
+    "from": 2002
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The manual IS 300 is a five-speed rear-drive sedan. The SportCross was automatic.",
+    "epaIds": [
+      17576,
+      18549,
+      19612,
+      20730
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "lex-is-test",
+      "lex-history"
+    ]
+  },
+  "specs": {
+    "engineCode": "2JZ-GE",
+    "displacementL": 3.0,
+    "cylinders": 6,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 215,
+    "torqueLbFt": 218,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "lex-is-test",
+        "lex-history"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "lex-is-test",
+        "lex-history"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "lex-is-test",
+        "lex-history"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "Early U.S. IS 300 manual road test, published rating.",
+      "sourceIds": [
+        "lex-is-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "Early U.S. IS 300 manual road test, published rating.",
+      "sourceIds": [
+        "lex-is-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "An accurate chassis and smooth straight-six make the manual sedan engaging. Its modest torque and longer shifts favor momentum.",
+      "evidence": [
+        {
+          "text": "Five-speed sedan configuration and firsthand impressions.",
+          "sourceIds": [
+            "lex-is-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "lex-is-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The short tail and strong stance give this compact sedan identity. Clear rear lamps make the details distinctly period.",
+      "evidence": [
+        {
+          "text": "Five-speed sedan configuration and firsthand impressions.",
+          "sourceIds": [
+            "lex-is-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "lex-is-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "An accurate chassis and smooth straight-six make the manual sedan engaging. Its modest torque and longer shifts favor momentum.",
+      "sourceIds": [
+        "lex-is-test"
+      ]
+    },
+    "styling": {
+      "text": "The short tail and strong stance give this compact sedan identity. Clear rear lamps make the details distinctly period.",
+      "sourceIds": [
+        "lex-is-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated",
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "id": "bmw-z4m-e85",
+  "make": "BMW",
+  "model": "Z4 M Roadster",
+  "generation": "E85",
+  "variant": "S54 six-speed",
+  "configuration": "bmw-z4m-e85",
+  "years": {
+    "to": 2008,
+    "from": 2006
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The M Roadster uses S54 power and a six-speed, separate from the standard Z4 and the M Coupe.",
+    "epaIds": [
+      22669,
+      23468,
+      24751
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "bmw-z4m",
+      "bmw-z4-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "S54",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 330,
+    "torqueLbFt": 262,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-z4m",
+        "bmw-z4-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-z4m",
+        "bmw-z4-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-z4m",
+        "bmw-z4-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2006 U.S. Z4 M Roadster factory rating.",
+      "sourceIds": [
+        "bmw-z4m",
+        "bmw-z4-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2006 U.S. Z4 M Roadster factory rating.",
+      "sourceIds": [
+        "bmw-z4m",
+        "bmw-z4-test"
+      ]
+    },
+    "seats": {
+      "text": "2006 U.S. Z4 M Roadster factory rating.",
+      "sourceIds": [
+        "bmw-z4m",
+        "bmw-z4-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 65,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "S54 VANOS inspection is applicable. The E46 bearing campaign and floor bulletin do not establish risk for this chassis.",
+      "evidence": [
+        {
+          "text": "Driving and testing of U.S. E85 M Roadster.",
+          "sourceIds": [
+            "bmw-z4-test"
+          ]
+        },
+        {
+          "text": "U.S. S54 roadster powertrain, output and chassis.",
+          "sourceIds": [
+            "bmw-z4m"
+          ]
+        },
+        {
+          "text": "S54 VANOS hardware diagnosis and mechanical service procedure.",
+          "sourceIds": [
+            "bmw-vanos"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-z4-test",
+        "bmw-z4m",
+        "bmw-vanos"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 45,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The specialist M engine and performance consumables keep cost toward the high anchor.",
+      "evidence": [
+        {
+          "text": "Driving and testing of U.S. E85 M Roadster.",
+          "sourceIds": [
+            "bmw-z4-test"
+          ]
+        },
+        {
+          "text": "U.S. S54 roadster powertrain, output and chassis.",
+          "sourceIds": [
+            "bmw-z4m"
+          ]
+        },
+        {
+          "text": "S54 VANOS hardware diagnosis and mechanical service procedure.",
+          "sourceIds": [
+            "bmw-vanos"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-z4-test",
+        "bmw-z4m",
+        "bmw-vanos"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The Z4 brings more chassis composure than the Z3 M, with weighty controls and a firm ride.",
+      "evidence": [
+        {
+          "text": "Driving and testing of U.S. E85 M Roadster.",
+          "sourceIds": [
+            "bmw-z4-test"
+          ]
+        },
+        {
+          "text": "U.S. S54 roadster powertrain, output and chassis.",
+          "sourceIds": [
+            "bmw-z4m"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-z4-test",
+        "bmw-z4m"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "A long nose and tight cabin are classic roadster proportions. Intersecting creases make the surface treatment divisive.",
+      "evidence": [
+        {
+          "text": "Driving and testing of U.S. E85 M Roadster.",
+          "sourceIds": [
+            "bmw-z4-test"
+          ]
+        },
+        {
+          "text": "U.S. S54 roadster powertrain, output and chassis.",
+          "sourceIds": [
+            "bmw-z4m"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-z4-test",
+        "bmw-z4m"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "The S54 VANOS exhaust drive hardware is an inspection point. Specialist service information describes worn or damaged drive components.",
+        "sourceIds": [
+          "bmw-vanos"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "High",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The Z4 brings more chassis composure than the Z3 M, with weighty controls and a firm ride.",
+      "sourceIds": [
+        "bmw-z4-test",
+        "bmw-z4m"
+      ]
+    },
+    "styling": {
+      "text": "A long nose and tight cabin are classic roadster proportions. Intersecting creases make the surface treatment divisive.",
+      "sourceIds": [
+        "bmw-z4-test",
+        "bmw-z4m"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Classic",
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

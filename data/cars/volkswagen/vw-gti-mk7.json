@@ -1,0 +1,233 @@
+{
+  "id": "vw-gti-mk7",
+  "make": "Volkswagen",
+  "model": "GTI",
+  "generation": "Mk7",
+  "variant": "2.0 TSI six-speed",
+  "configuration": "vw-gti-mk7",
+  "years": {
+    "to": 2017,
+    "from": 2015
+  },
+  "market": "US",
+  "bodyStyle": "Hatchback",
+  "segment": "Compact hatchback",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The Mk7 launch GTI uses the EA888 2.0 turbo and six-speed. The optional Performance Package changes output and chassis hardware.",
+    "epaIds": [
+      34826,
+      36574,
+      37973
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "vw-gti-15",
+      "gti-focus-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "EA888 Gen 3",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "vw-gti-15",
+        "gti-focus-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "vw-gti-15",
+        "gti-focus-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "vw-gti-15",
+        "gti-focus-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Progressive responses and a useful manual make it rewarding on an ordinary road. It is calmer than the Focus ST.",
+      "evidence": [
+        {
+          "text": "Firsthand comparison of U.S. turbo manual hot hatches.",
+          "sourceIds": [
+            "gti-focus-test"
+          ]
+        },
+        {
+          "text": "Mk7 U.S. introduction, GTI engine, manual gearbox and trim details.",
+          "sourceIds": [
+            "vw-gti-15"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gti-focus-test",
+        "vw-gti-15"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The crisp hatch profile and simple trim are coherent. The details carry more identity than the silhouette.",
+      "evidence": [
+        {
+          "text": "Firsthand comparison of U.S. turbo manual hot hatches.",
+          "sourceIds": [
+            "gti-focus-test"
+          ]
+        },
+        {
+          "text": "Mk7 U.S. introduction, GTI engine, manual gearbox and trim details.",
+          "sourceIds": [
+            "vw-gti-15"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "gti-focus-test",
+        "vw-gti-15"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Progressive responses and a useful manual make it rewarding on an ordinary road. It is calmer than the Focus ST.",
+      "sourceIds": [
+        "gti-focus-test",
+        "vw-gti-15"
+      ]
+    },
+    "styling": {
+      "text": "The crisp hatch profile and simple trim are coherent. The details carry more identity than the silhouette.",
+      "sourceIds": [
+        "gti-focus-test",
+        "vw-gti-15"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "id": "toy-mr2-aw-na2",
+  "make": "Toyota",
+  "model": "MR2",
+  "generation": "AW11",
+  "variant": "Revised naturally aspirated",
+  "configuration": "toy-mr2-aw-na2",
+  "years": {
+    "to": 1989,
+    "from": 1988
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The contemporary supercharged test identifies an increase in naturally aspirated output for 1988. This record covers the unboosted car.",
+    "epaIds": [
+      4159,
+      5282
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "mr2-sc-test",
+      "mr2-history"
+    ]
+  },
+  "specs": {
+    "engineCode": "4A-GE",
+    "displacementL": 1.6,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Mid",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 70,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The documented 1988 output revision provides little reason to move from the early unboosted car's provisional durability anchor.",
+      "evidence": [
+        {
+          "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
+          "sourceIds": [
+            "mr2-na-test"
+          ]
+        },
+        {
+          "text": "The original U.S. supercharged road test compared the boosted and unboosted cars and documented the 1988 changes.",
+          "sourceIds": [
+            "mr2-sc-test"
+          ]
+        },
+        {
+          "text": "U.S. model-year distinctions including the 1993 SW20 suspension changes and AW11 Supercharged years.",
+          "sourceIds": [
+            "mr2-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test",
+        "mr2-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 65,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The revised 1.6 keeps the original mid-engine service access and avoids the supercharged car's extra hardware.",
+      "evidence": [
+        {
+          "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
+          "sourceIds": [
+            "mr2-na-test"
+          ]
+        },
+        {
+          "text": "The original U.S. supercharged road test compared the boosted and unboosted cars and documented the 1988 changes.",
+          "sourceIds": [
+            "mr2-sc-test"
+          ]
+        },
+        {
+          "text": "U.S. model-year distinctions including the 1993 SW20 suspension changes and AW11 Supercharged years.",
+          "sourceIds": [
+            "mr2-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test",
+        "mr2-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "low",
+      "methodology": "editorial",
+      "rationale": "The power increase is small. The original car's light, responsive character carries more weight than the small output change.",
+      "evidence": [
+        {
+          "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
+          "sourceIds": [
+            "mr2-na-test"
+          ]
+        },
+        {
+          "text": "The original U.S. supercharged road test compared the boosted and unboosted cars and documented the 1988 changes.",
+          "sourceIds": [
+            "mr2-sc-test"
+          ]
+        },
+        {
+          "text": "U.S. model-year distinctions including the 1993 SW20 suspension changes and AW11 Supercharged years.",
+          "sourceIds": [
+            "mr2-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test",
+        "mr2-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "low",
+      "methodology": "editorial",
+      "rationale": "The revised trim preserves the upright cabin and angular pop-up-lamp body.",
+      "evidence": [
+        {
+          "text": "A period U.S. AW11 long-term test documented the original naturally aspirated configuration and single-car service experience.",
+          "sourceIds": [
+            "mr2-na-test"
+          ]
+        },
+        {
+          "text": "The original U.S. supercharged road test compared the boosted and unboosted cars and documented the 1988 changes.",
+          "sourceIds": [
+            "mr2-sc-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [
+      {
+        "text": "The 1988 naturally aspirated engine gained a modest amount of power and torque.",
+        "sourceIds": [
+          "mr2-sc-test"
+        ]
+      }
+    ],
+    "partsAvailability": {
+      "text": "A specialist lists selected AW11 replacement and aftermarket items. Availability of model-specific body and powertrain pieces requires a part-by-part check.",
+      "sourceIds": [
+        "mr2-aw-parts"
+      ]
+    },
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Moderate",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The power increase is small. The original car's light, responsive character carries more weight than the small output change.",
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test",
+        "mr2-history"
+      ]
+    },
+    "styling": {
+      "text": "The revised trim preserves the upright cabin and angular pop-up-lamp body.",
+      "sourceIds": [
+        "mr2-na-test",
+        "mr2-sc-test"
+      ]
+    },
+    "enthusiastAppeal": "The small footprint and low-speed feedback are the attraction.",
+    "idealBuyer": "A driver looking for a compact two-seat classic who can make time for age-related inspection.",
+    "avoidIf": "You need easy cargo access or consistently available model-specific trim."
+  },
+  "aestheticsTags": [
+    "Wedge",
+    "Pop-up headlights",
+    "Mid-engine proportions"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

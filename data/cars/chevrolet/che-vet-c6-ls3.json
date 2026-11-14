@@ -1,0 +1,254 @@
+{
+  "id": "che-vet-c6-ls3",
+  "make": "Chevrolet",
+  "model": "Corvette",
+  "generation": "C6",
+  "variant": "LS3 six-speed coupe",
+  "configuration": "che-vet-c6-ls3",
+  "years": {
+    "to": 2013,
+    "from": 2008
+  },
+  "market": "US",
+  "bodyStyle": "Targa",
+  "segment": "Sports car",
+  "category": "American enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "Later C6 base car uses the 6.2-liter LS3.",
+    "epaIds": [
+      24172,
+      25201,
+      28527,
+      30229,
+      31326,
+      32370
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "gm-vette",
+      "gm-heritage"
+    ]
+  },
+  "specs": {
+    "engineCode": "LS3",
+    "displacementL": 6.2,
+    "cylinders": 8,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 430,
+    "torqueLbFt": 424,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "gm-vette",
+        "gm-heritage"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "gm-vette",
+        "gm-heritage"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "gm-vette",
+        "gm-heritage"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2008 U.S. base LS3 factory rating without optional exhaust.",
+      "sourceIds": [
+        "che-vette08-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2008 U.S. base LS3 factory rating without optional exhaust.",
+      "sourceIds": [
+        "che-vette08-test"
+      ]
+    },
+    "seats": {
+      "text": "2008 U.S. base LS3 factory rating without optional exhaust.",
+      "sourceIds": [
+        "che-vette08-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The LS3 responds immediately and the low chassis feels capable. The car's width and grip make full involvement less accessible on tighter roads.",
+      "evidence": [
+        {
+          "text": "U.S. C6 LS3 update, engine and road behavior.",
+          "sourceIds": [
+            "che-vette08-test"
+          ]
+        },
+        {
+          "text": "Historical Corvette generations and drivetrain changes.",
+          "sourceIds": [
+            "gm-vette"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "che-vette08-test",
+        "gm-vette"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "A long hood and compact cabin are recognizable Corvette cues. The uncluttered body has less drama than the previous pop-up generations.",
+      "evidence": [
+        {
+          "text": "U.S. C6 LS3 update, engine and road behavior.",
+          "sourceIds": [
+            "che-vette08-test"
+          ]
+        },
+        {
+          "text": "Historical Corvette generations and drivetrain changes.",
+          "sourceIds": [
+            "gm-vette"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "che-vette08-test",
+        "gm-vette"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The LS3 responds immediately and the low chassis feels capable. The car's width and grip make full involvement less accessible on tighter roads.",
+      "sourceIds": [
+        "che-vette08-test",
+        "gm-vette"
+      ]
+    },
+    "styling": {
+      "text": "A long hood and compact cabin are recognizable Corvette cues. The uncluttered body has less drama than the previous pop-up generations.",
+      "sourceIds": [
+        "che-vette08-test",
+        "gm-vette"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Muscular"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

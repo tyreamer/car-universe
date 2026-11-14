@@ -1,0 +1,315 @@
+{
+  "id": "maz-mx5-nc2",
+  "make": "Mazda",
+  "model": "MX-5 Miata",
+  "generation": "NC2/NC3",
+  "variant": "Revised 2.0 six-speed",
+  "configuration": "maz-mx5-nc2",
+  "years": {
+    "to": 2015,
+    "from": 2009
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 2009 NC revision changed engine internals and calibration. This entry covers the revised manual soft top.",
+    "epaIds": [
+      26525,
+      28539,
+      30252,
+      31563,
+      32662,
+      33909,
+      34889
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "maz-miata-history",
+      "maz-nc09-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "MZR 2.0",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 167,
+    "torqueLbFt": 140,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nc09-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nc09-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nc09-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2009 U.S. Grand Touring six-speed published output.",
+      "sourceIds": [
+        "maz-nc09-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2009 U.S. Grand Touring six-speed published output.",
+      "sourceIds": [
+        "maz-nc09-test"
+      ]
+    },
+    "seats": {
+      "text": "2009 U.S. Grand Touring six-speed published output.",
+      "sourceIds": [
+        "maz-nc09-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 75,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The revised 2.0 still shares the NC coolant-reservoir exposure. The engine changes do not establish a higher durability anchor.",
+      "evidence": [
+        {
+          "text": "Revised NC powertrain and chassis observations.",
+          "sourceIds": [
+            "maz-nc09-test"
+          ]
+        },
+        {
+          "text": "Four-generation timeline and design evolution.",
+          "sourceIds": [
+            "maz-miata-history"
+          ]
+        },
+        {
+          "text": "NC pressurized coolant reservoir construction and reported age-related deterioration.",
+          "sourceIds": [
+            "maz-nc-tank"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nc09-test",
+        "maz-miata-history",
+        "maz-nc-tank"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 75,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The revised NC has modest consumables with the same age-sensitive cooling inspection. No representative shop-cost estimate is available.",
+      "evidence": [
+        {
+          "text": "Revised NC powertrain and chassis observations.",
+          "sourceIds": [
+            "maz-nc09-test"
+          ]
+        },
+        {
+          "text": "Four-generation timeline and design evolution.",
+          "sourceIds": [
+            "maz-miata-history"
+          ]
+        },
+        {
+          "text": "NC pressurized coolant reservoir construction and reported age-related deterioration.",
+          "sourceIds": [
+            "maz-nc-tank"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nc09-test",
+        "maz-miata-history",
+        "maz-nc-tank"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The revised engine responds eagerly high in the rev range and the chassis retains useful feedback. The NC still feels substantial beside an NA or ND.",
+      "evidence": [
+        {
+          "text": "Revised NC powertrain and chassis observations.",
+          "sourceIds": [
+            "maz-nc09-test"
+          ]
+        },
+        {
+          "text": "Four-generation timeline and design evolution.",
+          "sourceIds": [
+            "maz-miata-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nc09-test",
+        "maz-miata-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The facelift nose defines the rounded shape more clearly, with familiar broad arches.",
+      "evidence": [
+        {
+          "text": "Revised NC powertrain and chassis observations.",
+          "sourceIds": [
+            "maz-nc09-test"
+          ]
+        },
+        {
+          "text": "Four-generation timeline and design evolution.",
+          "sourceIds": [
+            "maz-miata-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nc09-test",
+        "maz-miata-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "The original pressurized plastic coolant reservoir can deteriorate. A leak can cause coolant loss and overheating. Frequency is unknown.",
+        "sourceIds": [
+          "maz-nc-tank"
+        ],
+        "severity": "high",
+        "frequency": "unknown"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Have the reservoir and coolant system inspected for deterioration, leakage and proper operation.",
+        "sourceIds": [
+          "maz-nc-tank"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Low",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The revised engine responds eagerly high in the rev range and the chassis retains useful feedback. The NC still feels substantial beside an NA or ND.",
+      "sourceIds": [
+        "maz-nc09-test",
+        "maz-miata-history"
+      ]
+    },
+    "styling": {
+      "text": "The facelift nose defines the rounded shape more clearly, with familiar broad arches.",
+      "sourceIds": [
+        "maz-nc09-test",
+        "maz-miata-history"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

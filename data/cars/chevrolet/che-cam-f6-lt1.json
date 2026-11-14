@@ -1,0 +1,309 @@
+{
+  "id": "che-cam-f6-lt1",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "generation": "Sixth generation",
+  "variant": "SS LT1 six-speed",
+  "configuration": "che-cam-f6-lt1",
+  "years": {
+    "to": 2024,
+    "from": 2016
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "American enthusiast",
+  "productionStatus": "unknown",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The sixth-generation manual SS uses LT1 on the Alpha platform.",
+    "epaIds": [
+      37098,
+      37612,
+      38817,
+      40456,
+      41791,
+      42887,
+      44232,
+      45348,
+      47046
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "cam-ss-16",
+      "cam-tech-19"
+    ]
+  },
+  "specs": {
+    "engineCode": "LT1",
+    "displacementL": 6.2,
+    "cylinders": 8,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 455,
+    "torqueLbFt": 455,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 4
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-ss-16",
+        "cam-tech-19"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-ss-16",
+        "cam-tech-19"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-ss-16",
+        "cam-tech-19"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2016 U.S. Camaro SS manual, published engine rating.",
+      "sourceIds": [
+        "cam-ss-16"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2016 U.S. Camaro SS manual, published engine rating.",
+      "sourceIds": [
+        "cam-ss-16"
+      ]
+    },
+    "seats": {
+      "text": "2016 U.S. Camaro SS manual, published engine rating.",
+      "sourceIds": [
+        "cam-ss-16"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 55,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "Performance tires and brakes raise routine burden. One long-term example gives limited context for unexpected repairs.",
+      "evidence": [
+        {
+          "text": "LT1 manual specifications and first-hand driving impressions.",
+          "sourceIds": [
+            "cam-ss-16"
+          ]
+        },
+        {
+          "text": "Single-car manual SS operation, tires, maintenance and repair experience.",
+          "sourceIds": [
+            "cam-ss-long"
+          ]
+        },
+        {
+          "text": "Sixth-generation engine and equipment reference.",
+          "sourceIds": [
+            "cam-tech-19"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-ss-16",
+        "cam-ss-long",
+        "cam-tech-19"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The V8 and accurate chassis make it unusually engaging for its size. Its poor sightlines still demand adjustment.",
+      "evidence": [
+        {
+          "text": "LT1 manual specifications and first-hand driving impressions.",
+          "sourceIds": [
+            "cam-ss-16"
+          ]
+        },
+        {
+          "text": "Single-car manual SS operation, tires, maintenance and repair experience.",
+          "sourceIds": [
+            "cam-ss-long"
+          ]
+        },
+        {
+          "text": "Sixth-generation engine and equipment reference.",
+          "sourceIds": [
+            "cam-tech-19"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-ss-16",
+        "cam-ss-long",
+        "cam-tech-19"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "A narrow waist and broad shoulders give the SS a purposeful stance, with tall doors adding visual weight.",
+      "evidence": [
+        {
+          "text": "LT1 manual specifications and first-hand driving impressions.",
+          "sourceIds": [
+            "cam-ss-16"
+          ]
+        },
+        {
+          "text": "Single-car manual SS operation, tires, maintenance and repair experience.",
+          "sourceIds": [
+            "cam-ss-long"
+          ]
+        },
+        {
+          "text": "Sixth-generation engine and equipment reference.",
+          "sourceIds": [
+            "cam-tech-19"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-ss-16",
+        "cam-ss-long",
+        "cam-tech-19"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [
+      {
+        "text": "The low roof and small windows reduce outward visibility in the sixth-generation coupe.",
+        "sourceIds": [
+          "cam-v6-16",
+          "cam-ss-16"
+        ]
+      }
+    ],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": {
+      "text": "The long-term test gives one example of ordinary service and tire replacement. Shop rates and unexpected repairs remain variable.",
+      "sourceIds": [
+        "cam-ss-long"
+      ]
+    },
+    "costTier": "Moderate",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The V8 and accurate chassis make it unusually engaging for its size. Its poor sightlines still demand adjustment.",
+      "sourceIds": [
+        "cam-ss-16",
+        "cam-ss-long",
+        "cam-tech-19"
+      ]
+    },
+    "styling": {
+      "text": "A narrow waist and broad shoulders give the SS a purposeful stance, with tall doors adding visual weight.",
+      "sourceIds": [
+        "cam-ss-16",
+        "cam-ss-long",
+        "cam-tech-19"
+      ]
+    },
+    "enthusiastAppeal": "The Alpha chassis combines muscle-car proportions with precise placement.",
+    "idealBuyer": "A driver who wants a manual coupe and can live with limited sightlines.",
+    "avoidIf": "You need good outward visibility or regularly carry rear passengers."
+  },
+  "aestheticsTags": [
+    "Muscular",
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "id": "dod-chal-la-392",
+  "make": "Dodge",
+  "model": "Challenger",
+  "generation": "LA",
+  "variant": "Scat Pack 392 six-speed",
+  "configuration": "dod-chal-la-392",
+  "years": {
+    "to": 2023,
+    "from": 2015
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "American enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The Scat Pack uses the 6.4-liter 392 with a six-speed option. EPA rows can group other 6.4 trims.",
+    "epaIds": [
+      35439,
+      36955,
+      38410,
+      39044,
+      40601,
+      42325,
+      43438,
+      45069,
+      46268
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "dod-chal-15",
+      "dod-scat-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "HEMI 6.4",
+    "displacementL": 6.4,
+    "cylinders": 8,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 485,
+    "torqueLbFt": 475,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "dod-chal-15",
+        "dod-scat-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "dod-chal-15",
+        "dod-scat-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "dod-chal-15",
+        "dod-scat-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2015 U.S. Dodge factory rating.",
+      "sourceIds": [
+        "dod-chal-15",
+        "dod-scat-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2015 U.S. Dodge factory rating.",
+      "sourceIds": [
+        "dod-chal-15",
+        "dod-scat-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Naturally aspirated response and the six-speed are appealing. Size and body control matter more than outright pace on narrow roads.",
+      "evidence": [
+        {
+          "text": "U.S. 392 manual performance and road character.",
+          "sourceIds": [
+            "dod-scat-test"
+          ]
+        },
+        {
+          "text": "Scat Pack and Hellcat engines and available manual gearboxes.",
+          "sourceIds": [
+            "dod-chal-15"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "dod-scat-test",
+        "dod-chal-15"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Broad bodywork and the upright retro grille give it identity. The large footprint is always visible.",
+      "evidence": [
+        {
+          "text": "U.S. 392 manual performance and road character.",
+          "sourceIds": [
+            "dod-scat-test"
+          ]
+        },
+        {
+          "text": "Scat Pack and Hellcat engines and available manual gearboxes.",
+          "sourceIds": [
+            "dod-chal-15"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "dod-scat-test",
+        "dod-chal-15"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Naturally aspirated response and the six-speed are appealing. Size and body control matter more than outright pace on narrow roads.",
+      "sourceIds": [
+        "dod-scat-test",
+        "dod-chal-15"
+      ]
+    },
+    "styling": {
+      "text": "Broad bodywork and the upright retro grille give it identity. The large footprint is always visible.",
+      "sourceIds": [
+        "dod-scat-test",
+        "dod-chal-15"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Muscular",
+    "Retro"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

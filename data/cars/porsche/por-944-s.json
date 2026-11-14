@@ -1,0 +1,238 @@
+{
+  "id": "por-944-s",
+  "make": "Porsche",
+  "model": "944",
+  "generation": "944",
+  "variant": "S 2.5 sixteen-valve",
+  "configuration": "por-944-s",
+  "years": {
+    "to": 1988,
+    "from": 1987
+  },
+  "market": "US",
+  "bodyStyle": "Liftback",
+  "segment": "Liftback",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The original 1987 test fills a gap in the EPA model naming and identifies the 16-valve 2.5.",
+    "epaIds": [
+      4175
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "por-944s-test",
+      "por-944-buy",
+      "por-transaxle"
+    ]
+  },
+  "specs": {
+    "engineCode": null,
+    "displacementL": 2.5,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-944s-test",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "por-944s-test",
+        "por-944-buy",
+        "por-transaxle"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The sixteen-valve engine rewards revs while the transaxle keeps the chassis balanced. There is less immediate thrust than in the Turbo.",
+      "evidence": [
+        {
+          "text": "U.S. 944S introduction, output and driving traits.",
+          "sourceIds": [
+            "por-944s-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944s-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The wide-arched shape has presence with little visual signaling for the sixteen-valve engine.",
+      "evidence": [
+        {
+          "text": "U.S. 944S introduction, output and driving traits.",
+          "sourceIds": [
+            "por-944s-test"
+          ]
+        },
+        {
+          "text": "U.S. 944 series and ownership considerations, including service history.",
+          "sourceIds": [
+            "por-944-buy"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "por-944s-test",
+        "por-944-buy"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "Loss of cam timing after belt failure can cause piston-to-valve contact and major internal engine damage.",
+        "sourceIds": [
+          "por-944-belt"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Confirm documented cam and balance-belt service and consult a specialist about the correct interval and tension procedure.",
+        "sourceIds": [
+          "por-944-belt",
+          "por-944-buy"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The sixteen-valve engine rewards revs while the transaxle keeps the chassis balanced. There is less immediate thrust than in the Turbo.",
+      "sourceIds": [
+        "por-944s-test"
+      ]
+    },
+    "styling": {
+      "text": "The wide-arched shape has presence with little visual signaling for the sixteen-valve engine.",
+      "sourceIds": [
+        "por-944s-test",
+        "por-944-buy"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Wedge",
+    "Pop-up headlights",
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

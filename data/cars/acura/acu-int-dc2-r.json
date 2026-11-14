@@ -1,0 +1,229 @@
+{
+  "id": "acu-int-dc2-r",
+  "make": "Acura",
+  "model": "Integra",
+  "generation": "DC2",
+  "variant": "Type R later U.S. run",
+  "configuration": "acu-int-dc2-r",
+  "years": {
+    "to": 2001,
+    "from": 2000
+  },
+  "market": "US",
+  "bodyStyle": "Liftback",
+  "segment": "Liftback",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The catalog selects the later U.S. Type R run. EPA groups the 1.8-liter five-speed Integra.",
+    "epaIds": [
+      15641,
+      16489
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "acura-timeline"
+    ]
+  },
+  "specs": {
+    "engineCode": "B18C5",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 5,
+    "hasClutchPedal": true,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "acura-timeline"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "acura-timeline"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "acura-timeline"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The responsive engine, close gearbox and alert chassis offer involvement at attainable speeds. Noise and ride narrow its everyday appeal.",
+      "evidence": [
+        {
+          "text": "Firsthand driving in original Acura enthusiast variants including the U.S. Integra Type R.",
+          "sourceIds": [
+            "acu-itr-drive"
+          ]
+        },
+        {
+          "text": "U.S. Acura model and trim milestones, including Integra, RSX and NSX.",
+          "sourceIds": [
+            "acura-timeline"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "acu-itr-drive",
+        "acura-timeline"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "A low roof, narrow cabin and modest wing give the coupe clear purpose without excess bulk.",
+      "evidence": [
+        {
+          "text": "Firsthand driving in original Acura enthusiast variants including the U.S. Integra Type R.",
+          "sourceIds": [
+            "acu-itr-drive"
+          ]
+        },
+        {
+          "text": "U.S. Acura model and trim milestones, including Integra, RSX and NSX.",
+          "sourceIds": [
+            "acura-timeline"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "acu-itr-drive",
+        "acura-timeline"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The responsive engine, close gearbox and alert chassis offer involvement at attainable speeds. Noise and ride narrow its everyday appeal.",
+      "sourceIds": [
+        "acu-itr-drive",
+        "acura-timeline"
+      ]
+    },
+    "styling": {
+      "text": "A low roof, narrow cabin and modest wing give the coupe clear purpose without excess bulk.",
+      "sourceIds": [
+        "acu-itr-drive",
+        "acura-timeline"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Classic",
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

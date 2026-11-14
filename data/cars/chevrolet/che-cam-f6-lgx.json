@@ -1,0 +1,265 @@
+{
+  "id": "che-cam-f6-lgx",
+  "make": "Chevrolet",
+  "model": "Camaro",
+  "generation": "Sixth generation",
+  "variant": "LT LGX V6 six-speed",
+  "configuration": "che-cam-f6-lgx",
+  "years": {
+    "to": 2024,
+    "from": 2016
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "American enthusiast",
+  "productionStatus": "unknown",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The sixth-generation V6 uses LGX on the Alpha platform.",
+    "epaIds": [
+      37073,
+      37615,
+      38848,
+      40459,
+      41550,
+      42883,
+      44231,
+      45343,
+      47042
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "cam-v6-16",
+      "cam-tech-19"
+    ]
+  },
+  "specs": {
+    "engineCode": "LGX",
+    "displacementL": 3.6,
+    "cylinders": 6,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 335,
+    "torqueLbFt": 284,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 4
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-v6-16",
+        "cam-tech-19"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-v6-16",
+        "cam-tech-19"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "cam-v6-16",
+        "cam-tech-19"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2016 U.S. Camaro manual LT, published engine rating.",
+      "sourceIds": [
+        "cam-v6-16"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2016 U.S. Camaro manual LT, published engine rating.",
+      "sourceIds": [
+        "cam-v6-16"
+      ]
+    },
+    "seats": {
+      "text": "2016 U.S. Camaro manual LT, published engine rating.",
+      "sourceIds": [
+        "cam-v6-16"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The V6 manual has a light-feeling nose and a satisfying shift. Visibility remains tight and it has less midrange occasion than the SS.",
+      "evidence": [
+        {
+          "text": "LGX manual performance, controls and chassis observations.",
+          "sourceIds": [
+            "cam-v6-16"
+          ]
+        },
+        {
+          "text": "Sixth-generation engine and equipment reference.",
+          "sourceIds": [
+            "cam-tech-19"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-v6-16",
+        "cam-tech-19"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "A low roof and tight rear quarters give it stance. The high sides and small windows look heavy.",
+      "evidence": [
+        {
+          "text": "LGX manual performance, controls and chassis observations.",
+          "sourceIds": [
+            "cam-v6-16"
+          ]
+        },
+        {
+          "text": "Sixth-generation engine and equipment reference.",
+          "sourceIds": [
+            "cam-tech-19"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "cam-v6-16",
+        "cam-tech-19"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [
+      {
+        "text": "The low roof and small windows reduce outward visibility in the sixth-generation coupe.",
+        "sourceIds": [
+          "cam-v6-16",
+          "cam-ss-16"
+        ]
+      }
+    ],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The V6 manual has a light-feeling nose and a satisfying shift. Visibility remains tight and it has less midrange occasion than the SS.",
+      "sourceIds": [
+        "cam-v6-16",
+        "cam-tech-19"
+      ]
+    },
+    "styling": {
+      "text": "A low roof and tight rear quarters give it stance. The high sides and small windows look heavy.",
+      "sourceIds": [
+        "cam-v6-16",
+        "cam-tech-19"
+      ]
+    },
+    "enthusiastAppeal": "The Alpha chassis combines muscle-car proportions with precise placement.",
+    "idealBuyer": "A driver who wants a manual coupe and can live with limited sightlines.",
+    "avoidIf": "You need good outward visibility or regularly carry rear passengers."
+  },
+  "aestheticsTags": [
+    "Muscular"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

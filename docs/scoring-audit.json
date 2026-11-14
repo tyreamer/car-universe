@@ -1,0 +1,494 @@
+{
+  "pairs": [
+    {
+      "left": "toy-mr2-sw-t1",
+      "right": "toy-mr2-sw-t2",
+      "scores": {
+        "longevity": {
+          "first": null,
+          "second": null,
+          "delta": null
+        },
+        "ownershipCost": {
+          "first": null,
+          "second": null,
+          "delta": null
+        },
+        "drivingEnjoyment": {
+          "first": 85,
+          "second": 85,
+          "delta": 0
+        },
+        "aesthetics": {
+          "first": 90,
+          "second": 90,
+          "delta": 0
+        }
+      },
+      "explanation": "The suspension revision changes the handling rationale. The evidence does not resolve a score difference."
+    },
+    {
+      "left": "toy-mr2-sw-na1",
+      "right": "toy-mr2-sw-na2",
+      "scores": {
+        "longevity": {
+          "first": null,
+          "second": null,
+          "delta": null
+        },
+        "ownershipCost": {
+          "first": null,
+          "second": null,
+          "delta": null
+        },
+        "drivingEnjoyment": {
+          "first": null,
+          "second": null,
+          "delta": null
+        },
+        "aesthetics": {
+          "first": null,
+          "second": null,
+          "delta": null
+        }
+      },
+      "explanation": "Both identities are documented. The later suspension is noted, with direct naturally aspirated road tests still needed."
+    },
+    {
+      "left": "toy-mr2-sw-t1",
+      "right": "toy-mr2-w30-early",
+      "scores": {
+        "longevity": {
+          "first": null,
+          "second": 65,
+          "delta": null
+        },
+        "ownershipCost": {
+          "first": null,
+          "second": 60,
+          "delta": null
+        },
+        "drivingEnjoyment": {
+          "first": 85,
+          "second": 90,
+          "delta": 5
+        },
+        "aesthetics": {
+          "first": 90,
+          "second": 75,
+          "delta": -15
+        }
+      },
+      "explanation": "Turbo thrust and roadster agility are distinct. The SW20 lacks an ownership comparison."
+    },
+    {
+      "left": "toy-mr2-aw-na1",
+      "right": "por-944-early",
+      "scores": {
+        "longevity": {
+          "first": 70,
+          "second": 65,
+          "delta": -5
+        },
+        "ownershipCost": {
+          "first": 65,
+          "second": 50,
+          "delta": -15
+        },
+        "drivingEnjoyment": {
+          "first": 90,
+          "second": 85,
+          "delta": -5
+        },
+        "aesthetics": {
+          "first": 85,
+          "second": 90,
+          "delta": 5
+        }
+      },
+      "explanation": "The 944 has recurring specialist belt work and a documented consequence for missing it."
+    },
+    {
+      "left": "por-944-late",
+      "right": "por-944-t",
+      "scores": {
+        "longevity": {
+          "first": 65,
+          "second": 60,
+          "delta": -5
+        },
+        "ownershipCost": {
+          "first": 50,
+          "second": 40,
+          "delta": -10
+        },
+        "drivingEnjoyment": {
+          "first": 85,
+          "second": 90,
+          "delta": 5
+        },
+        "aesthetics": {
+          "first": 90,
+          "second": 95,
+          "delta": 5
+        }
+      },
+      "explanation": "Turbo packaging adds cost and complexity while the base belt service remains."
+    },
+    {
+      "left": "che-cam-f5-lfx",
+      "right": "che-cam-f5-ls3",
+      "scores": {
+        "longevity": {
+          "first": null,
+          "second": null,
+          "delta": null
+        },
+        "ownershipCost": {
+          "first": 60,
+          "second": null,
+          "delta": null
+        },
+        "drivingEnjoyment": {
+          "first": null,
+          "second": 80,
+          "delta": null
+        },
+        "aesthetics": {
+          "first": null,
+          "second": 85,
+          "delta": null
+        }
+      },
+      "explanation": "Both outputs and gearboxes are documented. GM documents 2012 LFX timing-chain repair exposure. Direct LFX driving and matched SS cost evidence remain open."
+    },
+    {
+      "left": "che-cam-f6-lgx",
+      "right": "che-cam-f6-lt1",
+      "scores": {
+        "longevity": {
+          "first": null,
+          "second": null,
+          "delta": null
+        },
+        "ownershipCost": {
+          "first": null,
+          "second": 55,
+          "delta": null
+        },
+        "drivingEnjoyment": {
+          "first": 85,
+          "second": 90,
+          "delta": 5
+        },
+        "aesthetics": {
+          "first": 80,
+          "second": 85,
+          "delta": 5
+        }
+      },
+      "explanation": "The V6 feels lighter at the nose. The SS has more powertrain character and documented performance-consumable burden."
+    },
+    {
+      "left": "maz-mx5-na16",
+      "right": "maz-mx5-nc2",
+      "scores": {
+        "longevity": {
+          "first": 80,
+          "second": 75,
+          "delta": -5
+        },
+        "ownershipCost": {
+          "first": 85,
+          "second": 75,
+          "delta": -10
+        },
+        "drivingEnjoyment": {
+          "first": 95,
+          "second": 90,
+          "delta": -5
+        },
+        "aesthetics": {
+          "first": 90,
+          "second": 80,
+          "delta": -10
+        }
+      },
+      "explanation": "The heavier NC has a more substantial feel and a revised high-rpm engine. The NC assessment is provisional and incorporates the documented coolant reservoir concern."
+    },
+    {
+      "left": "maz-mx5-na16",
+      "right": "maz-mx5-nd2",
+      "scores": {
+        "longevity": {
+          "first": 80,
+          "second": null,
+          "delta": null
+        },
+        "ownershipCost": {
+          "first": 85,
+          "second": 80,
+          "delta": -5
+        },
+        "drivingEnjoyment": {
+          "first": 95,
+          "second": 95,
+          "delta": 0
+        },
+        "aesthetics": {
+          "first": 90,
+          "second": 90,
+          "delta": 0
+        }
+      },
+      "explanation": "Both are benchmarks for driver involvement. ND2 ownership research remains open."
+    },
+    {
+      "left": "hon-s2k-ap1",
+      "right": "por-box-986-25",
+      "scores": {
+        "longevity": {
+          "first": 75,
+          "second": 60,
+          "delta": -15
+        },
+        "ownershipCost": {
+          "first": 70,
+          "second": 45,
+          "delta": -25
+        },
+        "drivingEnjoyment": {
+          "first": 95,
+          "second": 90,
+          "delta": -5
+        },
+        "aesthetics": {
+          "first": 90,
+          "second": 85,
+          "delta": -5
+        }
+      },
+      "explanation": "The period test supports the Honda shift and rev character and the Porsche steering and predictable balance."
+    },
+    {
+      "left": "bmw-z3m-e36-s54",
+      "right": "bmw-z4m-e85",
+      "scores": {
+        "longevity": {
+          "first": null,
+          "second": 65,
+          "delta": null
+        },
+        "ownershipCost": {
+          "first": null,
+          "second": 45,
+          "delta": null
+        },
+        "drivingEnjoyment": {
+          "first": 90,
+          "second": 90,
+          "delta": 0
+        },
+        "aesthetics": {
+          "first": 85,
+          "second": 85,
+          "delta": 0
+        }
+      },
+      "explanation": "Shared engine family with different chassis behavior. Cost evidence is incomplete for the Z3."
+    },
+    {
+      "left": "bmw-m3-e36-s50",
+      "right": "bmw-m3-e46-m",
+      "scores": {
+        "longevity": {
+          "first": null,
+          "second": 60,
+          "delta": null
+        },
+        "ownershipCost": {
+          "first": null,
+          "second": 45,
+          "delta": null
+        },
+        "drivingEnjoyment": {
+          "first": 90,
+          "second": 95,
+          "delta": 5
+        },
+        "aesthetics": {
+          "first": 80,
+          "second": 90,
+          "delta": 10
+        }
+      },
+      "explanation": "The E36 favors compliance and feedback. The E46 adds S54 character and documented inspection dependencies."
+    },
+    {
+      "left": "bmw-m3-e46-m",
+      "right": "bmw-m3-e46-smg",
+      "scores": {
+        "longevity": {
+          "first": 60,
+          "second": 60,
+          "delta": 0
+        },
+        "ownershipCost": {
+          "first": 45,
+          "second": 40,
+          "delta": -5
+        },
+        "drivingEnjoyment": {
+          "first": 95,
+          "second": 85,
+          "delta": -10
+        },
+        "aesthetics": {
+          "first": 90,
+          "second": 90,
+          "delta": 0
+        }
+      },
+      "explanation": "The shared S54 and structure tie in longevity. SMG adds service complexity and low-speed shift tradeoffs."
+    },
+    {
+      "left": "toy-gr86-zn8",
+      "right": "sub-brz-zd8",
+      "scores": {
+        "longevity": {
+          "first": null,
+          "second": null,
+          "delta": null
+        },
+        "ownershipCost": {
+          "first": 75,
+          "second": null,
+          "delta": null
+        },
+        "drivingEnjoyment": {
+          "first": 90,
+          "second": 90,
+          "delta": 0
+        },
+        "aesthetics": {
+          "first": 85,
+          "second": 85,
+          "delta": 0
+        }
+      },
+      "explanation": "Distinct tuning supports different notes and a tied enjoyment rating. Long-term durability stays unrated. Only Toyota has a provisional cost assessment backed by the factory schedule in this catalog."
+    }
+  ],
+  "flags": [
+    {
+      "pair": "toy-mr2-sw-t1 / toy-mr2-sw-t2",
+      "dimension": "longevity",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "toy-mr2-sw-t1 / toy-mr2-sw-t2",
+      "dimension": "ownershipCost",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "toy-mr2-sw-na1 / toy-mr2-sw-na2",
+      "dimension": "longevity",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "toy-mr2-sw-na1 / toy-mr2-sw-na2",
+      "dimension": "ownershipCost",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "toy-mr2-sw-na1 / toy-mr2-sw-na2",
+      "dimension": "drivingEnjoyment",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "toy-mr2-sw-na1 / toy-mr2-sw-na2",
+      "dimension": "aesthetics",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "toy-mr2-sw-t1 / toy-mr2-w30-early",
+      "dimension": "longevity",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "toy-mr2-sw-t1 / toy-mr2-w30-early",
+      "dimension": "ownershipCost",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "che-cam-f5-lfx / che-cam-f5-ls3",
+      "dimension": "longevity",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "che-cam-f5-lfx / che-cam-f5-ls3",
+      "dimension": "ownershipCost",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "che-cam-f5-lfx / che-cam-f5-ls3",
+      "dimension": "drivingEnjoyment",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "che-cam-f5-lfx / che-cam-f5-ls3",
+      "dimension": "aesthetics",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "che-cam-f6-lgx / che-cam-f6-lt1",
+      "dimension": "longevity",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "che-cam-f6-lgx / che-cam-f6-lt1",
+      "dimension": "ownershipCost",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "maz-mx5-na16 / maz-mx5-nd2",
+      "dimension": "longevity",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "hon-s2k-ap1 / por-box-986-25",
+      "dimension": "ownershipCost",
+      "status": "review large difference"
+    },
+    {
+      "pair": "bmw-z3m-e36-s54 / bmw-z4m-e85",
+      "dimension": "longevity",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "bmw-z3m-e36-s54 / bmw-z4m-e85",
+      "dimension": "ownershipCost",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "bmw-m3-e36-s50 / bmw-m3-e46-m",
+      "dimension": "longevity",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "bmw-m3-e36-s50 / bmw-m3-e46-m",
+      "dimension": "ownershipCost",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "toy-gr86-zn8 / sub-brz-zd8",
+      "dimension": "longevity",
+      "status": "incomplete evidence"
+    },
+    {
+      "pair": "toy-gr86-zn8 / sub-brz-zd8",
+      "dimension": "ownershipCost",
+      "status": "incomplete evidence"
+    }
+  ]
+}

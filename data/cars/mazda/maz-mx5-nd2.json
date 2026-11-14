@@ -1,0 +1,306 @@
+{
+  "id": "maz-mx5-nd2",
+  "make": "Mazda",
+  "model": "MX-5 Miata",
+  "generation": "ND2",
+  "variant": "Revised 2.0 soft-top six-speed",
+  "configuration": "maz-mx5-nd2",
+  "years": {
+    "to": 2023,
+    "from": 2019
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 2019 revision raises output to 181 hp. The 2024 revision sits outside this record.",
+    "epaIds": [
+      40345,
+      42438,
+      43625,
+      45026,
+      46333
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "maz-miata-history",
+      "maz-nd2-factory"
+    ]
+  },
+  "specs": {
+    "engineCode": "Skyactiv-G 2.0",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 181,
+    "torqueLbFt": 151,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 2
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nd2-factory"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nd2-factory"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nd2-factory"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2019 Mazda North America manual soft-top specifications.",
+      "sourceIds": [
+        "maz-nd2-factory"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2019 Mazda North America manual soft-top specifications.",
+      "sourceIds": [
+        "maz-nd2-factory"
+      ]
+    },
+    "seats": {
+      "text": "2019 Mazda North America manual soft-top specifications.",
+      "sourceIds": [
+        "maz-nd2-factory"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 80,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The factory schedule and light soft-top hardware support a relatively low routine burden. Mature independent repair experience remains limited.",
+      "evidence": [
+        {
+          "text": "ND2 powertrain response and driver observations.",
+          "sourceIds": [
+            "maz-nd2-test"
+          ]
+        },
+        {
+          "text": "2019 181-hp engine revision and U.S. soft-top specifications.",
+          "sourceIds": [
+            "maz-nd2-factory"
+          ]
+        },
+        {
+          "text": "U.S. ND2 maintenance schedule and prescribed checks.",
+          "sourceIds": [
+            "maz-nd2-maint"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nd2-test",
+        "maz-nd2-factory",
+        "maz-nd2-maint"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The higher-output revision extends the upper range while preserving the light chassis and short shift. Body roll remains part of the experience.",
+      "evidence": [
+        {
+          "text": "ND2 powertrain response and driver observations.",
+          "sourceIds": [
+            "maz-nd2-test"
+          ]
+        },
+        {
+          "text": "2019 181-hp engine revision and U.S. soft-top specifications.",
+          "sourceIds": [
+            "maz-nd2-factory"
+          ]
+        },
+        {
+          "text": "U.S. ND2 maintenance schedule and prescribed checks.",
+          "sourceIds": [
+            "maz-nd2-maint"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nd2-test",
+        "maz-nd2-factory",
+        "maz-nd2-maint"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The engine change preserves the compact cabin and clean soft-top body.",
+      "evidence": [
+        {
+          "text": "ND2 powertrain response and driver observations.",
+          "sourceIds": [
+            "maz-nd2-test"
+          ]
+        },
+        {
+          "text": "2019 181-hp engine revision and U.S. soft-top specifications.",
+          "sourceIds": [
+            "maz-nd2-factory"
+          ]
+        },
+        {
+          "text": "U.S. ND2 maintenance schedule and prescribed checks.",
+          "sourceIds": [
+            "maz-nd2-maint"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nd2-test",
+        "maz-nd2-factory",
+        "maz-nd2-maint"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [
+      {
+        "text": "Follow the model-year schedule and review time-dependent fluid and inspection requirements.",
+        "sourceIds": [
+          "maz-nd2-maint"
+        ]
+      }
+    ],
+    "yearChanges": [
+      {
+        "text": "The 2019 engine update raised the redline and output to 181 hp.",
+        "sourceIds": [
+          "maz-nd2-factory"
+        ]
+      }
+    ],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Low",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The higher-output revision extends the upper range while preserving the light chassis and short shift. Body roll remains part of the experience.",
+      "sourceIds": [
+        "maz-nd2-test",
+        "maz-nd2-factory",
+        "maz-nd2-maint"
+      ]
+    },
+    "styling": {
+      "text": "The engine change preserves the compact cabin and clean soft-top body.",
+      "sourceIds": [
+        "maz-nd2-test",
+        "maz-nd2-factory",
+        "maz-nd2-maint"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Minimalist",
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

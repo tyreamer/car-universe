@@ -1,0 +1,251 @@
+{
+  "id": "toy-supra-a80-t",
+  "make": "Toyota",
+  "model": "Supra",
+  "generation": "A80",
+  "variant": "Twin Turbo six-speed",
+  "configuration": "toy-supra-a80-t",
+  "years": {
+    "to": 1995,
+    "from": 1993
+  },
+  "market": "US",
+  "bodyStyle": "Liftback",
+  "segment": "Liftback",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 1993 EPA six-speed row lacks a turbo flag. The original 1993 instrumented test directly establishes the Twin Turbo six-speed. This record covers the early run.",
+    "epaIds": [
+      10675,
+      11638
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "toy-supra-t-test",
+      "toy-supra-history"
+    ]
+  },
+  "specs": {
+    "engineCode": "2JZ-GTE",
+    "displacementL": 3.0,
+    "cylinders": 6,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": 320,
+    "torqueLbFt": 315,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "displacementL": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "aspiration": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "transmission": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "gears": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "drivetrain": {
+      "text": "Applicable archive resolves the mechanical specification.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "1993 U.S. specification panel. Weight is specific to the road test car.",
+      "sourceIds": [
+        "toy-supra-t-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "1993 U.S. specification panel. Weight is specific to the road test car.",
+      "sourceIds": [
+        "toy-supra-t-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Progressive boost, strong brakes and the six-speed make the Turbo involving. Its size and grip temper low-speed playfulness.",
+      "evidence": [
+        {
+          "text": "1993 six-speed Twin Turbo existence, specifications and original road test.",
+          "sourceIds": [
+            "toy-supra-t-test"
+          ]
+        },
+        {
+          "text": "U.S. Supra generations and engine milestones.",
+          "sourceIds": [
+            "toy-supra-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Rounded bodywork and a compact cabin give the A80 a strong identity. The available tall wing amplifies its presence.",
+      "evidence": [
+        {
+          "text": "1993 six-speed Twin Turbo existence, specifications and original road test.",
+          "sourceIds": [
+            "toy-supra-t-test"
+          ]
+        },
+        {
+          "text": "U.S. Supra generations and engine milestones.",
+          "sourceIds": [
+            "toy-supra-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Progressive boost, strong brakes and the six-speed make the Turbo involving. Its size and grip temper low-speed playfulness.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "styling": {
+      "text": "Rounded bodywork and a compact cabin give the A80 a strong identity. The available tall wing amplifies its presence.",
+      "sourceIds": [
+        "toy-supra-t-test",
+        "toy-supra-history"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Aggressive",
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "id": "lex-ls-xf30",
+  "make": "Lexus",
+  "model": "LS 430",
+  "generation": "XF30",
+  "variant": "4.3 six-speed facelift",
+  "configuration": "lex-ls-xf30",
+  "years": {
+    "to": 2006,
+    "from": 2004
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "Mainstream reference",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 2004 facelift LS 430 uses a six-speed automatic, separate from the original five-speed.",
+    "epaIds": [
+      19852,
+      20979,
+      22070
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "lex-ls04-test",
+      "lex-history"
+    ]
+  },
+  "specs": {
+    "engineCode": "3UZ-FE",
+    "displacementL": 4.3,
+    "cylinders": 8,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 290,
+    "torqueLbFt": 320,
+    "transmission": "Automatic",
+    "gears": 6,
+    "hasClutchPedal": false,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "lex-ls04-test",
+        "lex-history"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "lex-ls04-test",
+        "lex-history"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "lex-ls04-test",
+        "lex-history"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2004 U.S. comparison-test published output.",
+      "sourceIds": [
+        "lex-ls04-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2004 U.S. comparison-test published output.",
+      "sourceIds": [
+        "lex-ls04-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 55,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The V8 and automatic deliver smooth, unobtrusive progress. Isolation limits chassis involvement on a winding road.",
+      "evidence": [
+        {
+          "text": "Facelift LS 430 six-speed and firsthand behavior.",
+          "sourceIds": [
+            "lex-ls04-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "lex-ls04-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "An upright cabin and crisp details give the large sedan a composed presence.",
+      "evidence": [
+        {
+          "text": "Facelift LS 430 six-speed and firsthand behavior.",
+          "sourceIds": [
+            "lex-ls04-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "lex-ls04-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The V8 and automatic deliver smooth, unobtrusive progress. Isolation limits chassis involvement on a winding road.",
+      "sourceIds": [
+        "lex-ls04-test"
+      ]
+    },
+    "styling": {
+      "text": "An upright cabin and crisp details give the large sedan a composed presence.",
+      "sourceIds": [
+        "lex-ls04-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Elegant",
+    "Understated"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

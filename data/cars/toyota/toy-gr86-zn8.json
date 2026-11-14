@@ -1,0 +1,316 @@
+{
+  "id": "toy-gr86-zn8",
+  "make": "Toyota",
+  "model": "GR86",
+  "generation": "ZN8",
+  "variant": "2.4 six-speed",
+  "configuration": "toy-gr86-zn8",
+  "years": {
+    "to": 2025,
+    "from": 2022
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Japanese enthusiast",
+  "productionStatus": "unknown",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 2.4-liter GR86 superseded the 2.0-liter 86.",
+    "epaIds": [
+      44615,
+      45427,
+      47556,
+      48821
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "toy-gr86"
+    ]
+  },
+  "specs": {
+    "engineCode": "FA24",
+    "displacementL": 2.4,
+    "cylinders": 4,
+    "cylinderLayout": "Flat",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 228,
+    "torqueLbFt": 184,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 4
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "toy-gr86"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "toy-gr86"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "toy-gr86"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2022 Toyota U.S. launch specification.",
+      "sourceIds": [
+        "toy-gr86"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2022 Toyota U.S. launch specification.",
+      "sourceIds": [
+        "toy-gr86"
+      ]
+    },
+    "seats": {
+      "text": "2022 Toyota U.S. launch specification.",
+      "sourceIds": [
+        "toy-gr86"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 75,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "The factory schedule and compact sports-car hardware support a low routine burden. Uncertain long-term repairs and the reference car's performance tires keep confidence low.",
+      "evidence": [
+        {
+          "text": "Official U.S. scheduled maintenance and usage assumptions.",
+          "sourceIds": [
+            "toy-gr86-maint"
+          ]
+        },
+        {
+          "text": "Manual GR86 driving character and test specs.",
+          "sourceIds": [
+            "gr86-test"
+          ]
+        },
+        {
+          "text": "Shared platform and firsthand driving impressions.",
+          "sourceIds": [
+            "twins-test"
+          ]
+        },
+        {
+          "text": "Launch-year dimensions, 2.4-liter power and torque, gearbox and trim information.",
+          "sourceIds": [
+            "toy-gr86"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "toy-gr86-maint",
+        "gr86-test",
+        "twins-test",
+        "toy-gr86"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Stronger midrange and lively rear-drive tuning make it rewarding at ordinary speeds. Its tuning differs from the BRZ without requiring a different score.",
+      "evidence": [
+        {
+          "text": "Official U.S. scheduled maintenance and usage assumptions.",
+          "sourceIds": [
+            "toy-gr86-maint"
+          ]
+        },
+        {
+          "text": "Manual GR86 driving character and test specs.",
+          "sourceIds": [
+            "gr86-test"
+          ]
+        },
+        {
+          "text": "Shared platform and firsthand driving impressions.",
+          "sourceIds": [
+            "twins-test"
+          ]
+        },
+        {
+          "text": "Launch-year dimensions, 2.4-liter power and torque, gearbox and trim information.",
+          "sourceIds": [
+            "toy-gr86"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "toy-gr86-maint",
+        "gr86-test",
+        "twins-test",
+        "toy-gr86"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The low cowl and uncluttered sides give it clean proportions. The larger front opening adds aggression.",
+      "evidence": [
+        {
+          "text": "Official U.S. scheduled maintenance and usage assumptions.",
+          "sourceIds": [
+            "toy-gr86-maint"
+          ]
+        },
+        {
+          "text": "Manual GR86 driving character and test specs.",
+          "sourceIds": [
+            "gr86-test"
+          ]
+        },
+        {
+          "text": "Shared platform and firsthand driving impressions.",
+          "sourceIds": [
+            "twins-test"
+          ]
+        },
+        {
+          "text": "Launch-year dimensions, 2.4-liter power and torque, gearbox and trim information.",
+          "sourceIds": [
+            "toy-gr86"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "toy-gr86-maint",
+        "gr86-test",
+        "twins-test",
+        "toy-gr86"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [
+      {
+        "text": "Use the U.S. factory service schedule for the applicable operating conditions and check what prior work is documented.",
+        "sourceIds": [
+          "toy-gr86-maint"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Low",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Stronger midrange and lively rear-drive tuning make it rewarding at ordinary speeds. Its tuning differs from the BRZ without requiring a different score.",
+      "sourceIds": [
+        "toy-gr86-maint",
+        "gr86-test",
+        "twins-test",
+        "toy-gr86"
+      ]
+    },
+    "styling": {
+      "text": "The low cowl and uncluttered sides give it clean proportions. The larger front opening adds aggression.",
+      "sourceIds": [
+        "toy-gr86-maint",
+        "gr86-test",
+        "twins-test",
+        "toy-gr86"
+      ]
+    },
+    "enthusiastAppeal": "An accessible rear-drive chassis and modest size put the focus on control feedback.",
+    "idealBuyer": "A driver who wants a manual coupe with compact dimensions and occasional rear seating.",
+    "avoidIf": "You need full-size rear seats or prefer a quiet long-distance cabin."
+  },
+  "aestheticsTags": [
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

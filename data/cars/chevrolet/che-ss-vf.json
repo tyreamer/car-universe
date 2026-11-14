@@ -1,0 +1,231 @@
+{
+  "id": "che-ss-vf",
+  "make": "Chevrolet",
+  "model": "SS",
+  "generation": "VF",
+  "variant": "LS3 six-speed sedan",
+  "configuration": "che-ss-vf",
+  "years": {
+    "to": 2017,
+    "from": 2015
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "American enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The U.S. LS3 sedan gained a six-speed manual for 2015.",
+    "epaIds": [
+      35905,
+      37167,
+      38036
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "che-ss-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "LS3",
+    "displacementL": 6.2,
+    "cylinders": 8,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 415,
+    "torqueLbFt": 415,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 5
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "che-ss-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "che-ss-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "che-ss-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2015 U.S. manual SS published output.",
+      "sourceIds": [
+        "che-ss-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2015 U.S. manual SS published output.",
+      "sourceIds": [
+        "che-ss-test"
+      ]
+    },
+    "seats": {
+      "text": "2015 U.S. manual SS published output.",
+      "sourceIds": [
+        "che-ss-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The steering, V8 and six-speed make the large sedan unusually involving. Mass remains apparent on narrow roads.",
+      "evidence": [
+        {
+          "text": "U.S. LS3 six-speed sedan and firsthand handling.",
+          "sourceIds": [
+            "che-ss-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "che-ss-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Discreet sedan proportions make it an appealing sleeper, with limited visual differentiation from the ordinary silhouette.",
+      "evidence": [
+        {
+          "text": "U.S. LS3 six-speed sedan and firsthand handling.",
+          "sourceIds": [
+            "che-ss-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "che-ss-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The steering, V8 and six-speed make the large sedan unusually involving. Mass remains apparent on narrow roads.",
+      "sourceIds": [
+        "che-ss-test"
+      ]
+    },
+    "styling": {
+      "text": "Discreet sedan proportions make it an appealing sleeper, with limited visual differentiation from the ordinary silhouette.",
+      "sourceIds": [
+        "che-ss-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

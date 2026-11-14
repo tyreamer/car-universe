@@ -1,0 +1,230 @@
+{
+  "id": "hyu-gen-bk2v",
+  "make": "Hyundai",
+  "model": "Genesis Coupe",
+  "generation": "BK2",
+  "variant": "3.8 GDI six-speed facelift",
+  "configuration": "hyu-gen-bk2v",
+  "years": {
+    "to": 2016,
+    "from": 2013
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "Other enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The facelift 3.8 switches to direct injection. This record selects the manual.",
+    "epaIds": [
+      32217,
+      34587,
+      34943,
+      36519
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "hyu-gen13-test",
+      "hyu-gen38-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "Lambda 3.8 GDI",
+    "displacementL": 3.8,
+    "cylinders": 6,
+    "cylinderLayout": "V",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 348,
+    "torqueLbFt": 295,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "hyu-gen13-test",
+        "hyu-gen38-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "hyu-gen13-test",
+        "hyu-gen38-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "hyu-gen13-test",
+        "hyu-gen38-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2013 U.S. 3.8 R-Spec test, published output.",
+      "sourceIds": [
+        "hyu-gen38-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2013 U.S. 3.8 R-Spec test, published output.",
+      "sourceIds": [
+        "hyu-gen38-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 80,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The 3.8 brings response and useful torque. The manual action and chassis polish leave room for improvement.",
+      "evidence": [
+        {
+          "text": "3.8 manual R-Spec specifications and firsthand impressions.",
+          "sourceIds": [
+            "hyu-gen38-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "hyu-gen38-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The front graphic is assertive and the side profile reads clearly as a rear-drive coupe. The details are visually busy.",
+      "evidence": [
+        {
+          "text": "3.8 manual R-Spec specifications and firsthand impressions.",
+          "sourceIds": [
+            "hyu-gen38-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "hyu-gen38-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The 3.8 brings response and useful torque. The manual action and chassis polish leave room for improvement.",
+      "sourceIds": [
+        "hyu-gen38-test"
+      ]
+    },
+    "styling": {
+      "text": "The front graphic is assertive and the side profile reads clearly as a rear-drive coupe. The details are visually busy.",
+      "sourceIds": [
+        "hyu-gen38-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Aggressive"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "id": "aud-tt-8n",
+  "make": "Audi",
+  "model": "TT",
+  "generation": "8N",
+  "variant": "225 quattro coupe",
+  "configuration": "aud-tt-8n",
+  "years": {
+    "to": 2006,
+    "from": 2001
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The high-output Mk1 quattro coupe uses the 225-hp 1.8 turbo and a six-speed.",
+    "epaIds": [
+      16428,
+      17336,
+      18296,
+      19335,
+      20454,
+      21616
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "audi-tt-history",
+      "audi-tt-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "1.8T",
+    "displacementL": 1.8,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Turbocharged",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "AWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "audi-tt-history",
+        "audi-tt-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "audi-tt-history",
+        "audi-tt-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "audi-tt-history",
+        "audi-tt-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Strong traction and a distinctive cabin add character. The front-heavy balance limits the agility of a dedicated rear-drive roadster.",
+      "evidence": [
+        {
+          "text": "TT generations, Bauhaus-inspired shape and model development.",
+          "sourceIds": [
+            "audi-tt-history"
+          ]
+        },
+        {
+          "text": "U.S. first-generation 225 quattro and period road impressions.",
+          "sourceIds": [
+            "audi-tt-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "audi-tt-history",
+        "audi-tt-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 95,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Rounded roof, wheel arches and repeated circular details make it unusually coherent and distinctive.",
+      "evidence": [
+        {
+          "text": "TT generations, Bauhaus-inspired shape and model development.",
+          "sourceIds": [
+            "audi-tt-history"
+          ]
+        },
+        {
+          "text": "U.S. first-generation 225 quattro and period road impressions.",
+          "sourceIds": [
+            "audi-tt-test"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "audi-tt-history",
+        "audi-tt-test"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Strong traction and a distinctive cabin add character. The front-heavy balance limits the agility of a dedicated rear-drive roadster.",
+      "sourceIds": [
+        "audi-tt-history",
+        "audi-tt-test"
+      ]
+    },
+    "styling": {
+      "text": "Rounded roof, wheel arches and repeated circular details make it unusually coherent and distinctive.",
+      "sourceIds": [
+        "audi-tt-history",
+        "audi-tt-test"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Minimalist",
+    "Futuristic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "id": "maz-mx5-nc1",
+  "make": "Mazda",
+  "model": "MX-5 Miata",
+  "generation": "NC1",
+  "variant": "2.0 six-speed",
+  "configuration": "maz-mx5-nc1",
+  "years": {
+    "to": 2008,
+    "from": 2006
+  },
+  "market": "US",
+  "bodyStyle": "Roadster",
+  "segment": "Sports car",
+  "category": "Japanese enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The 2006 redesign moved to a 2.0-liter engine. This entry represents the six-speed soft top.",
+    "epaIds": [
+      21641,
+      23071,
+      24188
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "maz-miata-history",
+      "maz-nc-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "MZR 2.0",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": null,
+    "torqueLbFt": null,
+    "transmission": "Manual",
+    "gears": 6,
+    "hasClutchPedal": true,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nc-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nc-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-miata-history",
+        "maz-nc-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 75,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "A conventional 2.0 and six-speed provide a favorable starting point. The pressurized plastic coolant reservoir is a meaningful age-related inspection point with unknown frequency.",
+      "evidence": [
+        {
+          "text": "Launch-year NC six-speed steering, chassis and drivetrain.",
+          "sourceIds": [
+            "maz-nc-test"
+          ]
+        },
+        {
+          "text": "Four-generation timeline and design evolution.",
+          "sourceIds": [
+            "maz-miata-history"
+          ]
+        },
+        {
+          "text": "NC pressurized coolant reservoir construction and reported age-related deterioration.",
+          "sourceIds": [
+            "maz-nc-tank"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nc-test",
+        "maz-miata-history",
+        "maz-nc-tank"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 75,
+      "confidence": "low",
+      "methodology": "provisional",
+      "rationale": "Small consumables favor low routine burden. Check the reservoir and cooling history before treating a neglected example as cheap to run.",
+      "evidence": [
+        {
+          "text": "Launch-year NC six-speed steering, chassis and drivetrain.",
+          "sourceIds": [
+            "maz-nc-test"
+          ]
+        },
+        {
+          "text": "Four-generation timeline and design evolution.",
+          "sourceIds": [
+            "maz-miata-history"
+          ]
+        },
+        {
+          "text": "NC pressurized coolant reservoir construction and reported age-related deterioration.",
+          "sourceIds": [
+            "maz-nc-tank"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nc-test",
+        "maz-miata-history",
+        "maz-nc-tank"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The six-speed and steering remain satisfying. The NC is more substantial and relaxed than the light early Miata.",
+      "evidence": [
+        {
+          "text": "Launch-year NC six-speed steering, chassis and drivetrain.",
+          "sourceIds": [
+            "maz-nc-test"
+          ]
+        },
+        {
+          "text": "Four-generation timeline and design evolution.",
+          "sourceIds": [
+            "maz-miata-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nc-test",
+        "maz-miata-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Broad arches give it a planted stance. The taller, rounder body looks less delicate than the NA.",
+      "evidence": [
+        {
+          "text": "Launch-year NC six-speed steering, chassis and drivetrain.",
+          "sourceIds": [
+            "maz-nc-test"
+          ]
+        },
+        {
+          "text": "Four-generation timeline and design evolution.",
+          "sourceIds": [
+            "maz-miata-history"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-nc-test",
+        "maz-miata-history"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "The original pressurized plastic coolant reservoir can deteriorate. A leak can cause coolant loss and overheating. Frequency is unknown.",
+        "sourceIds": [
+          "maz-nc-tank"
+        ],
+        "severity": "high",
+        "frequency": "unknown"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Have the reservoir and coolant system inspected for deterioration, leakage and proper operation.",
+        "sourceIds": [
+          "maz-nc-tank"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": "Low",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "The six-speed and steering remain satisfying. The NC is more substantial and relaxed than the light early Miata.",
+      "sourceIds": [
+        "maz-nc-test",
+        "maz-miata-history"
+      ]
+    },
+    "styling": {
+      "text": "Broad arches give it a planted stance. The taller, rounder body looks less delicate than the NA.",
+      "sourceIds": [
+        "maz-nc-test",
+        "maz-miata-history"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Classic"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

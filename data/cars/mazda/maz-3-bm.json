@@ -1,0 +1,250 @@
+{
+  "id": "maz-3-bm",
+  "make": "Mazda",
+  "model": "Mazda3",
+  "generation": "BM/BN",
+  "variant": "2.0 six-speed automatic sedan",
+  "configuration": "maz-3-bm",
+  "years": {
+    "to": 2018,
+    "from": 2014
+  },
+  "market": "US",
+  "bodyStyle": "Sedan",
+  "segment": "Sedan",
+  "category": "Mainstream reference",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "Third-generation 2.0 automatic sedan, separate from the 2.5 and hatchback.",
+    "epaIds": [
+      34245,
+      35261,
+      36521,
+      38311,
+      38867
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "maz-3-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "Skyactiv-G 2.0",
+    "displacementL": 2.0,
+    "cylinders": 4,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 155,
+    "torqueLbFt": 150,
+    "transmission": "Automatic",
+    "gears": 6,
+    "hasClutchPedal": false,
+    "drivetrain": "FWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": 5
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-3-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-3-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "maz-3-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2014 U.S. 2.0 automatic reference sedan, published output.",
+      "sourceIds": [
+        "maz-3-test"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2014 U.S. 2.0 automatic reference sedan, published output.",
+      "sourceIds": [
+        "maz-3-test"
+      ]
+    },
+    "seats": {
+      "text": "2014 U.S. 2.0 automatic reference sedan, published output.",
+      "sourceIds": [
+        "maz-3-test"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Configuration-specific evidence on major systems and long-term durability is insufficient for a score.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": null,
+      "confidence": "unrated",
+      "methodology": "provisional",
+      "rationale": "Representative service, parts and repair exposure for this configuration need more research.",
+      "evidence": [],
+      "sourceIds": [],
+      "reviewedAt": null,
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Responsive steering and a well-matched conventional automatic add involvement to ordinary trips. The 2.0 has limited reserve when loaded.",
+      "evidence": [
+        {
+          "text": "2014 2.0 automatic sedan specs and road behavior.",
+          "sourceIds": [
+            "maz-3-test"
+          ]
+        },
+        {
+          "text": "Comparative observations on 2014 mainstream sedans.",
+          "sourceIds": [
+            "compact-14"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-3-test",
+        "compact-14"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 75,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The rearward-looking cabin and sculpted sides give it stance. The grille adds a stronger graphic than the other details.",
+      "evidence": [
+        {
+          "text": "2014 2.0 automatic sedan specs and road behavior.",
+          "sourceIds": [
+            "maz-3-test"
+          ]
+        },
+        {
+          "text": "Comparative observations on 2014 mainstream sedans.",
+          "sourceIds": [
+            "compact-14"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "maz-3-test",
+        "compact-14"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [],
+    "prevention": [],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": null,
+    "maintenanceAccessibility": null,
+    "costTier": null,
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Responsive steering and a well-matched conventional automatic add involvement to ordinary trips. The 2.0 has limited reserve when loaded.",
+      "sourceIds": [
+        "maz-3-test",
+        "compact-14"
+      ]
+    },
+    "styling": {
+      "text": "The rearward-looking cabin and sculpted sides give it stance. The grille adds a stronger graphic than the other details.",
+      "sourceIds": [
+        "maz-3-test",
+        "compact-14"
+      ]
+    },
+    "enthusiastAppeal": null,
+    "idealBuyer": null,
+    "avoidIf": null
+  },
+  "aestheticsTags": [
+    "Understated",
+    "Elegant"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "pending",
+    "scores": "partial",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Review durability evidence for this configuration.",
+      "Review mechanical cost evidence for this configuration.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}

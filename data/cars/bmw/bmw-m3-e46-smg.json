@@ -1,0 +1,360 @@
+{
+  "id": "bmw-m3-e46-smg",
+  "make": "BMW",
+  "model": "M3",
+  "generation": "E46",
+  "variant": "SMG II coupe",
+  "configuration": "bmw-m3-e46-smg",
+  "years": {
+    "to": 2006,
+    "from": 2002
+  },
+  "market": "US",
+  "bodyStyle": "Coupe",
+  "segment": "Sport coupe",
+  "category": "German enthusiast",
+  "productionStatus": "discontinued",
+  "identity": {
+    "status": "confirmed",
+    "coverage": "EPA plus archival evidence",
+    "notes": "The EPA automatic-style selector describes the SMG II, an automated single-clutch gearbox without a pedal.",
+    "epaIds": [
+      17413,
+      18402,
+      19466,
+      20604,
+      21724
+    ],
+    "sourceIds": [
+      "epa-vehicles",
+      "bmw-m3-e46-press",
+      "bmw-smg-test"
+    ]
+  },
+  "specs": {
+    "engineCode": "S54B32",
+    "displacementL": 3.2,
+    "cylinders": 6,
+    "cylinderLayout": "Inline",
+    "aspiration": "Naturally aspirated",
+    "horsepowerHp": 333,
+    "torqueLbFt": 262,
+    "transmission": "Automated manual",
+    "gears": 6,
+    "hasClutchPedal": false,
+    "drivetrain": "RWD",
+    "engineLocation": "Front",
+    "curbWeightLb": null,
+    "seats": null
+  },
+  "specEvidence": {
+    "engineCode": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-m3-e46-press",
+        "bmw-smg-test"
+      ]
+    },
+    "displacementL": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinders": {
+      "text": "Cylinder count in the selected EPA configuration rows.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "cylinderLayout": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-m3-e46-press",
+        "bmw-smg-test"
+      ]
+    },
+    "aspiration": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "transmission": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "gears": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "hasClutchPedal": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "drivetrain": {
+      "text": "Normalized from selected EPA row fields or their conventional gearbox interpretation.",
+      "sourceIds": [
+        "epa-vehicles"
+      ]
+    },
+    "engineLocation": {
+      "text": "Architecture or engine designation cross-referenced to the applicable archival configuration.",
+      "sourceIds": [
+        "bmw-m3-e46-press",
+        "bmw-smg-test"
+      ]
+    },
+    "horsepowerHp": {
+      "text": "2002 BMW U.S. S54 factory rating.",
+      "sourceIds": [
+        "bmw-m3-e46-press"
+      ]
+    },
+    "torqueLbFt": {
+      "text": "2002 BMW U.S. S54 factory rating.",
+      "sourceIds": [
+        "bmw-m3-e46-press"
+      ]
+    }
+  },
+  "scores": {
+    "longevity": {
+      "value": 60,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "The S54 and floor concerns carry over. Evidence on the hydraulic system's failure incidence does not justify lowering platform durability further.",
+      "evidence": [
+        {
+          "text": "BMW documented a connecting-rod bearing service action with production-date limits.",
+          "sourceIds": [
+            "bmw-bearings"
+          ]
+        },
+        {
+          "text": "BMW published a rear axle carrier support inspection and repair procedure.",
+          "sourceIds": [
+            "bmw-rear-floor"
+          ]
+        },
+        {
+          "text": "S54 VANOS hardware diagnosis and mechanical service procedure.",
+          "sourceIds": [
+            "bmw-vanos"
+          ]
+        },
+        {
+          "text": "Driving behavior of the E46 SMG II and its electrohydraulic operation.",
+          "sourceIds": [
+            "bmw-smg-test"
+          ]
+        },
+        {
+          "text": "U.S. E46 M3 manual and SMG configuration and S54 output.",
+          "sourceIds": [
+            "bmw-m3-e46-press"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-bearings",
+        "bmw-rear-floor",
+        "bmw-vanos",
+        "bmw-smg-test",
+        "bmw-m3-e46-press"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "ownershipCost": {
+      "value": 40,
+      "confidence": "medium",
+      "methodology": "evidence-based",
+      "rationale": "The shared engine and structural reserve applies. SMG adds electrohydraulic actuator hardware and diagnostic work.",
+      "evidence": [
+        {
+          "text": "BMW documented a connecting-rod bearing service action with production-date limits.",
+          "sourceIds": [
+            "bmw-bearings"
+          ]
+        },
+        {
+          "text": "BMW published a rear axle carrier support inspection and repair procedure.",
+          "sourceIds": [
+            "bmw-rear-floor"
+          ]
+        },
+        {
+          "text": "S54 VANOS hardware diagnosis and mechanical service procedure.",
+          "sourceIds": [
+            "bmw-vanos"
+          ]
+        },
+        {
+          "text": "Driving behavior of the E46 SMG II and its electrohydraulic operation.",
+          "sourceIds": [
+            "bmw-smg-test"
+          ]
+        },
+        {
+          "text": "U.S. E46 M3 manual and SMG configuration and S54 output.",
+          "sourceIds": [
+            "bmw-m3-e46-press"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-bearings",
+        "bmw-rear-floor",
+        "bmw-vanos",
+        "bmw-smg-test",
+        "bmw-m3-e46-press"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "drivingEnjoyment": {
+      "value": 85,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "Fast paddle shifts suit a committed pace. Low-speed shifts are less fluent than the factory manual's and ask for adjustment.",
+      "evidence": [
+        {
+          "text": "Driving behavior of the E46 SMG II and its electrohydraulic operation.",
+          "sourceIds": [
+            "bmw-smg-test"
+          ]
+        },
+        {
+          "text": "U.S. E46 M3 manual and SMG configuration and S54 output.",
+          "sourceIds": [
+            "bmw-m3-e46-press"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-smg-test",
+        "bmw-m3-e46-press"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    },
+    "aesthetics": {
+      "value": 90,
+      "confidence": "medium",
+      "methodology": "editorial",
+      "rationale": "The SMG shares the wide-arched coupe body and visual balance of the factory manual.",
+      "evidence": [
+        {
+          "text": "Driving behavior of the E46 SMG II and its electrohydraulic operation.",
+          "sourceIds": [
+            "bmw-smg-test"
+          ]
+        },
+        {
+          "text": "U.S. E46 M3 manual and SMG configuration and S54 output.",
+          "sourceIds": [
+            "bmw-m3-e46-press"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "bmw-smg-test",
+        "bmw-m3-e46-press"
+      ],
+      "reviewedAt": "2026-11-13",
+      "methodologyVersion": "1.0.0"
+    }
+  },
+  "ownership": {
+    "strengths": [],
+    "weaknesses": [],
+    "knownIssues": [
+      {
+        "text": "BMW issued a connecting-rod bearing service action for specified E46 M3 production dates. Coverage depends on the individual VIN.",
+        "sourceIds": [
+          "bmw-bearings"
+        ],
+        "severity": "high",
+        "frequency": "documented campaign"
+      },
+      {
+        "text": "BMW published repair procedures for cracking at the rear axle carrier support. Inspection should cover the body attachment area.",
+        "sourceIds": [
+          "bmw-rear-floor"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      },
+      {
+        "text": "The S54 VANOS exhaust drive hardware is an inspection point. Specialist service information describes worn or damaged drive components.",
+        "sourceIds": [
+          "bmw-vanos"
+        ],
+        "severity": "high",
+        "frequency": "documented pattern"
+      }
+    ],
+    "prevention": [
+      {
+        "text": "Verify rod-bearing campaign history and ask a BMW specialist to inspect the rear carrier support and VANOS system.",
+        "sourceIds": [
+          "bmw-bearings",
+          "bmw-rear-floor",
+          "bmw-vanos"
+        ]
+      }
+    ],
+    "yearChanges": [],
+    "partsAvailability": null,
+    "mechanicalComplexity": {
+      "text": "An electrohydraulic system operates the clutch and gear selection. It adds hardware and diagnostic labor relative to the factory manual.",
+      "sourceIds": [
+        "bmw-m3-e46-press",
+        "bmw-smg-test"
+      ]
+    },
+    "maintenanceAccessibility": null,
+    "costTier": "High",
+    "annualCost": null
+  },
+  "character": {
+    "driving": {
+      "text": "Fast paddle shifts suit a committed pace. Low-speed shifts are less fluent than the factory manual's and ask for adjustment.",
+      "sourceIds": [
+        "bmw-smg-test",
+        "bmw-m3-e46-press"
+      ]
+    },
+    "styling": {
+      "text": "The SMG shares the wide-arched coupe body and visual balance of the factory manual.",
+      "sourceIds": [
+        "bmw-smg-test",
+        "bmw-m3-e46-press"
+      ]
+    },
+    "enthusiastAppeal": "The S54 adds engine character to a practical coupe format.",
+    "idealBuyer": "A driver who wants a usable sports coupe and can budget for specialist inspection and repairs.",
+    "avoidIf": "You need a predictable low maintenance budget."
+  },
+  "aestheticsTags": [
+    "Classic",
+    "Muscular"
+  ],
+  "photo": null,
+  "research": {
+    "specifications": "partial",
+    "ownership": "partial",
+    "scores": "assessed",
+    "followUp": [
+      "Complete missing factory specifications and applicable test-weight measurements.",
+      "Complete variant-specific maintenance, parts availability and consequential failure research."
+    ]
+  }
+}
