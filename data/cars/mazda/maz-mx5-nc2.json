@@ -137,7 +137,7 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "rationale": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "evidence": [
         {
           "text": "Revised NC powertrain and chassis observations.",
@@ -163,11 +163,11 @@
         "maz-miata-history",
         "maz-nc-tank"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -175,13 +175,15 @@
       "uncertainties": [
         "System coverage, incidence and residual risk remain incomplete."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "Submitted claims of no systemic NC flaws omit the retained pressurized coolant-reservoir mechanism. Its incidence is unknown, and one mechanism does not determine NA/NC/ND ordering."
+      ]
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "rationale": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "evidence": [
         {
           "text": "Revised NC powertrain and chassis observations.",
@@ -207,11 +209,11 @@
         "maz-miata-history",
         "maz-nc-tank"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -219,7 +221,9 @@
       "uncertainties": [
         "No matched independent-shop parts/labor basket or representative repair exposure."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "Submitted claims of no systemic NC flaws omit the retained pressurized coolant-reservoir mechanism. Its incidence is unknown, and one mechanism does not determine NA/NC/ND ordering."
+      ]
     },
     "drivingEnjoyment": {
       "value": 95,
@@ -238,11 +242,11 @@
         "maz-nc09-test",
         "maz-miata-history"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -263,7 +267,7 @@
             "miata-na-nc",
             "miata-nc-nd"
           ],
-          "rationale": "Tie: both fit involvement anchor; test era and options do not justify five-point precision. Tie: engine revisions do not automatically raise an already broad enjoyment tier."
+          "rationale": "Tie: both fit involvement anchor; test era and options do not justify five-point precision. Submission review: The submission also proposes a tie; existing applicable drives support the broad involvement tier without finer precision. Tie: engine revisions do not automatically raise an already broad enjoyment tier. Submission review: ND power/redline changes do not alone justify a higher anchor than the existing ordinary-road involvement tier."
         }
       },
       "uncertainties": [
@@ -289,11 +293,11 @@
         "maz-nc09-test",
         "maz-miata-history"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -314,7 +318,7 @@
             "miata-na-nc",
             "miata-nc-nd"
           ],
-          "rationale": "Tie: coherent roadsters with different proportion reservations. Tie: no objective beauty or fine taste increment."
+          "rationale": "Tie: coherent roadsters with different proportion reservations. Submission review: No new comparative taste basis changes the retained coherent-roadster tier. Tie: no objective beauty or fine taste increment. Submission review: Aggressive detailing describes design; it does not establish a better beauty score."
         }
       },
       "uncertainties": [
@@ -383,7 +387,8 @@
       "Complete missing factory specifications and applicable test-weight measurements.",
       "Complete variant-specific maintenance, parts availability and consequential failure research.",
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Complete engine, gearbox, electrical and structure evidence alongside cooling coverage; absence of identified flaws is not a high-reliability measurement."
     ]
   },
   "evidenceLedger": [
@@ -446,10 +451,10 @@
   ],
   "assessmentReview": {
     "assessor": {
-      "id": "Codex initial calibration review",
+      "id": "Codex submitted research review",
       "type": "ai"
     },
-    "assessedAt": "2026-11-13",
+    "assessedAt": "2026-11-14",
     "status": "ai-reviewed",
     "systems": {
       "engine": {
@@ -580,8 +585,11 @@
     "costScenarios": [],
     "unresolved": [
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Complete engine, gearbox, electrical and structure evidence alongside cooling coverage; absence of identified flaws is not a high-reliability measurement."
     ],
-    "conflicts": []
+    "conflicts": [
+      "Submitted claims of no systemic NC flaws omit the retained pressurized coolant-reservoir mechanism. Its incidence is unknown, and one mechanism does not determine NA/NC/ND ordering."
+    ]
   }
 }

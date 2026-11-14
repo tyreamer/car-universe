@@ -131,14 +131,23 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
-      "evidence": [],
-      "sourceIds": [],
-      "reviewedAt": "2026-11-13",
+      "rationale": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
+      "evidence": [
+        {
+          "text": "Honda recall 20V-770 includes certain 2009–2014 manual Fits exposed to specified salt-belt registration histories.",
+          "sourceIds": [
+            "hon-fit-20v770"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "hon-fit-20v770"
+      ],
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -146,20 +155,31 @@
       "uncertainties": [
         "System coverage, incidence and residual risk remain incomplete."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "The submitted claim that Fit issues are limited to window motors and headlights omits Honda 20V-770 driveshaft corrosion. Absence of other reported issues does not establish exceptional whole-car longevity."
+      ]
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
-      "evidence": [],
-      "sourceIds": [],
-      "reviewedAt": "2026-11-13",
+      "rationale": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
+      "evidence": [
+        {
+          "text": "Honda recall 20V-770 includes certain 2009–2014 manual Fits exposed to specified salt-belt registration histories.",
+          "sourceIds": [
+            "hon-fit-20v770"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "hon-fit-20v770"
+      ],
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -167,7 +187,9 @@
       "uncertainties": [
         "No matched independent-shop parts/labor basket or representative repair exposure."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "The submitted claim that Fit issues are limited to window motors and headlights omits Honda 20V-770 driveshaft corrosion. Absence of other reported issues does not establish exceptional whole-car longevity."
+      ]
     },
     "drivingEnjoyment": {
       "value": 80,
@@ -185,11 +207,11 @@
       "sourceIds": [
         "fit-ge-test"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -210,7 +232,7 @@
             "ordinary-engaging",
             "reference-roadster"
           ],
-          "rationale": "Tie: steering and responses support involvement across different transmissions. Miata higher: ordinary-road involvement fits benchmark; Fit braking limitations retain rewarding anchor. Editorial distinction, not a population fact."
+          "rationale": "Tie: steering and responses support involvement across different transmissions. Submission review: Manual transmission alone does not establish higher enjoyment: retained Mazda3 automatic evaluation values its calibration, and Fit braking/noise compromises remain. Miata higher: ordinary-road involvement fits benchmark; Fit braking limitations retain rewarding anchor. Editorial distinction, not a population fact. Submission review: The proposed direction agrees with existing first-hand ordinary-road involvement evidence; layout and suspension specifications alone are insufficient."
         }
       },
       "uncertainties": [
@@ -235,11 +257,11 @@
       "sourceIds": [
         "fit-ge-test"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -260,7 +282,7 @@
             "ordinary-engaging",
             "reference-roadster"
           ],
-          "rationale": "Tie: purposeful designs in mixed-detail tier. Miata higher in assessor taste: simpler low silhouette fits coherent rather than mixed-detail proportions."
+          "rationale": "Tie: purposeful designs in mixed-detail tier. Submission review: No new visual comparison changes the existing mixed-detail taste tie. Miata higher in assessor taste: simpler low silhouette fits coherent rather than mixed-detail proportions. Submission review: No new basis changes the retained, explicitly subjective preference for the Miata silhouette."
         }
       },
       "uncertainties": [
@@ -305,7 +327,8 @@
       "Review design evidence for this configuration.",
       "Complete variant-specific maintenance, parts availability and consequential failure research.",
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Complete engine, gearbox internals, cooling, electrical and body structure coverage; distinguish salt-belt driveshaft exposure from universal Fit risk."
     ]
   },
   "evidenceLedger": [
@@ -336,14 +359,42 @@
         "id": "Codex initial calibration review",
         "type": "ai"
       }
+    },
+    {
+      "id": "fit-driveshaft-corrosion",
+      "claim": "Honda recall 20V-770 includes certain 2009–2014 manual Fits exposed to specified salt-belt registration histories.",
+      "sourceIds": [
+        "hon-fit-20v770"
+      ],
+      "location": "December 15, 2020 Part 573 report, Fit vehicle descriptions, defective component, cause and remedy sections (pages 4–11).",
+      "establishes": "Coating deterioration and corrosion near a driveshaft damper can cause shaft breakage and loss of propulsion; campaign inspection/replacement is specified.",
+      "doesNotEstablish": "Every Fit failing, gearbox-internal failure, body-shell corrosion, an observed failure probability, or completion on a particular VIN.",
+      "applicability": {
+        "configuration": "hon-fit-ge",
+        "generation": "GE8",
+        "engineCode": "L15A7",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 2009,
+          "to": 2013
+        },
+        "status": "partial",
+        "limitations": "Only specified geographic/VIN populations; listed 2009–2014 applicability includes manuals, unlike some earlier Fit entries. Estimated defect proportion is not incidence."
+      },
+      "inspectedAt": "2026-11-14",
+      "inspectedBy": {
+        "id": "Codex submitted research review",
+        "type": "ai"
+      }
     }
   ],
   "assessmentReview": {
     "assessor": {
-      "id": "Codex initial calibration review",
+      "id": "Codex submitted research review",
       "type": "ai"
     },
-    "assessedAt": "2026-11-13",
+    "assessedAt": "2026-11-14",
     "status": "ai-reviewed",
     "systems": {
       "engine": {
@@ -352,9 +403,11 @@
         "evidenceIds": []
       },
       "transmission": {
-        "status": "unknown",
-        "note": "Insufficient configuration-specific transmission durability coverage in this review; absence of evidence is not low risk.",
-        "evidenceIds": []
+        "status": "limited",
+        "note": "Driveline coverage includes geographically scoped driveshaft corrosion. Gearbox internals remain unknown; body structural corrosion is not covered by this source.",
+        "evidenceIds": [
+          "fit-driveshaft-corrosion"
+        ]
       },
       "cooling": {
         "status": "unknown",
@@ -389,9 +442,11 @@
         "evidenceIds": []
       },
       "ageRelated": {
-        "status": "unknown",
-        "note": "No comparable documented ageRelated inputs under the U.S. 3,000-mile/year independent-shop scenario.",
-        "evidenceIds": []
+        "status": "limited",
+        "note": "Environment-dependent driveline corrosion is documented, but no retail renewal basket or annual average is established.",
+        "evidenceIds": [
+          "fit-driveshaft-corrosion"
+        ]
       },
       "majorFailure": {
         "status": "unknown",
@@ -448,13 +503,33 @@
         ]
       }
     },
-    "risks": [],
+    "risks": [
+      {
+        "mechanism": "Salt exposure and damaged coating can corrode a driveshaft until it breaks, causing loss of propulsion.",
+        "evidenceIds": [
+          "fit-driveshaft-corrosion"
+        ],
+        "affectedYears": {
+          "from": 2009,
+          "to": 2013
+        },
+        "incidence": "unknown",
+        "severity": "high",
+        "preventability": "Check geographic/VIN applicability and qualified inspection or replacement under recall instructions.",
+        "residualRisk": "The inspected source does not quantify risk remaining after the remedy; completion is not a whole-car durability guarantee.",
+        "evidenceStrength": "documented mechanism",
+        "ageDependent": true
+      }
+    ],
     "ageRisk": "Age-related renewal and corrosion depend on condition, storage and environment. Keep these separate from intrinsic durability under appropriate scheduled maintenance; no remaining-life prediction.",
     "costScenarios": [],
     "unresolved": [
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Complete engine, gearbox internals, cooling, electrical and body structure coverage; distinguish salt-belt driveshaft exposure from universal Fit risk."
     ],
-    "conflicts": []
+    "conflicts": [
+      "The submitted claim that Fit issues are limited to window motors and headlights omits Honda 20V-770 driveshaft corrosion. Absence of other reported issues does not establish exceptional whole-car longevity."
+    ]
   }
 }

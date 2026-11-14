@@ -1,0 +1,2 @@
+# Preserve submitted bytes, including original whitespace, for receipt hashes.
+docs/research/*-submitted-review.txt -text -whitespace

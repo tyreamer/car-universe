@@ -40,7 +40,9 @@ No adjustments were justified in the initial cohort. A numeric score also requir
 
 Risks separately record mechanism, affected years, incidence, severity, preventability, residual risk, evidence strength and age dependence. This revision intentionally supports only unknown incidence; a later quantitative extension must define population and exposure and require a relevant source, not merely allow an arbitrary probability.
 
-`costScenarios` has a name, scope, evidence IDs, optional dollar total and individually sourced inputs. Numeric totals must equal their documented inputs. The old `annualCost` field is retired and null; it cannot be used to introduce an unsupported annual average. An unpriced scenario is valid.
+`costScenarios` has a name, scope, evidence IDs, optional dollar total and individually sourced inputs. Numeric totals must equal their documented inputs, and each input source must appear in the scenario’s inspected evidence. Dates, quantities and exclusions belong in the scope/input descriptions. The old `annualCost` field is retired and null; it cannot be used to introduce an unsupported annual average. An unpriced scenario is valid.
+
+Incremental submitted-research reviews live in `data/research-reviews/`, validated by `scripts/research-review.ts`. They retain the submission hash, prior commit, claim dispositions, source/ledger references, before/after values for every cohort dimension, assessment fingerprints and explicit comparison revisions. The active receipt is checked against the catalog and generates the dated review report. Historical receipts stay immutable; a later review must create a new one and select it in `audit-scores.ts`. These are audit records, not proof of source truth or human approval.
 
 ## Calibration and change control
 

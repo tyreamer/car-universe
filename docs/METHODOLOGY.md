@@ -28,7 +28,9 @@ The storage key remains `ownershipCost`; the public number is **Low upkeep**, hi
 
 Separate scheduled work, consumables, repairs, age-related renewal and major-failure exposure. Record acquisition catch-up independently. Fuel, insurance, depreciation, financing, purchase price, taxes and registration are excluded. This is not total ownership cost.
 
-Quote dollars only from documented inputs with date, applicability and scope. A recommended reserve is not observed average expenditure. Leave unknown failure probabilities unknown. Use named scenarios or editorial judgment bands; do not fabricate statistical confidence intervals. The initial review contains one unpriced ND2 scheduled-service scenario and no annual dollar estimates. Existing mechanical cost tiers were withdrawn with the unsupported numeric assessments.
+Quote dollars only from documented inputs with date, applicability and scope. A recommended reserve is not observed average expenditure. Leave unknown failure probabilities unknown. Use named scenarios or editorial judgment bands; do not fabricate statistical confidence intervals. The current review contains an unpriced ND2 scheduled-service scenario and a dated S2000 parts-only basket, with no annual dollar estimates. An isolated parts basket does not support a whole-car upkeep score. Existing mechanical cost tiers were withdrawn with the unsupported numeric assessments.
+
+Submitted research is preserved separately from accepted catalog evidence. Record claim-level acceptance, narrowing, rejection or unresolved applicability; independently inspect passages before promoting a claim. Supplier observations and manufacturer remedies retain their specific limitations. Warranty reimbursement hours are not retail labor quotes; a source that fails to open remains a lead. Each new review records the prior commit, before/after values, actual assessor, comparison revisions and unresolved work, even when every numeric result is unchanged.
 
 ## Driving enjoyment
 

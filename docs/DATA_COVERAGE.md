@@ -127,11 +127,11 @@ Confirmed identifies records with additional archival evidence for the catalog i
 | Item | Records |
 | --- | ---: |
 | government dataset | 1 |
-| manufacturer | 87 |
+| manufacturer | 89 |
 | photograph | 2 |
 | road test | 100 |
-| service bulletin | 6 |
-| specialist | 14 |
+| service bulletin | 9 |
+| specialist | 16 |
 
 ## Follow-up
 

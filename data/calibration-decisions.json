@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "assessedAt": "2026-11-13",
+  "assessedAt": "2026-11-14",
   "assessor": {
-    "id": "Codex initial calibration review",
+    "id": "Codex submitted research review",
     "type": "ai"
   },
   "reviewStatus": "ai-reviewed",
@@ -34,38 +34,38 @@
       "left": "toy-mr2-sw-na1",
       "right": "toy-mr2-sw-na2",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: Shared 5S-FE/S54 identifiers do not establish equal whole-car longevity; missing cooling, electrical and structural coverage persists."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: Shared hardware does not establish equal retail service and age-renewal spending."
         },
         "drivingEnjoyment": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: aggregate tests do not resolve a fine early/late ordering."
+          "rationale": "Tie: aggregate tests do not resolve a fine early/late ordering. Submission review: Submitted late-car preference depends on handling priorities; period review and unresolved year details do not justify a different broad tier."
         },
         "aesthetics": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: period details do not resolve a broad taste difference."
+          "rationale": "Tie: period details do not resolve a broad taste difference. Submission review: Larger wheels and a spoiler cannot objectively improve beauty; unresolved change dates do not justify a new taste tier."
         }
       }
     },
@@ -74,38 +74,38 @@
       "left": "toy-mr2-sw-t1",
       "right": "toy-mr2-sw-t2",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: Shared 3S-GTE/E153 identifiers are not evidence of equal whole-car risk."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: No matched retail inputs establish identical ongoing cost."
         },
         "drivingEnjoyment": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: source-year conflict prevents an early/late increment."
+          "rationale": "Tie: source-year conflict prevents an early/late increment. Submission review: Late-car stability preference is not a universal enjoyment ordering; the retained source-year conflict remains."
         },
         "aesthetics": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: facelift details do not support taste precision."
+          "rationale": "Tie: facelift details do not support taste precision. Submission review: Submitted facelift preference is taste; year-specific detail uncertainties remain."
         }
       }
     },
@@ -114,38 +114,38 @@
       "left": "toy-mr2-sw-na2",
       "right": "toy-mr2-sw-t2",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: Turbo complexity is a research hypothesis, not a supported whole-car comparative tier."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: Extra components without priced schedules, repair scope and exposure do not establish a cost tier."
         },
         "drivingEnjoyment": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: boost alone does not mean greater road enjoyment."
+          "rationale": "Tie: boost alone does not mean greater road enjoyment. Submission review: The proposed Turbo advantage relies on acceleration and power; ordinary-road control tradeoffs support retaining the broad tie."
         },
         "aesthetics": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: powertrain is not a beauty input."
+          "rationale": "Tie: powertrain is not a beauty input. Submission review: No new matched visual evidence or assessor basis changes the retained taste tie."
         }
       }
     },
@@ -154,38 +154,38 @@
       "left": "toy-mr2-w30-early",
       "right": "toy-mr2-w30-late",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: UK Corolla Verso claims do not establish U.S. Spyder incidence or a definitive 2003 fix."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: No matched independent-shop ongoing basket establishes the proposed late-car advantage."
         },
         "drivingEnjoyment": {
           "leftValue": 80,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown: no late U.S. five-speed evaluation; early and SMT are not interchangeable."
+          "rationale": "Unknown: no late U.S. five-speed evaluation; early and SMT are not interchangeable. Submission review: The proposed tie lacks a first-hand late U.S. five-speed evaluation; early launch observations include limited steering feedback."
         },
         "aesthetics": {
           "leftValue": 65,
           "rightValue": 65,
           "outcome": "tie",
-          "rationale": "Tie: both fit the mixed-detail taste tier."
+          "rationale": "Tie: both fit the mixed-detail taste tier. Submission review: The submitted common silhouette does not resolve finer taste differences; no reason to change the existing broad tie."
         }
       }
     },
@@ -194,38 +194,38 @@
       "left": "por-944-early",
       "right": "por-944-t",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: Thermal complexity and a mistranscribed belt interval do not establish equivalent five-system coverage."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: The proposed 20–30-hour clutch scenario lacks a matched quote; belt guidance also needs correction."
         },
         "drivingEnjoyment": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: response and turbo speed trade off; the direct comparison uses a later base car."
+          "rationale": "Tie: response and turbo speed trade off; the direct comparison uses a later base car. Submission review: Turbo speed and base-car response remain preference tradeoffs. The retained direct comparison does not establish a broad Turbo enjoyment advantage."
         },
         "aesthetics": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: Turbo nose preference does not justify a separate tier."
+          "rationale": "Tie: Turbo nose preference does not justify a separate tier. Submission review: A smoother bumper is an observation; calling it more modern does not establish a higher beauty tier."
         }
       }
     },
@@ -234,38 +234,38 @@
       "left": "che-cam-f5-lfx",
       "right": "che-cam-f5-ls3",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: GM 14717 applies to Corvette; retained GM timing-chain guidance includes 2012 LFX. Neither supports the submitted mechanical comparison."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: Submitted clutch costs are attached to the wrong model’s campaign, and neither car has a complete priced basket."
         },
         "drivingEnjoyment": {
           "leftValue": null,
           "rightValue": 80,
           "outcome": "unknown",
-          "rationale": "Unknown: LFX-specific manual evaluation missing while LS3 has applicable evidence."
+          "rationale": "Unknown: LFX-specific manual evaluation missing while LS3 has applicable evidence. Submission review: AY6 owner complaints do not replace a matched LFX manual evaluation across all six driving aspects; ordering remains unknown."
         },
         "aesthetics": {
           "leftValue": null,
           "rightValue": 80,
           "outcome": "unknown",
-          "rationale": "Unknown: no inspected LFX-specific design reference used."
+          "rationale": "Unknown: no inspected LFX-specific design reference used. Submission review: Generic fifth-generation styling prose does not fill the missing inspected LFX design reference."
         }
       }
     },
@@ -274,38 +274,38 @@
       "left": "maz-mx5-na16",
       "right": "maz-mx5-nc2",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: NA age and crank risk versus NC reservoir risk require equivalent coverage; the NA catastrophic timing-belt premise is contradicted."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: Age-related condition and timing-chain architecture alone do not establish comparable ongoing costs."
         },
         "drivingEnjoyment": {
           "leftValue": 95,
           "rightValue": 95,
           "outcome": "tie",
-          "rationale": "Tie: both fit involvement anchor; test era and options do not justify five-point precision."
+          "rationale": "Tie: both fit involvement anchor; test era and options do not justify five-point precision. Submission review: The submission also proposes a tie; existing applicable drives support the broad involvement tier without finer precision."
         },
         "aesthetics": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: coherent roadsters with different proportion reservations."
+          "rationale": "Tie: coherent roadsters with different proportion reservations. Submission review: No new comparative taste basis changes the retained coherent-roadster tier."
         }
       }
     },
@@ -314,38 +314,38 @@
       "left": "maz-mx5-nc2",
       "right": "maz-mx5-nd2",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: ND airbag software is a scoped safety campaign; stock-gearbox cure claims and NC absence-of-failure claims do not establish whole-car ordering."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: Depreciation is excluded, and no matched six-scope cost basket supports the proposed NC advantage."
         },
         "drivingEnjoyment": {
           "leftValue": 95,
           "rightValue": 95,
           "outcome": "tie",
-          "rationale": "Tie: engine revisions do not automatically raise an already broad enjoyment tier."
+          "rationale": "Tie: engine revisions do not automatically raise an already broad enjoyment tier. Submission review: ND power/redline changes do not alone justify a higher anchor than the existing ordinary-road involvement tier."
         },
         "aesthetics": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: no objective beauty or fine taste increment."
+          "rationale": "Tie: no objective beauty or fine taste increment. Submission review: Aggressive detailing describes design; it does not establish a better beauty score."
         }
       }
     },
@@ -354,38 +354,38 @@
       "left": "hon-s2k-ap1",
       "right": "por-box-986-25",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: Retainer incidence/exclusive cause and Boxster population risk are unresolved; neither inspected specialist guarantees prevention."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: A dated S2000 parts basket is useful but not comparable to an unsupported Boxster installed quote or whole-car ongoing cost."
         },
         "drivingEnjoyment": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: high-rpm precision and road composure appeal to different preferences."
+          "rationale": "Tie: high-rpm precision and road composure appeal to different preferences. Submission review: The proposed tie is consistent with the retained high-rpm precision versus road-composure tradeoff; suspension architecture alone establishes no superiority."
         },
         "aesthetics": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: coherent roadsters with different detailing reservations."
+          "rationale": "Tie: coherent roadsters with different detailing reservations. Submission review: No new visual comparison changes the retained assessor taste tie."
         }
       }
     },
@@ -394,38 +394,38 @@
       "left": "bmw-m3-e46-m",
       "right": "che-cam-f5-ls3",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: Unsupported BMW universal interventions and wrong-model GM coverage cannot establish the proposed LS3 longevity advantage."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: Unmatched repairs and inconsistent labor arithmetic cannot establish a whole-car cost tier."
         },
         "drivingEnjoyment": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: rewarding but compromised road experiences; power and badge do not force order."
+          "rationale": "Tie: rewarding but compromised road experiences; power and badge do not force order. Submission review: The submission prefers M3 feedback, but does not supply comparable new first-hand coverage justifying a broad tier separation; retained compromises remain."
         },
         "aesthetics": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: distinct coherent identities with reservations."
+          "rationale": "Tie: distinct coherent identities with reservations. Submission review: No new comparative visual basis changes the retained taste tie."
         }
       }
     },
@@ -434,38 +434,38 @@
       "left": "hon-fit-ge",
       "right": "maz-3-bm",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: Fit recall 20V-770 contradicts the submission’s limited-problem account; missing Mazda3 adverse evidence is not a high-longevity measurement."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: No matched six-scope basket supports a low-cost tie."
         },
         "drivingEnjoyment": {
           "leftValue": 80,
           "rightValue": 80,
           "outcome": "tie",
-          "rationale": "Tie: steering and responses support involvement across different transmissions."
+          "rationale": "Tie: steering and responses support involvement across different transmissions. Submission review: Manual transmission alone does not establish higher enjoyment: retained Mazda3 automatic evaluation values its calibration, and Fit braking/noise compromises remain."
         },
         "aesthetics": {
           "leftValue": 65,
           "rightValue": 65,
           "outcome": "tie",
-          "rationale": "Tie: purposeful designs in mixed-detail tier."
+          "rationale": "Tie: purposeful designs in mixed-detail tier. Submission review: No new visual comparison changes the existing mixed-detail taste tie."
         }
       }
     },
@@ -474,38 +474,38 @@
       "left": "toy-cor-e170",
       "right": "toy-cam-xv50",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: JSD and ZE5 establish different scoped mechanisms, not population incidence or an all-years comparison. Unknown VIN condition is separate from the catalog’s intrinsic assessment."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: Campaign remedies and warranty labor are not matched retail running costs."
         },
         "drivingEnjoyment": {
           "leftValue": 50,
           "rightValue": 50,
           "outcome": "tie",
-          "rationale": "Tie: comfort-focused evaluations fit modest involvement without fine ranking."
+          "rationale": "Tie: comfort-focused evaluations fit modest involvement without fine ranking. Submission review: Comfort-oriented sources support the retained modest-involvement tier, not the submission’s universal claim of no enjoyment."
         },
         "aesthetics": {
           "leftValue": 50,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown: Camry restyle design coverage missing."
+          "rationale": "Unknown: Camry restyle design coverage missing. Submission review: A stated Camry restyle does not supply inspected visual coverage for both eras or a catalog-wide beauty preference."
         }
       }
     },
@@ -514,38 +514,38 @@
       "left": "maz-3-bm",
       "right": "toy-cor-e170",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: A Corolla campaign plus absence of a Mazda3 campaign does not establish superior whole-car Mazda3 durability."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: No matched ongoing-cost evidence establishes the proposed Mazda3 advantage."
         },
         "drivingEnjoyment": {
           "leftValue": 80,
           "rightValue": 50,
           "outcome": "left-higher",
-          "rationale": "Mazda3 higher: applicable evaluations describe richer control feedback; Corolla fits agreeable anchor. Broad editorial distinction."
+          "rationale": "Mazda3 higher: applicable evaluations describe richer control feedback; Corolla fits agreeable anchor. Broad editorial distinction. Submission review: The proposed direction agrees with existing applicable driving evaluations; retain the broad editorial distinction for control feedback, not gearbox category alone."
         },
         "aesthetics": {
           "leftValue": 65,
           "rightValue": 50,
           "outcome": "left-higher",
-          "rationale": "Mazda3 higher in assessor taste: sculpting versus conventional outline. Subjective, not source-established."
+          "rationale": "Mazda3 higher in assessor taste: sculpting versus conventional outline. Subjective, not source-established. Submission review: No new basis changes the existing explicitly subjective Mazda3 preference."
         }
       }
     },
@@ -554,62 +554,62 @@
       "left": "maz-mx5-na16",
       "right": "hon-fit-ge",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
-      "revision": 1,
-      "changeReason": "Initial substantive source review replaces unstructured v1 comparisons. Human review remains pending.",
+      "revision": 2,
+      "changeReason": "Reviewed the owner-supplied research against configuration-specific sources. Added bounded evidence and recorded unsupported assertions; no numeric or ordering change justified. See docs/RESEARCH_UPDATE_2026-11-14.md.",
       "dimensions": {
         "longevity": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering."
+          "rationale": "Unknown on both sides. Common five-system checklist has material gaps. Mechanisms do not establish incidence or a whole-platform ordering. Submission review: The age gap is not a remaining-life measurement. NA crank/corrosion evidence and Fit driveshaft exposure require the same broader review."
         },
         "ownershipCost": {
           "leftValue": null,
           "rightValue": null,
           "outcome": "unknown",
-          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure."
+          "rationale": "Unknown on both sides. Same six-part upkeep checklist lacks matched inputs. A repair reserve or isolated bill is not average expenditure. Submission review: Newness and belt versus chain architecture do not establish all six ongoing-cost scopes."
         },
         "drivingEnjoyment": {
           "leftValue": 95,
           "rightValue": 80,
           "outcome": "left-higher",
-          "rationale": "Miata higher: ordinary-road involvement fits benchmark; Fit braking limitations retain rewarding anchor. Editorial distinction, not a population fact."
+          "rationale": "Miata higher: ordinary-road involvement fits benchmark; Fit braking limitations retain rewarding anchor. Editorial distinction, not a population fact. Submission review: The proposed direction agrees with existing first-hand ordinary-road involvement evidence; layout and suspension specifications alone are insufficient."
         },
         "aesthetics": {
           "leftValue": 80,
           "rightValue": 65,
           "outcome": "left-higher",
-          "rationale": "Miata higher in assessor taste: simpler low silhouette fits coherent rather than mixed-detail proportions."
+          "rationale": "Miata higher in assessor taste: simpler low silhouette fits coherent rather than mixed-detail proportions. Submission review: No new basis changes the retained, explicitly subjective preference for the Miata silhouette."
         }
       }
     }
   ],
   "fingerprints": {
-    "bmw-m3-e46-m": "c7ca36f6380f7c36003aafe893aa0e1d5c6c3c90bc9075aa2dfaca648cc4777b",
-    "che-cam-f5-lfx": "c6065d2d52ce36663ad9a80cee61bfeeb0ab7ffda7dbd245314df229b10212c3",
-    "che-cam-f5-ls3": "d03f012c2d4457f4a460866cfbbebd6cafa8f1b04de01a376bbd0810f4ec808c",
-    "hon-fit-ge": "7a6d9845f255d25b5415080c775f9b884c02c7f68b3e772e65bd8e3335d5ba6c",
-    "hon-s2k-ap1": "03fee42c8fb64b273c845d9f229fedcfed250df2422245ea05e6950c53718148",
-    "maz-3-bm": "807c2c6bb988ba51f706b7c7fb93fb720fe23c49c3a775048dd59f35017c4e31",
-    "maz-mx5-na16": "7ff59b4f769765864e2dba3ef7f3db24fcea9c3cb16a26f4683eeade3c50bb60",
-    "maz-mx5-nc2": "e974eb9a682199a62653a1168c653ce625b2a2ad1398a75620bcbb0a06c693af",
-    "maz-mx5-nd2": "cfd55faf89d8ea0b6bcbb5bbc6a07ca418c2ba8058dfa42149d042eb75e3d1d8",
-    "por-944-early": "a97f487a4c1cb927916ec1b22e0d9aa164510d0fa5c0630b907356550b35fefd",
-    "por-944-t": "ad84134214dc7b96b2f7dbd63c1f67e238dbc56b9f947c0cd14b1c73abb20802",
-    "por-box-986-25": "a81ae1b2c1ab8240ea93e3b1ba1525182c5caae753e01a17f22cf0367e2969ca",
-    "toy-cam-xv50": "b3b19ea3a05b77c9e12f17b49c889447072965d8fe4f3f46c243d735abb4ffe7",
-    "toy-cor-e170": "178bf7b1dc1d39c13d48b1672999bed2af3243c656945e3497aff84467613eb5",
-    "toy-mr2-sw-na1": "669290b8f34d31046962efc0c0a550d11141d16d41b6f287164d89ed0a9c278a",
-    "toy-mr2-sw-na2": "c765ce5554966bb2ffe66744038f10879d340298e81a0a0b434a1667dc892664",
-    "toy-mr2-sw-t1": "3b734d6b87497e9c369058fff4cafe6ca69fb4ac24a402360f1b818c150f33c3",
-    "toy-mr2-sw-t2": "4492b2d5653767ac33bc33ab67368116325210acc2ad8ff68a529b50356f3c11",
-    "toy-mr2-w30-early": "848c61d163799b4ca5ccd44cc766283a20b97a09b1704dac6fec8063a846c8c2",
-    "toy-mr2-w30-late": "51b8f341bbda2e29bfe9a13c0fef9646c092f11f27f1419dd3b278b46bda9c66"
+    "bmw-m3-e46-m": "d358093c0de6c35d6155da4550a8ef85ba7985ab0f949e4187b7a9e4c47ddb5c",
+    "che-cam-f5-lfx": "15c8194b72c06147ccb9cc4ad1dcb213b0995aac393bb08a2fd7d2f84dd35be6",
+    "che-cam-f5-ls3": "c85b3af5ae3010a5ba8ed5c08ce140e53d5591a97d4bac32b366749792d03c67",
+    "hon-fit-ge": "03833754d8baf8d8349f198500ea2405c6fd0a284a6192e262e4b44dd8cd13a3",
+    "hon-s2k-ap1": "5fb4c467da94290da24e94a1a54d168c804084425713b248abc7590d91701f0a",
+    "maz-3-bm": "8cb1c11e1e03d9ce3a09f6da88d5866470e46e57955dc8c8982bcb852ff7886f",
+    "maz-mx5-na16": "1b246ba16e5796058dba1ecea05cb2df245f1eeb847b340a1908ab08cef9d938",
+    "maz-mx5-nc2": "ca1a3a8e6b7066c6ac1ccb2ad71c7772beb8e2de6ca31c99c3484d8d50621f47",
+    "maz-mx5-nd2": "b7daf369b801ef1ce4296612ec7e1fa0faad5ca1094695836581ffc606fb0156",
+    "por-944-early": "3d966137bf84ee985dd22c47614910b16a4b3e2d2abaf8baeb3970e8a0115616",
+    "por-944-t": "dfb65d313025fb37571fd0c20b6fab32370268962a22cfd3c42a03bd6167a250",
+    "por-box-986-25": "f163dcc7f810b72bceaafcf2e19376251be9409f8e87993bb4af5a79e19f4900",
+    "toy-cam-xv50": "ee56d89ae63d63f403249993b8b97bbec20341d7b3e7a4a4c9383b2256f7de4c",
+    "toy-cor-e170": "40c67c97c455fff78e32c35612587013ba95343a37c9f6bfd1ce0ef2ed6ca31f",
+    "toy-mr2-sw-na1": "1dc83823db76dcaf594f52a89a8decba2ac56fb3f305b0867d297788dfa48fbc",
+    "toy-mr2-sw-na2": "7c40ad3561cf7752b47e2013652ab6c50b1a54d1dc30650383faa0de7313c918",
+    "toy-mr2-sw-t1": "6cb99ca9613da468dcb1ab733e04c953de682519e8e80f9d2062a78c56a27e61",
+    "toy-mr2-sw-t2": "881968bb0be65bc7b67f163f8b7daa337d357c896fefa1544ade83c32efd9f4a",
+    "toy-mr2-w30-early": "ff80c76920931dcb514083d8d2e9325b285631ebd44d3c51971c034111e290f5",
+    "toy-mr2-w30-late": "c85bc5249a1de41cb2f9f955bcddbfd1dc50f8eaac54a37b4f502b061e217df8"
   }
 }

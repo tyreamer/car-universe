@@ -144,7 +144,7 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "rationale": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "evidence": [
         {
           "text": "NA generation changes, known inspection points and parts support.",
@@ -157,17 +157,23 @@
           "sourceIds": [
             "maz-na16-test"
           ]
+        },
+        {
+          "text": "The inspected NA buyer’s guide says a broken timing belt does not cause engine damage, contradicting the submission’s interference-engine claim.",
+          "sourceIds": [
+            "maz-na-buy"
+          ]
         }
       ],
       "sourceIds": [
         "maz-na-buy",
         "maz-na16-test"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -175,13 +181,15 @@
       "uncertainties": [
         "System coverage, incidence and residual risk remain incomplete."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "Submitted destructive interference-engine timing-belt claim contradicts the retained NA technical guide. Age-dependent condition must not be treated as intrinsic remaining lifespan or a sufficient NC/Fit ordering."
+      ]
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "rationale": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "evidence": [
         {
           "text": "NA generation changes, known inspection points and parts support.",
@@ -194,17 +202,23 @@
           "sourceIds": [
             "maz-na16-test"
           ]
+        },
+        {
+          "text": "The inspected NA buyer’s guide says a broken timing belt does not cause engine damage, contradicting the submission’s interference-engine claim.",
+          "sourceIds": [
+            "maz-na-buy"
+          ]
         }
       ],
       "sourceIds": [
         "maz-na-buy",
         "maz-na16-test"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -212,7 +226,9 @@
       "uncertainties": [
         "No matched independent-shop parts/labor basket or representative repair exposure."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "Submitted destructive interference-engine timing-belt claim contradicts the retained NA technical guide. Age-dependent condition must not be treated as intrinsic remaining lifespan or a sufficient NC/Fit ordering."
+      ]
     },
     "drivingEnjoyment": {
       "value": 95,
@@ -230,11 +246,11 @@
       "sourceIds": [
         "maz-na16-test"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -255,7 +271,7 @@
             "miata-na-nc",
             "reference-roadster"
           ],
-          "rationale": "Tie: both fit involvement anchor; test era and options do not justify five-point precision. Miata higher: ordinary-road involvement fits benchmark; Fit braking limitations retain rewarding anchor. Editorial distinction, not a population fact."
+          "rationale": "Tie: both fit involvement anchor; test era and options do not justify five-point precision. Submission review: The submission also proposes a tie; existing applicable drives support the broad involvement tier without finer precision. Miata higher: ordinary-road involvement fits benchmark; Fit braking limitations retain rewarding anchor. Editorial distinction, not a population fact. Submission review: The proposed direction agrees with existing first-hand ordinary-road involvement evidence; layout and suspension specifications alone are insufficient."
         }
       },
       "uncertainties": [
@@ -280,11 +296,11 @@
       "sourceIds": [
         "maz-na16-test"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -305,7 +321,7 @@
             "miata-na-nc",
             "reference-roadster"
           ],
-          "rationale": "Tie: coherent roadsters with different proportion reservations. Miata higher in assessor taste: simpler low silhouette fits coherent rather than mixed-detail proportions."
+          "rationale": "Tie: coherent roadsters with different proportion reservations. Submission review: No new comparative taste basis changes the retained coherent-roadster tier. Miata higher in assessor taste: simpler low silhouette fits coherent rather than mixed-detail proportions. Submission review: No new basis changes the retained, explicitly subjective preference for the Miata silhouette."
         }
       },
       "uncertainties": [
@@ -386,7 +402,8 @@
     "followUp": [
       "Complete variant-specific maintenance, parts availability and consequential failure research.",
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Use an applicable factory maintenance schedule for belt intervals; assess all five systems on the same basis as NC and Fit rather than deriving longevity from age alone."
     ]
   },
   "evidenceLedger": [
@@ -445,14 +462,42 @@
         "id": "Codex initial calibration review",
         "type": "ai"
       }
+    },
+    {
+      "id": "na-belt-conflict",
+      "claim": "The inspected NA buyer’s guide says a broken timing belt does not cause engine damage, contradicting the submission’s interference-engine claim.",
+      "sourceIds": [
+        "maz-na-buy"
+      ],
+      "location": "Car and Driver, October 24, 2021, Engine paragraph.",
+      "establishes": "A material conflict in the submission’s catastrophic timing-belt premise.",
+      "doesNotEstablish": "A complete maintenance schedule, zero mechanical risk or an overall durability ordering.",
+      "applicability": {
+        "configuration": "maz-mx5-na16",
+        "generation": "NA",
+        "engineCode": "B6-ZE",
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1990,
+          "to": 1993
+        },
+        "status": "partial",
+        "limitations": "Technical buyer’s-guide statement, not a factory service procedure; verify the exact schedule independently. Existing crank and corrosion risks remain relevant."
+      },
+      "inspectedAt": "2026-11-14",
+      "inspectedBy": {
+        "id": "Codex submitted research review",
+        "type": "ai"
+      }
     }
   ],
   "assessmentReview": {
     "assessor": {
-      "id": "Codex initial calibration review",
+      "id": "Codex submitted research review",
       "type": "ai"
     },
-    "assessedAt": "2026-11-13",
+    "assessedAt": "2026-11-14",
     "status": "ai-reviewed",
     "systems": {
       "engine": {
@@ -603,8 +648,11 @@
     "costScenarios": [],
     "unresolved": [
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Use an applicable factory maintenance schedule for belt intervals; assess all five systems on the same basis as NC and Fit rather than deriving longevity from age alone."
     ],
-    "conflicts": []
+    "conflicts": [
+      "Submitted destructive interference-engine timing-belt claim contradicts the retained NA technical guide. Age-dependent condition must not be treated as intrinsic remaining lifespan or a sufficient NC/Fit ordering."
+    ]
   }
 }

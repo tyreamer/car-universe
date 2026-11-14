@@ -200,6 +200,8 @@ export const vehicleSchema = z.object({
     for (const scenario of review.costScenarios) {
       if (!supported(scenario.evidenceIds)) fail('Cost scenario needs applicable evidence')
       if (scenario.amountUsd !== null && (!scenario.inputs.length || Math.abs(scenario.inputs.reduce((sum, input) => sum + input.amountUsd, 0) - scenario.amountUsd) > 0.01)) fail('Dollar estimate needs documented inputs matching its scoped total')
+      const inputSources = new Set(scenario.evidenceIds.flatMap(id => ledger.get(id)?.sourceIds ?? []))
+      if (scenario.inputs.some(input => input.sourceIds.some(id => !inputSources.has(id)))) fail('Cost input source must be represented in the scenario evidence')
     }
   }
   if (car.ownership.annualCost !== null) fail('Legacy annualCost is retired; use documented, scoped costScenarios with inputs')

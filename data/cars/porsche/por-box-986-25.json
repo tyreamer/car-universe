@@ -120,7 +120,7 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "rationale": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "evidence": [
         {
           "text": "The specialist reference documents bearing types and serviceability by engine and model year.",
@@ -139,18 +139,25 @@
           "sourceIds": [
             "s2k-ap1-test"
           ]
+        },
+        {
+          "text": "LN distinguishes replacement products and warns that pre-existing bearing debris can make a retrofit insufficient.",
+          "sourceIds": [
+            "por-ims-faq"
+          ]
         }
       ],
       "sourceIds": [
         "por-ims",
         "por-classic",
-        "s2k-ap1-test"
+        "s2k-ap1-test",
+        "por-ims-faq"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -158,13 +165,15 @@
       "uncertainties": [
         "System coverage, incidence and residual risk remain incomplete."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "Submitted approximately 1% incidence and near-zero post-retrofit risk lack a matched, independently inspected population basis. Its $800–$1,200 parts plus $1,200–$1,800 labor cannot produce a $1,500 lower total."
+      ]
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "rationale": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "evidence": [
         {
           "text": "The specialist reference documents bearing types and serviceability by engine and model year.",
@@ -183,18 +192,25 @@
           "sourceIds": [
             "s2k-ap1-test"
           ]
+        },
+        {
+          "text": "LN distinguishes replacement products and warns that pre-existing bearing debris can make a retrofit insufficient.",
+          "sourceIds": [
+            "por-ims-faq"
+          ]
         }
       ],
       "sourceIds": [
         "por-ims",
         "por-classic",
-        "s2k-ap1-test"
+        "s2k-ap1-test",
+        "por-ims-faq"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -202,7 +218,9 @@
       "uncertainties": [
         "No matched independent-shop parts/labor basket or representative repair exposure."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "Submitted approximately 1% incidence and near-zero post-retrofit risk lack a matched, independently inspected population basis. Its $800–$1,200 parts plus $1,200–$1,800 labor cannot produce a $1,500 lower total."
+      ]
     },
     "drivingEnjoyment": {
       "value": 80,
@@ -221,11 +239,11 @@
         "por-classic",
         "s2k-ap1-test"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -244,7 +262,7 @@
           "decisionIds": [
             "roadsters"
           ],
-          "rationale": "Tie: high-rpm precision and road composure appeal to different preferences."
+          "rationale": "Tie: high-rpm precision and road composure appeal to different preferences. Submission review: The proposed tie is consistent with the retained high-rpm precision versus road-composure tradeoff; suspension architecture alone establishes no superiority."
         }
       },
       "uncertainties": [
@@ -270,11 +288,11 @@
         "por-classic",
         "s2k-ap1-test"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -293,7 +311,7 @@
           "decisionIds": [
             "roadsters"
           ],
-          "rationale": "Tie: coherent roadsters with different detailing reservations."
+          "rationale": "Tie: coherent roadsters with different detailing reservations. Submission review: No new visual comparison changes the retained assessor taste tie."
         }
       },
       "uncertainties": [
@@ -363,7 +381,8 @@
       "Complete missing factory specifications and applicable test-weight measurements.",
       "Complete variant-specific maintenance, parts availability and consequential failure research.",
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Verify fitted bearing and replacement-engine identity; inspect underlying cohort/denominator before using failure percentages. Obtain a dated 2.5-manual parts/labor quote, separating clutch and RMS extras."
     ]
   },
   "evidenceLedger": [
@@ -422,14 +441,42 @@
         "id": "Codex initial calibration review",
         "type": "ai"
       }
+    },
+    {
+      "id": "986-ims-product-boundary",
+      "claim": "LN distinguishes replacement products and warns that pre-existing bearing debris can make a retrofit insufficient.",
+      "sourceIds": [
+        "por-ims-faq"
+      ],
+      "location": "FAQ sections on bearing identification, contaminated engines, Classic Dual Row Retrofit service interval and IMS Solution.",
+      "establishes": "Fitted bearing/engine identity matters. The supplier specifies six years/75,000 miles for Classic Dual Row Retrofit, a particular aftermarket product.",
+      "doesNotEstablish": "A factory interval, independently validated 1% incidence for this cohort, zero risk after retrofit, or a complete 2.5-manual installed quote.",
+      "applicability": {
+        "configuration": "por-box-986-25",
+        "generation": "986",
+        "engineCode": null,
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1997,
+          "to": 1999
+        },
+        "status": "partial",
+        "limitations": "Commercial vendor; other products have different claims. Replacement engines complicate year-based assumptions; quoted class-action percentages lack independently inspected denominators and exposure here."
+      },
+      "inspectedAt": "2026-11-14",
+      "inspectedBy": {
+        "id": "Codex submitted research review",
+        "type": "ai"
+      }
     }
   ],
   "assessmentReview": {
     "assessor": {
-      "id": "Codex initial calibration review",
+      "id": "Codex submitted research review",
       "type": "ai"
     },
-    "assessedAt": "2026-11-13",
+    "assessedAt": "2026-11-14",
     "status": "ai-reviewed",
     "systems": {
       "engine": {
@@ -462,9 +509,11 @@
     },
     "costs": {
       "scheduled": {
-        "status": "unknown",
-        "note": "No comparable documented scheduled inputs under the U.S. 3,000-mile/year independent-shop scenario.",
-        "evidenceIds": []
+        "status": "limited",
+        "note": "A supplier-specific replacement interval applies only if that aftermarket product is fitted; it is not a universal factory maintenance requirement.",
+        "evidenceIds": [
+          "986-ims-product-boundary"
+        ]
       },
       "consumables": {
         "status": "unknown",
@@ -560,8 +609,11 @@
     "costScenarios": [],
     "unresolved": [
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+      "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+      "Verify fitted bearing and replacement-engine identity; inspect underlying cohort/denominator before using failure percentages. Obtain a dated 2.5-manual parts/labor quote, separating clutch and RMS extras."
     ],
-    "conflicts": []
+    "conflicts": [
+      "Submitted approximately 1% incidence and near-zero post-retrofit risk lack a matched, independently inspected population basis. Its $800–$1,200 parts plus $1,200–$1,800 labor cannot produce a $1,500 lower total."
+    ]
   }
 }

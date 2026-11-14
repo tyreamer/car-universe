@@ -2938,5 +2938,103 @@
       "Firsthand 2.5 six-speed automatic LE impressions."
     ],
     "limitations": "SE tune and 2015 facelift are not directly evaluated."
+  },
+  {
+    "id": "gm-14717-corvette",
+    "category": "service bulletin",
+    "publisher": "General Motors / NHTSA",
+    "title": "Special Coverage 14717: clutch pedal does not return, 2005–2013 Corvette",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2015/MC-10123488-9999.pdf",
+    "supports": [
+      "The bulletin identifies certain manual Corvettes and its VIN-specific clutch master-cylinder remedy."
+    ],
+    "limitations": "Dated September 2015 (day unspecified). This is not Camaro coverage. Historical coverage terms are not current eligibility or a failure rate.",
+    "accessedAt": "2026-11-14",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "toy-camry-ze5",
+    "category": "service bulletin",
+    "publisher": "Toyota / NHTSA",
+    "title": "Warranty Enhancement ZE5: certain 2012–2014 Camry U760E torque converters",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2018/MC-10131705-9999.pdf",
+    "supports": [
+      "POL14-10, originally October 29, 2014 and revised February 1, 2018: light-throttle shudder diagnosis, converter remedy and warranty reimbursement operations."
+    ],
+    "limitations": "Certain vehicles only; confirm VIN and condition. Warranty labor allowances are not retail independent-shop quotes. No incidence, annual cost, universal transmission failure or present warranty eligibility is established.",
+    "accessedAt": "2026-11-14",
+    "author": null,
+    "publishedAt": "2018-02-01"
+  },
+  {
+    "id": "toy-cvt-jsd-remedy",
+    "category": "service bulletin",
+    "publisher": "Toyota / NHTSA",
+    "title": "JSD CVT campaign: remedy availability and reimbursement operations",
+    "url": "https://static.nhtsa.gov/odi/tsbs/2018/MC-10145730-9999.pdf",
+    "supports": [
+      "Certain 2014–2017 Corolla CVT software and diagnostic-dependent inspection/replacement branches."
+    ],
+    "limitations": "Not all 2014–2019 catalog cars are covered. Flat-rate warranty hours include campaign-specific operations and are not retail labor prices. No population failure rate is supplied.",
+    "accessedAt": "2026-11-14",
+    "author": null,
+    "publishedAt": "2018-08-02"
+  },
+  {
+    "id": "maz-mx5-24v695",
+    "category": "manufacturer",
+    "publisher": "Mazda / NHTSA",
+    "title": "Part 573 recall report 24V-695: MX-5 airbag control software",
+    "url": "https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V695-1152.PDF",
+    "supports": [
+      "Certain 2016–2023 MX-5 vehicles may deploy front airbags at higher force than required; software reprogramming is the campaign remedy."
+    ],
+    "limitations": "A software noncompliance population is not an observed crash/injury probability. Check a particular VIN and remedy completion; no gear durability, universal open-recall status or whole-car rating follows.",
+    "accessedAt": "2026-11-14",
+    "author": null,
+    "publishedAt": "2024-09-18"
+  },
+  {
+    "id": "hon-fit-20v770",
+    "category": "manufacturer",
+    "publisher": "Honda / NHTSA",
+    "title": "Part 573 recall report 20V-770: salt-belt driveshaft corrosion",
+    "url": "https://static.nhtsa.gov/odi/rcl/2020/RCLRPT-20V770-6416.PDF",
+    "supports": [
+      "Certain 2009–2014 Fit vehicles, including manuals, sold or ever registered in specified salt-belt states: coating deterioration and driveshaft corrosion can cause breakage."
+    ],
+    "limitations": "Geographic and VIN applicability matter. Driveshaft corrosion is not evidence of body-shell corrosion or gearbox-internal failure. Estimated defect percentage is not observed failure incidence.",
+    "accessedAt": "2026-11-14",
+    "author": null,
+    "publishedAt": "2020-12-15"
+  },
+  {
+    "id": "s2k-ap2-retainer-parts",
+    "category": "specialist",
+    "publisher": "ScienceofSpeed",
+    "title": "AP2 retainer, valve spring, set of 16: S2000 2000–09",
+    "url": "https://www.scienceofspeed.com/ap2-retainer-valve-spring-set-of-16-s2000-2000-09.html",
+    "supports": [
+      "Supplier reports observed AP1 retainer cracking and lists separate Honda AP2 retainer and required keeper options with prices."
+    ],
+    "limitations": "Commercial supplier observations do not establish incidence, an exclusive cause, guaranteed prevention or a need to replace every AP1 retainer. Option prices are a dated parts-only basket; the base product display of $0 is not the basket price.",
+    "accessedAt": "2026-11-14",
+    "author": null,
+    "publishedAt": null
+  },
+  {
+    "id": "por-ims-faq",
+    "category": "specialist",
+    "publisher": "LN Engineering",
+    "title": "The definitive guide and FAQ for Porsche IMS bearings",
+    "url": "https://lnengineering.com/products/the-definitive-guide-and-faq-for-porsche-ims-bearings/",
+    "supports": [
+      "Commercial technical discussion of bearing identification, contamination, and distinct replacement products and service intervals."
+    ],
+    "limitations": "Vendor-repeated class-action percentages are not independently checked population data for this catalog configuration. Product claims do not guarantee zero residual risk. General Porsche labor examples are not a matched early 2.5 manual quote.",
+    "accessedAt": "2026-11-14",
+    "author": null,
+    "publishedAt": null
   }
 ]

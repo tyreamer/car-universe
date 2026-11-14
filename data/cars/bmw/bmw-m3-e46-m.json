@@ -129,7 +129,7 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "rationale": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "evidence": [
         {
           "text": "BMW documented a connecting-rod bearing service action with production-date limits.",
@@ -169,11 +169,11 @@
         "bmw-e46-test",
         "bmw-m3-e46-press"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -181,13 +181,15 @@
       "uncertainties": [
         "System coverage, incidence and residual risk remain incomplete."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "Submitted universal 60–100k-mile bearing replacement, oil-viscosity causation and permanent floor reinforcement cure are not established by an inspected original bulletin; linked original technical PDFs remain unavailable."
+      ]
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "rationale": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "evidence": [
         {
           "text": "BMW documented a connecting-rod bearing service action with production-date limits.",
@@ -227,11 +229,11 @@
         "bmw-e46-test",
         "bmw-m3-e46-press"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -239,7 +241,9 @@
       "uncertainties": [
         "No matched independent-shop parts/labor basket or representative repair exposure."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "Submitted universal 60–100k-mile bearing replacement, oil-viscosity causation and permanent floor reinforcement cure are not established by an inspected original bulletin; linked original technical PDFs remain unavailable."
+      ]
     },
     "drivingEnjoyment": {
       "value": 80,
@@ -258,11 +262,11 @@
         "bmw-e46-test",
         "bmw-m3-e46-press"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -281,7 +285,7 @@
           "decisionIds": [
             "m3-camaro"
           ],
-          "rationale": "Tie: rewarding but compromised road experiences; power and badge do not force order."
+          "rationale": "Tie: rewarding but compromised road experiences; power and badge do not force order. Submission review: The submission prefers M3 feedback, but does not supply comparable new first-hand coverage justifying a broad tier separation; retained compromises remain."
         }
       },
       "uncertainties": [
@@ -307,11 +311,11 @@
         "bmw-e46-test",
         "bmw-m3-e46-press"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -330,7 +334,7 @@
           "decisionIds": [
             "m3-camaro"
           ],
-          "rationale": "Tie: distinct coherent identities with reservations."
+          "rationale": "Tie: distinct coherent identities with reservations. Submission review: No new comparative visual basis changes the retained taste tie."
         }
       },
       "uncertainties": [
@@ -420,7 +424,8 @@
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
       "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
       "Reacquire bearing bulletin (403) and carrier-support instructions (404); retained claims are not freshly confirmed.",
-      "Complete cooling, transmission, structural and VANOS review against a matched reference."
+      "Complete cooling, transmission, structural and VANOS review against a matched reference.",
+      "Reacquire original BMW bearing and rear-carrier bulletins; check production scope and cause before promoting search excerpts. Obtain documented VANOS/valve-service guidance and consistent parts/labor arithmetic."
     ]
   },
   "evidenceLedger": [
@@ -455,10 +460,10 @@
   ],
   "assessmentReview": {
     "assessor": {
-      "id": "Codex initial calibration review",
+      "id": "Codex submitted research review",
       "type": "ai"
     },
-    "assessedAt": "2026-11-13",
+    "assessedAt": "2026-11-14",
     "status": "ai-reviewed",
     "systems": {
       "engine": {
@@ -568,8 +573,11 @@
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
       "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
       "Reacquire bearing bulletin (403) and carrier-support instructions (404); retained claims are not freshly confirmed.",
-      "Complete cooling, transmission, structural and VANOS review against a matched reference."
+      "Complete cooling, transmission, structural and VANOS review against a matched reference.",
+      "Reacquire original BMW bearing and rear-carrier bulletins; check production scope and cause before promoting search excerpts. Obtain documented VANOS/valve-service guidance and consistent parts/labor arithmetic."
     ],
-    "conflicts": []
+    "conflicts": [
+      "Submitted universal 60–100k-mile bearing replacement, oil-viscosity causation and permanent floor reinforcement cure are not established by an inspected original bulletin; linked original technical PDFs remain unavailable."
+    ]
   }
 }

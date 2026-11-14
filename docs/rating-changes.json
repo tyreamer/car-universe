@@ -133,14 +133,14 @@
         "not-reviewed": 180
       }
     },
-    "sources": 210,
+    "sources": 217,
     "sourcesByType": {
       "government dataset": 1,
-      "manufacturer": 87,
+      "manufacturer": 89,
       "photograph": 2,
       "road test": 100,
-      "service bulletin": 6,
-      "specialist": 14
+      "service bulletin": 9,
+      "specialist": 16
     },
     "sourceRows": 797,
     "fullyCurated": 0,
@@ -393,7 +393,8 @@
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
           "Reacquire bearing bulletin (403) and carrier-support instructions (404); retained claims are not freshly confirmed.",
-          "Complete cooling, transmission, structural and VANOS review against a matched reference."
+          "Complete cooling, transmission, structural and VANOS review against a matched reference.",
+          "Reacquire original BMW bearing and rear-carrier bulletins; check production scope and cause before promoting search excerpts. Obtain documented VANOS/valve-service guidance and consistent parts/labor arithmetic."
         ]
       },
       {
@@ -536,7 +537,9 @@
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-          "Find LFX manual road test, visual reference and service/cost review matched to LS3."
+          "Find LFX manual road test, visual reference and service/cost review matched to LS3.",
+          "Find Camaro-specific clutch hydraulics evidence and matched repair scope; do not reuse Corvette 14717. Verify differential bulletin PI0137E applicability before adding its claim.",
+          "Obtain a first-hand U.S. LFX six-speed manual evaluation covering all six driving aspects; LLT/automatic reviews and isolated owner shift complaints are insufficient."
         ]
       },
       {
@@ -555,7 +558,8 @@
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-          "Collect LS3 transmission, cooling, electrical and corrosion evidence; do not import L99/AFM claims."
+          "Collect LS3 transmission, cooling, electrical and corrosion evidence; do not import L99/AFM claims.",
+          "Find Camaro-specific clutch hydraulics evidence and matched repair scope; do not reuse Corvette 14717. Verify differential bulletin PI0137E applicability before adding its claim."
         ]
       },
       {
@@ -1089,7 +1093,8 @@
           "Review design evidence for this configuration.",
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+          "Complete engine, gearbox internals, cooling, electrical and body structure coverage; distinguish salt-belt driveshaft exposure from universal Fit risk."
         ]
       },
       {
@@ -1123,7 +1128,8 @@
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-          "Substantiate oil, over-rev, gearbox, cooling, electrical and corrosion risks without reputation-based assumptions."
+          "Substantiate oil, over-rev, gearbox, cooling, electrical and corrosion risks without reputation-based assumptions.",
+          "Trace the asserted oil-jet/banjo-bolt production change to applicable Honda documentation; obtain installed quotes only with documented parts, labor and scope."
         ]
       },
       {
@@ -1308,7 +1314,8 @@
           "Review mechanical cost evidence for this configuration.",
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+          "Obtain the same five-system and six-cost-scope evidence as the reference cars; avoid assigning a high tier from a missing adverse report."
         ]
       },
       {
@@ -1328,7 +1335,8 @@
         "tasks": [
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+          "Use an applicable factory maintenance schedule for belt intervals; assess all five systems on the same basis as NC and Fit rather than deriving longevity from age alone."
         ]
       },
       {
@@ -1385,7 +1393,8 @@
           "Complete missing factory specifications and applicable test-weight measurements.",
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+          "Complete engine, gearbox, electrical and structure evidence alongside cooling coverage; absence of identified flaws is not a high-reliability measurement."
         ]
       },
       {
@@ -1403,7 +1412,8 @@
           "Review durability evidence for this configuration.",
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+          "Obtain dated U.S. stock gearbox revisions and applicable field evidence; a competition gearset product is not evidence that all factory ND2 gearbox risk was eliminated."
         ]
       },
       {
@@ -1811,7 +1821,8 @@
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-          "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
+          "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets.",
+          "Resolve factory versus specialist belt intervals by model year and usage; obtain comparable base/Turbo clutch quotes with parts, hours, rate, region and date."
         ]
       },
       {
@@ -1847,7 +1858,8 @@
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-          "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
+          "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets.",
+          "Resolve factory versus specialist belt intervals by model year and usage; obtain comparable base/Turbo clutch quotes with parts, hours, rate, region and date."
         ]
       },
       {
@@ -1868,7 +1880,8 @@
           "Complete missing factory specifications and applicable test-weight measurements.",
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+          "Verify fitted bearing and replacement-engine identity; inspect underlying cohort/denominator before using failure percentages. Obtain a dated 2.5-manual parts/labor quote, separating clutch and RMS extras."
         ]
       },
       {
@@ -2038,7 +2051,8 @@
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-          "Review 2015–2017 design and SE/base suspension coverage while retaining the identity."
+          "Review 2015–2017 design and SE/base suspension coverage while retaining the identity.",
+          "Obtain independent-shop converter parts/labor quotes and equivalent 2015–2017 coverage; inspect both exterior eras before assigning a catalog-wide aesthetics tier."
         ]
       },
       {
@@ -2103,7 +2117,8 @@
           "Complete missing factory specifications and applicable test-weight measurements.",
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+          "Separate JSD diagnostic outcomes and campaign completion from current retail costs; obtain equivalent engine, cooling, electrical and structure coverage across 2014–2019."
         ]
       },
       {
@@ -2175,7 +2190,8 @@
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-          "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+          "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs.",
+          "Trace submitted coolant-pipe, steering-relay and transmission claims to applicable passages and years. Resolve the asserted ride-height and taillight change dates before treating them as comparative facts."
         ]
       },
       {
@@ -2189,7 +2205,8 @@
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-          "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+          "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs.",
+          "Trace submitted coolant-pipe, steering-relay and transmission claims to applicable passages and years. Resolve the asserted ride-height and taillight change dates before treating them as comparative facts."
         ]
       },
       {
@@ -2201,7 +2218,8 @@
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-          "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+          "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs.",
+          "Trace submitted coolant-pipe, steering-relay and transmission claims to applicable passages and years. Resolve the asserted ride-height and taillight change dates before treating them as comparative facts."
         ]
       },
       {
@@ -2213,7 +2231,8 @@
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-          "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+          "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs.",
+          "Trace submitted coolant-pipe, steering-relay and transmission claims to applicable passages and years. Resolve the asserted ride-height and taillight change dates before treating them as comparative facts."
         ]
       },
       {
@@ -2222,7 +2241,8 @@
           "Complete missing factory specifications and applicable test-weight measurements.",
           "Complete variant-specific maintenance, parts availability and consequential failure research.",
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+          "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+          "Find U.S. Spyder-specific oil-consumption/pre-catalyst documents, engine/VIN production cutoffs and incidence evidence if available; do not transfer UK Corolla Verso claims or assume a guaranteed preventive modification."
         ]
       },
       {
@@ -2233,7 +2253,8 @@
           "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
           "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
           "Find firsthand U.S. 2003–2005 five-speed evaluation; do not substitute UK six-speed or SMT.",
-          "Recheck catalyst/oil-consumption mechanisms and any production cutoff using original technical evidence."
+          "Recheck catalyst/oil-consumption mechanisms and any production cutoff using original technical evidence.",
+          "Find U.S. Spyder-specific oil-consumption/pre-catalyst documents, engine/VIN production cutoffs and incidence evidence if available; do not transfer UK Corolla Verso claims or assume a guaranteed preventive modification."
         ]
       },
       {
@@ -4029,13 +4050,13 @@
       "oldScore": 60,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -4057,13 +4078,13 @@
       "oldScore": 45,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -4088,10 +4109,10 @@
       "reason": "Rewarding but demanding road use fits 80. Sparse control-specific comparison does not sustain the former benchmark claim.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -4116,10 +4137,10 @@
       "reason": "Widened arches integrate with the coupe body; familiar sedan-family proportions are a reservation. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -5053,13 +5074,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -5078,11 +5099,20 @@
           ],
           "location": "Road Test; Model Tested",
           "applicability": "unresolved"
+        },
+        {
+          "id": "submitted-clutch-coverage-rejected",
+          "sourceIds": [
+            "gm-14717-corvette"
+          ],
+          "location": "September 2015 bulletin, page 1 Models/Condition; page 2 involvement and remedy.",
+          "applicability": "unresolved"
         }
       ],
       "newlyUsedSourceIds": [
         "cam-v6-chain",
-        "cam-cg-review"
+        "cam-cg-review",
+        "gm-14717-corvette"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -5092,13 +5122,13 @@
       "oldScore": 60,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -5117,10 +5147,19 @@
           ],
           "location": "Road Test; Model Tested",
           "applicability": "unresolved"
+        },
+        {
+          "id": "submitted-clutch-coverage-rejected",
+          "sourceIds": [
+            "gm-14717-corvette"
+          ],
+          "location": "September 2015 bulletin, page 1 Models/Condition; page 2 involvement and remedy.",
+          "applicability": "unresolved"
         }
       ],
       "newlyUsedSourceIds": [
-        "cam-cg-review"
+        "cam-cg-review",
+        "gm-14717-corvette"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -5133,10 +5172,10 @@
       "reason": "Available V6 test attribution is LLT-era. LFX manual driving evidence remains unresolved; specifications do not fill the gap.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -5155,11 +5194,20 @@
           ],
           "location": "Road Test; Model Tested",
           "applicability": "unresolved"
+        },
+        {
+          "id": "submitted-clutch-coverage-rejected",
+          "sourceIds": [
+            "gm-14717-corvette"
+          ],
+          "location": "September 2015 bulletin, page 1 Models/Condition; page 2 involvement and remedy.",
+          "applicability": "unresolved"
         }
       ],
       "newlyUsedSourceIds": [
         "cam-v6-chain",
-        "cam-cg-review"
+        "cam-cg-review",
+        "gm-14717-corvette"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -5172,10 +5220,10 @@
       "reason": "Applicable assessment remains unresolved after source review.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -5194,11 +5242,20 @@
           ],
           "location": "Road Test; Model Tested",
           "applicability": "unresolved"
+        },
+        {
+          "id": "submitted-clutch-coverage-rejected",
+          "sourceIds": [
+            "gm-14717-corvette"
+          ],
+          "location": "September 2015 bulletin, page 1 Models/Condition; page 2 involvement and remedy.",
+          "applicability": "unresolved"
         }
       ],
       "newlyUsedSourceIds": [
         "cam-v6-chain",
-        "cam-cg-review"
+        "cam-cg-review",
+        "gm-14717-corvette"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -5284,13 +5341,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -5301,10 +5358,19 @@
           ],
           "location": "Stick to the Stick; handling and cabin paragraphs",
           "applicability": "partial"
+        },
+        {
+          "id": "submitted-clutch-coverage-rejected",
+          "sourceIds": [
+            "gm-14717-corvette"
+          ],
+          "location": "September 2015 bulletin, page 1 Models/Condition; page 2 involvement and remedy.",
+          "applicability": "unresolved"
         }
       ],
       "newlyUsedSourceIds": [
-        "cam-ss-10"
+        "cam-ss-10",
+        "gm-14717-corvette"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -5314,13 +5380,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -5331,10 +5397,19 @@
           ],
           "location": "Stick to the Stick; handling and cabin paragraphs",
           "applicability": "partial"
+        },
+        {
+          "id": "submitted-clutch-coverage-rejected",
+          "sourceIds": [
+            "gm-14717-corvette"
+          ],
+          "location": "September 2015 bulletin, page 1 Models/Condition; page 2 involvement and remedy.",
+          "applicability": "unresolved"
         }
       ],
       "newlyUsedSourceIds": [
-        "cam-ss-10"
+        "cam-ss-10",
+        "gm-14717-corvette"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -5347,10 +5422,10 @@
       "reason": "A rewarding manual powertrain and chassis support 80 with size and visibility reservations. The LFX ordering remains unknown.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -5361,9 +5436,19 @@
           ],
           "location": "Stick to the Stick; handling and cabin paragraphs",
           "applicability": "partial"
+        },
+        {
+          "id": "submitted-clutch-coverage-rejected",
+          "sourceIds": [
+            "gm-14717-corvette"
+          ],
+          "location": "September 2015 bulletin, page 1 Models/Condition; page 2 involvement and remedy.",
+          "applicability": "unresolved"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "gm-14717-corvette"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -5375,10 +5460,10 @@
       "reason": "Shoulders and a low roof give a clear muscle-car identity; tall sides and narrow glasshouse are reservations. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -5389,9 +5474,19 @@
           ],
           "location": "Stick to the Stick; handling and cabin paragraphs",
           "applicability": "partial"
+        },
+        {
+          "id": "submitted-clutch-coverage-rejected",
+          "sourceIds": [
+            "gm-14717-corvette"
+          ],
+          "location": "September 2015 bulletin, page 1 Models/Condition; page 2 involvement and remedy.",
+          "applicability": "unresolved"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "gm-14717-corvette"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -8896,13 +8991,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -8913,10 +9008,19 @@
           ],
           "location": "Handling, braking and manual-transmission paragraphs",
           "applicability": "partial"
+        },
+        {
+          "id": "fit-driveshaft-corrosion",
+          "sourceIds": [
+            "hon-fit-20v770"
+          ],
+          "location": "December 15, 2020 Part 573 report, Fit vehicle descriptions, defective component, cause and remedy sections (pages 4–11).",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "fit-ge-test"
+        "fit-ge-test",
+        "hon-fit-20v770"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -8926,13 +9030,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -8943,10 +9047,19 @@
           ],
           "location": "Handling, braking and manual-transmission paragraphs",
           "applicability": "partial"
+        },
+        {
+          "id": "fit-driveshaft-corrosion",
+          "sourceIds": [
+            "hon-fit-20v770"
+          ],
+          "location": "December 15, 2020 Part 573 report, Fit vehicle descriptions, defective component, cause and remedy sections (pages 4–11).",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "fit-ge-test"
+        "fit-ge-test",
+        "hon-fit-20v770"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -8959,10 +9072,10 @@
       "reason": "Rewarding steering and manual involvement fit 80 with a braking limitation. Tied with Mazda3; horsepower does not define enjoyment.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -8973,10 +9086,19 @@
           ],
           "location": "Handling, braking and manual-transmission paragraphs",
           "applicability": "partial"
+        },
+        {
+          "id": "fit-driveshaft-corrosion",
+          "sourceIds": [
+            "hon-fit-20v770"
+          ],
+          "location": "December 15, 2020 Part 573 report, Fit vehicle descriptions, defective component, cause and remedy sections (pages 4–11).",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "fit-ge-test"
+        "fit-ge-test",
+        "hon-fit-20v770"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -8989,10 +9111,10 @@
       "reason": "The upright hatch is purposeful with mixed detailing; packaging takes priority over low proportions. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -9003,10 +9125,19 @@
           ],
           "location": "Handling, braking and manual-transmission paragraphs",
           "applicability": "partial"
+        },
+        {
+          "id": "fit-driveshaft-corrosion",
+          "sourceIds": [
+            "hon-fit-20v770"
+          ],
+          "location": "December 15, 2020 Part 573 report, Fit vehicle descriptions, defective component, cause and remedy sections (pages 4–11).",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "fit-ge-test"
+        "fit-ge-test",
+        "hon-fit-20v770"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -9168,13 +9299,13 @@
       "oldScore": 75,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -9185,9 +9316,19 @@
           ],
           "location": "Honda S2000 section",
           "applicability": "partial"
+        },
+        {
+          "id": "ap1-retainers-parts",
+          "sourceIds": [
+            "s2k-ap2-retainer-parts"
+          ],
+          "location": "Product description and selectable options: HON-enpp-742 (16 retainers) and HON-enpp-739 (32 keepers), inspected November 14, 2026 UTC.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "s2k-ap2-retainer-parts"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -9196,13 +9337,13 @@
       "oldScore": 70,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -9213,9 +9354,19 @@
           ],
           "location": "Honda S2000 section",
           "applicability": "partial"
+        },
+        {
+          "id": "ap1-retainers-parts",
+          "sourceIds": [
+            "s2k-ap2-retainer-parts"
+          ],
+          "location": "Product description and selectable options: HON-enpp-742 (16 retainers) and HON-enpp-739 (32 keepers), inspected November 14, 2026 UTC.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "s2k-ap2-retainer-parts"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -9227,10 +9378,10 @@
       "reason": "Rewarding controls fit 80; road-speed power-band compromises prevent a universal benchmark claim. Boxster tie acknowledges different preferences.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -9241,9 +9392,19 @@
           ],
           "location": "Honda S2000 section",
           "applicability": "partial"
+        },
+        {
+          "id": "ap1-retainers-parts",
+          "sourceIds": [
+            "s2k-ap2-retainer-parts"
+          ],
+          "location": "Product description and selectable options: HON-enpp-742 (16 retainers) and HON-enpp-739 (32 keepers), inspected November 14, 2026 UTC.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "s2k-ap2-retainer-parts"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -9255,10 +9416,10 @@
       "reason": "Long hood and restrained sides are coherent; conservative detailing is a reservation. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -9269,9 +9430,19 @@
           ],
           "location": "Honda S2000 section",
           "applicability": "partial"
+        },
+        {
+          "id": "ap1-retainers-parts",
+          "sourceIds": [
+            "s2k-ap2-retainer-parts"
+          ],
+          "location": "Product description and selectable options: HON-enpp-742 (16 retainers) and HON-enpp-739 (32 keepers), inspected November 14, 2026 UTC.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "s2k-ap2-retainer-parts"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -10496,13 +10667,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -10526,13 +10697,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -10559,10 +10730,10 @@
       "reason": "Rewarding responses fit 80 with output limitations. Fit tie recognizes transmission preferences without a manual-only rule.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -10587,10 +10758,10 @@
       "reason": "Sculpted sedan outline is appealing but familiar; prominent front detailing keeps it in the mixed-detail tier. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -10688,13 +10859,13 @@
       "oldScore": 80,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -10712,6 +10883,14 @@
             "maz-na-buy"
           ],
           "location": "Engine; Problem Areas",
+          "applicability": "partial"
+        },
+        {
+          "id": "na-belt-conflict",
+          "sourceIds": [
+            "maz-na-buy"
+          ],
+          "location": "Car and Driver, October 24, 2021, Engine paragraph.",
           "applicability": "partial"
         }
       ],
@@ -10724,13 +10903,13 @@
       "oldScore": 85,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -10748,6 +10927,14 @@
             "maz-na-buy"
           ],
           "location": "Engine; Problem Areas",
+          "applicability": "partial"
+        },
+        {
+          "id": "na-belt-conflict",
+          "sourceIds": [
+            "maz-na-buy"
+          ],
+          "location": "Car and Driver, October 24, 2021, Engine paragraph.",
           "applicability": "partial"
         }
       ],
@@ -10763,10 +10950,10 @@
       "reason": "Benchmark feedback, shifts and ordinary-road involvement support 95. Evidence does not justify a five-point ordering against NC or ND.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -10784,6 +10971,14 @@
             "maz-na-buy"
           ],
           "location": "Engine; Problem Areas",
+          "applicability": "partial"
+        },
+        {
+          "id": "na-belt-conflict",
+          "sourceIds": [
+            "maz-na-buy"
+          ],
+          "location": "Car and Driver, October 24, 2021, Engine paragraph.",
           "applicability": "partial"
         }
       ],
@@ -10801,10 +10996,10 @@
       "reason": "Simple rounded surfaces and concealed lamps are coherent; a familiar retro reference is a reservation rather than an exceptional-beauty claim. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -10822,6 +11017,14 @@
             "maz-na-buy"
           ],
           "location": "Engine; Problem Areas",
+          "applicability": "partial"
+        },
+        {
+          "id": "na-belt-conflict",
+          "sourceIds": [
+            "maz-na-buy"
+          ],
+          "location": "Car and Driver, October 24, 2021, Engine paragraph.",
           "applicability": "partial"
         }
       ],
@@ -11216,13 +11419,13 @@
       "oldScore": 75,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -11252,13 +11455,13 @@
       "oldScore": 75,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -11291,10 +11494,10 @@
       "reason": "Same benchmark involvement tier as NA and ND; option and test differences do not justify a finer ranking.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -11329,10 +11532,10 @@
       "reason": "Rounded arches and facelift details retain a coherent roadster shape; visual bulk is a reservation without a fine tier penalty. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -11440,13 +11643,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -11465,11 +11668,20 @@
           ],
           "location": "Owner manual 6-4 through 6-6",
           "applicability": "partial"
+        },
+        {
+          "id": "nd-airbag-software",
+          "sourceIds": [
+            "maz-mx5-24v695"
+          ],
+          "location": "September 18, 2024 Part 573 report: affected vehicles, defect description, chronology and remedy.",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
         "maz-nd2-test",
-        "maz-nd2-maint"
+        "maz-nd2-maint",
+        "maz-mx5-24v695"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -11479,13 +11691,13 @@
       "oldScore": 80,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -11504,9 +11716,19 @@
           ],
           "location": "Owner manual 6-4 through 6-6",
           "applicability": "partial"
+        },
+        {
+          "id": "nd-airbag-software",
+          "sourceIds": [
+            "maz-mx5-24v695"
+          ],
+          "location": "September 18, 2024 Part 573 report: affected vehicles, defect description, chronology and remedy.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "maz-mx5-24v695"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -11518,10 +11740,10 @@
       "reason": "Benchmark involvement retained, tied with NA and NC. Extra horsepower alone earns no increment.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -11540,9 +11762,19 @@
           ],
           "location": "Owner manual 6-4 through 6-6",
           "applicability": "partial"
+        },
+        {
+          "id": "nd-airbag-software",
+          "sourceIds": [
+            "maz-mx5-24v695"
+          ],
+          "location": "September 18, 2024 Part 573 report: affected vehicles, defect description, chronology and remedy.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "maz-mx5-24v695"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -11554,10 +11786,10 @@
       "reason": "Compact proportions and soft-top silhouette are coherent; aggressive lamp graphics keep this below an exceptional-taste claim. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -11576,9 +11808,19 @@
           ],
           "location": "Owner manual 6-4 through 6-6",
           "applicability": "partial"
+        },
+        {
+          "id": "nd-airbag-software",
+          "sourceIds": [
+            "maz-mx5-24v695"
+          ],
+          "location": "September 18, 2024 Part 573 report: affected vehicles, defect description, chronology and remedy.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "maz-mx5-24v695"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -14171,13 +14413,13 @@
       "oldScore": 65,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14195,6 +14437,14 @@
             "por-944-belt"
           ],
           "location": "ENG-04 Maintenance Intervals and Parts",
+          "applicability": "partial"
+        },
+        {
+          "id": "944-belt-interval-boundary",
+          "sourceIds": [
+            "por-944-belt"
+          ],
+          "location": "ENG-04 maintenance table and low-mileage discussion.",
           "applicability": "partial"
         }
       ],
@@ -14207,13 +14457,13 @@
       "oldScore": 50,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14231,6 +14481,14 @@
             "por-944-belt"
           ],
           "location": "ENG-04 Maintenance Intervals and Parts",
+          "applicability": "partial"
+        },
+        {
+          "id": "944-belt-interval-boundary",
+          "sourceIds": [
+            "por-944-belt"
+          ],
+          "location": "ENG-04 maintenance table and low-mileage discussion.",
           "applicability": "partial"
         }
       ],
@@ -14246,10 +14504,10 @@
       "reason": "The rewarding 80 tier captures the driving evidence; extra turbo speed does not support a higher road-enjoyment anchor.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14267,6 +14525,14 @@
             "por-944-belt"
           ],
           "location": "ENG-04 Maintenance Intervals and Parts",
+          "applicability": "partial"
+        },
+        {
+          "id": "944-belt-interval-boundary",
+          "sourceIds": [
+            "por-944-belt"
+          ],
+          "location": "ENG-04 maintenance table and low-mileage discussion.",
           "applicability": "partial"
         }
       ],
@@ -14284,10 +14550,10 @@
       "reason": "Liftback and pronounced arches create a coherent identity, with period-detail reservations. A Turbo premium is taste-dependent and is not imposed. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14305,6 +14571,14 @@
             "por-944-belt"
           ],
           "location": "ENG-04 Maintenance Intervals and Parts",
+          "applicability": "partial"
+        },
+        {
+          "id": "944-belt-interval-boundary",
+          "sourceIds": [
+            "por-944-belt"
+          ],
+          "location": "ENG-04 maintenance table and low-mileage discussion.",
           "applicability": "partial"
         }
       ],
@@ -14547,13 +14821,13 @@
       "oldScore": 60,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14571,6 +14845,14 @@
             "por-944-belt"
           ],
           "location": "ENG-04 Maintenance Intervals and Parts",
+          "applicability": "partial"
+        },
+        {
+          "id": "944-belt-interval-boundary",
+          "sourceIds": [
+            "por-944-belt"
+          ],
+          "location": "ENG-04 maintenance table and low-mileage discussion.",
           "applicability": "partial"
         }
       ],
@@ -14583,13 +14865,13 @@
       "oldScore": 40,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14607,6 +14889,14 @@
             "por-944-belt"
           ],
           "location": "ENG-04 Maintenance Intervals and Parts",
+          "applicability": "partial"
+        },
+        {
+          "id": "944-belt-interval-boundary",
+          "sourceIds": [
+            "por-944-belt"
+          ],
+          "location": "ENG-04 maintenance table and low-mileage discussion.",
           "applicability": "partial"
         }
       ],
@@ -14622,10 +14912,10 @@
       "reason": "The rewarding 80 tier captures the driving evidence; extra turbo speed does not support a higher road-enjoyment anchor.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14643,6 +14933,14 @@
             "por-944-belt"
           ],
           "location": "ENG-04 Maintenance Intervals and Parts",
+          "applicability": "partial"
+        },
+        {
+          "id": "944-belt-interval-boundary",
+          "sourceIds": [
+            "por-944-belt"
+          ],
+          "location": "ENG-04 maintenance table and low-mileage discussion.",
           "applicability": "partial"
         }
       ],
@@ -14660,10 +14958,10 @@
       "reason": "Liftback and pronounced arches create a coherent identity, with period-detail reservations. A Turbo premium is taste-dependent and is not imposed. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14681,6 +14979,14 @@
             "por-944-belt"
           ],
           "location": "ENG-04 Maintenance Intervals and Parts",
+          "applicability": "partial"
+        },
+        {
+          "id": "944-belt-interval-boundary",
+          "sourceIds": [
+            "por-944-belt"
+          ],
+          "location": "ENG-04 maintenance table and low-mileage discussion.",
           "applicability": "partial"
         }
       ],
@@ -14771,13 +15077,13 @@
       "oldScore": 60,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14796,9 +15102,19 @@
           ],
           "location": "Problem Years at a Glance",
           "applicability": "partial"
+        },
+        {
+          "id": "986-ims-product-boundary",
+          "sourceIds": [
+            "por-ims-faq"
+          ],
+          "location": "FAQ sections on bearing identification, contaminated engines, Classic Dual Row Retrofit service interval and IMS Solution.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "por-ims-faq"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -14807,13 +15123,13 @@
       "oldScore": 45,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14832,9 +15148,19 @@
           ],
           "location": "Problem Years at a Glance",
           "applicability": "partial"
+        },
+        {
+          "id": "986-ims-product-boundary",
+          "sourceIds": [
+            "por-ims-faq"
+          ],
+          "location": "FAQ sections on bearing identification, contaminated engines, Classic Dual Row Retrofit service interval and IMS Solution.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "por-ims-faq"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -14846,10 +15172,10 @@
       "reason": "Rewarding road behavior fits 80; shift limitations balance steering appeal. AP1 tie avoids a universal preference ranking.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14868,10 +15194,19 @@
           ],
           "location": "Problem Years at a Glance",
           "applicability": "partial"
+        },
+        {
+          "id": "986-ims-product-boundary",
+          "sourceIds": [
+            "por-ims-faq"
+          ],
+          "location": "FAQ sections on bearing identification, contaminated engines, Classic Dual Row Retrofit service interval and IMS Solution.",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "por-ims"
+        "por-ims",
+        "por-ims-faq"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -14884,10 +15219,10 @@
       "reason": "The mid-engine silhouette is coherent; combined lamp shapes remain a reservation. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -14906,10 +15241,19 @@
           ],
           "location": "Problem Years at a Glance",
           "applicability": "partial"
+        },
+        {
+          "id": "986-ims-product-boundary",
+          "sourceIds": [
+            "por-ims-faq"
+          ],
+          "location": "FAQ sections on bearing identification, contaminated engines, Classic Dual Row Retrofit service interval and IMS Solution.",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "por-ims"
+        "por-ims",
+        "por-ims-faq"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -16059,13 +16403,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -16076,10 +16420,19 @@
           ],
           "location": "Review notes by Wong, Lingeman and colleagues",
           "applicability": "partial"
+        },
+        {
+          "id": "camry-ze5-shudder",
+          "sourceIds": [
+            "toy-camry-ze5"
+          ],
+          "location": "POL14-10 pages 1–2: condition, covered vehicles, remedy and warranty operation.",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "camry-le-test"
+        "camry-le-test",
+        "toy-camry-ze5"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -16089,13 +16442,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -16106,10 +16459,19 @@
           ],
           "location": "Review notes by Wong, Lingeman and colleagues",
           "applicability": "partial"
+        },
+        {
+          "id": "camry-ze5-shudder",
+          "sourceIds": [
+            "toy-camry-ze5"
+          ],
+          "location": "POL14-10 pages 1–2: condition, covered vehicles, remedy and warranty operation.",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "camry-le-test"
+        "camry-le-test",
+        "toy-camry-ze5"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -16122,10 +16484,10 @@
       "reason": "Competent, comfortable driving with modest feedback fits 50. Corolla tie avoids fine ranking of different comfort-focused sedans.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -16136,10 +16498,19 @@
           ],
           "location": "Review notes by Wong, Lingeman and colleagues",
           "applicability": "partial"
+        },
+        {
+          "id": "camry-ze5-shudder",
+          "sourceIds": [
+            "toy-camry-ze5"
+          ],
+          "location": "POL14-10 pages 1–2: condition, covered vehicles, remedy and warranty operation.",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "camry-le-test"
+        "camry-le-test",
+        "toy-camry-ze5"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -16152,10 +16523,10 @@
       "reason": "This identity spans the 2015 restyle; the 2012 reference alone cannot support one shared editorial aesthetics tier.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -16166,10 +16537,19 @@
           ],
           "location": "Review notes by Wong, Lingeman and colleagues",
           "applicability": "partial"
+        },
+        {
+          "id": "camry-ze5-shudder",
+          "sourceIds": [
+            "toy-camry-ze5"
+          ],
+          "location": "POL14-10 pages 1–2: condition, covered vehicles, remedy and warranty operation.",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "camry-le-test"
+        "camry-le-test",
+        "toy-camry-ze5"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -16559,13 +16939,13 @@
       "oldScore": 70,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -16584,9 +16964,19 @@
           ],
           "location": "Dealer letter: condition and remedy",
           "applicability": "partial"
+        },
+        {
+          "id": "corolla-jsd-remedy",
+          "sourceIds": [
+            "toy-cvt-jsd-remedy"
+          ],
+          "location": "August 2, 2018 memo: covered models, condition, remedy and warranty reimbursement table.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "toy-cvt-jsd-remedy"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -16595,13 +16985,13 @@
       "oldScore": 75,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -16620,9 +17010,19 @@
           ],
           "location": "Dealer letter: condition and remedy",
           "applicability": "partial"
+        },
+        {
+          "id": "corolla-jsd-remedy",
+          "sourceIds": [
+            "toy-cvt-jsd-remedy"
+          ],
+          "location": "August 2, 2018 memo: covered models, condition, remedy and warranty reimbursement table.",
+          "applicability": "partial"
         }
       ],
-      "newlyUsedSourceIds": [],
+      "newlyUsedSourceIds": [
+        "toy-cvt-jsd-remedy"
+      ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
     {
@@ -16634,10 +17034,10 @@
       "reason": "Agreeable, modest involvement fits 50. Tied with Camry without a CVT penalty or brand default.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -16656,10 +17056,19 @@
           ],
           "location": "Dealer letter: condition and remedy",
           "applicability": "partial"
+        },
+        {
+          "id": "corolla-jsd-remedy",
+          "sourceIds": [
+            "toy-cvt-jsd-remedy"
+          ],
+          "location": "August 2, 2018 memo: covered models, condition, remedy and warranty reimbursement table.",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "toy-cvt-jsd"
+        "toy-cvt-jsd",
+        "toy-cvt-jsd-remedy"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -16672,10 +17081,10 @@
       "reason": "The conventional sedan outline has limited visual identity to this assessor; sharper details do not establish a distinct higher tier. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -16694,10 +17103,19 @@
           ],
           "location": "Dealer letter: condition and remedy",
           "applicability": "partial"
+        },
+        {
+          "id": "corolla-jsd-remedy",
+          "sourceIds": [
+            "toy-cvt-jsd-remedy"
+          ],
+          "location": "August 2, 2018 memo: covered models, condition, remedy and warranty reimbursement table.",
+          "applicability": "partial"
         }
       ],
       "newlyUsedSourceIds": [
-        "toy-cvt-jsd"
+        "toy-cvt-jsd",
+        "toy-cvt-jsd-remedy"
       ],
       "note": "Inspected evidence includes this review’s coverage and limitations; a newly used source is not necessarily newly published. The baseline preserves the full previous rationale and citations."
     },
@@ -17163,13 +17581,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17193,13 +17611,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17226,10 +17644,10 @@
       "reason": "Rewarding balance with road-use compromises fits 80. The available comparison does not justify small early/late or turbo/base differences.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17256,10 +17674,10 @@
       "reason": "The low mid-engine outline has a clear identity; broad body and period details leave reservations. No fine ordering among these variants is justified. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17283,13 +17701,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17313,13 +17731,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17346,10 +17764,10 @@
       "reason": "Rewarding balance with road-use compromises fits 80. The available comparison does not justify small early/late or turbo/base differences.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17376,10 +17794,10 @@
       "reason": "The low mid-engine outline has a clear identity; broad body and period details leave reservations. No fine ordering among these variants is justified. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17403,13 +17821,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17442,13 +17860,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17484,10 +17902,10 @@
       "reason": "Rewarding balance with road-use compromises fits 80. The available comparison does not justify small early/late or turbo/base differences.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17522,10 +17940,10 @@
       "reason": "The low mid-engine outline has a clear identity; broad body and period details leave reservations. No fine ordering among these variants is justified. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17557,13 +17975,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17596,13 +18014,13 @@
       "oldScore": null,
       "newScore": null,
       "change": "unchanged value",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17638,10 +18056,10 @@
       "reason": "Rewarding balance with road-use compromises fits 80. The available comparison does not justify small early/late or turbo/base differences.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17676,10 +18094,10 @@
       "reason": "The low mid-engine outline has a clear identity; broad body and period details leave reservations. No fine ordering among these variants is justified. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17711,13 +18129,13 @@
       "oldScore": 65,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17739,13 +18157,13 @@
       "oldScore": 60,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17770,10 +18188,10 @@
       "reason": "Balance and responsiveness fit 80; limited steering feedback prevents a benchmark claim. No engine-power bonus is applied.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17798,10 +18216,10 @@
       "reason": "The compact open body is appealing, but tall lamps and short overhangs make the proportions less settled to this assessor. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17823,13 +18241,13 @@
       "oldScore": 65,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "reason": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17851,13 +18269,13 @@
       "oldScore": 60,
       "newScore": null,
       "change": "withdrawn unsupported number",
-      "reason": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "reason": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17882,10 +18300,10 @@
       "reason": "The U.S. five-speed identity is supported, but the early drive and late SMT tests do not establish the facelift manual’s tier.",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [
@@ -17910,10 +18328,10 @@
       "reason": "Compact open-body proportions remain mixed; revised lamps do not justify a tier above the early Spyder. Assessor taste, not a factual conclusion or a vote.",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
-      "assessmentDate": "2026-11-13",
+      "assessmentDate": "2026-11-14",
       "reviewStatus": "ai-reviewed",
       "rubricVersion": "2.0.0",
       "inspectedEvidence": [

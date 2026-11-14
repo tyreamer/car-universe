@@ -131,14 +131,14 @@
       "not-reviewed": 180
     }
   },
-  "sources": 210,
+  "sources": 217,
   "sourcesByType": {
     "government dataset": 1,
-    "manufacturer": 87,
+    "manufacturer": 89,
     "photograph": 2,
     "road test": 100,
-    "service bulletin": 6,
-    "specialist": 14
+    "service bulletin": 9,
+    "specialist": 16
   },
   "sourceRows": 797,
   "fullyCurated": 0,
@@ -391,7 +391,8 @@
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
         "Reacquire bearing bulletin (403) and carrier-support instructions (404); retained claims are not freshly confirmed.",
-        "Complete cooling, transmission, structural and VANOS review against a matched reference."
+        "Complete cooling, transmission, structural and VANOS review against a matched reference.",
+        "Reacquire original BMW bearing and rear-carrier bulletins; check production scope and cause before promoting search excerpts. Obtain documented VANOS/valve-service guidance and consistent parts/labor arithmetic."
       ]
     },
     {
@@ -534,7 +535,9 @@
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-        "Find LFX manual road test, visual reference and service/cost review matched to LS3."
+        "Find LFX manual road test, visual reference and service/cost review matched to LS3.",
+        "Find Camaro-specific clutch hydraulics evidence and matched repair scope; do not reuse Corvette 14717. Verify differential bulletin PI0137E applicability before adding its claim.",
+        "Obtain a first-hand U.S. LFX six-speed manual evaluation covering all six driving aspects; LLT/automatic reviews and isolated owner shift complaints are insufficient."
       ]
     },
     {
@@ -553,7 +556,8 @@
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-        "Collect LS3 transmission, cooling, electrical and corrosion evidence; do not import L99/AFM claims."
+        "Collect LS3 transmission, cooling, electrical and corrosion evidence; do not import L99/AFM claims.",
+        "Find Camaro-specific clutch hydraulics evidence and matched repair scope; do not reuse Corvette 14717. Verify differential bulletin PI0137E applicability before adding its claim."
       ]
     },
     {
@@ -1087,7 +1091,8 @@
         "Review design evidence for this configuration.",
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Complete engine, gearbox internals, cooling, electrical and body structure coverage; distinguish salt-belt driveshaft exposure from universal Fit risk."
       ]
     },
     {
@@ -1121,7 +1126,8 @@
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-        "Substantiate oil, over-rev, gearbox, cooling, electrical and corrosion risks without reputation-based assumptions."
+        "Substantiate oil, over-rev, gearbox, cooling, electrical and corrosion risks without reputation-based assumptions.",
+        "Trace the asserted oil-jet/banjo-bolt production change to applicable Honda documentation; obtain installed quotes only with documented parts, labor and scope."
       ]
     },
     {
@@ -1306,7 +1312,8 @@
         "Review mechanical cost evidence for this configuration.",
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Obtain the same five-system and six-cost-scope evidence as the reference cars; avoid assigning a high tier from a missing adverse report."
       ]
     },
     {
@@ -1326,7 +1333,8 @@
       "tasks": [
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Use an applicable factory maintenance schedule for belt intervals; assess all five systems on the same basis as NC and Fit rather than deriving longevity from age alone."
       ]
     },
     {
@@ -1383,7 +1391,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Complete engine, gearbox, electrical and structure evidence alongside cooling coverage; absence of identified flaws is not a high-reliability measurement."
       ]
     },
     {
@@ -1401,7 +1410,8 @@
         "Review durability evidence for this configuration.",
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Obtain dated U.S. stock gearbox revisions and applicable field evidence; a competition gearset product is not evidence that all factory ND2 gearbox risk was eliminated."
       ]
     },
     {
@@ -1809,7 +1819,8 @@
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-        "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
+        "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets.",
+        "Resolve factory versus specialist belt intervals by model year and usage; obtain comparable base/Turbo clutch quotes with parts, hours, rate, region and date."
       ]
     },
     {
@@ -1845,7 +1856,8 @@
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-        "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
+        "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets.",
+        "Resolve factory versus specialist belt intervals by model year and usage; obtain comparable base/Turbo clutch quotes with parts, hours, rate, region and date."
       ]
     },
     {
@@ -1866,7 +1878,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Verify fitted bearing and replacement-engine identity; inspect underlying cohort/denominator before using failure percentages. Obtain a dated 2.5-manual parts/labor quote, separating clutch and RMS extras."
       ]
     },
     {
@@ -2036,7 +2049,8 @@
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-        "Review 2015–2017 design and SE/base suspension coverage while retaining the identity."
+        "Review 2015–2017 design and SE/base suspension coverage while retaining the identity.",
+        "Obtain independent-shop converter parts/labor quotes and equivalent 2015–2017 coverage; inspect both exterior eras before assigning a catalog-wide aesthetics tier."
       ]
     },
     {
@@ -2101,7 +2115,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Separate JSD diagnostic outcomes and campaign completion from current retail costs; obtain equivalent engine, cooling, electrical and structure coverage across 2014–2019."
       ]
     },
     {
@@ -2173,7 +2188,8 @@
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs.",
+        "Trace submitted coolant-pipe, steering-relay and transmission claims to applicable passages and years. Resolve the asserted ride-height and taillight change dates before treating them as comparative facts."
       ]
     },
     {
@@ -2187,7 +2203,8 @@
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs.",
+        "Trace submitted coolant-pipe, steering-relay and transmission claims to applicable passages and years. Resolve the asserted ride-height and taillight change dates before treating them as comparative facts."
       ]
     },
     {
@@ -2199,7 +2216,8 @@
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs.",
+        "Trace submitted coolant-pipe, steering-relay and transmission claims to applicable passages and years. Resolve the asserted ride-height and taillight change dates before treating them as comparative facts."
       ]
     },
     {
@@ -2211,7 +2229,8 @@
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs."
+        "Locate exact 5S-FE manual test years and separately priced NA/Turbo maintenance inputs.",
+        "Trace submitted coolant-pipe, steering-relay and transmission claims to applicable passages and years. Resolve the asserted ride-height and taillight change dates before treating them as comparative facts."
       ]
     },
     {
@@ -2220,7 +2239,8 @@
         "Complete missing factory specifications and applicable test-weight measurements.",
         "Complete variant-specific maintenance, parts availability and consequential failure research.",
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
-        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate."
+        "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
+        "Find U.S. Spyder-specific oil-consumption/pre-catalyst documents, engine/VIN production cutoffs and incidence evidence if available; do not transfer UK Corolla Verso claims or assume a guaranteed preventive modification."
       ]
     },
     {
@@ -2231,7 +2251,8 @@
         "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
         "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
         "Find firsthand U.S. 2003–2005 five-speed evaluation; do not substitute UK six-speed or SMT.",
-        "Recheck catalyst/oil-consumption mechanisms and any production cutoff using original technical evidence."
+        "Recheck catalyst/oil-consumption mechanisms and any production cutoff using original technical evidence.",
+        "Find U.S. Spyder-specific oil-consumption/pre-catalyst documents, engine/VIN production cutoffs and incidence evidence if available; do not transfer UK Corolla Verso claims or assume a guaranteed preventive modification."
       ]
     },
     {

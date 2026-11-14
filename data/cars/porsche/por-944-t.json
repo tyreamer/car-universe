@@ -110,7 +110,7 @@
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after a common five-system review: the material does not support a whole-platform tier relative to this cohort.",
+      "rationale": "Remains unrated after reviewing the submitted research: accepted mechanisms are scoped, and comparable engine, transmission, cooling, electrical and structure coverage remains incomplete. Age and campaign scope do not establish incidence or whole-car ordering.",
       "evidence": [
         {
           "text": "Period driving assessment of 944 Turbo.",
@@ -135,6 +135,12 @@
           "sourceIds": [
             "por-transaxle"
           ]
+        },
+        {
+          "text": "Clark’s Garage ENG-04 lists 45,000-mile belt replacement and separate inspection/retension guidance.",
+          "sourceIds": [
+            "por-944-belt"
+          ]
         }
       ],
       "sourceIds": [
@@ -143,11 +149,11 @@
         "por-944-buy",
         "por-transaxle"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -155,13 +161,15 @@
       "uncertainties": [
         "System coverage, incidence and residual risk remain incomplete."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "The submission converts a 48,000 km citation into 48,000 miles and asserts a universal four-year interval; inspected Clark’s ENG-04 instead lists 45,000-mile replacement plus separate low-mileage inspections."
+      ]
     },
     "ownershipCost": {
       "value": null,
       "confidence": "unrated",
       "methodology": "provisional",
-      "rationale": "Withheld after the same six-part upkeep checklist: mechanisms or a service schedule alone do not establish comparative running cost.",
+      "rationale": "Remains unrated: the submission does not provide comparable scheduled, consumable, repair, age-renewal and major-failure inputs under the U.S. 3,000-mile/year independent-shop scenario. Acquisition catch-up remains separate; any listed parts-only scenario is not annual expenditure.",
       "evidence": [
         {
           "text": "Period driving assessment of 944 Turbo.",
@@ -186,6 +194,12 @@
           "sourceIds": [
             "por-transaxle"
           ]
+        },
+        {
+          "text": "Clark’s Garage ENG-04 lists 45,000-mile belt replacement and separate inspection/retension guidance.",
+          "sourceIds": [
+            "por-944-belt"
+          ]
         }
       ],
       "sourceIds": [
@@ -194,11 +208,11 @@
         "por-944-buy",
         "por-transaxle"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -206,7 +220,9 @@
       "uncertainties": [
         "No matched independent-shop parts/labor basket or representative repair exposure."
       ],
-      "conflictingEvidence": []
+      "conflictingEvidence": [
+        "The submission converts a 48,000 km citation into 48,000 miles and asserts a universal four-year interval; inspected Clark’s ENG-04 instead lists 45,000-mile replacement plus separate low-mileage inspections."
+      ]
     },
     "drivingEnjoyment": {
       "value": 80,
@@ -225,11 +241,11 @@
         "por-944-t-road",
         "por-transaxle"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "evidence-informed editorial",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -248,7 +264,7 @@
           "decisionIds": [
             "transaxle"
           ],
-          "rationale": "Tie: response and turbo speed trade off; the direct comparison uses a later base car."
+          "rationale": "Tie: response and turbo speed trade off; the direct comparison uses a later base car. Submission review: Turbo speed and base-car response remain preference tradeoffs. The retained direct comparison does not establish a broad Turbo enjoyment advantage."
         }
       },
       "uncertainties": [
@@ -275,11 +291,11 @@
         "por-944-buy",
         "por-transaxle"
       ],
-      "reviewedAt": "2026-11-13",
+      "reviewedAt": "2026-11-14",
       "methodologyVersion": "2.0.0",
       "assessmentType": "editorial taste",
       "assessor": {
-        "id": "Codex initial calibration review",
+        "id": "Codex submitted research review",
         "type": "ai"
       },
       "reviewStatus": "ai-reviewed",
@@ -298,7 +314,7 @@
           "decisionIds": [
             "transaxle"
           ],
-          "rationale": "Tie: Turbo nose preference does not justify a separate tier."
+          "rationale": "Tie: Turbo nose preference does not justify a separate tier. Submission review: A smoother bumper is an observation; calling it more modern does not establish a higher beauty tier."
         }
       },
       "uncertainties": [
@@ -378,7 +394,8 @@
       "Complete variant-specific maintenance, parts availability and consequential failure research.",
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
       "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-      "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
+      "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets.",
+      "Resolve factory versus specialist belt intervals by model year and usage; obtain comparable base/Turbo clutch quotes with parts, hours, rate, region and date."
     ]
   },
   "evidenceLedger": [
@@ -437,14 +454,42 @@
         "id": "Codex initial calibration review",
         "type": "ai"
       }
+    },
+    {
+      "id": "944-belt-interval-boundary",
+      "claim": "Clark’s Garage ENG-04 lists 45,000-mile belt replacement and separate inspection/retension guidance.",
+      "sourceIds": [
+        "por-944-belt"
+      ],
+      "location": "ENG-04 maintenance table and low-mileage discussion.",
+      "establishes": "The specialist recommends low-mileage belt inspection after two years and annually thereafter; model-specific tensioner parts differ.",
+      "doesNotEstablish": "A universal four-year/48,000-mile factory interval, a whole-car longevity ranking or a priced annual belt reserve.",
+      "applicability": {
+        "configuration": "por-944-t",
+        "generation": "951",
+        "engineCode": null,
+        "transmission": "Manual",
+        "market": "US",
+        "years": {
+          "from": 1986,
+          "to": 1987
+        },
+        "status": "partial",
+        "limitations": "Specialist guidance mixes stated factory recommendations with personal experience. Confirm the applicable factory schedule and current parts guidance; do not turn kilometers into miles."
+      },
+      "inspectedAt": "2026-11-14",
+      "inspectedBy": {
+        "id": "Codex submitted research review",
+        "type": "ai"
+      }
     }
   ],
   "assessmentReview": {
     "assessor": {
-      "id": "Codex initial calibration review",
+      "id": "Codex submitted research review",
       "type": "ai"
     },
-    "assessedAt": "2026-11-13",
+    "assessedAt": "2026-11-14",
     "status": "ai-reviewed",
     "systems": {
       "engine": {
@@ -478,9 +523,10 @@
     "costs": {
       "scheduled": {
         "status": "limited",
-        "note": "Belt service documented; calendar use matters.",
+        "note": "Service guidance documents intervals and inspections, but the submitted four-year/48,000-mile rule is not supported here; no priced common service basket.",
         "evidenceIds": [
-          "944-belts"
+          "944-belts",
+          "944-belt-interval-boundary"
         ]
       },
       "consumables": {
@@ -555,8 +601,11 @@
     "unresolved": [
       "Complete comparable engine, transmission, cooling, electrical and structural coverage.",
       "Obtain matched scheduled, consumable, repair and age-renewal inputs; keep acquisition catch-up separate.",
-      "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets."
+      "Match cooling, clutch/transaxle, electrical and corrosion research on base and Turbo; obtain comparable service baskets.",
+      "Resolve factory versus specialist belt intervals by model year and usage; obtain comparable base/Turbo clutch quotes with parts, hours, rate, region and date."
     ],
-    "conflicts": []
+    "conflicts": [
+      "The submission converts a 48,000 km citation into 48,000 miles and asserts a universal four-year interval; inspected Clark’s ENG-04 instead lists 45,000-mile replacement plus separate low-mileage inspections."
+    ]
   }
 }

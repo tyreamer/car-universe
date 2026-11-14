@@ -3,14 +3,17 @@ import { loadCatalog, readJson, summarizeCatalog } from './catalog'
 import { validateCalibration } from './calibration'
 import { changeMarkdown, ratingChanges, researchQueue } from './reports'
 import type { Baseline } from './reports'
+import { researchReviewMarkdown, validateResearchReview } from './research-review'
 
 const catalog = loadCatalog()
 const calibration = validateCalibration(catalog.vehicles, readJson('data/calibration-decisions.json'))
 const baseline = readJson('data/assessment-baseline.json') as Baseline
 const changes = ratingChanges(catalog.vehicles, baseline)
 const queue = researchQueue(catalog.vehicles)
+const submittedReview = validateResearchReview(readJson('data/research-reviews/2026-11-14.json'), catalog.vehicles, catalog.sources, calibration)
 const json = (value: unknown) => JSON.stringify(value, null, 2) + '\n'
 const files = new Map([
+  ['docs/RESEARCH_UPDATE_2026-11-14.md', researchReviewMarkdown(submittedReview)],
   ['docs/scoring-audit.json', json({ rubricVersion: calibration.version, reviewStatus: calibration.reviewStatus, pairs: calibration.pairs, note: 'Reviewed decisions and evidence fingerprints are checked. Gap size is not a credibility test. Unknown is not a tie. Source truth needs substantive review.' })],
   ['docs/rating-changes.json', json({ baselineCommit: baseline.commit, coverage: summarizeCatalog(catalog), changes })],
   ['docs/RATING_CHANGES.md', changeMarkdown(changes, baseline, calibration)],

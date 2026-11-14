@@ -4,6 +4,8 @@ A static React and TypeScript catalog of 200 vehicle configurations. Search the 
 
 The evidence correction is provisional: 20 configurations have a new AI source review, with no independent human approval. Unsupported legacy numbers are archived. Longevity and Low upkeep are currently null, so the default map is empty; explicitly choose driving/design to explore the 17 cars with both assessments. See [the correction report](docs/CORRECTION_REPORT.md).
 
+The [November 14 submitted-research review](docs/RESEARCH_UPDATE_2026-11-14.md) adds scoped mechanisms, remedies and one parts-only price basket. All 14 comparisons were reconsidered; no new numerical ordering was supported. The submission, acceptance/rejection reasons and all 80 cohort before/after values are preserved. See [release checks](docs/RESEARCH_RELEASE_2026-11-14.md).
+
 ## Run locally
 
 Use Node.js 24 LTS or a compatible version listed in `package.json`.
@@ -25,6 +27,7 @@ Vite prints the local address. Build and serve the production bundle with `npm r
 - `data/sources.json` holds provenance and coverage limitations. `data/epa-evidence.json` retains the selected original EPA rows and their IDs.
 - `data/scoring-rubric.json` holds versioned anchors and the reference ownership scenario.
 - `data/assessment-baseline.json` preserves the original assessments; do not overwrite it. `data/calibration-decisions.json` holds reviewed comparisons and fingerprints. See [schema and change control](docs/SCHEMA_V2.md).
+- `data/research-reviews/` preserves incremental research receipts and archived-submission hashes. The current receipt is checked by `audit:scores`; add a new dated receipt and select it there for a future review instead of rewriting historical receipts.
 - `npm run validate:data` regenerates the [coverage report](docs/DATA_COVERAGE.md) and per-record [follow-up report](docs/data-quality.json). `npm run audit:scores` regenerates [calibration comparisons](docs/scoring-audit.json).
 - `npm run build` validates the data, compiles a lightweight index and emits one same-origin static profile asset per vehicle. The app has no runtime API dependency.
 
@@ -39,6 +42,7 @@ For browser checks, serve `npm run preview -- --host 127.0.0.1 --port 4173` afte
 ```sh
 npx --yes --package @playwright/cli playwright-cli -s=car-review open http://127.0.0.1:4173
 npx --yes --package @playwright/cli playwright-cli -s=car-review run-code --filename scripts/browser-checks.js
+npx --yes --package @playwright/cli playwright-cli -s=car-review run-code --filename scripts/research-browser-checks.js
 ```
 
 Screenshots are written to `output/playwright/`. The fixture values are synthetic and never enter the catalog. The production app has no Playwright runtime dependency. Visually inspect screenshots as well as test results; then use [the substantive checklist](docs/SUBSTANTIVE_REVIEW.md). This correction branch is for owner review, not automatic deployment.
